@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Arodus 5 split-scene log
 - Scope: Wormwood / Man's Promise lower-crew NPC, current Bonewrack fork participant
 
 ## Overview
@@ -13,6 +13,8 @@ Shivikah is a very tall Mwangi ex-slaver and lower-crew pirate who begins hostil
 At the relaunch point, she is with Rak Wraithraiser, Slippery Syl Lonegan, and Jaundiced Jape on Bonewrack Isle.
 
 She matters because she may be more movable than Syl or Jape. Her immediate reactions at the fork could influence whether Rak's group becomes a fight, standoff, or unstable negotiation.
+
+The Arodus 5 log strengthens this: Shivikah dives in to help Rak during the frog fight and later looks nervous during Syl's confrontation with Rak.
 
 ## Identity
 
@@ -55,9 +57,17 @@ Shivikah transferred to the Man's Promise prize crew and remained within the Plu
 
 Shivikah is currently with Rak's supply party on Bonewrack Isle.
 
-During the island travel, she showed enough practical action to help in danger rather than simply sabotage the mission. She helped Rak during the frog/mire sequence in the recovered log context.
+During the broken bridge / frog sequence, Shivikah dives into the water to help Rak and stabs the frog attacking him.
 
-This does not make her an ally, but it means she can respond to circumstances instead of serving as a fixed villain.
+Later, she cuts the frog's tongue loose from Rak and lets the frog fall into the mire.
+
+After helping him, she sneers that she expected a little more from him.
+
+This does not make her an ally, but it proves she can act practically in danger rather than simply sabotage the mission.
+
+During Syl's later confrontation with Rak near the cornfield, Shivikah looks nervous.
+
+That nervousness matters because it suggests Syl's dominance is not invisible to the rest of the party.
 
 ## Relationships
 
@@ -67,13 +77,15 @@ Rak is her current guide through Bonewrack.
 
 She may distrust him, but his island knowledge is valuable.
 
-If Rak handles danger competently, Shivikah may reassess him pragmatically.
+She physically helps Rak during the frog fight, then judges him for needing help.
+
+If Rak handles later danger competently, Shivikah may reassess him pragmatically.
 
 ### Slippery Syl Lonegan
 
-Syl is the more openly volatile presence in the moving group.
+Syl is the more openly volatile presence and the assigned leader of the moving group.
 
-Shivikah may follow Syl, resist her, or wait to see which side survives.
+Shivikah follows Syl's command, but her nervousness during Syl's confrontation with Rak suggests she may not be fully comfortable with how far Syl might escalate.
 
 ### Jaundiced Jape
 
@@ -89,11 +101,12 @@ The survival of Goyle and Sandara changes the information environment.
 
 ## Current State
 
-- Location: Bonewrack Isle, near the fork route
+- Location: Bonewrack Isle, near the fork route after passing Coconut Beach
 - Companions: Rak, Slippery Syl, Jaundiced Jape
-- Not with group: Fipps, currently at the beach
+- Not with group: Fipps, ordered by Syl to remain at Coconut Beach
 - Immediate objective: Recover food and water / survive island travel
 - Immediate pressure: Possible collision with Harvus' rescued group
+- Relevant condition: Participated in the frog fight and forced march; exact injury state unknown
 
 ## Campaign Function at Relaunch
 
@@ -123,7 +136,7 @@ Shivikah may:
 
 ## Open Questions
 
-- What is Shivikah's exact attitude toward Rak after the island hazards?
+- What is Shivikah's exact attitude toward Rak after he needed help at the bridge but kept the group moving?
 - Does she respect strength, survival, profit, or command most?
 - Does she know Sho was beaten and locked up?
 - Does she know Goyle was pushed overboard by Plugg?
