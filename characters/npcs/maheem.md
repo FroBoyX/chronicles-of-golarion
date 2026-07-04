@@ -3,14 +3,16 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
-- Scope: Hostile lower-crew rigger, Harvus abduction witness, placement unresolved
+- Maturity: Draft, expanded with Rak player-sheet evidence
+- Scope: Hostile lower-crew rigger, Harvus abduction witness, Rak kill-list target, placement unresolved
 
 ## Overview
 
 Maheem is a large Rahadoumi sailor with a permanent scowl and a hostile posture toward the PCs.
 
 He matters because he was part of the social environment around Harvus' press-ganging and later confirmed to Harvus that Scourge was responsible for damaging his wing.
+
+He also matters to Rak: Rak's player sheet lists Maheem under "kill if a moment arises."
 
 His current placement is unresolved: evidence may place him either aboard the Man's Promise or remaining on the Wormwood.
 
@@ -23,6 +25,7 @@ His current placement is unresolved: evidence may place him either aboard the Ma
 - Baseline alignment: Lawful Neutral
 - Current location: Unresolved — Man's Promise or Wormwood
 - Current status: Presumed alive
+- Rak sheet evidence: Kill-if-a-moment-arises target
 
 ## Baseline Adventure Path Role
 
@@ -37,6 +40,8 @@ Maheem is important because he connects Harvus' current vengeance to direct ship
 He told Harvus that Scourge had been the one who twisted or damaged his wing after Harvus was taken.
 
 This makes Maheem part of Harvus' truth chain.
+
+Rak's sheet adds a second personal hostility thread: Rak is willing to kill Maheem if the opportunity arises.
 
 ## Campaign History
 
@@ -58,7 +63,7 @@ Maheem's current placement needs confirmation.
 
 Some context suggests he transferred to the Man's Promise; other context may suggest he remained aboard the Wormwood.
 
-This matters because if he is aboard the Man's Promise, he may become part of the hostile faction during the return.
+This matters because if he is aboard the Man's Promise, he may become part of the hostile faction during the return and may trigger Rak's kill-list thread.
 
 ## Relationships
 
@@ -67,6 +72,14 @@ This matters because if he is aboard the Man's Promise, he may become part of th
 Maheem gave Harvus important information about Scourge's role in the wing injury.
 
 Harvus may not like Maheem, but Maheem's information shaped Harvus' vendetta.
+
+### Rak Wraithraiser / Wraithriser
+
+Rak's Foundry notes place Maheem on his "kill if a moment arises" list.
+
+The reason is not yet confirmed.
+
+It may be tied to Maheem's involvement in Harvus' abduction, direct conflict with Rak, general hostility, or another unrecorded player-facing grievance.
 
 ### Master Scourge
 
@@ -86,18 +99,22 @@ This should be confirmed and expanded if logs support it.
 - Status: Presumed alive
 - Political state: Hostile or hostile-leaning
 - Practical role: Rigger / sailor
+- Personal risk: Rak may kill him if an opportunity arises
 
 ## Campaign Function at Relaunch
 
 If Maheem is aboard the Man's Promise, he can intensify Harvus' Scourge thread by being present as a witness or provocateur.
 
-If he remained on the Wormwood, he becomes a future Harrigan-side witness to Harvus' origin wound.
+He can also intensify Rak's violence thread because Rak has already marked him as a conditional target.
+
+If he remained on the Wormwood, he becomes a future Harrigan-side witness and Rak/Harvus hostility hook.
 
 ## Open Questions
 
 - Is Maheem aboard the Man's Promise or the Wormwood?
 - Did he participate directly in Harvus' abduction?
 - Why did he tell Harvus about Scourge and the wing?
+- Why does Rak want to kill Maheem if a moment arises?
 - What is Maheem's current attitude toward Harvus?
 - What is Maheem's current attitude toward Sho?
 - Would Maheem fight for Scourge if present?
