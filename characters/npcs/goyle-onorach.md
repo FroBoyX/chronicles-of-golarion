@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log
+- Maturity: Draft, expanded with Arodus 5 split-scene log and Sho PCGen evidence
 - Scope: Man's Promise survivor, rescued captive, anti-Plugg witness
 
 ## Overview
@@ -14,11 +14,14 @@ His survival matters because he is not only another rescued prisoner. He is a wi
 
 He can testify to Plugg's dishonor, Plugg's use of the tidewater cutlass, and the plan to eliminate troublesome PCs.
 
+Sho's PCGen notes state that Goyle used to be quartermaster of the Man's Promise.
+
 ## Identity
 
 - Name: Goyle Onórach
 - Type: NPC
 - Origin: Man's Promise crew
+- Pre-capture role evidence: Former quartermaster of the Man's Promise, per Sho's notes
 - Baseline temperament: Gruff, honor-conscious, sailorly
 - Current location: Bonewrack Isle, returning from Riptide Cove
 - Current status: Alive, rescued
@@ -32,11 +35,17 @@ He gives the PCs a living Man's Promise witness who can oppose Plugg without nec
 
 His worldview appears more honor-bound than sentimental.
 
+His quartermaster role, if confirmed, gives him practical and political weight among Man's Promise survivors.
+
 ## Pre-Capture Role
 
 Goyle served aboard the Man's Promise before the Wormwood captured it.
 
-Recovered context suggests he may have had a quartermaster or practical shipboard role, but this should be confirmed.
+Sho's PCGen notes explicitly state:
+
+> Goyle used to be Quartermaster of the Man's Promise.
+
+This should be treated as strong player-sheet evidence, pending final GM/player confirmation.
 
 ## Capture
 
@@ -69,6 +78,8 @@ He describes this as an ambush and says some of the PCs were considered more tro
 This makes him politically dangerous to Plugg.
 
 If he speaks in front of neutral or hostile sailors, he may shift the legitimacy question from rumor to testimony.
+
+If his quartermaster status is confirmed, his testimony may carry more weight among surviving Man's Promise crew.
 
 ## Post-Rescue Conversation
 
@@ -122,9 +133,17 @@ Plugg's use of the tidewater cutlass to push him overboard is a critical event.
 
 Goyle's warning implicates Scourge in the plan to kill or eliminate troublesome PCs.
 
+### Sho Astor
+
+Sho's notes preserve Goyle's former quartermaster role.
+
+Sho may therefore view Goyle as more than a generic Man's Promise survivor.
+
 ### Man's Promise Survivors
 
 Goyle can become a rally point for surviving Man's Promise crew, especially if they distrust both Plugg and the PCs.
+
+His former quartermaster role may increase that function.
 
 ## Current State
 
@@ -133,6 +152,7 @@ Goyle can become a rally point for surviving Man's Promise crew, especially if t
 - Condition: Exhausted, coughing, angry, but able to move; exact injury state needs confirmation
 - Immediate leverage: Can expose Plugg's plan and Plugg's direct role in his capture
 - Current declared stance: Casts his lot with Harvus' group
+- Political weight: Former Man's Promise quartermaster if Sho's notes are confirmed
 
 ## Campaign Function at Relaunch
 
@@ -145,6 +165,7 @@ If the ship's future is debated, Goyle's voice can represent:
 - honor,
 - shipboard legitimacy,
 - survivor anger,
+- quartermaster practical authority,
 - and distrust of pirate opportunism.
 
 ## Possible Stances After Return
@@ -159,7 +180,8 @@ Goyle may support:
 
 ## Open Questions
 
-- Was Goyle officially or functionally quartermaster aboard the Man's Promise?
+- Confirm whether Goyle was officially quartermaster of the Man's Promise.
+- What authority did quartermaster status give him among the Man's Promise crew?
 - What is Goyle's exact relationship with Tilly beyond her saying he helped her through the last day?
 - Does Goyle owe Harvus a formal honor debt in his own mind?
 - Does Goyle distinguish between the PCs and the rest of the Wormwood pirates?
