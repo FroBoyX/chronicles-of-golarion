@@ -3,9 +3,9 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Harvus light timeline evidence
 - Scope: Major ally, Besmaran priestess, emotional center of Book One
-- Source basis: Recovered Adventure Path material, Obsidian material, player journals, chat logs, and GM clarification
+- Source basis: Recovered Adventure Path material, Obsidian material, player journals, chat logs, GM clarification, and Harvus light timeline notes
 
 ## Overview
 
@@ -32,6 +32,8 @@ Sandara has fiery red hair, smile lines, sailor tattoos, a tricorne hat, and a c
 Her whole appearance speaks of the sea.
 
 She looks like someone not to be crossed, but carries enough warmth and humor to invite trust.
+
+Harvus' early note describes her as gorgeous, for a human woman.
 
 ## Baseline Adventure Path Role
 
@@ -87,6 +89,8 @@ She later maintained a small chapel or devotional presence in Hell Harbor.
 
 Her father died shortly before the campaign, prompting Sandara to take to the sea.
 
+Harvus' notes independently record the Hell Harbor / poor family / streets / sea-life version of this story, meaning this backstory was communicated in play.
+
 ### Press-Ganged
 
 Sandara only made it as far as Port Peril before being taken by Harrigan's press gang and placed aboard the Wormwood.
@@ -96,6 +100,10 @@ Before the campaign opened, Master Scourge made a pass at her. She slapped him a
 ### Early Wormwood
 
 Sandara approached the PCs early as a friend.
+
+She informed them about Bloody Hour.
+
+She returned two items and helped the PCs understand Grok by explaining that Grok was superstitious and liked booze and music.
 
 She helped Mirei recover her harp by convincing Cut-Throat Grok that the harp was cursed by the sea and needed to be played regularly to keep the ship safe.
 
@@ -107,6 +115,14 @@ Harvus quickly admired Sandara, often addressing her with courtly reverence.
 
 Sandara responded with warmth and humor, and over time the relationship became one of the strongest emotional threads of Book One.
 
+Harvus' notes record:
+
+- seeking solace with Sandara after Rosie's loss,
+- being healed by Sandara after a dangerous reef encounter,
+- drinking heavily with Sandara and passing out,
+- aiding Sandara's recovery after the Man's Promise boarding,
+- and kissing / smooching Sandara during the Man's Promise phase.
+
 ### Man's Promise and Bonewrack
 
 Sandara was among the crew transferred to the Man's Promise under Plugg.
@@ -114,6 +130,10 @@ Sandara was among the crew transferred to the Man's Promise under Plugg.
 She noticed or helped identify that the Man's Promise had changed course away from Port Peril.
 
 During the storm near Bonewrack Isle, Sandara was taken by grindylows.
+
+Harvus searched the deck with Rak after Sandara was found missing.
+
+Before the island search, Rak gave Harvus Sandara's holy symbol of Besmara.
 
 Harvus later returned to Riptide Cove with Mirei and rescued her from the Cauldron.
 
@@ -125,6 +145,7 @@ At current reconstruction, Sandara is believed to still have Besmara's tricorne 
 - Status: Alive, rescued, likely injured or recovering
 - Immediate knowledge: Knows she was taken by grindylows and rescued; exact understanding of Plugg's current plan may depend on what Goyle and the others tell her
 - Immediate possessions: Believed to still have Besmara's tricorne, pending player confirmation
+- Immediate open item question: Her holy symbol was given to Harvus by Rak before the island search; confirm whether it has been returned
 - Immediate importance: Her survival can alter crew morale, Harvus' legitimacy, and the political state aboard the Man's Promise
 
 ## Relationships
@@ -137,6 +158,8 @@ This relationship has romantic and mythic weight in the campaign.
 
 Sandara has shown warmth and trust toward him, and the rescue should deepen that bond unless play complicates it.
 
+Their relationship already included comfort, drinking, healing, care after injury, and a kiss before the rescue.
+
 ### Mirei
 
 Sandara helped Mirei recover her harp aboard the Wormwood.
@@ -148,6 +171,8 @@ This reciprocal aid matters for Mirei's trust position after her Plugg assignmen
 ### Rak Wraithraiser
 
 Rak was part of the original attempt into Riptide Cove and helped save the group from disaster.
+
+Rak gave Harvus Sandara's holy symbol before the island search.
 
 Sandara may not yet know the full extent of Rak's actions during Harvus' earlier collapse.
 
@@ -195,6 +220,14 @@ The hat was not treated as a major concern during the immediate rescue. Survival
 
 Current reconstruction holds that Sandara still has it, but this requires player confirmation.
 
+### Holy Symbol of Besmara
+
+Rak gave Harvus Sandara's holy symbol before the island search.
+
+This made Sandara's absence concrete and became a strong emotional motivator for Harvus.
+
+Confirm whether Harvus returned it to Sandara after the rescue.
+
 ## Campaign Function at Relaunch
 
 Sandara's survival gives the post-island crew a living proof of rescue, courage, and Plugg's failure to erase inconvenient people.
@@ -206,6 +239,7 @@ She can interpret pirate custom, Besmara's code, and the moral difference betwee
 ## Open Questions
 
 - Confirm with players whether Sandara still has Besmara's tricorne.
+- Confirm whether Harvus returned Sandara's holy symbol after the rescue.
 - What is her exact physical condition at the fork?
 - How much does she know about Mirei's confession?
 - What does she believe should happen to Plugg and Scourge if they are defeated?
