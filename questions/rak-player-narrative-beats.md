@@ -32,8 +32,8 @@ Short answers are fine. No need to remember exact rules.
 9. Did Rak consider Harvus, Sho, and Mirei his crew by the Bonewrack fork, or just people he had survived with?
 10. What does Rak think of Sho judging his violence during the Man's Promise boarding?
 11. Does Rak have a personal line about killing surrendered, unconscious, or helpless enemies?
-12. What does Rak think of Harvus after Harvus lost the +1 returning spear but used it to save Sandara and kill the Whale?
-13. Does Rak want repayment for the spear, credit in the story, an apology, or is the debt mostly a joke?
+12. How does Rak feel about Harvus having lost the +1 returning spear?
+13. Does Rak want repayment for the spear, an apology, or is the debt mostly a joke?
 14. What does Rak think of Mirei after everything with Plugg and the cave rescue?
 
 ## Friends, Enemies, and Loose Grudges
@@ -49,7 +49,7 @@ Short answers are fine. No need to remember exact rules.
 
 21. At the fork, what is Rak's immediate priority: survive Syl, get supplies, find Harvus/Mirei, rescue Sho, return to the ship, or something else?
 22. If Rak sees Harvus, Mirei, Sandara, Tilly, and Goyle alive, what is his first instinct?
-23. Does Rak understand that the Bonewrack rescue could become a legend, or is he focused on practical survival?
+23. Does Rak think the Bonewrack situation is becoming something bigger than a supply run, or is he focused on practical survival?
 24. What does Rak think the group should do about Plugg and Scourge if they get the upper hand?
 
 ## Ship Future
