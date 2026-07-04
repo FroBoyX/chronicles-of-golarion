@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Harvus light timeline evidence
 - Scope: Lower-crew NPC, possible Man's Promise ally or witness
 
 ## Overview
@@ -23,6 +23,7 @@ Her exact current placement should be confirmed, but she is likely relevant to t
 - Baseline alignment: Chaotic Good
 - Current location: Likely Man's Promise, pending confirmation
 - Current status: Presumed alive
+- Known Harvus attitude: Harvus' light timeline records that he influenced Samms to friendly
 
 ## Baseline Adventure Path Role
 
@@ -38,11 +39,21 @@ Samms is important because she may be one of the lower-crew sailors capable of m
 
 She has observed the PCs under pressure and may have had direct conversations with Harvus about the Man's Promise course change.
 
+Harvus' light timeline indicates that he successfully influenced her to friendly during the Wormwood period.
+
 ## Campaign History
 
 ### Wormwood
 
 Samms served as a rigger aboard the Wormwood.
+
+Harvus' notes record:
+
+- he influenced Samms on one day,
+- then finished influencing Samms the following day,
+- and she became friendly.
+
+This should be reconciled with any recovered influence tracker.
 
 ### Man's Promise
 
@@ -60,7 +71,9 @@ This needs confirmation.
 
 ### Harvus G'ron
 
-Samms may have trusted Harvus enough to discuss the course change or warn him.
+Samms was influenced to friendly by Harvus according to his light timeline.
+
+She may have trusted Harvus enough to discuss the course change or warn him.
 
 This could matter if Harvus returns with rescued witnesses.
 
@@ -81,6 +94,7 @@ If Samms was present when Scourge's group confronted Rak and Sho, her reaction m
 - Location: Likely Man's Promise, pending confirmation
 - Status: Presumed alive
 - Political state: Potentially movable, likely survival-minded and possibly anti-Plugg if given proof and a viable alternative
+- Relationship evidence: Harvus-friendly per Harvus light timeline
 
 ## Campaign Function at Relaunch
 
@@ -91,13 +105,14 @@ She may care most about:
 - whether the ship can sail,
 - whether Plugg will kill people,
 - whether the PCs are competent,
+- whether Harvus and Sandara can be trusted,
 - and whether supporting them is survivable.
 
 ## Open Questions
 
 - Is Samms definitely aboard the Man's Promise?
 - Was she present for the beach confrontation with Rak and Sho?
-- What is her current attitude toward each PC?
+- Does the formal influence tracker confirm friendly status?
 - Does she know Sandara survived?
 - Does she know Sho is locked in the hot-box?
 - Would she support a mutiny if Kroop or Sandara asked?
