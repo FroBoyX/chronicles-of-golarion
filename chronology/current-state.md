@@ -10,7 +10,7 @@ This is the intended cold-open point for relaunch.
 
 **Arodus 5, 4691 AR**
 
-Exact time is under reconstruction from recovered logs. The latest recovered sequence places the Bonewrack fork convergence in the afternoon.
+Recovered timing places the split-scene convergence in the afternoon, with the final fork beat around **2:28pm**, when Rak hears something ahead.
 
 ## Primary Location
 
@@ -28,11 +28,17 @@ Exact time is under reconstruction from recovered logs. The latest recovered seq
 
 This group is returning from the grindylow caves after rescuing Sandara, Tilly, and Goyle.
 
-They are approaching the fork in the jungle path and have heard voices ahead.
+They are approaching the fork in the jungle path and have heard or are about to intersect with voices ahead.
 
 Current reconstruction holds that Sandara likely still has Besmara's tricorne, pending player confirmation.
 
 Harvus used a magical spear from Rak to kill the Whale. The spear was likely lost in the Cauldron pool, pending player confirmation.
+
+Tilly is weak but ambulatory. She says Sandara took the worst of it and that Goyle helped her through the last day of captivity.
+
+Goyle has surfaced alive, casts his lot with Harvus' group, and warns that Plugg and Scourge planned an ambush for the PCs on return.
+
+Mirei has confessed that she was tasked with killing the PCs to prove loyalty, but did not.
 
 ### Bonewrack Isle — Rak Group
 
@@ -43,17 +49,21 @@ Harvus used a magical spear from Rak to kill the Whale. The spear was likely los
 
 Rak is leading or guiding the recovery party sent by Master Scourge to retrieve food and water.
 
-The party is moving through known island hazards toward supplies and is approaching the same fork area.
+The party is moving through known island hazards toward the same fork area.
 
-Fipps Chumlett is not with this moving group. He is at the beach; the reason is currently unclear.
+Scourge explicitly forbade the supply party from stopping at the caverns.
 
-### Bonewrack Isle — Beach
+Syl is the assigned leader and is keeping Rak alive because she needs his route knowledge.
+
+The group has survived the broken bridge / frog fight and passed Coconut Beach.
+
+### Bonewrack Isle — Coconut Beach
 
 - Fipps Chumlett
 
-Fipps is currently at the beach.
+Fipps is currently at Coconut Beach / south beach rendezvous area.
 
-His separation from Rak's moving group is confirmed, but the cause remains under reconstruction.
+His separation from Rak's moving group is now explained: Syl ordered him to remain there because the ship was expected to meet the group there soon.
 
 ### Man's Promise — Sho
 
@@ -64,23 +74,26 @@ Sho is aboard the Man's Promise, having awakened in the hot-box on deck after be
 
 At current reconstruction, Sho is still locked up.
 
-Sho has begun speaking with Kahina Bukekayo, one of the Man's Promise survivors.
+Sho has spoken with Kahina Bukekayo, one of the Man's Promise survivors.
+
+Kahina has issued a life-for-life test: if Sho truly repents, she must be willing to kill Plugg/Scourge or those tormenting them and risk her life. If Sho hesitates when the moment comes, Kahina has threatened to ensure Sho dies for her sins.
 
 ## Immediate Cold Open
 
 The likely relaunch begins with simultaneous split scenes:
 
-1. Harvus and Mirei returning from the successful rescue.
-2. Rak leading the hostile or semi-hostile recovery party through Bonewrack.
-3. Sho imprisoned aboard the Man's Promise and negotiating from captivity.
-4. Fipps separated at the beach.
+1. Harvus and Mirei returning from the successful rescue with Sandara, Tilly, and Goyle.
+2. Rak leading the hostile or semi-hostile recovery party through Bonewrack, with Syl commanding and Jape/Shivikah present.
+3. Sho imprisoned aboard the Man's Promise after accepting Kahina's life-for-life test.
+4. Fipps separated at Coconut Beach, waiting where the ship is expected to meet the supply party.
 
 ## Immediate Threats
 
 - Mr. Plugg's betrayal and attempted consolidation of control.
 - Master Scourge's hostility and planned elimination of troublesome crew.
-- Slippery Syl Lonegan's violent opportunism.
+- Slippery Syl Lonegan's violent opportunism and tactical command of the supply group.
 - Bonewrack Isle's remaining hazards.
+- Fipps at the beach as a loose end near the expected ship rendezvous.
 - The unresolved relationship between the Wormwood loyalists, Man's Promise survivors, and the PCs.
 - The practical risk that no faction has enough reliable sailors to hold or move the ship if the crew fractures too far.
 
@@ -91,7 +104,8 @@ The likely relaunch begins with simultaneous split scenes:
 - Mirei was pressured into serving Plugg and was tasked with proving loyalty by betraying or killing the other PCs.
 - Mirei confessed this after the rescue sequence and did not act on the betrayal order.
 - Goyle overheard that the PCs were expected to be killed or eliminated.
-- Sho has learned from Kahina that some Man's Promise survivors may be willing to act against Plugg and Scourge if Sho proves sincere.
+- Goyle says Plugg blasted him off the ship with the tidewater cutlass and has no honor.
+- Sho has learned from Kahina that some Man's Promise survivors may be willing to act against Plugg and Scourge if Sho proves sincere, but Kahina's test is severe: their lives or Sho's.
 - The Brinebrood Queen survived the collapse of Riptide Cove and has reason to want Harvus dead.
 
 ## Relaunch Constraint
