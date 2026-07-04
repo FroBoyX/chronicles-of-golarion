@@ -1,0 +1,115 @@
+# Owlbear Hartshorn
+
+## Document Status
+
+- Type: NPC dossier
+- Maturity: Draft
+- Scope: Plugg-controlled brute, potential mutiny variable, Man's Promise uncertainty
+
+## Overview
+
+Owlbear Hartshorn is Mr. Plugg's simpleminded "pet" and captive enforcer.
+
+He is dangerous, but not cruel in the same way as Plugg or Scourge. His violence is often directed by others.
+
+In the relaunch state, Owlbear matters because he can change sides depending on prior treatment and current control. He may be a weapon for Plugg, a liability, or a recruitable survivor of abuse.
+
+## Identity
+
+- Name: Owlbear Hartshorn
+- Type: NPC
+- Baseline role: Plugg's kept brute / enforced fighter
+- Current location: Presumed aboard the Man's Promise
+- Current status: Presumed alive
+- Current uncertainty: Exact physical placement needs confirmation
+
+## Appearance and Bearing
+
+Owlbear is a hulking man with meaty fists, slow reactions, and a simpleminded manner.
+
+He was cruelly tarred and feathered by the crew in the past, and his skin still bears signs of that humiliation.
+
+He sometimes clowns or shouts random phrases because the crew laughs when he does.
+
+He likes live crabs and may break shells with his teeth and fingers.
+
+## Baseline Adventure Path Role
+
+The published adventure uses Owlbear as a staged fight arranged by Plugg.
+
+Plugg throws him at a PC for entertainment and cruelty, then escalates by giving Owlbear a club if Owlbear begins losing.
+
+A PC who treats Owlbear with restraint or mercy can earn his friendship.
+
+That friendship can matter during the final mutiny.
+
+## Campaign Role
+
+Owlbear tests whether the PCs can distinguish between threat and victim.
+
+He can hurt people badly, but he is also exploited by Plugg.
+
+Sho's decision to defeat him without killing him is part of her restraint arc.
+
+## Relationship With Plugg
+
+Plugg controls Owlbear through fear, habit, and possession.
+
+Owlbear is often kept chained or positioned where Plugg wants him.
+
+Plugg uses him as:
+
+- intimidation,
+- entertainment,
+- cabin guard,
+- muscle,
+- and proof that Plugg can make people into tools.
+
+## Relationship With Sho
+
+Sho fought Owlbear and refused to kill him.
+
+This may matter if Owlbear recognizes her as someone who hurt him less than Plugg intended.
+
+If a friendship or respect beat was established at the table, that should be confirmed.
+
+## Relationship With the Crew
+
+Many crew members treat Owlbear as a joke, beast, or object.
+
+That treatment shapes how he responds to rare kindness.
+
+## Current State
+
+- Location: Presumed aboard the Man's Promise
+- Status: Alive
+- Placement: Likely under Plugg's control, possibly chained near or inside Plugg's claimed captain's cabin
+- Immediate relevance: Could affect any confrontation aboard the Man's Promise
+
+## Mutiny Variable
+
+Owlbear's role in a confrontation depends on prior treatment and immediate framing.
+
+Possible states:
+
+- fights for Plugg because he is ordered to,
+- hesitates if Sho or another friendly PC addresses him,
+- defends a friend if one was made,
+- panics or becomes confused,
+- is used as a guard rather than active combatant,
+- becomes a post-battle moral question if Plugg falls.
+
+## Campaign Function at Relaunch
+
+Owlbear should not be treated as generic hostile muscle unless prior play confirms no bond was made.
+
+His presence can force players to decide whether their new order reproduces Plugg's use of him or frees him from it.
+
+## Open Questions
+
+- Did Sho gain Owlbear's friendship by backing away or sparing him during the fight?
+- Is Owlbear currently chained in Plugg's cabin, another compartment, or loose under orders?
+- Does Owlbear know Sho is in the hot-box?
+- If Plugg orders him to kill Sho, Harvus, Rak, or Mirei, does he obey immediately?
+- Does Owlbear understand the crew is near mutiny?
+- What happens to Owlbear if Plugg dies or flees?
