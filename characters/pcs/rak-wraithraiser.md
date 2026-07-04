@@ -3,13 +3,21 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log
-- Scope: Book One continuity, current state, and open threads
+- Maturity: Draft, expanded with Arodus 5 split-scene log and Rak Foundry sheet evidence
+- Scope: Book One continuity, current state, mechanics snapshot, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
+
+## Name / Spelling Note
+
+The current archive path uses **Rak Wraithraiser**.
+
+The Rak player's Foundry export uses **Rak Wraithriser**.
+
+This spelling needs GM/player confirmation before file paths are renamed.
 
 ## Overview
 
-Rak Wraithraiser is a nagaji PC with pirate legacy, physical confidence, humor, practical competence, and a dangerous streak of violence.
+Rak Wraithraiser / Wraithriser is a nagaji PC with pirate legacy, alchemical competence, practical shipboard usefulness, humor, and a dangerous streak of violence.
 
 He begins as a press-ganged sailor and cook's mate, becomes tied to Kroop and Grok, saves allies during the Riptide Cove failure, and at the current relaunch point is guiding a hostile or semi-hostile supply party across Bonewrack Isle.
 
@@ -17,23 +25,99 @@ Rak is not simply comic relief. His choices repeatedly affect survival, loyalty,
 
 ## Identity
 
-- Name: Rak Wraithraiser
+- Name: Rak Wraithraiser / Rak Wraithriser
 - Type: PC
 - Ancestry: Nagaji
+- Gender: Male
+- Age: 24
+- Height: 6'2"
+- Weight: 255 lbs.
+- Alignment: Chaotic Neutral
+- Deity: Besmara
+- PF1 class evidence: Alchemist (Vivisectionist) 3
 - Book One role: Cook's mate under Ambrose Kroop
 - Current location: Bonewrack Isle, moving toward the fork
 - Current companions: Shivikah, Slippery Syl Lonegan, Jaundiced Jape
 - Current status: Alive, bloodied/recovering from island hazards, guiding a hostile or semi-hostile recovery party
 
+## Mechanics Snapshot From Foundry Export
+
+This is historical PF1 evidence, not a future conversion decision.
+
+### Ability Scores
+
+| Ability | Value |
+|---|---:|
+| Strength | 17 |
+| Dexterity | 17 |
+| Constitution | 17 |
+| Intelligence | 17 |
+| Wisdom | 15 |
+| Charisma | 12 |
+
+### Class / Build
+
+Rak's Foundry export lists him as an **Alchemist (Vivisectionist) 3**.
+
+Relevant build elements include:
+
+- Sneak Attack
+- Torturer's Eye
+- Cruel Anatomist
+- Feral Mutagen
+- Mutagen
+- Poison Use
+- Swift Alchemy
+- Infusion
+- Brew Potion
+- Throw Anything
+- Extra Discovery
+- Additional Traits
+
+This supports Rak as an alchemical, mutagenic, tool-using, and anatomically violent pirate rather than a generic bruiser.
+
+### Traits
+
+- Buccaneer's Blood
+- Axe to Grind
+- Omen
+- Trustworthy
+
+The combination is useful: Rak's sheet supports pirate legacy, isolated violence, ominous presence, and surprising social credibility.
+
+### Practical Skills
+
+Notable sheet skills include:
+
+- Craft (Alchemy)
+- Profession (Cook)
+- Profession (Herbalist)
+- Profession (Sailor)
+- Intimidate
+- Perception
+- Spellcraft
+- Use Magic Device
+- Disable Device
+- Stealth
+- Survival
+
+These reinforce Rak's role as cook's mate, alchemist, practical problem-solver, and underhanded survival actor.
+
+### Languages
+
+The export lists Abyssal and Giant in the actor's language field. The Nagaji race entry also implies Common and Nagaji/custom language context. This should be reconciled during any conversion pass.
+
 ## Backstory
 
-Rak is the grandson of Baas'lisk Wraithraiser, an infamous Free Captain of the Shackles.
+Rak is the grandson of Baas'lisk Wraithraiser / Wraithriser, an infamous Free Captain of the Shackles.
 
 Piracy is in his bloodline and self-image.
 
 He left Widowmaker Isle for Port Peril in pursuit of fortune and pirate destiny.
 
 His first stop was the Formidably Maid, where drink, flirtation, and misjudgment led to his ambush and press-ganging onto the Wormwood.
+
+The Foundry Buccaneer's Blood trait preserves this directly: Rak went to the Formidably Maid, was distracted by a dashing flirtatious corsair during a whirlwind night of booze and romance, then was beaten senseless and stuffed in a sack.
 
 ## Voice and Table Presence
 
@@ -53,11 +137,15 @@ Rak became the cook's mate under Ambrose "Fishguts" Kroop.
 
 This placed him in the galley, near food, gossip, and one of the ship's most practical support figures.
 
+His sheet's Profession (Cook), Profession (Herbalist), and Craft (Alchemy) entries support this role mechanically.
+
 ### Kroop
 
 Rak's relationship with Kroop gave him access to pirate knowledge, rumors, and the practical underbelly of the Wormwood.
 
 Kroop later became one of the important voices around the Man's Promise course change and Rickety's Squibs.
+
+Rak's player sheet lists Ambrose as a helpful NPC.
 
 ### Grok
 
@@ -68,6 +156,8 @@ Rak began bunking with her.
 Grok knew Rak was being transferred to the Man's Promise, and they shared a sentimental goodbye before the ships separated.
 
 This relationship gives Rak a continuing emotional and practical tie back to the Wormwood.
+
+Rak's player sheet lists Grok as a helpful NPC.
 
 ## Man's Promise Battle
 
@@ -95,7 +185,9 @@ After the first failed assault and rest, Rak and Sho returned toward the ship wh
 
 Rak therefore missed the final Whale kill, but Harvus used Rak's magical spear to kill the Whale.
 
-The spear was likely lost in the Cauldron pool, pending player confirmation.
+Rak's player sheet explicitly notes that Harvus owes Rak a +1 returning spear in the future to repay the spear he lost.
+
+This strongly supports the current archive position that the spear was treated as lost from Rak's perspective.
 
 ### Report to Scourge
 
@@ -151,6 +243,79 @@ Rak, Syl, Shivikah, and Jape pushed on.
 
 At the final cold-open beat, Rak hears something ahead.
 
+## Player-Sheet NPC Attitude Notes
+
+Rak's Foundry notes list the following NPC attitudes. These are player-sheet evidence and should be treated as Rak/player perspective unless confirmed elsewhere.
+
+### Helpful NPCs
+
+- Grok
+- Ambrose
+- Badger
+- Tilly
+- Sandara
+
+### Friendly? NPCs
+
+- Jack
+
+### Indifferent NPCs
+
+- Patch
+- Tate — maybe, not sure
+
+### Unfriendly NPCs
+
+- Slippery
+
+### Kill If A Moment Arises
+
+- Maheem
+
+This last note is important: Rak has Maheem on a conditional kill list. The reason needs clarification.
+
+## Notable Inventory Evidence
+
+Rak's Foundry sheet lists several items with possible campaign relevance.
+
+Do not assume every listed item is currently possessed without GM confirmation, but preserve the evidence.
+
+### Especially Relevant
+
+- Formula Book
+- Candle of Truth
+- Climber's Kit
+- Pages of Notes from the hut in the stronghold on Bonewrack Island
+- Masterwork Thieves' Tools
+- Common Thieves' Tools
+- Spyglass
+- Alchemy Crafting Kit
+- Alchemist's Fire
+- Holy Water x2
+- Cooking Pot
+- Mess Kit
+- Musical Instrument, Fiddle
+- Spear
+- Studded Leather Armor
+
+### Pages of Notes
+
+The sheet includes **Pages of Notes** with the description: "Got from hut in stronghold on Bonewreck Island."
+
+This may be an important Bonewrack / Arron Ivy evidence object.
+
+### Candle of Truth
+
+Rak's sheet includes a Candle of Truth.
+
+If still present, this could matter during post-island testimony, Goyle's accusation, crew justice, or a first council.
+
+### Musical Instrument, Fiddle
+
+The sheet includes a fiddle.
+
+This may be Rosie's fiddle, another item, party inventory, or sheet clutter. It requires confirmation.
+
 ## Relationships
 
 ### Ambrose "Fishguts" Kroop
@@ -159,11 +324,15 @@ Kroop is Rak's cook and practical mentor figure aboard ship.
 
 Through Kroop, Rak gains access to shipboard survival knowledge and possible post-Plugg options.
 
+Rak's player sheet lists Ambrose as helpful.
+
 ### Cut-Throat Grok
 
 Grok is Rak's Wormwood relationship and one of his strongest unresolved ties.
 
 Their sentimental goodbye may become darker if Grok's later published-path fate is used.
+
+Rak's player sheet lists Grok as helpful.
 
 ### Sho Astor
 
@@ -183,19 +352,57 @@ Rak gave Harvus Sandara's holy symbol before the island search.
 
 Harvus later killed the Whale with Rak's spear.
 
+Rak's sheet records that Harvus owes him a +1 returning spear in the future to repay the spear Harvus lost.
+
 This ties Rak materially and symbolically to Harvus' legend.
 
 ### Mirei
 
 Rak and Mirei share the survival history of the Wormwood and Bonewrack, but their deeper relationship needs reconstruction.
 
+### Sandara Quinn
+
+Rak's player sheet lists Sandara as helpful.
+
+Rak also gave Harvus Sandara's holy symbol before the island search.
+
+### Tilly Brackett
+
+Rak's player sheet lists Tilly as helpful.
+
+This may matter when Tilly returns from Riptide Cove with Harvus.
+
+### Badger Medlar
+
+Rak's player sheet lists Badger as helpful.
+
+This is stronger than the current uncertain Badger notes and should be reconciled with the influence tracker.
+
+### Jack Scrimshaw
+
+Rak's player sheet lists Jack as friendly, with uncertainty.
+
+### Patch Patchsalt
+
+Rak's player sheet lists Patch as indifferent.
+
+This is important because Patch has otherwise been treated as Plugg/Scourge-adjacent and dangerous; Rak's perspective may differ from GM baseline.
+
+### Tam "Narwhal" Tate
+
+Rak's player sheet lists Tate as indifferent, maybe, not sure.
+
 ### Slippery Syl Lonegan
 
-Syl is currently with Rak and represents immediate danger.
+Rak's player sheet lists Slippery as unfriendly.
 
-She needs Rak alive for island knowledge but does not respect or trust him.
+This aligns with current fork pressure.
 
-She has repeatedly threatened him while also protecting his usefulness.
+### Maheem
+
+Rak's player sheet lists Maheem under "kill if a moment arises."
+
+This is an active personal hostility thread from Rak's perspective.
 
 ### Shivikah
 
@@ -241,10 +448,29 @@ His scene can determine whether the island-side crisis becomes negotiation, ambu
 
 The final cold-open beat is Rak hearing something ahead.
 
+## Conversion Notes
+
+For future 5e or system conversion, preserve:
+
+- Nagaji / reptilian identity
+- Besmara devotion
+- pirate-blood lineage
+- alchemy / vivisectionist identity
+- mutagenic feral violence
+- poison/tool competence
+- cook / herbalist / alchemist practical skill blend
+- unsettling but socially functional presence
+- the contradiction between Trustworthy and dangerous
+
 ## Open Threads
 
+- Is the canonical spelling Wraithriser or Wraithraiser?
 - Does Rak know or care that his spear killed the Whale?
-- Is the spear lost forever?
+- Is the +1 returning spear lost forever?
+- Does Rak want repayment, apology, story credit, or all three?
+- Does Rak still possess the Candle of Truth?
+- What do the Pages of Notes from the Bonewrack stronghold say?
+- Is the fiddle in Rak's inventory Rosie's fiddle?
 - Does Rak want to return to Grok?
 - Does Rak see himself as captain material, crew muscle, cook, pirate prince, or something else?
 - Can Sho trust Rak after the Man's Promise violence?
@@ -252,3 +478,4 @@ The final cold-open beat is Rak hearing something ahead.
 - How does Rak react to Harvus' rescue legend?
 - Does Rak's pirate lineage matter to the crew after the island?
 - How does Rak handle Syl if the fork reveals rescued witnesses?
+- Why is Maheem on Rak's kill-if-a-moment-arises list?
