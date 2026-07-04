@@ -5,13 +5,13 @@
 - Type: Narrative adventure log
 - Maturity: Canon-candidate reconstruction, revised from GM-written campaign prose
 - Scope: Port Peril press-ganging and immediate transition to the Wormwood
-- Source basis: GM-written 2015/2018 Obsidian Portal prose for the press-ganging, PC sheet hooks, existing character dossiers, and campaign reconstruction notes
+- Source basis: GM-written 2015/2018 Obsidian Portal prose for the press-ganging, PC sheet hooks, existing character dossiers, campaign reconstruction notes, and published AP-era dating convention
 - Note: This is narrative reconstruction, not an evidence artifact. It may become canon unless corrected by GM/player pushback.
-- Date note: The older prose header used 4701 AR; the current Chronicle chronology uses 4691 AR. Confirm final year before publishing externally.
+- Date decision: Use **4712 AR** for the opening year. Keep **Erastus 4** from the old GM prose as the campaign's opening date unless later contradicted.
 
 ## Adventure Log — The Last Rites of the Press-Ganged
 
-**Erastus 4 — Port Peril**  
+**Erastus 4, 4712 AR — Port Peril**  
 **The Formidably Maid**
 
 For different reasons, **Harvus G'ron**, **Mirei**, **Sho Astor**, **Rak Wraithraiser**, and **Conchobhar Turlach Shortstone** all passed through the same ugly net in Port Peril.
@@ -256,3 +256,4 @@ That was enough.
 - Mirei's section preserves the moonlit bay, Syl's tailing, the sap attack, and the theft before delivery to the Wormwood.
 - Rak's section preserves Melina Drakesworn's arrangement, Scourge's observation, and Patch/Shivikah collecting him.
 - Conchobhar's section is included by GM direction and drawn from the existing dossier: drinking with Wormwood crew, theatrical self-presentation, and failing to notice the cosh.
+- The opening year is set to 4712 AR to align the campaign with the published-era baseline for Skull & Shackles; Erastus 4 remains from the old GM prose.
