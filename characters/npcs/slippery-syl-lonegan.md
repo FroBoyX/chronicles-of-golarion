@@ -3,18 +3,20 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log
+- Maturity: Draft, expanded with Arodus 5 split-scene log and Rak player-sheet evidence
 - Scope: Hostile Wormwood pirate, Man's Promise pressure point, current fork threat
 
 ## Overview
 
 Slippery Syl Lonegan is an unhinged murderer who fled to sea to escape the gallows.
 
-At the current relaunch point, she is with Rak Wraithraiser's moving supply party on Bonewrack Isle alongside Shivikah and Jaundiced Jape.
+At the current relaunch point, she is with Rak Wraithraiser / Wraithriser's moving supply party on Bonewrack Isle alongside Shivikah and Jaundiced Jape.
 
 She is one of the most immediate sources of danger at the fork because she is violent, opportunistic, and present when Harvus' rescued group approaches.
 
 The Arodus 5 log also confirms that Syl is not only volatile. She is capable of tactical command under pressure.
+
+Rak's player sheet lists Slippery as unfriendly, which matches the current fork dynamic.
 
 ## Identity
 
@@ -25,6 +27,7 @@ The Arodus 5 log also confirms that Syl is not only volatile. She is capable of 
 - Current location: Bonewrack Isle, with Rak's moving group
 - Current status: Alive
 - Current command role: Scourge assigned her to lead the supply team
+- Rak sheet evidence: Unfriendly
 
 ## Appearance / Presence
 
@@ -111,6 +114,8 @@ She does, however, recognize his usefulness as a guide and repeatedly says she n
 
 She threatens his weapon, his hide, and his survival if he disobeys.
 
+Rak's sheet lists Slippery as unfriendly, which is consistent with her behavior.
+
 The current relationship is coercive dependency:
 
 > Syl needs Rak alive, but not free.
@@ -148,6 +153,7 @@ Syl may try to dominate both if the fork scene turns uncertain.
 - Not with group: Fipps, ordered by Syl to stay at Coconut Beach because the ship was expected to meet there
 - Immediate objective: Reach the stronghold, recover water/food, obey Scourge's mission while keeping Rak alive
 - Immediate risk: Encountering Harvus, Mirei, Sandara, Tilly, and Goyle alive
+- Rak perspective: Unfriendly
 
 ## Campaign Function at Relaunch
 
