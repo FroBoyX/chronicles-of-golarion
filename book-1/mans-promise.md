@@ -70,7 +70,11 @@ Known concerns:
 
 Sho Astor is currently aboard the Man's Promise in the hot-box after being beaten unconscious by Scourge's shore group.
 
+At current reconstruction, Sho is believed to still be locked up.
+
 Kahina Bukekayo has spoken with Sho while guarding or checking on her.
+
+This conversation is a live secondary front, because Sho may be able to turn Man's Promise survivor anger against Plugg and Scourge without being free.
 
 ### Missing / Rescued State
 
@@ -153,6 +157,8 @@ Sho's current prison.
 
 This is a symbolic return to captivity at the exact moment the others are moving toward rescue and decision.
 
+The hot-box also creates a constrained social scene rather than only a punishment state: Kahina can speak to Sho there, test her sincerity, and decide whether Sho is useful or unforgivable.
+
 ## Important Artifacts
 
 ### Hospitality's Hammock
@@ -205,6 +211,7 @@ Possible states include:
 - Does anyone aboard know Goyle survived?
 - What visible sign marks Sho's imprisonment?
 - How many sailors are required to move the ship at the moment?
+- What exactly does Kahina require from Sho before considering her useful or sincere?
 
 ## Related Documents
 
