@@ -117,11 +117,14 @@ During the storm near Bonewrack Isle, Sandara was taken by grindylows.
 
 Harvus later returned to Riptide Cove with Mirei and rescued her from the Cauldron.
 
+At current reconstruction, Sandara is believed to still have Besmara's tricorne after the rescue; this should be confirmed with the players.
+
 ## Current State
 
 - Location: Bonewrack Isle, returning from Riptide Cove with Harvus, Mirei, Tilly, and Goyle
 - Status: Alive, rescued, likely injured or recovering
 - Immediate knowledge: Knows she was taken by grindylows and rescued; exact understanding of Plugg's current plan may depend on what Goyle and the others tell her
+- Immediate possessions: Believed to still have Besmara's tricorne, pending player confirmation
 - Immediate importance: Her survival can alter crew morale, Harvus' legitimacy, and the political state aboard the Man's Promise
 
 ## Relationships
@@ -147,6 +150,8 @@ This reciprocal aid matters for Mirei's trust position after her Plugg assignmen
 Rak was part of the original attempt into Riptide Cove and helped save the group from disaster.
 
 Sandara may not yet know the full extent of Rak's actions during Harvus' earlier collapse.
+
+Rak's spear was used by Harvus against the Whale, if current reconstruction is confirmed.
 
 ### Sho Astor
 
@@ -186,6 +191,10 @@ A grindylow wearing it was seen through the spyglass at the stockade.
 
 The hat is therefore both a magic item and a story artifact.
 
+The hat was not treated as a major concern during the immediate rescue. Survival, escape, and the prisoners' condition took priority.
+
+Current reconstruction holds that Sandara still has it, but this requires player confirmation.
+
 ## Campaign Function at Relaunch
 
 Sandara's survival gives the post-island crew a living proof of rescue, courage, and Plugg's failure to erase inconvenient people.
@@ -196,7 +205,7 @@ She can interpret pirate custom, Besmara's code, and the moral difference betwee
 
 ## Open Questions
 
-- Did Sandara give Harvus or the party Besmara's tricorne after the rescue?
+- Confirm with players whether Sandara still has Besmara's tricorne.
 - What is her exact physical condition at the fork?
 - How much does she know about Mirei's confession?
 - What does she believe should happen to Plugg and Scourge if they are defeated?
