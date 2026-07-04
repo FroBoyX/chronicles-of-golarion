@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue
-- Scope: Book One continuity, current state, and open threads
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue and PCGen sheet evidence
+- Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
 ## Overview
@@ -20,10 +20,90 @@ Her scene with Kahina Bukekayo creates a parallel climax: while Harvus returns w
 - Name: Sho Astor
 - Type: PC
 - Ancestry: Suli
-- Class / role at original system level: Monk
+- PF1 class evidence: Monk 3
+- Alignment evidence: Lawful Neutral
+- Region: Jalmeray
+- Gender: Female
+- Age: 24
+- Handedness: Ambidextrous
+- Skin: Soft lavender
+- Eyes: Piercing solid blue
+- Hair: Silver, short
 - Current location: Man's Promise
 - Current condition: Alive, imprisoned in the hot-box at current reconstruction
 - Immediate scene partner: Kahina Bukekayo
+
+## Physical Description Conflict
+
+The PCGen export lists `HEIGHT:65`, likely meaning 65 inches / 5'5", and weight 128 lbs.
+
+Harvus' light-log describes Sho as 6'2", wiry, short-haired, and pale-purple-skinned.
+
+This is unresolved evidence conflict. Do not finalize Sho's height until Chazari or GM truth resolves it.
+
+## Mechanics Snapshot From PCGen Export
+
+This is historical PF1 evidence, not a future conversion decision.
+
+### Ability Scores
+
+| Ability | Score |
+|---|---:|
+| Strength | 18 |
+| Dexterity | 14 |
+| Constitution | 13 |
+| Intelligence | 13 |
+| Wisdom | 13 |
+| Charisma | 13 |
+
+### Level / Experience
+
+- Monk level: 3
+- XP: 5000
+- Experience table: Medium
+
+### Skills With Purchased Ranks
+
+Notable skill investments:
+
+- Acrobatics
+- Bluff
+- Climb
+- Diplomacy
+- Disguise
+- Intimidate
+- Perception
+- Stealth
+- Swim
+
+Favored-class skill rank notes include Sense Motive and Profession (Sailor).
+
+### Feats / Traits / Abilities
+
+- Deceitful
+- Incremental Elemental Assault
+- Combat Reflexes
+- Deflect Arrows
+- Ancient Explorer - Polyglot
+- Fast-Talker
+- Regional Affinity: Jalmeray
+- Suli language choice: Auran
+
+### Languages
+
+- Auran
+- Common
+- Polyglot
+
+## Deity / Faith Note
+
+The PCGen export lists **Irori** in the deity block.
+
+This may be meaningful because of Sho's monastic background, discipline, Jalmeray origin, and self-perfection themes.
+
+It may also be a sheet or monk-default artifact.
+
+Do not overstate Sho's active religious identity until confirmed.
 
 ## Backstory
 
@@ -37,13 +117,21 @@ A noblewoman named Agatha Dreamriver became important to Sho after intervening w
 
 Sho eventually left to explore and pursue knowledge, with Magnimar and Agatha remaining future emotional anchors.
 
+## Ancient Explorer / Ghol-Gan Hook
+
+The PCGen sheet preserves the **Ancient Explorer** campaign trait.
+
+This confirms Sho as a student of ancient Golarion history who came to the Shackles to explore the vine-choked ruins of the cyclops empire of Ghol-Gan.
+
+The trait gives Polyglot and supports the existing archive premise that Sho came to Port Peril for an old map.
+
 ## Press-Ganging
 
 Sho followed a map lead in Port Peril.
 
-The deal involved runes older than expected and an old peddler who demanded a drink.
+The deal involved runes older than expected and an old peddler or contact who supposedly had an old map of lost cyclops ruins to sell.
 
-She was drugged and woke aboard the Wormwood without the map or her possessions.
+She went to the Formidably Maid, drank something stronger than expected, passed out before completing the deal, and woke aboard the Wormwood without the map or her possessions.
 
 ## Wormwood History
 
@@ -67,13 +155,63 @@ Sho's conflict with Aretta in the bilges ended with Aretta's death after slow or
 
 This is a moral burden and likely part of why Kahina's later challenge matters.
 
-### Boarding the Man's Promise
+### Giffer / Foul Play Suspicion
+
+Sho's PCGen notes record a notice of potential foul play with Giffer's body, possibly causing Giffer's death.
+
+This needs reconstruction because the archive currently treats Giffer as killed during the Man's Promise boarding. Sho's note may indicate a suspicion, a different sequence, or a player-facing misunderstanding.
+
+### Watch List
+
+Sho's notes say she needed to be more cautious about the crew than she thought.
+
+The people she marked to keep a serious eye on were:
+
+- Maheem / Muheem
+- Fipps
+- Jaundiced Jape
+- Slippery Syl
+
+She also noted that she had things to discuss with:
+
+- Crimson
+- Ratline
+
+Crimson is not yet indexed in the archive and needs identification.
+
+## Boarding the Man's Promise
 
 Sho participated in the boarding action.
 
 She warned Harrigan when a sailor threatened him from behind, earning Harrigan's recognition and later reward.
 
 She also objected to Rak's killing of downed or pleading opponents, reinforcing her opposition to reckless killing.
+
+Sho's PCGen notes preserve the emotional aftermath more strongly:
+
+- she was disappointed and saddened by the conversation with the crew they took over,
+- disappointed that she could not stop her boarding crew from slaughtering people,
+- saddened that it all happened,
+- and angry that it happened at all.
+
+### Man's Promise Names
+
+Sho's PCGen notes identify:
+
+- Nor'Gal as one of the Man's Promise survivor names,
+- the killed brother's name as Cor'Wal,
+- and Goyle as former quartermaster of the Man's Promise.
+
+These names require reconciliation with current archive spellings Nor'gal and Kor'al.
+
+### Riaris Reward / Captain's Amulet
+
+Sho's PCGen notes list:
+
+- Sack from Riaris: 1100 gold pieces.
+- Captain's Amulet: Rahadoumi coat of arms, tree design, bronze in color.
+
+This likely relates to Sho's reward after warning Harrigan and/or handling Man's Promise prisoners, but exact item disposition needs confirmation.
 
 ## Man's Promise and Bonewrack
 
@@ -94,6 +232,16 @@ Kahina challenges whether Sho's remorse for the Man's Promise dead is meaningful
 If Sho claims regret, Kahina wants to know what Sho is willing to do about the people who caused or continue the suffering.
 
 This is not only a prison scene. It is a moral interrogation.
+
+## Current Health Evidence
+
+Sho's PCGen notes include:
+
+- Normal: 15/25
+- Nonlethal: 17
+- Hero points: 2
+
+This may be near the current hot-box / post-beating state, but needs confirmation.
 
 ## Arodus 5 Conversation With Kahina
 
@@ -139,7 +287,7 @@ The current understanding is not a general alliance. It is a life-for-life barga
 
 > Their lives, or Sho's.
 
-### Rak Wraithraiser
+### Rak Wraithraiser / Wraithriser
 
 Sho has fought alongside Rak and benefited from his rescue actions.
 
@@ -151,7 +299,7 @@ Sho has considered that if Rak continues reckless killing, she may need to stop 
 
 Sho sees Harvus as a possible comrade and may hope his rage can be controlled or redirected.
 
-She is not present for his rescue of Sandara and may learn later that he created a legend while she was imprisoned.
+She is not present for his rescue of Sandara and does not currently know what happened in Riptide Cove.
 
 ### Mirei
 
@@ -172,6 +320,18 @@ Sho has thought Peppery attractive in a commanding way and received warning or i
 ### Agatha Dreamriver
 
 Agatha remains a backstory emotional anchor and possible future objective.
+
+### Ratline Rattsberger
+
+Sho's notes say she had something to discuss with Ratline.
+
+The subject is currently unknown.
+
+### Crimson
+
+Sho's notes say she had something to discuss with Crimson.
+
+Crimson is not yet identified in the archive.
 
 ## Current Knowledge
 
@@ -206,6 +366,19 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 
 ## Open Threads
 
+- Resolve Sho's true height and physical description.
+- Was Irori a meaningful deity choice or a sheet artifact?
+- Was the PCGen sheet current at the campaign pause?
+- Are the 15/25 HP and 17 nonlethal values current to the hot-box scene?
+- What did Sho suspect about Giffer's body?
+- Who is Crimson?
+- What did Sho need to discuss with Crimson?
+- What did Sho need to discuss with Ratline?
+- Is the killed brother's name Cor'Wal, Kor'al, or something else?
+- Is Nor'Gal / Nor'gal alive and aboard the Man's Promise?
+- Was Goyle definitely the quartermaster of the Man's Promise?
+- Does Sho still have the Rahadoumi captain's amulet?
+- What did Sho intend to do with the 1100 gp sack from Riaris?
 - What does Sho believe justice requires for the Man's Promise dead?
 - Does Sho still respect Harrigan after everything that followed?
 - Does Sho prioritize escape, justice, or reconciliation in the hot-box scene?
