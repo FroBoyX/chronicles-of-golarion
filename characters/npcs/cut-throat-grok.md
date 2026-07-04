@@ -89,7 +89,11 @@ This is campaign canon and changes Rak's social position aboard the Wormwood.
 
 When Rak was transferred to the Man's Promise prize crew, Grok remained aboard the Wormwood.
 
-Her emotional reaction to Rak's departure and any parting gift or exchange should be confirmed in the logs or by GM memory.
+Grok knew Rak was being transferred.
+
+They shared a sentimental goodbye before the ships separated.
+
+If Grok's story continues along the published Adventure Path's later direction, this goodbye may become a grim plot point rather than only a romantic or sentimental beat.
 
 ## Relationships
 
@@ -100,6 +104,8 @@ Rak and Grok had a sexual or intimate relationship before the Man's Promise spli
 This may have been casual, meaningful, opportunistic, or some mixture; Rak's player's understanding should be recovered if possible.
 
 The relationship matters because it gives Rak a tie back to the Wormwood and to one of its most practically useful officers.
+
+Their goodbye before the Man's Promise split was sentimental, and Grok was aware of Rak's departure.
 
 ### Ambrose "Fishguts" Kroop
 
@@ -127,6 +133,7 @@ She is not automatically altruistic, but she can be generous or dangerous depend
 - Status: Alive
 - Role: Quartermaster
 - Immediate campaign absence: Not aboard the Man's Promise at the current fork state
+- Relevant emotional state: parted sentimentally from Rak before the split
 
 ## Campaign Function After Relaunch
 
@@ -138,12 +145,15 @@ Grok is not immediately present, but she matters if:
 - Kroop invokes her as a trusted contact,
 - or the campaign needs a Wormwood-side emotional anchor.
 
+If her later published-path fate is used, the Rak relationship makes that outcome more personal and darker.
+
 ## Open Questions
 
 - How did Grok and Rak's relationship begin?
 - Was it public knowledge aboard the Wormwood?
 - Did Plugg, Scourge, or Harrigan know?
-- Did Grok give Rak a parting gift before the Man's Promise split?
+- Did Grok give Rak a parting gift before the Man's Promise split, or was the goodbye sentimental without a material token?
 - Does Rak intend to see her again?
 - How would Grok react if she learns Rak helped take the Man's Promise or abandoned it?
 - Does Grok remain loyal to Harrigan, or only to her own survival and chosen people?
+- Will the campaign use Grok's later Adventure Path fate, modify it, or avoid it?
