@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue
 - Scope: Book One continuity, current state, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -95,17 +95,55 @@ If Sho claims regret, Kahina wants to know what Sho is willing to do about the p
 
 This is not only a prison scene. It is a moral interrogation.
 
+## Arodus 5 Conversation With Kahina
+
+Sho called out from captivity and Kahina came around the corner.
+
+Kahina told Sho the ship had set sail for the far shore to take on supplies, then would leave for an unknown destination.
+
+Sho expressed remorse for what happened aboard the Man's Promise and said she did not expect Kahina to believe her.
+
+Sho asked why Kahina would blindly follow the people in command of such a massacre.
+
+Kahina rebuked that accusation, asking what Sho had been doing when she attacked the Man's Promise and how long Sho had blindly followed these same men before ending up chained.
+
+Kahina said more than thirty people died and that she saw Sho lead a group onto the ship.
+
+Sho said she felt remorse each day, tried to take command of those on the boat and failed, and wanted to live long enough to escape and kill the cretins in charge.
+
+Sho asked Kahina to help her, and said that if they succeeded, Kahina could decide what to do with Sho afterward.
+
+Kahina said Sho's words meant nothing.
+
+She then asked whether Sho would kill for repentance, kill those who torment them, and lose her life to end theirs.
+
+Sho said she would do everything in her power.
+
+Kahina corrected her: not everything in Sho's power. Their lives, or Sho's.
+
+If Sho hesitates, Kahina will ensure Sho dies for her sins.
+
+Sho accepted and said she understood.
+
+Kahina told her to stay put and walked away.
+
 ## Relationships
 
 ### Kahina Bukekayo
 
 Kahina is currently Sho's most important immediate scene partner.
 
-She may be enemy, judge, temporary ally, or all three.
+She may be enemy, judge, temporary ally, executioner, or all three.
+
+The current understanding is not a general alliance. It is a life-for-life bargain under threat:
+
+> Their lives, or Sho's.
 
 ### Rak Wraithraiser
 
-Sho has fought alongside Rak and owes survival to him in some contexts, but she is deeply concerned by his willingness to kill downed or helpless opponents.
+Sho has fought alongside Rak and benefited from his rescue actions.
+
+She is also disturbed by his violence.
 
 Sho has considered that if Rak continues reckless killing, she may need to stop him.
 
@@ -140,9 +178,13 @@ Agatha remains a backstory emotional anchor and possible future objective.
 Sho knows:
 
 - she is a prisoner again,
+- the Man's Promise has set sail or is moving toward the far shore for supplies,
+- destination after supply is unknown,
 - Scourge and Plugg remain dangerous,
 - Kahina holds Man's Promise casualties against her and the Wormwood side,
-- Kahina may be willing to act against Plugg and Scourge if Sho proves sincere.
+- Kahina wants Plugg and Scourge to face the justice of the sea,
+- Kahina may be willing to use Sho against them,
+- and if Sho hesitates, Kahina has threatened to kill her for her sins.
 
 Sho likely does not know:
 
@@ -150,7 +192,7 @@ Sho likely does not know:
 - Harvus killed the Whale,
 - Mirei confessed Plugg's betrayal order,
 - Rak's current island position,
-- Fipps is at the beach.
+- Fipps is at Coconut Beach.
 
 ## Campaign Function at Relaunch
 
@@ -160,12 +202,15 @@ She prevents the relaunch from being only a jungle reunion.
 
 Her choices can affect whether Man's Promise survivors become enemies, allies, witnesses, or a separate faction.
 
+The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
+
 ## Open Threads
 
-- What exactly did Sho promise, refuse, or imply to Kahina?
 - What does Sho believe justice requires for the Man's Promise dead?
 - Does Sho still respect Harrigan after everything that followed?
 - Does Sho prioritize escape, justice, or reconciliation in the hot-box scene?
+- Would Sho kill Plugg or Scourge if that were the price of proving repentance?
+- What would Sho do if Kahina demands action Sho considers dishonorable?
 - What would Sho do if Rak kills helpless opponents again?
 - Does Sho want to remain with the others after Book One?
 - Does Sho still intend to reach Magnimar someday?
