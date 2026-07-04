@@ -12,7 +12,7 @@ The Fall of Riptide Cove is one of the defining events of Book One.
 
 Harvus G'ron, accompanied only by Mirei above and behind him in the cave system, returned to the grindylow lair to rescue Sandara Quinn. He entered what was effectively the published boss encounter for the opening adventure without understanding that fact.
 
-The encounter turned because Harvus braced a magical spear against the charging Whale and killed it in the opening exchange. The Brinebrood Queen fled after the death of her son, collapsing the morale and structure of the lair.
+The encounter turned because Harvus braced a magical spear from Rak Wraithraiser against the charging Whale and killed it in the opening exchange. The Brinebrood Queen fled after the death of her son, collapsing the morale and structure of the lair.
 
 Harvus did not experience the event as boss-killing. He experienced it as a rescue.
 
@@ -31,7 +31,7 @@ Harvus did not experience the event as boss-killing. He experienced it as a resc
 
 ### Absent but Relevant
 
-- Rak Wraithraiser, who had helped rescue Harvus from the first failed cave attempt
+- Rak Wraithraiser, who had helped rescue Harvus from the first failed cave attempt and whose spear Harvus used against the Whale
 - Sho Astor, who had gone back toward the ship with Rak
 - Mr. Plugg, whose actions helped lead to Goyle's capture
 
@@ -81,9 +81,11 @@ In the campaign, the Whale became Harvus' defining heroic obstacle.
 
 It charged Harvus with its mouth open, ready to devour him.
 
-Harvus braced with a magical spear.
+Harvus braced with a magical spear that had come from Rak.
 
 He critically struck the Whale with multiplied damage and high damage rolls, killing it in the opening exchange.
+
+The spear was likely lost in the pool after killing the Whale. This should be confirmed with the players.
 
 This was not staged as an easy victory. By table memory, Harvus should have died.
 
@@ -107,13 +109,21 @@ Mirei helped receive and stabilize the rescued prisoners as they emerged.
 
 The event ends not with triumph but with the rescued group needing to leave quickly and return to the island path before Plugg and Scourge's plans could close around the rest of the party.
 
+## Besmara's Tricorne
+
+Sandara's tricorne was the key clue that pointed the party toward Riptide Cove.
+
+At the current reconstruction stage, Sandara is believed to still have the hat. This should be confirmed with the players.
+
+The hat was not the focus of the rescue in play; survival and escape were more urgent.
+
 ## Campaign Significance
 
 ### Harvus' First Legend
 
 This is the first event in the campaign that plausibly becomes pirate folklore.
 
-A wounded, wing-broken Strix returned to the grindylow lair, killed the Whale of Bonewrack, broke the Brinebrood Queen's defense, and emerged carrying Sandara Quinn from the depths.
+A wounded, wing-broken Strix returned to the grindylow lair, killed the Whale of Bonewrack with Rak's spear, broke the Brinebrood Queen's defense, and emerged carrying Sandara Quinn from the depths.
 
 ### Sandara's Rescue
 
@@ -147,13 +157,13 @@ That is not what happened.
 
 The correct campaign account is:
 
-> Harvus returned to rescue Sandara, killed the Whale in the opening charge, and caused the Brinebrood Queen to flee, collapsing the defense of Riptide Cove.
+> Harvus returned to rescue Sandara, killed the Whale in the opening charge with Rak's spear, and caused the Brinebrood Queen to flee, collapsing the defense of Riptide Cove.
 
 ## Open Questions
 
-- Does Sandara give Harvus Besmara's tricorne as in the published reward structure, or is that still unresolved?
-- What exact magical spear did Harvus use?
-- What weapons were lost or recovered during the underwater sequence?
+- Confirm with players whether Sandara still has Besmara's tricorne.
+- Confirm with players whether Rak's spear was lost in the Cauldron pool after killing the Whale.
+- What weapons were otherwise lost or recovered during the underwater sequence?
 - How much of the Queen's identity does the party understand in-character?
 - Will the Brinebrood Queen reappear as a future foe?
 
