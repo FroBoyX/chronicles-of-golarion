@@ -55,13 +55,15 @@ The original landing area and a key return point.
 
 Scourge's shore party later operated here while searching for supplies.
 
+Fipps Chumlett is currently at the beach. The exact reason he remained there is unclear and remains a reconstruction question.
+
 #### The Mire
 
 A dangerous crossing with broken bridge remnants and hidden frog threats.
 
 Rak previously crossed or attempted to cross it, establishing the running PARKOUR motif.
 
-Rak later led Slippery Syl, Shivikah, Jaundiced Jape, and Fipps through or near this hazard on the supply run.
+Rak later led Slippery Syl, Shivikah, Jaundiced Jape, and Fipps through or near this hazard on the supply run, but Fipps is now at the beach rather than with the moving fork group.
 
 #### Whores' Boudoir / Rotting Camp
 
@@ -77,6 +79,8 @@ The party discovered coconut palms and giant crab hazards.
 
 Coconuts became a meaningful supply objective.
 
+Fipps' current beach position may be connected to this supply route, but the reason is not yet confirmed.
+
 #### The Fields
 
 An overgrown cornfield discovered but not fully investigated.
@@ -91,13 +95,17 @@ The spring is the only confirmed fresh water source on Bonewrack Isle and is one
 
 The spyglass sighting of Sandara's tricorne on a grindylow changed the party's priorities and led Harvus toward the rescue attempt.
 
+At current reconstruction, Sandara is believed to still have her tricorne after the rescue; confirm with players.
+
 #### Riptide Cove
 
 The grindylow lair.
 
 The party first entered and was forced to retreat.
 
-Harvus later returned with Mirei, rescued Sandara, Tilly, and Goyle, and killed the Whale.
+Harvus later returned with Mirei, rescued Sandara, Tilly, and Goyle, and killed the Whale using a magical spear from Rak.
+
+The spear was likely lost in the pool after the Whale's death; confirm with players.
 
 The Brinebrood Queen fled after the Whale's death.
 
@@ -145,6 +153,8 @@ This group has the most critical new information:
 - The Brinebrood Queen fled.
 - Mirei was ordered to betray the PCs but did not.
 - Goyle overheard Plugg/Scourge intent to eliminate troublesome PCs.
+- Sandara likely still has Besmara's tricorne.
+- Rak's spear was likely lost in the Cauldron pool.
 
 ### Rak Group
 
@@ -155,15 +165,21 @@ Moving through the island:
 - Slippery Syl Lonegan
 - Jaundiced Jape
 
-Possibly separated from or having left Fipps at a supply point depending on exact sequence.
+Fipps Chumlett is at the beach, not with this moving group. The exact reason is unclear.
 
 This group is under hostile command dynamics. Rak is guide, asset, and potential target rather than trusted leader.
+
+### Fipps at the Beach
+
+Fipps is currently separated from Rak's moving group and located at the beach.
+
+This may become relevant if the beach becomes a message, fallback, or conflict point before the full return to the Man's Promise.
 
 ### Sho
 
 Not on Bonewrack at the current split.
 
-Sho is aboard the Man's Promise, imprisoned in the hot-box, and speaking with Kahina Bukekayo.
+Sho is aboard the Man's Promise, still believed to be locked in the hot-box, and speaking with or recently spoken to by Kahina Bukekayo.
 
 ## Immediate Relaunch Function
 
@@ -175,6 +191,7 @@ At relaunch, the island still provides:
 - supply questions,
 - hostile party dynamics,
 - return route pressure,
+- beach-side uncertainty through Fipps,
 - decisions about food and water,
 - and the political bridge back to the Man's Promise.
 
@@ -192,6 +209,8 @@ Mirei had the opportunity to act on Plugg's command and did not. Her confession 
 
 Rak's island knowledge makes him useful even to enemies, but usefulness does not equal trust.
 
+The loss of Rak's spear in the Whale fight, if confirmed, ties Rak materially to Harvus' legend even though Rak was not present for the final exchange.
+
 ### Sho Opens a Separate Front
 
 Sho's imprisonment gives her direct access to Man's Promise survivor grievances and potential anti-Plugg sentiment.
@@ -205,11 +224,13 @@ The Queen's retreat means the island's monster threat has not fully ended. It ha
 - Does the Harvus group meet Rak's party peacefully, by ambush, or through tense recognition?
 - How do Slippery Syl and Jaundiced Jape respond to rescued witnesses?
 - Does Shivikah shift position after seeing the rescue group?
-- What is Fipps' exact current location and condition?
+- Why is Fipps at the beach, and what condition is he in?
 - How much food and water does the island party actually recover before returning?
 - Does anyone investigate the Infernus before leaving?
 - Does anyone attempt to claim or protect the spring?
 - Does the Bonewrack water joke become an actual player objective?
+- Confirm whether Sandara still has Besmara's tricorne.
+- Confirm whether Rak's spear was lost in the Cauldron pool.
 
 ## Archive Notes
 
