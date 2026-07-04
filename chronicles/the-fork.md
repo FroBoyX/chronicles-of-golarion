@@ -68,13 +68,15 @@ Tilly and Goyle are alive but not safe.
 - Slippery Syl Lonegan
 - Jaundiced Jape
 
-Fipps Chumlett's exact current position requires confirmation. He may have been left behind or separated during the supply movement.
+Fipps Chumlett is at the beach. The exact reason he remained or was left there is unclear and should remain an open reconstruction point.
 
 ### State
 
 Rak is guiding a hostile or semi-hostile work party across terrain he knows.
 
 The party is moving under pressure to retrieve food and water for the Man's Promise.
+
+Fipps' absence means Rak's immediate group is smaller than the original party sent from the beach.
 
 ### Knowledge
 
@@ -85,7 +87,8 @@ Rak knows:
 - hazards already encountered,
 - Scourge attacked or punished him and Sho,
 - Sho was removed after being beaten unconscious,
-- Harvus and Mirei were last believed to be returning to or investigating Riptide Cove.
+- Harvus and Mirei were last believed to be returning to or investigating Riptide Cove,
+- Fipps is at the beach rather than with the moving party.
 
 Rak does not know the full result of the Riptide Cove rescue.
 
@@ -105,6 +108,8 @@ He is useful to the work party but not trusted by it.
 ### State
 
 Sho woke in the hot-box aboard the Man's Promise after being beaten unconscious.
+
+At current reconstruction, Sho is believed to still be locked up in the hot-box.
 
 She has begun speaking with Kahina, a survivor of the Man's Promise side of the earlier battle.
 
@@ -128,6 +133,22 @@ Sho does not know:
 
 Sho is likely angry, morally burdened, and under pressure to prove that her remorse is more than words.
 
+## Scene D — Fipps at the Beach
+
+### Present
+
+- Fipps Chumlett
+
+### State
+
+Fipps is at the beach rather than with Rak's moving group.
+
+The cause is not yet reconstructed. He may have been left behind due to injury, orders, cowardice, confusion, or some other table event.
+
+### Function
+
+Fipps' location matters because the beach may become a second island pressure point if the fork scene delays or if news returns from the moving party before the rescued group reaches the Man's Promise.
+
 ## Why This Is the Cold Open
 
 The fork is an information collision.
@@ -139,6 +160,7 @@ Each scene contains leverage:
 - Harvus group has rescued people and damning information.
 - Rak group has route control and hostile witnesses.
 - Sho has access to a possible Man's Promise survivor alliance.
+- Fipps' separation leaves a beach-side loose end.
 
 The relaunch should preserve simultaneity where possible.
 
@@ -151,6 +173,7 @@ The relaunch should preserve simultaneity where possible.
 - Does Mirei confess publicly, privately, or not at all?
 - How does Sandara's survival change the political state aboard the Man's Promise?
 - What does Sho offer Kahina, and what does Kahina demand?
+- Why is Fipps at the beach, and does that matter immediately?
 
 ## Do Not Pre-Resolve
 
