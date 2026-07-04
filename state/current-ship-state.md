@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state operating document
-- Maturity: Draft
+- Maturity: Draft, expanded with Arodus 5 split-scene evidence
 - Scope: Wormwood and Man's Promise at the relaunch point
 
 ## Purpose
@@ -20,13 +20,13 @@ Arodus 5, 4691 AR.
 
 ### Status
 
-The Man's Promise is grounded or recently grounded on the reef surrounding Bonewrack Isle.
+The Man's Promise is damaged from the reef incident but appears to be moving or preparing to move along the Bonewrack shore by the time Sho speaks with Kahina.
 
-The ship is damaged but not necessarily lost.
-
-Repairs are underway or recently underway.
+Kahina tells Sho that the ship has set sail for the far shore to take on supplies, then will leave for an unknown destination.
 
 Fresh water was compromised when the ship struck the reef, forcing the island supply mission.
+
+The ship is expected to meet the supply party at the south / coconut beach for coconuts and supplies.
 
 ### Command Claim
 
@@ -38,10 +38,11 @@ Their authority is coercive but not fully legitimate.
 
 ### Physical Priorities
 
-- Repair hull damage.
+- Repair hull damage enough to sail or reposition.
 - Operate bilge pumps or prevent further flooding.
 - Refill fresh water.
 - Gather food.
+- Rendezvous with the supply party at the south / coconut beach.
 - Maintain enough sailors to move the ship.
 - Prevent open mutiny before Plugg is ready to eliminate enemies.
 
@@ -58,6 +59,8 @@ Likely site of the hot-box and immediate crew visibility.
 Sho Astor is still believed locked in the hot-box.
 
 This is both a punishment and an active social front because Kahina Bukekayo has spoken with her there.
+
+The hot-box scene now includes a life-for-life test from Kahina: if Sho hesitates when the moment comes, Kahina has threatened to ensure Sho dies for her sins.
 
 #### Captain's Cabin
 
@@ -87,6 +90,8 @@ Controls punishment, immediate force, and official assignments.
 
 May include hostile Wormwood pirates.
 
+Scourge has ordered the island supply party not to stop at the caverns, making the survival of Harvus' group inconvenient or dangerous to Plugg's narrative.
+
 #### Practical Survival Axis
 
 Includes Kroop and any sailors more concerned with water, food, and repair than ideology.
@@ -103,12 +108,15 @@ Includes Kahina and possibly other survivors.
 
 This group may oppose Plugg without accepting the PCs.
 
+Kahina is willing to use Sho only conditionally and has not forgiven her.
+
 ### Immediate Vulnerabilities
 
 - Insufficient reliable crew if factions fracture too far.
 - Unknown outcome of island supply party.
 - Unknown survival of Sandara, Tilly, and Goyle from Plugg's perspective.
 - Sho is a prisoner but also a possible bridge to Man's Promise survivors.
+- Fipps is at Coconut Beach where the ship is expected to meet the supply party.
 - Plugg's plan may collapse if Goyle speaks publicly.
 
 ## Wormwood
@@ -189,3 +197,4 @@ This is a pressure tool, not a railroad.
 - What does the crew believe happened to Sandara, Tilly, Goyle, Harvus, Mirei, Rak, and Sho?
 - How visible is Sho's imprisonment from the main deck?
 - What ship's boats are available and who controls them?
+- Does the ship arrive at Coconut Beach before or after the fork collision resolves?
