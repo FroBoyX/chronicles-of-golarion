@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Harvus light timeline evidence
+- Maturity: Draft, expanded with Harvus light timeline and Rak player-sheet evidence
 - Scope: Lower-crew NPC, placement unresolved, possible social ally
 
 ## Overview
@@ -16,6 +16,8 @@ Because placement affects relaunch politics, this file treats her as unresolved 
 
 Harvus' light timeline records that he socialized with Badger aboard the new boat and that she seemed to like him somewhat.
 
+Rak's player sheet lists Badger as a helpful NPC.
+
 ## Identity
 
 - Name: Badger Medlar
@@ -25,6 +27,7 @@ Harvus' light timeline records that he socialized with Badger aboard the new boa
 - Current location: Unresolved — Man's Promise or Wormwood
 - Current status: Presumed alive
 - Known Harvus interaction: Socialized with him aboard the Man's Promise; warmed somewhat by his note
+- Known Rak evidence: Listed as helpful in Rak's Foundry sheet notes
 
 ## Baseline Adventure Path Role
 
@@ -36,7 +39,9 @@ She can be influenced and may shift depending on player interaction.
 
 Badger appears to have interacted with Mirei's performances and may have appreciated her music or presence.
 
-Harvus' light timeline also suggests she warmed to him during the Man's Promise phase.
+Harvus' light timeline suggests she warmed to him during the Man's Promise phase.
+
+Rak's sheet goes further and lists her as helpful, though this is player-sheet evidence and should be reconciled with the formal influence tracker.
 
 This may make her more socially nuanced than a simple hostile bloc member.
 
@@ -52,7 +57,13 @@ Recovered context suggests she complimented or responded positively to Mirei's p
 
 Harvus' light timeline records that after transfer to the new boat, he socialized with Badger and that she "digs me...ish."
 
-This is not a confirmed friendly/helpful state, but it is evidence that Badger may have warmed socially to Harvus.
+This is not by itself a confirmed friendly/helpful state, but it is evidence that Badger warmed socially to Harvus.
+
+### Rak Sheet Evidence
+
+Rak's Foundry notes list Badger under Helpful NPCs.
+
+This is stronger than the Harvus note, but it remains player-perspective evidence until reconciled.
 
 ### Placement Uncertainty
 
@@ -76,6 +87,12 @@ Badger socialized with Harvus aboard the Man's Promise and may have warmed to hi
 
 This could matter if she is aboard when Harvus returns with rescued captives.
 
+### Rak Wraithraiser / Wraithriser
+
+Rak's player sheet lists Badger as helpful.
+
+If accurate, Badger may be part of Rak's perceived support network.
+
 ### PCs Generally
 
 Badger's exact attitude toward each PC needs reconstruction.
@@ -88,7 +105,7 @@ Badger is not currently defined as Plugg-loyal, but fear and shipboard pressure 
 
 - Location: Unresolved
 - Status: Presumed alive
-- Political state: Unknown, but possibly warmed toward Harvus and/or Mirei
+- Political state: Unknown, but possibly warmed toward Harvus and/or Mirei and listed helpful by Rak
 - Practical role: Sailor / possible social witness
 
 ## Campaign Function at Relaunch
@@ -99,11 +116,15 @@ If aboard, she can represent the uncertain lower crew who may not love the PCs b
 
 Harvus' rescue may matter to her if she had already warmed to him.
 
+Rak's helpful listing may make her one of the most important attitude confirmations to resolve.
+
 ## Open Questions
 
 - Is Badger aboard the Man's Promise or the Wormwood?
+- Does the formal influence tracker confirm Rak's helpful note?
 - What is her exact attitude toward Mirei?
 - What is her exact attitude toward Harvus?
+- What is her exact attitude toward Rak?
 - Did she witness Mirei's treatment by Plugg?
 - Does she know Sandara survived?
 - Would she fight, hide, abstain, or shift sides in a mutiny?
