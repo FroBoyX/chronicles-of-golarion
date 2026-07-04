@@ -32,34 +32,31 @@ Short answers are fine. No need to remember exact rules.
 9. Did Rak consider Harvus, Sho, and Mirei his crew by the Bonewrack fork, or just people he had survived with?
 10. What does Rak think of Sho judging his violence during the Man's Promise boarding?
 11. Does Rak have a personal line about killing surrendered, unconscious, or helpless enemies?
-12. How does Rak feel about Harvus having lost the +1 returning spear?
-13. Does Rak want repayment for the spear, an apology, or is the debt mostly a joke?
-14. What does Rak think of Mirei after everything with Plugg and the cave rescue?
+12. How does Rak think about Mirei before the fork: compromised, useful, suspicious, sympathetic, or something else?
 
 ## Friends, Enemies, and Loose Grudges
 
-15. Your sheet lists Grok, Ambrose, Badger, Tilly, and Sandara as helpful. Which of those relationships actually mattered emotionally to Rak?
-16. What made Jack only "Friendly?" instead of clearly trusted?
-17. Why were Patch and Tate/Tam only indifferent rather than enemies?
-18. Why is Maheem on Rak's "kill if a moment arises" list?
-19. Is Slippery Syl just an enemy, or does Rak respect her competence at all?
-20. Did Shivikah helping Rak during the frog fight change how he sees her?
+13. What made Jack only "Friendly?" instead of clearly trusted?
+14. Why were Patch and Tate/Tam only indifferent rather than enemies?
+15. Why is Maheem on Rak's "kill if a moment arises" list?
+16. Is Slippery Syl just an enemy, or does Rak respect her competence at all?
+17. Did Shivikah helping Rak during the frog fight change how he sees her?
 
 ## Bonewrack and the Cold Open
 
-21. At the fork, what is Rak's immediate priority: survive Syl, get supplies, find Harvus/Mirei, rescue Sho, return to the ship, or something else?
-22. If Rak sees Harvus, Mirei, Sandara, Tilly, and Goyle alive, what is his first instinct?
-23. Does Rak think the Bonewrack situation is becoming something bigger than a supply run, or is he focused on practical survival?
-24. What does Rak think the group should do about Plugg and Scourge if they get the upper hand?
+18. At the fork, what is Rak's immediate priority: survive Syl, get supplies, find Harvus/Mirei, rescue Sho, return to the ship, or something else?
+19. If Rak hears voices or sees signs of the others ahead, what is his first instinct?
+20. Does Rak think the Bonewrack situation is becoming something bigger than a supply run, or is he focused on practical survival?
+21. What does Rak think the group should do about Plugg and Scourge if they get the upper hand?
 
 ## Ship Future
 
-25. If the Man's Promise becomes available, does Rak want to take it, leave it, sell it, rename it, or see who can actually hold it?
-26. Would Rak accept a captain, a vote, a council, or rule-by-whoever-is-strong-enough?
-27. What role would Rak actually want on a free ship: captain, quartermaster, cook, alchemist/surgeon, enforcer, chaos agent, or something else?
-28. What would make Rak stay with the others after Book One?
-29. What would make Rak walk away?
+22. If the Man's Promise becomes available, does Rak want to take it, leave it, sell it, rename it, or see who can actually hold it?
+23. Would Rak accept a captain, a vote, a council, or rule-by-whoever-is-strong-enough?
+24. What role would Rak actually want on a free ship: captain, quartermaster, cook, alchemist/surgeon, enforcer, chaos agent, or something else?
+25. What would make Rak stay with the others after Book One?
+26. What would make Rak walk away?
 
 ## One Missing Thing
 
-30. What is the biggest thing about Rak that sheets and logs do not capture?
+27. What is the biggest thing about Rak that sheets and logs do not capture?
