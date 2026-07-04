@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Rak player-sheet evidence
 - Scope: Wormwood officer-adjacent hostile NPC, transfer status unresolved
 
 ## Overview
@@ -14,6 +14,8 @@ She is dangerous because she belongs to the officer-adjacent hostile layer rathe
 
 Her current placement after the Man's Promise prize-crew split needs confirmation.
 
+Rak's player sheet lists Patch as indifferent, which conflicts with the baseline assumption that Patch is firmly Plugg/Scourge-aligned. Treat this as player-perspective evidence requiring reconciliation.
+
 ## Identity
 
 - Name: Patch Patchsalt
@@ -23,6 +25,7 @@ Her current placement after the Man's Promise prize-crew split needs confirmatio
 - Baseline alignment: Chaotic Evil
 - Current location: Unresolved — Wormwood or Man's Promise
 - Current status: Presumed alive
+- Rak sheet evidence: Indifferent
 
 ## Baseline Adventure Path Role
 
@@ -35,6 +38,8 @@ She is more dangerous than a generic lower-crew pirate and may appear as part of
 Patch adds knife-edge threat and sadism to the officer-adjacent layer.
 
 Recovered context suggests she helped force surrender during the Man's Promise battle and has a threatening, dagger-focused presence.
+
+Rak's sheet complicates this by listing her as indifferent rather than hostile from Rak's perspective.
 
 ## Campaign History
 
@@ -50,7 +55,7 @@ During the boarding, Patch may have helped force the Rahadoumi officer or anothe
 
 Patch's current placement after the split needs confirmation.
 
-If aboard the Man's Promise, she is a significant hostile asset for Plugg and Scourge.
+If aboard the Man's Promise, she is a significant hostile asset for Plugg and Scourge unless the campaign's actual influence state softened her stance.
 
 If still aboard the Wormwood, she remains part of Harrigan's future threat ecosystem.
 
@@ -58,11 +63,15 @@ If still aboard the Wormwood, she remains part of Harrigan's future threat ecosy
 
 ### Plugg and Scourge
 
-Patch is aligned with them and likely benefits from their power.
+Patch is aligned with them in baseline material and likely benefits from their power.
 
-### Rak Wraithraiser
+Rak's sheet may indicate that Patch was less personally hostile toward Rak than expected, but this does not automatically make her safe.
+
+### Rak Wraithraiser / Wraithriser
 
 Recovered context includes Patch interacting with Rak in a threatening or flirtatious knife-centered way.
+
+Rak's Foundry notes list Patch as indifferent.
 
 This should be reconstructed from logs.
 
@@ -70,13 +79,13 @@ This should be reconstructed from logs.
 
 Patch is unlikely to be a safe ally.
 
-Her attitude should be treated as hostile unless specific play contradicts it.
+Her attitude should be treated as unresolved between baseline hostility and Rak's player-sheet indifferent note until confirmed.
 
 ## Current State
 
 - Location: Unresolved
 - Status: Presumed alive
-- Political state: Plugg/Scourge-aligned if present
+- Political state: Plugg/Scourge-aligned in baseline, but Rak sheet says indifferent
 - Practical threat: Rogue/fighter-style knife threat and intimidation
 
 ## Campaign Function at Relaunch
@@ -89,12 +98,14 @@ If aboard the Man's Promise, she may:
 - support Scourge,
 - threaten prisoners,
 - ambush during mutiny,
+- remain indifferent to Rak specifically,
 - or flee if command collapses.
 
 ## Open Questions
 
 - Is Patch aboard the Man's Promise?
 - Was she part of Plugg's selected prize crew?
+- Does the formal influence tracker support Rak's indifferent note?
 - What happened between Patch and Rak in the logs?
 - Does Patch know Sho is locked up?
 - Would Patch obey Plugg if Scourge falls?
