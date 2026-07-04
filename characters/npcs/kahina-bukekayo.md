@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue
 - Scope: Man's Promise survivor, Sho hot-box counterpart, potential anti-Plugg actor
 
 ## Overview
@@ -19,7 +19,7 @@ Kahina may be willing to act against Plugg and Scourge, but she does not automat
 - Name: Kahina Bukekayo
 - Type: NPC
 - Origin: Man's Promise survivor
-- Likely role: Warrior or rigger / sailor
+- Likely role: Guard / warrior / sailor
 - Current location: Man's Promise
 - Current status: Alive
 - Immediate scene partner: Sho Astor
@@ -42,7 +42,7 @@ Her relevance is that she may see Sho as:
 
 ## Physical / Presence Notes
 
-Recovered context presents Kahina as a tall, slender warrior figure from the Man's Promise side.
+Recovered context presents Kahina as a Man's Promise guard and warrior figure.
 
 She should feel composed, severe, and dangerous rather than theatrical.
 
@@ -58,6 +58,38 @@ Kahina challenged Sho's remorse.
 
 Words are not enough.
 
+## Arodus 5 Hot-Box Conversation
+
+Sho called out from captivity and Kahina came around the corner.
+
+Kahina told Sho that the ship had set sail for the far shore to take on supplies and would then leave for an unknown destination.
+
+Sho asked why Kahina would blindly follow those in command of a massacre.
+
+Kahina turned that accusation back on Sho, asking how long Sho had blindly followed those same men before being chained to the mast or hot-boxed.
+
+Kahina said she saw Sho lead a group onto the Man's Promise and that more than thirty people lost their lives.
+
+She told Sho that Plugg and Scourge would find the justice of the sea, and so would Sho.
+
+Sho expressed remorse, said she had tried to take command of those on the boat and failed, and said all she could do was try to live, escape, and kill the cretins in charge.
+
+Sho asked Kahina to help her and said that if they succeeded, Kahina could decide what to do with Sho afterward.
+
+Kahina answered that Sho's words meant nothing.
+
+But because Sho was dead anyway, Kahina asked whether Sho would kill for repentance, kill those who torment them, and lose her life to end theirs.
+
+Sho said she would do everything in her power.
+
+Kahina corrected her: not everything in her power. Their lives, or Sho's.
+
+If Sho hesitates, Kahina will ensure Sho dies for her sins.
+
+Sho accepted.
+
+Kahina told her to stay put, almost with a hint of jest, then walked away.
+
 ## Relationship With Sho
 
 Sho has moral conflict about the Man's Promise boarding and the deaths caused by the Wormwood attack.
@@ -68,9 +100,11 @@ The essential question is:
 
 > If Sho claims regret, what will she risk to make that regret real?
 
-Kahina may require Sho to kill, betray, or help destroy the people currently holding power over the ship.
+The Arodus 5 conversation defines Kahina's test clearly:
 
-She may also be testing whether Sho hesitates.
+> Their lives, or Sho's.
+
+This is a life-for-life test, not a general promise to help.
 
 ## Relationship With Plugg and Scourge
 
@@ -105,8 +139,9 @@ She may also refuse to distinguish between them at first.
 
 - Location: Man's Promise
 - Status: Alive
-- Scene: Near or recently near Sho's hot-box
+- Scene: Recently left Sho's hot-box after issuing the life-for-life test
 - Immediate leverage: Can offer Sho a path to act against Plugg and Scourge, but only under moral pressure
+- Immediate warning: If Sho hesitates when the moment comes, Kahina has threatened to ensure Sho dies for her sins
 
 ## Campaign Function at Relaunch
 
@@ -126,6 +161,7 @@ Kahina may:
 - organize Man's Promise survivors,
 - reveal shipboard information,
 - betray Sho if she hesitates,
+- kill Sho if Sho fails the life-for-life test,
 - or oppose both Plugg and the PCs.
 
 ## What Not To Assume
@@ -138,11 +174,10 @@ Her position should be conditional on what Sho says and does.
 
 ## Open Questions
 
-- What exact words did Sho and Kahina exchange in the chat logs?
 - Does Kahina have authority among the Man's Promise survivors?
 - How many Man's Promise survivors are still aboard and capable of acting?
 - Does Kahina know Goyle survived?
 - Does Kahina know Plugg pushed Goyle overboard?
 - What does Kahina want besides revenge?
-- What would convince Kahina that Sho is sincere?
+- What would convince Kahina that Sho is sincere beyond killing Plugg or Scourge?
 - What would make Kahina decide Sho deserves to die with the rest?
