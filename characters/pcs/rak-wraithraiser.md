@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Arodus 5 split-scene log
 - Scope: Book One continuity, current state, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -23,7 +23,7 @@ Rak is not simply comic relief. His choices repeatedly affect survival, loyalty,
 - Book One role: Cook's mate under Ambrose Kroop
 - Current location: Bonewrack Isle, moving toward the fork
 - Current companions: Shivikah, Slippery Syl Lonegan, Jaundiced Jape
-- Current status: Alive, guiding a hostile or semi-hostile recovery party
+- Current status: Alive, bloodied/recovering from island hazards, guiding a hostile or semi-hostile recovery party
 
 ## Backstory
 
@@ -97,13 +97,59 @@ Rak therefore missed the final Whale kill, but Harvus used Rak's magical spear t
 
 The spear was likely lost in the Cauldron pool, pending player confirmation.
 
+### Report to Scourge
+
+Rak told Scourge about the food and water route, including the broken bridge.
+
+Scourge used this information to change the plan, ordering Syl to lead a supply team while forbidding any stop at the caverns.
+
 ### Current Supply Party
 
 Rak is currently guiding Shivikah, Slippery Syl Lonegan, and Jaundiced Jape across the island.
 
-Fipps Chumlett is at the beach, separated from the moving group for reasons not yet reconstructed.
+Fipps Chumlett was part of the original supply party but was ordered by Syl to remain at Coconut Beach because the ship was expected to meet there.
 
 Rak is useful because he knows the island route and hazards, but he is not trusted by the group he guides.
+
+### Broken Bridge / Frog Fight
+
+Rak led the group to the broken bridge and explained the choices: jump across posts or climb through trees.
+
+He attempted to cross with "PARKOUR," fell into the water, and called for help.
+
+A frog attacked him, biting into his neck and wrapping its tongue around him.
+
+Shivikah dove in and helped cut him free.
+
+Rak was bloodied during the fight but survived.
+
+### Burning Tree and Botflies
+
+Rak guided the group toward the burning tree and identified the smoke as the marker from the earlier burned camp.
+
+When the group heard or saw swarms, Rak wanted to run faster, but Syl forced group movement and formation because she needed him alive.
+
+At the burned tree, Rak answered Syl's question about what happened there with alchemy-themed hissing.
+
+### Cornfield Caution
+
+Near the cornfields, Rak suggested resting or moving cautiously because the fields had not been investigated.
+
+Syl rejected his opinion and threatened him over insubordination.
+
+Rak replied that if she needed him alive, he would go cautiously.
+
+This establishes Rak as not simply obedient under Syl's threat.
+
+### Coconut Beach and Final Approach
+
+At Coconut Beach, Rak pointed out the coconut trees in a tour-guide voice.
+
+Syl ordered Fipps to stay there because the ship should be meeting them soon.
+
+Rak, Syl, Shivikah, and Jape pushed on.
+
+At the final cold-open beat, Rak hears something ahead.
 
 ## Relationships
 
@@ -127,9 +173,13 @@ She is also disturbed by his violence.
 
 This relationship may become one of the key tests of whether the PCs actually become a party.
 
+Rak knows Sho was beaten unconscious and removed after the beach confrontation, but not that she has made a life-for-life bargain with Kahina.
+
 ### Harvus G'ron
 
 Rak helped save Harvus from the first Riptide Cove failure.
+
+Rak gave Harvus Sandara's holy symbol before the island search.
 
 Harvus later killed the Whale with Rak's spear.
 
@@ -145,9 +195,13 @@ Syl is currently with Rak and represents immediate danger.
 
 She needs Rak alive for island knowledge but does not respect or trust him.
 
+She has repeatedly threatened him while also protecting his usefulness.
+
 ### Shivikah
 
 Shivikah is with Rak's group.
+
+She helped Rak during the frog fight, then sneered that she expected more from him.
 
 She may be more movable than Syl or Jape depending on what she sees at the fork.
 
@@ -155,15 +209,20 @@ She may be more movable than Syl or Jape depending on what she sees at the fork.
 
 Jape is with Rak's group and should be treated as dangerous or hostile unless play changes that.
 
+He struggled in the water during the frog fight but eventually landed the final hit.
+
 ## Current Knowledge
 
 Rak knows:
 
 - routes and hazards on Bonewrack Isle,
 - food and water objectives,
+- Scourge explicitly forbade stopping at the caverns,
+- the ship is expected to meet at the south / coconut beach,
 - Sho was beaten unconscious and taken away,
 - Harvus and Mirei were last headed toward or still involved with Riptide Cove,
-- Fipps is at the beach.
+- Fipps is at Coconut Beach because Syl ordered him to remain there,
+- the stronghold and spring remain ahead or nearby depending on exact path point.
 
 Rak likely does not know:
 
@@ -180,6 +239,8 @@ He brings hostile witnesses and practical route control into contact with Harvus
 
 His scene can determine whether the island-side crisis becomes negotiation, ambush, panic, or alliance.
 
+The final cold-open beat is Rak hearing something ahead.
+
 ## Open Threads
 
 - Does Rak know or care that his spear killed the Whale?
@@ -190,3 +251,4 @@ His scene can determine whether the island-side crisis becomes negotiation, ambu
 - Does Rak consider the PCs his crew, temporary allies, or convenient companions?
 - How does Rak react to Harvus' rescue legend?
 - Does Rak's pirate lineage matter to the crew after the island?
+- How does Rak handle Syl if the fork reveals rescued witnesses?
