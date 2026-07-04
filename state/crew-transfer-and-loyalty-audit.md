@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, expanded with Rak player-sheet evidence
+- Maturity: Draft, expanded with Rak and Sho player-sheet evidence
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -30,7 +30,7 @@ Used for current cold-open placement and split-scene state.
 
 Used for Harvus perspective, influence notes, and item movement.
 
-### Rak Foundry Player Sheet
+### Rak Foundry / PCGen Player Sheets
 
 Used for Rak's mechanics snapshot, inventory evidence, and player-perspective NPC attitude notes.
 
@@ -44,14 +44,27 @@ Rak's sheet records:
 
 These are player-sheet notes, not final objective truth. Treat them as Rak/player perspective unless corroborated.
 
+### Sho PCGen Player Sheet
+
+Used for Sho's mechanical identity, moral notes, and Man's Promise survivor references.
+
+Sho's notes record:
+
+- possible foul play with Giffer's body,
+- caution around Maheem/Muheem, Fipps, Jaundiced, and Slippery,
+- pending conversations with Crimson and Ratline,
+- grief and anger over the Man's Promise boarding slaughter,
+- Nor'Gal and dead brother Cor'Wal name evidence,
+- and Goyle as former quartermaster of the Man's Promise.
+
 ## Known Current PCs
 
 | Character | Current Location | Status | Notes |
 |---|---|---|---|
 | Harvus G'ron | Bonewrack Isle, returning from Riptide Cove | Alive | Rescued Sandara, Tilly, and Goyle; killed the Whale. |
 | Mirei | Bonewrack Isle, returning from Riptide Cove | Alive | Accompanied Harvus; did not carry out Plugg's betrayal order. |
-| Rak Wraithraiser / Wraithriser | Bonewrack Isle, moving supply party | Alive | Guiding Syl, Shivikah, and Jape; player sheet spelling uses Wraithriser. |
-| Sho Astor | Man's Promise hot-box | Alive | Still believed locked up; speaking or recently spoke with Kahina. |
+| Rak Wraithraiser / Wraithriser | Bonewrack Isle, moving supply party | Alive | Guiding Syl, Shivikah, and Jape; PCGen PDF supports Wraithraiser spelling, Foundry used Wraithriser. |
+| Sho Astor | Man's Promise hot-box | Alive | Still believed locked up; speaking or recently spoke with Kahina; PCGen notes may preserve 15/25 HP and 17 nonlethal. |
 
 ## Known Man's Promise / Bonewrack NPCs
 
@@ -61,11 +74,11 @@ These are player-sheet notes, not final objective truth. Treat them as Rak/playe
 | Master Scourge | Man's Promise / command structure | Alive | Plugg's enforcer. |
 | Sandara Quinn | Bonewrack, Harvus group | Alive | Rescued; likely anti-Plugg; helpful from Rak sheet. |
 | Tilly Brackett | Bonewrack, Harvus group | Alive | Rescued; likely witness to rescue; helpful from Rak sheet. |
-| Goyle Onórach | Bonewrack, Harvus group | Alive | Witness against Plugg; Man's Promise survivor. |
+| Goyle Onórach | Bonewrack, Harvus group | Alive | Witness against Plugg; former Man's Promise quartermaster per Sho sheet. |
 | Shivikah | Bonewrack, Rak group | Alive | Hostile/unfriendly but possibly movable; helped Rak in frog fight. |
-| Slippery Syl Lonegan | Bonewrack, Rak group | Alive | Hostile, violent, opportunistic; unfriendly from Rak sheet. |
-| Jaundiced Jape | Bonewrack, Rak group | Alive | Hostile, silent threat. |
-| Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; left at Coconut Beach by Syl because ship was expected there. |
+| Slippery Syl Lonegan | Bonewrack, Rak group | Alive | Hostile, violent, opportunistic; unfriendly from Rak sheet; on Sho watch list. |
+| Jaundiced Jape | Bonewrack, Rak group | Alive | Hostile, silent threat; on Sho watch list. |
+| Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; left at Coconut Beach by Syl because ship was expected there; on Sho watch list. |
 | Kahina Bukekayo | Man's Promise | Alive | Man's Promise survivor; Sho's current moral interrogator. |
 | Ambrose Kroop | Man's Promise | Alive | Practical ally; likely anti-Plugg but survival-minded; helpful from Rak sheet. |
 | Owlbear Hartshorn | Man's Promise | Presumed alive | Plugg-controlled unless prior friendship changes him. |
@@ -88,24 +101,25 @@ These are player-sheet notes, not final objective truth. Treat them as Rak/playe
 | Jakes Magpie | Dead | Keelhauled early aboard Wormwood. |
 | Rosie Cusswell | Dead / lost at sea | Lost during storm despite rescue efforts. |
 | Aretta Bansion | Dead | Died after conflict with Sho in the bilges. |
-| Giffer Tibbs | Dead | Killed during Man's Promise boarding. |
+| Giffer Tibbs | Dead | Killed during Man's Promise boarding in working record; Sho notes possible foul play with body and need reconstruction. |
 | Harmak Gruft | Dead | Body caged on Wormwood. |
-| Kor'al Daraa | Dead | Man's Promise sailor; brother Nor'gal may remain. |
+| Kor'al / Cor'Wal Daraa | Dead | Man's Promise sailor; brother of Nor'gal / Nor'Gal per Sho notes. |
 
 ## Unresolved Placement / Status
 
 | Character | Possible States | Notes |
 |---|---|---|
 | Badger Medlar | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists helpful. |
-| Maheem | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists kill-if-a-moment-arises. |
+| Maheem / Muheem | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists kill-if-a-moment-arises; on Sho watch list. |
 | Barefoot Samms Toppin | Man's Promise likely | Harvus light-log says friendly; needs placement confirmation. |
 | Jack Scrimshaw | Man's Promise likely | Rak sheet lists friendly?, uncertain. |
-| Ratline Rattsberger | Man's Promise likely | Harvus influenced him; needs placement confirmation. |
+| Ratline Rattsberger | Man's Promise likely | Harvus influenced him; Sho wants to discuss something with him. |
 | Conchobhar Turlach Shortstone | Man's Promise likely | Harvus strongly influenced him; needs placement confirmation. |
 | Tam "Narwhal" Tate | Man's Promise likely | Rak sheet lists indifferent maybe/not sure. |
 | Kipper | Unknown | Burned in battle; transfer status needs confirmation. |
 | Patch Patchsalt | Unknown | Rak sheet lists indifferent; placement and true loyalty need confirmation. |
-| Nor'gal Daraa | Man's Promise survivor / unknown | Brother of Kor'al; possible revenge thread. |
+| Nor'gal / Nor'Gal Daraa | Man's Promise survivor / unknown | Brother of Kor'al / Cor'Wal; possible revenge thread; named in Sho notes. |
+| Crimson | Unknown | Sho notes say she has something to discuss with Crimson; identity unresolved. |
 | Dahrehn Numus | Man's Promise survivor / unknown | Status and role need confirmation. |
 | Ebony Saable | Man's Promise survivor / unknown | Status and role need confirmation. |
 | Merchiel V'giatore | Man's Promise survivor / unknown | Status and role need confirmation. |
@@ -123,7 +137,7 @@ Likely:
 - Jaundiced Jape
 - Fipps Chumlett
 - possibly Tam Tate, though Rak sheet lists indifferent maybe
-- possibly Maheem, though Rak has personal kill intent toward him
+- possibly Maheem, though Rak has personal kill intent toward him and Sho marked him for caution
 - possibly Kipper
 - any hostile Rahadoumi or Wormwood sailors spared by Plugg
 
@@ -139,7 +153,7 @@ Likely or player-evidenced:
 - Grok, if Wormwood-side contact becomes relevant
 - Badger Medlar, per Rak sheet, pending placement confirmation
 - Samms Toppin, per Harvus light-log, pending placement confirmation
-- Goyle Onórach, conditionally
+- Goyle Onórach, conditionally and potentially with quartermaster weight
 - possibly Owlbear if befriended
 - possibly Jack Scrimshaw, per Rak sheet friendly? note
 
@@ -148,8 +162,8 @@ Likely or player-evidenced:
 Likely includes:
 
 - Kahina Bukekayo
-- Goyle Onórach
-- Nor'gal Daraa if alive
+- Goyle Onórach, former quartermaster if Sho sheet is confirmed
+- Nor'gal / Nor'Gal Daraa if alive
 - other surviving Man's Promise sailors
 
 This bloc may oppose Plugg while still distrusting the PCs.
@@ -172,6 +186,8 @@ Before running the return to the Man's Promise, determine or confirm:
 6. Who will flee?
 7. Who will refuse to serve under specific leaders?
 8. Which player-sheet attitude notes reflect actual influence state versus player impression?
+9. Which Man's Promise survivor names and spellings are final?
+10. What Sho's Giffer-body suspicion refers to.
 
 ## Design Note
 
@@ -185,9 +201,14 @@ If too many people die or leave, the ship may become a prize no one can actually
 
 - Resolve Badger placement and confirm why Rak's sheet lists her helpful.
 - Resolve Maheem placement and why Rak wants to kill him if a moment arises.
+- Resolve Sho's Maheem/Muheem, Fipps, Jaundiced, and Slippery watch-list context.
 - Resolve Samms, Jack, Ratline, Conchobhar, and Tam placement.
+- Resolve what Sho needs to discuss with Ratline.
+- Identify Crimson and resolve what Sho needs to discuss with them.
 - Resolve Kipper and Patch placement.
 - Reconcile Patch baseline hostility with Rak sheet's indifferent note.
 - List surviving Man's Promise original crew.
+- Confirm Goyle's former quartermaster status.
+- Resolve Nor'Gal / Nor'gal and Cor'Wal / Kor'al spellings.
 - Confirm whether Owlbear is befriended by Sho or another PC.
 - Confirm exact hostile/friendly/helpful attitudes from the old influence tracker if available.
