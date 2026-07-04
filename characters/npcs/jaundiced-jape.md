@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Arodus 5 split-scene log
 - Scope: Hostile lower-crew NPC, current Bonewrack fork participant
 
 ## Overview
@@ -47,6 +47,8 @@ Jape was part of the hostile lower crew aboard the Wormwood.
 
 He participated in or aligned with Scourge's early harassment structure against the PCs.
 
+Harvus recognized him on waking aboard the Wormwood, tying Jape to the press-ganging context in Harvus' memory.
+
 ### Man's Promise
 
 Jape transferred to the Man's Promise prize crew and remained in the hostile bloc.
@@ -55,9 +57,11 @@ Jape transferred to the Man's Promise prize crew and remained in the hostile blo
 
 Jape is currently part of the island supply party moving with Rak, Shivikah, and Syl.
 
-He has survived the island hazards to this point.
+During the broken bridge / frog sequence, Jape drew his cutlass but was bumped away by the frog.
 
-Recovered context suggests he was involved in the frog/mire sequence and may have struggled in the water before recovering or landing a final blow.
+He struggled to fight in the water, then finally got control of his swimming and landed the final hit before seeming to get stuck or starting to sink.
+
+During Syl's later confrontation with Rak, Jape appears disinterested in the exchange.
 
 ## Relationships
 
@@ -71,9 +75,11 @@ Rak's physicality and pirate confidence may matter more to Jape than speeches.
 
 ### Slippery Syl Lonegan
 
-Syl may be the more dominant hostile personality in the group.
+Syl is the assigned leader of the moving group.
 
-Jape's response to her leadership or opportunism should be reconstructed through play.
+Jape follows the movement and formation, but he is not recorded as verbally engaging due to muteness.
+
+His apparent disinterest during Syl and Rak's confrontation should not be mistaken for harmlessness.
 
 ### Shivikah
 
@@ -87,11 +93,12 @@ Whether this is loyalty, fear, greed, or convenience remains open.
 
 ## Current State
 
-- Location: Bonewrack Isle, near the fork route
+- Location: Bonewrack Isle, near the fork route after passing Coconut Beach
 - Companions: Rak, Shivikah, Slippery Syl
-- Not with group: Fipps, at the beach
+- Not with group: Fipps, ordered by Syl to remain at Coconut Beach
 - Objective: Recover food and water, or at least return useful enough to survive Plugg's command
 - Immediate risk: collision with rescued Harvus group
+- Relevant condition: Survived the frog fight after struggling in the water; exact injury state unknown
 
 ## Campaign Function at Relaunch
 
