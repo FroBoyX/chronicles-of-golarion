@@ -14,7 +14,9 @@
 **Erastus 4 — Port Peril**  
 **The Formidably Maid**
 
-For different reasons, **Harvus G'ron**, **Mirei**, **Sho Astor**, and **Rak Wraithraiser** all found themselves at the **Formidably Maid**, a tavern notorious as a pirate hangout in **Port Peril**.
+For different reasons, **Harvus G'ron**, **Mirei**, **Sho Astor**, **Rak Wraithraiser**, and **Conchobhar Turlach Shortstone** all passed through the same ugly net in Port Peril.
+
+Most of them found themselves at the **Formidably Maid**, a tavern notorious as a pirate hangout near the docks.
 
 To them, it was a tavern.
 
@@ -120,11 +122,17 @@ He found one.
 
 ## The Fate of Conchobhar
 
-Conchobhar Turlach Shortstone was another prize of the same ugly trade.
+Conchobhar Turlach Shortstone had the bad fortune to be exactly the sort of man the Wormwood could use and the worse fortune to be exactly the sort of man who could be made to miss the danger until it was too late.
 
-A handsome gnome with a honeyed tongue, a foppish hat, and the confidence of someone who often mistook attention for safety, Conchobhar had been drinking with Wormwood crew and failed to notice the cosh before it was too late.
+A handsome gnome with a honeyed tongue, a foppish hat, an eyepatch, a silk shirt, and a cane, Conchobhar looked like someone playing at piracy. He was theatrical, self-involved, charming, and convinced enough of his own performance that attention could easily be mistaken for safety.
 
-By the time the others opened their eyes aboard ship, he had barely been aboard longer than they had.
+He had been drinking with Wormwood hands.
+
+Perhaps he thought he had found an audience. Perhaps he thought he had found company. Perhaps he simply enjoyed being admired.
+
+Whatever he thought, he failed to notice the cosh before it was too late.
+
+By the time the others opened their eyes aboard ship, Conchobhar had barely been aboard longer than they had.
 
 He was not proof that press-ganged people naturally stand together.
 
@@ -242,9 +250,9 @@ That was enough.
 
 ## Revision Notes
 
-- This version replaces the earlier loose reconstruction with direct adaptation of GM-written Obsidian Portal prose for all four primary press-ganged PCs.
+- This version replaces the earlier loose reconstruction with direct adaptation of GM-written Obsidian Portal prose for the four primary press-ganged PCs and an integrated Conchobhar capture beat.
 - Harvus' section remains the most direct paraphrase because the old prose is detailed and already dramatically complete.
 - Sho's section preserves Kipper's disguise and the Ghol-Gan map hook.
 - Mirei's section preserves the moonlit bay, Syl's tailing, the sap attack, and the theft before delivery to the Wormwood.
 - Rak's section preserves Melina Drakesworn's arrangement, Scourge's observation, and Patch/Shivikah collecting him.
-- Conchobhar's section remains sourced from his dossier rather than the pasted old prose, because he was not included in the original four-character post body.
+- Conchobhar's section is included by GM direction and drawn from the existing dossier: drinking with Wormwood crew, theatrical self-presentation, and failing to notice the cosh.
