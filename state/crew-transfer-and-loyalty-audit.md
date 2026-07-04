@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft
+- Maturity: Draft, expanded with Rak player-sheet evidence
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -16,9 +16,33 @@ It is intended to support the relaunch by preventing crew-state drift.
 
 The published adventure assumes that enough hostile or unfriendly crew transfer with Plugg to create a final mutiny battle.
 
-The campaign has added deaths, relationships, rescues, split scenes, and uncertain placements.
+The campaign has added deaths, relationships, rescues, split scenes, player-specific influence notes, and uncertain placements.
 
 Therefore the current crew state must be audited rather than assumed.
+
+## Evidence Layers
+
+### Final-Session Chat Log
+
+Used for current cold-open placement and split-scene state.
+
+### Harvus Light Timeline
+
+Used for Harvus perspective, influence notes, and item movement.
+
+### Rak Foundry Player Sheet
+
+Used for Rak's mechanics snapshot, inventory evidence, and player-perspective NPC attitude notes.
+
+Rak's sheet records:
+
+- Helpful: Grok, Ambrose, Badger, Tilly, Sandara
+- Friendly?: Jack
+- Indifferent: Patch, Tate maybe
+- Unfriendly: Slippery
+- Kill-if-a-moment-arises: Maheem
+
+These are player-sheet notes, not final objective truth. Treat them as Rak/player perspective unless corroborated.
 
 ## Known Current PCs
 
@@ -26,7 +50,7 @@ Therefore the current crew state must be audited rather than assumed.
 |---|---|---|---|
 | Harvus G'ron | Bonewrack Isle, returning from Riptide Cove | Alive | Rescued Sandara, Tilly, and Goyle; killed the Whale. |
 | Mirei | Bonewrack Isle, returning from Riptide Cove | Alive | Accompanied Harvus; did not carry out Plugg's betrayal order. |
-| Rak Wraithraiser | Bonewrack Isle, moving supply party | Alive | Guiding Syl, Shivikah, and Jape. |
+| Rak Wraithraiser / Wraithriser | Bonewrack Isle, moving supply party | Alive | Guiding Syl, Shivikah, and Jape; player sheet spelling uses Wraithriser. |
 | Sho Astor | Man's Promise hot-box | Alive | Still believed locked up; speaking or recently spoke with Kahina. |
 
 ## Known Man's Promise / Bonewrack NPCs
@@ -35,15 +59,15 @@ Therefore the current crew state must be audited rather than assumed.
 |---|---|---|---|
 | Mr. Plugg | Man's Promise | Alive | Claims command. |
 | Master Scourge | Man's Promise / command structure | Alive | Plugg's enforcer. |
-| Sandara Quinn | Bonewrack, Harvus group | Alive | Rescued; likely anti-Plugg. |
-| Tilly Brackett | Bonewrack, Harvus group | Alive | Rescued; likely witness to rescue. |
+| Sandara Quinn | Bonewrack, Harvus group | Alive | Rescued; likely anti-Plugg; helpful from Rak sheet. |
+| Tilly Brackett | Bonewrack, Harvus group | Alive | Rescued; likely witness to rescue; helpful from Rak sheet. |
 | Goyle Onórach | Bonewrack, Harvus group | Alive | Witness against Plugg; Man's Promise survivor. |
-| Shivikah | Bonewrack, Rak group | Alive | Hostile/unfriendly but possibly movable. |
-| Slippery Syl Lonegan | Bonewrack, Rak group | Alive | Hostile, violent, opportunistic. |
+| Shivikah | Bonewrack, Rak group | Alive | Hostile/unfriendly but possibly movable; helped Rak in frog fight. |
+| Slippery Syl Lonegan | Bonewrack, Rak group | Alive | Hostile, violent, opportunistic; unfriendly from Rak sheet. |
 | Jaundiced Jape | Bonewrack, Rak group | Alive | Hostile, silent threat. |
-| Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; separated from Rak group for unclear reason. |
+| Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; left at Coconut Beach by Syl because ship was expected there. |
 | Kahina Bukekayo | Man's Promise | Alive | Man's Promise survivor; Sho's current moral interrogator. |
-| Ambrose Kroop | Man's Promise | Alive | Practical ally; likely anti-Plugg but survival-minded. |
+| Ambrose Kroop | Man's Promise | Alive | Practical ally; likely anti-Plugg but survival-minded; helpful from Rak sheet. |
 | Owlbear Hartshorn | Man's Promise | Presumed alive | Plugg-controlled unless prior friendship changes him. |
 
 ## Known Wormwood-Side NPCs
@@ -51,7 +75,7 @@ Therefore the current crew state must be audited rather than assumed.
 | Character | Current Location | Status | Notes |
 |---|---|---|---|
 | Barnabas Harrigan | Wormwood | Alive | Strategic future threat. |
-| Cut-Throat Grok | Wormwood | Alive | Parted sentimentally from Rak. |
+| Cut-Throat Grok | Wormwood | Alive | Parted sentimentally from Rak; helpful from Rak sheet. |
 | Peppery Longfarthing | Wormwood likely | Presumed alive | Placement should be confirmed. |
 | Riaris Krine | Wormwood likely | Presumed alive | Placement should be confirmed. |
 | Habbly Quarne | Wormwood likely | Presumed alive | Placement should be confirmed. |
@@ -72,15 +96,15 @@ Therefore the current crew state must be audited rather than assumed.
 
 | Character | Possible States | Notes |
 |---|---|---|
-| Badger Medlar | Man's Promise or Wormwood | Conflicting evidence. Needs confirmation. |
-| Maheem | Man's Promise or Wormwood | Conflicting evidence. Needs confirmation. |
-| Barefoot Samms Toppin | Man's Promise likely | Needs confirmation. |
-| Jack Scrimshaw | Man's Promise likely | Needs confirmation. |
-| Ratline Rattsberger | Man's Promise likely | Needs confirmation. |
-| Conchobhar Turlach Shortstone | Man's Promise likely | Needs confirmation. |
-| Tam "Narwhal" Tate | Man's Promise likely | Needs confirmation. |
+| Badger Medlar | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists helpful. |
+| Maheem | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists kill-if-a-moment-arises. |
+| Barefoot Samms Toppin | Man's Promise likely | Harvus light-log says friendly; needs placement confirmation. |
+| Jack Scrimshaw | Man's Promise likely | Rak sheet lists friendly?, uncertain. |
+| Ratline Rattsberger | Man's Promise likely | Harvus influenced him; needs placement confirmation. |
+| Conchobhar Turlach Shortstone | Man's Promise likely | Harvus strongly influenced him; needs placement confirmation. |
+| Tam "Narwhal" Tate | Man's Promise likely | Rak sheet lists indifferent maybe/not sure. |
 | Kipper | Unknown | Burned in battle; transfer status needs confirmation. |
-| Patch Patchsalt | Unknown | Transfer status needs confirmation. |
+| Patch Patchsalt | Unknown | Rak sheet lists indifferent; placement and true loyalty need confirmation. |
 | Nor'gal Daraa | Man's Promise survivor / unknown | Brother of Kor'al; possible revenge thread. |
 | Dahrehn Numus | Man's Promise survivor / unknown | Status and role need confirmation. |
 | Ebony Saable | Man's Promise survivor / unknown | Status and role need confirmation. |
@@ -98,22 +122,26 @@ Likely:
 - Slippery Syl Lonegan
 - Jaundiced Jape
 - Fipps Chumlett
-- possibly Tam Tate
-- possibly Maheem
+- possibly Tam Tate, though Rak sheet lists indifferent maybe
+- possibly Maheem, though Rak has personal kill intent toward him
 - possibly Kipper
-- possibly Patch Patchsalt
 - any hostile Rahadoumi or Wormwood sailors spared by Plugg
+
+Patch Patchsalt is officer-adjacent in baseline assumptions, but Rak's sheet lists Patch as indifferent. This conflict needs resolution.
 
 ### PC / Ally Leaning
 
-Likely:
+Likely or player-evidenced:
 
 - Sandara Quinn
 - Ambrose Kroop
 - Tilly Brackett
+- Grok, if Wormwood-side contact becomes relevant
+- Badger Medlar, per Rak sheet, pending placement confirmation
+- Samms Toppin, per Harvus light-log, pending placement confirmation
 - Goyle Onórach, conditionally
 - possibly Owlbear if befriended
-- possibly Samms or other friendly crew depending on influence history
+- possibly Jack Scrimshaw, per Rak sheet friendly? note
 
 ### Man's Promise Survivor Bloc
 
@@ -143,6 +171,7 @@ Before running the return to the Man's Promise, determine or confirm:
 5. Who will fight?
 6. Who will flee?
 7. Who will refuse to serve under specific leaders?
+8. Which player-sheet attitude notes reflect actual influence state versus player impression?
 
 ## Design Note
 
@@ -154,10 +183,11 @@ If too many people die or leave, the ship may become a prize no one can actually
 
 ## Open Questions
 
-- Resolve Badger placement.
-- Resolve Maheem placement.
+- Resolve Badger placement and confirm why Rak's sheet lists her helpful.
+- Resolve Maheem placement and why Rak wants to kill him if a moment arises.
 - Resolve Samms, Jack, Ratline, Conchobhar, and Tam placement.
 - Resolve Kipper and Patch placement.
+- Reconcile Patch baseline hostility with Rak sheet's indifferent note.
 - List surviving Man's Promise original crew.
 - Confirm whether Owlbear is befriended by Sho or another PC.
 - Confirm exact hostile/friendly/helpful attitudes from the old influence tracker if available.
