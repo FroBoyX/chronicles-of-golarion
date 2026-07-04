@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Harvus light timeline evidence
 - Scope: Press-ganged gnome bard, lower-crew social actor, Man's Promise placement unresolved
 
 ## Overview
@@ -11,6 +11,8 @@
 Conchobhar Turlach Shortstone is a handsome, honey-tongued gnome bard whose appearance suggests someone pretending to be a pirate rather than a hardened sailor.
 
 He was press-ganged shortly before the PCs and serves as a social mirror: selfish, charming, frightened, opportunistic, and capable of bravery under very specific circumstances.
+
+Harvus' light timeline records that Harvus strongly influenced Conchobhar during the Wormwood period.
 
 ## Identity
 
@@ -20,6 +22,7 @@ He was press-ganged shortly before the PCs and serves as a social mirror: selfis
 - Baseline class / role: Bard, rigger
 - Current location: Likely Man's Promise, pending confirmation
 - Current status: Presumed alive
+- Known Harvus interaction: Strongly influenced by Harvus during the Wormwood phase
 
 ## Appearance and Bearing
 
@@ -47,6 +50,8 @@ He helps show that not everyone forced aboard the Wormwood becomes a straightfor
 
 He can be charming, cowardly, useful, irritating, and unexpectedly loyal depending on relationship state.
 
+Harvus' influence may make Conchobhar more available as a later social actor than his baseline selfishness would suggest.
+
 ## Campaign History
 
 ### Press-Ganged
@@ -61,11 +66,21 @@ He served as a rigger and interacted with the crew through gambling, flirtation,
 
 He found Rosie Cusswell magnificent, despite Rosie's irritation with him.
 
+Harvus' light notes record that he "influenced the hell out of Conchobhar" during the Wormwood sequence.
+
+The exact final attitude should be confirmed through any formal influence tracker.
+
 ### Man's Promise
 
 Conchobhar likely transferred to the Man's Promise prize crew under Plugg, but exact current placement should be confirmed.
 
 ## Relationships
+
+### Harvus G'ron
+
+Harvus strongly influenced Conchobhar during the Wormwood phase.
+
+This may affect whether Conchobhar listens to Harvus after the Bonewrack rescue.
 
 ### Rosie Cusswell
 
@@ -96,6 +111,7 @@ Conchobhar is unlikely to admire Plugg or Scourge, but fear and self-preservatio
 - Location: Likely Man's Promise, pending confirmation
 - Status: Presumed alive
 - Immediate relevance: Potential witness, performer, morale figure, or cowardly survivor depending on current placement
+- Relationship evidence: Strongly influenced by Harvus, degree pending confirmation
 
 ## Campaign Function at Relaunch
 
@@ -105,10 +121,12 @@ He may resent Plugg and Scourge while still hesitating to support a dangerous mu
 
 He may also value the social status of whoever emerges as captain.
 
+If Harvus' influence is confirmed, Conchobhar may be one of the people who helps spread, embellish, or exploit the Whale story.
+
 ## Open Questions
 
 - Is Conchobhar definitely aboard the Man's Promise?
-- What is his current attitude toward each PC?
+- Did Harvus' influence make him friendly, helpful, or only improved?
 - How did Rosie's death affect him?
 - Does he view Mirei as a fellow performer, rival, victim, or opportunity?
 - Would he support a PC captain?
