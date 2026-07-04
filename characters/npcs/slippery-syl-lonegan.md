@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Arodus 5 split-scene log
 - Scope: Hostile Wormwood pirate, Man's Promise pressure point, current fork threat
 
 ## Overview
@@ -14,6 +14,8 @@ At the current relaunch point, she is with Rak Wraithraiser's moving supply part
 
 She is one of the most immediate sources of danger at the fork because she is violent, opportunistic, and present when Harvus' rescued group approaches.
 
+The Arodus 5 log also confirms that Syl is not only volatile. She is capable of tactical command under pressure.
+
 ## Identity
 
 - Name: Slippery Syl Lonegan
@@ -22,6 +24,7 @@ She is one of the most immediate sources of danger at the fork because she is vi
 - Baseline alignment: Chaotic Evil
 - Current location: Bonewrack Isle, with Rak's moving group
 - Current status: Alive
+- Current command role: Scourge assigned her to lead the supply team
 
 ## Appearance / Presence
 
@@ -57,21 +60,60 @@ Syl transferred to the Man's Promise prize crew and aligned with Plugg's harsher
 
 She threatened Mirei with a knife and observed her in connection with Plugg's attempt to use Mirei as a spy or compromised figure.
 
-### Bonewrack Supply Party
+### Scourge's Supply Order
 
-Syl is currently with Rak, Shivikah, and Jape on Bonewrack Isle.
+After Rak reported the broken bridge route, Scourge changed the plan and assigned Syl to lead the food and water recovery team.
 
-Although hostile to Rak, she needs him alive because he knows the island route and hazards.
+Her orders were:
 
-This makes the current dynamic tense rather than simply violent.
+- take Jape, Shivikah, Fipps, and Rak,
+- do not stop at the caverns,
+- recover food,
+- bring water from the spring down to the beach,
+- and prepare for the ship to meet the team at the south beach for coconuts.
+
+### Broken Bridge / Frog Fight
+
+Syl ordered Rak to cross first because he had crossed before.
+
+When Rak fell into the water, she called him a stupid snake but still recognized the group needed him alive.
+
+During the frog fight, she moved across the pillars, threw an axe, and later leapt from a post to slash a frog with her cutlass.
+
+### Botfly / Formation Sequence
+
+When Rak wanted to run ahead from the swarms, Syl called him back and insisted the group move together.
+
+She explicitly said she needed him alive and that if she did not, he would already be dead.
+
+She produced flasks, distributed them, and set formation:
+
+- Jape in the lead,
+- Fipps in the middle,
+- Shivikah guarding Fipps,
+- Rak in the rear.
+
+This proves Syl can preserve assets and impose order even while threatening them.
+
+### Coconut Beach
+
+At Coconut Beach, Syl said the ship should be meeting them there soon.
+
+She ordered Fipps to stay at the beach and pushed everyone else on toward the stronghold.
+
+This resolves Fipps' separation as Syl's order.
 
 ## Relationship With Rak
 
 Syl does not trust Rak and does not respect his authority.
 
-She does, however, recognize his usefulness as a guide.
+She does, however, recognize his usefulness as a guide and repeatedly says she needs him alive.
 
-This means she may tolerate him until his usefulness ends or until a better opportunity appears.
+She threatens his weapon, his hide, and his survival if he disobeys.
+
+The current relationship is coercive dependency:
+
+> Syl needs Rak alive, but not free.
 
 ## Relationship With Mirei
 
@@ -85,24 +127,26 @@ If Syl sees Mirei returning alive with rescued captives, that may alter her assu
 
 Syl is aligned with Plugg and Scourge's hostile camp, but her loyalty should not be assumed to be principled.
 
+She follows Scourge's supply order but interprets it through tactical survival.
+
 She may serve cruelty, advantage, or survival more than formal loyalty.
 
 ## Relationship With Shivikah and Jape
 
-Syl is likely the strongest personality in the current moving group other than Rak.
+Syl is the immediate commander of the current moving group.
 
-Shivikah may be more cautious or movable.
+Shivikah follows but appears nervous during the Rak/Syl confrontation.
 
-Jape is dangerous but less socially expressive.
+Jape appears disinterested in the verbal exchange but follows the movement.
 
 Syl may try to dominate both if the fork scene turns uncertain.
 
 ## Current State
 
-- Location: Bonewrack Isle, near the fork route
+- Location: Bonewrack Isle, near the fork route after passing Coconut Beach
 - Companions: Rak, Shivikah, Jape
-- Not with group: Fipps, currently at the beach
-- Immediate objective: Recover food and water / obey Scourge's mission
+- Not with group: Fipps, ordered by Syl to stay at Coconut Beach because the ship was expected to meet there
+- Immediate objective: Reach the stronghold, recover water/food, obey Scourge's mission while keeping Rak alive
 - Immediate risk: Encountering Harvus, Mirei, Sandara, Tilly, and Goyle alive
 
 ## Campaign Function at Relaunch
@@ -118,6 +162,8 @@ She may respond to rescued witnesses by:
 - accusing Mirei,
 - or reassessing if the power balance changes.
 
+She also has to decide whether Goyle's testimony and the rescued captives make Plugg's position look weak or dangerous.
+
 ## What Not To Assume
 
 Do not assume Syl fights to the death.
@@ -130,9 +176,10 @@ She is violent and unstable, but can still be tactically self-preserving.
 
 ## Open Questions
 
-- What is Syl's exact current physical condition?
+- What is Syl's exact current physical condition after the frog fight and forced march?
 - Does she know Sho is locked up?
 - Does she know Goyle survived?
 - Would she try to kill Goyle before he can speak?
 - Is she more loyal to Plugg, Scourge, herself, or violence?
+- Does she prioritize completing Scourge's supply order or preserving Plugg's political position?
 - If she survives Book One, does she become a pirate hook, a fugitive, or a recurring personal enemy?
