@@ -16,6 +16,8 @@ Some names, timing, and identities may be misremembered. Do not promote a memory
 
 GM correction: Anji's character is **Mirei**. Sho's player remembered the name as possibly Talia, but the character identity is now resolved as Mirei.
 
+GM correction: the first-day Jakes Magpie objection likely resulted in a warning, not a whipping. Treat the first-day beat as Sho questioning or objecting and being warned. The whipping that made Sho cry out in pain should be placed later in reconstruction.
+
 ## Raw Player Memory
 
 > I obviously don't have specifics, but I know I stood up for someone the first day and got whipped for it. I believe I also got whipped for speaking up for Rak as well.
@@ -54,12 +56,12 @@ GM correction: Anji's character is **Mirei**. Sho's player remembered the name a
 
 ### Early Wormwood / Day 1-2 Candidates
 
-- Sho remembers standing up for someone on the first day and being whipped for it.
-- Sho remembers also being whipped for speaking up for Rak.
+- Sho remembers standing up for someone on the first day. GM placement identifies this as Jakes Magpie and currently treats the consequence as a warning, not a whipping.
+- Sho remembers later being whipped, possibly for speaking up for Rak or another act of defiance.
 - Sho remembers being disguised as a man originally.
 - Sho remembers Mirei noticing the disguise early, probably on the first or second day.
 - Sho remembers confiding in Mirei about the disguise.
-- Sho believes a second whipping made the disguise harder or impossible to conceal because of her cries.
+- Sho believes a later whipping made the disguise harder or impossible to conceal because of her cries.
 
 ### Gear Recovery
 
@@ -120,8 +122,8 @@ GM correction: Anji's character is **Mirei**. Sho's player remembered the name a
 
 | Memory | Candidate Placement | Confidence | Notes |
 |---|---|---:|---|
-| First-day whipping for standing up for someone | Wormwood Day 1, likely after initial discipline or Bloody Hour context | Low-Medium | Needs log support; do not assume this was Jakes Magpie without evidence. |
-| Whipping for speaking up for Rak | Early Wormwood, likely separate punishment | Low | Needs day placement and reason. |
+| First-day objection for Jakes Magpie | Wormwood Day 1 Bloody Hour | Medium | GM correction: likely warning, not whipping. Use regret/helplessness questions rather than who/what questions. |
+| Whipping for speaking up for Rak or later defiance | Early Wormwood, likely separate punishment | Low-Medium | Needs placement, but do not attach to Day 1 unless later evidence supports it. |
 | Disguise noticed by Mirei | Wormwood Day 1-2 | Medium | GM correction resolves Anji's character as Mirei; exact day still needs support. |
 | Reversible cloak recovered | Early Wormwood gear recovery / Grok barter | Medium | Needs exact currency, seller, and source of silver. |
 | Rosie rescue attempt | Storm sequence, likely weather Day 8 unless table-shifted | Medium-High | Strongly aligns with existing Rosie-lost-at-sea thread. |
@@ -139,14 +141,17 @@ GM correction: Anji's character is **Mirei**. Sho's player remembered the name a
 
 - Treat this as player memory evidence, not automatic final canon for timing or exact names.
 - Treat Anji's character as Mirei in extracted claims and placement notes.
+- Treat Sho's first-day Jakes Magpie objection as a warning, not a whipping, unless later evidence contradicts this.
+- Place the whipping that made Sho cry out in pain later in the Wormwood reconstruction; do not attach it to the first-day Jakes Magpie warning by default.
 - Preserve Sho's distinction between player knowledge and character knowledge about Giffer.
 - Do not write Sho as knowing Rak killed Giffer unless later evidence establishes that she learned it.
 - Do not write Sho as drinking rum rations.
 - Use this memory to search for or request missing logs around:
-  - first-day whipping,
+  - the Jakes Magpie warning,
   - speaking up for Rak,
   - cloak recovery,
   - disguise discovery with Mirei,
+  - later whipping / exposed cries,
   - bilges ambush,
   - Owlbear fight,
   - Peppery interaction,
@@ -155,9 +160,9 @@ GM correction: Anji's character is **Mirei**. Sho's player remembered the name a
 
 ## Open Questions
 
-- Who did Sho stand up for on Day 1?
+- What exact warning did Sho receive after objecting to Jakes Magpie's keelhauling?
 - Was Sho whipped once or multiple times before Man's Promise?
-- What exact event caused the whipping for speaking up for Rak?
+- What exact event caused the whipping for speaking up for Rak or another later defiance?
 - How did Sho acquire the silver used to recover the reversible cloak?
 - Was the cloak recovered from Grok, another quartermaster interaction, or another NPC?
 - Who was the third attacker in the bilges with Syl and Jape?
