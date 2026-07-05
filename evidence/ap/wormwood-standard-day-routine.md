@@ -36,11 +36,21 @@ After dinner and the rum ration, various pirate entertainments take place on dec
 
 This is the space where influence, gambling, music, information, intimidation, and theft/recovery attempts happen.
 
+## Rum Ration Character Note
+
+Sho Astor never drank her rum ration even once.
+
+We do not have direct evidence of how she got rid of it each night, but the current reconstruction is that she consistently disposed of or avoided consuming it.
+
+Do not write Sho as willingly drinking the Wormwood rum unless later evidence directly contradicts this.
+
 ## Rest
 
-Provided they drink their rum rations, the PCs can retire to their hammocks in the lower hold whenever they wish.
+The AP routine assumes that characters who drink their rum ration can retire to their hammocks in the lower hold whenever they wish.
 
-If they have the energy, they can take additional nighttime ship actions.
+For Sho, treat this as a hidden avoidance pattern rather than actual drinking.
+
+If the PCs have the energy, they can take additional nighttime ship actions.
 
 ## Reconstruction Notes
 
@@ -48,9 +58,11 @@ If they have the energy, they can take additional nighttime ship actions.
 - Most routine days before the Man's Promise fight likely follow the AP pattern with table-specific night actions layered on top.
 - Some nuance may be lost unless recovered from player comments, chat logs, or old prose.
 - Avoid inventing detailed night actions where the log is missing.
+- Preserve Sho's rum-ration avoidance as a recurring character truth, while leaving the method unresolved.
 
 ## Open Checks
 
 - Confirm which standard days have recoverable table-specific scenes.
 - Confirm whether the first night's Sandara/Mirei/Harvus scene occurred before or after rum ration.
 - Confirm whether any first-night action besides the Sandara harp scene survived in player memory or logs.
+- Confirm whether Sho disposed of, traded, hid, poured out, or otherwise avoided her rum ration.
