@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -99,11 +99,11 @@ She loved the harp from childhood and continued to play and dance while travelin
 
 She came to Port Peril seeking destiny.
 
-### Erastus 4, 4691 AR
+### Erastus 4, 4712 AR
 
 Mirei was abducted from the Formidably Maid in Port Peril alongside Harvus, Rak, Sho, and Conchobhar.
 
-### Erastus 5, 4691 AR
+### Erastus 5, 4712 AR
 
 Mirei became part of the Wormwood crew.
 
