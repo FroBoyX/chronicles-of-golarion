@@ -231,3 +231,21 @@ This is a mirrored relationship: Mirei noticed Sho's hidden truth early; Sho lat
 4. What did Sho think of Mirei during the Wormwood period: naive, kind, useful, fragile, dangerous, sheltered, brave, or something else?
 5. When Sho noticed Mirei becoming closed off, did Sho suspect fear, coercion, officer manipulation, guilt, or something else?
 6. Did Sho try to reach Mirei, or was Sho too isolated and embattled herself?
+
+## 14. Hot-Box, Kahina, and Repentance Under Threat
+
+**Known from existing reconstruction**
+
+Sho is currently believed locked in the hot-box aboard the Man's Promise. Kahina Bukekayo has confronted her about the dead of the Man's Promise and whether Sho's remorse means anything if she will not act.
+
+Kahina's challenge is not forgiveness. It is a life-for-life bargain: their lives, or Sho's.
+
+**Questions**
+
+1. When Sho woke in the hot-box, did she feel defeated, focused, ashamed, angry, or already planning?
+2. Did Kahina feel to Sho like an enemy, a judge, a possible ally, an executioner, or a mirror?
+3. When Kahina challenged Sho's remorse, did Sho feel accused fairly, misunderstood, or forced to face something true?
+4. When Sho said she wanted to live long enough to escape and kill the people in charge, was that justice, survival, repentance, rage, or all of it?
+5. Does Sho believe killing Plugg and Scourge would make anything right, or only stop them from doing worse?
+6. What would make Sho hesitate if Kahina demands blood?
+7. Does Sho want Kahina's trust, forgiveness, cooperation, or only the chance to act?
