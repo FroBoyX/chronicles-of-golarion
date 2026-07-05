@@ -5,7 +5,7 @@
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
 - Scope: Early Wormwood deck tests and first job assignments
-- Source basis: GM prose entry supplied during reconstruction, existing character dossiers, and AP scaffold
+- Source basis: GM prose entry supplied during reconstruction, existing character dossiers, AP scaffold, and GM ruling that five people were gang-pressed
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -15,7 +15,7 @@ The new hands did not have long to understand where they were.
 
 Pain, missing possessions, and the roll of the sea had already made the point. The Wormwood was not asking for permission. It had them, and that was enough.
 
-After the first test, the six newest members of the crew were brought back onto the deck and lined up again for **Mr. Plugg**.
+After the first test, the five newest members of the crew were brought back onto the deck and lined up again for **Mr. Plugg**.
 
 The next test was simpler.
 
@@ -65,6 +65,7 @@ Rak Wraithraiser, who had come to Port Peril looking for a pirate crew and found
 
 ## What This Establishes
 
+- The canon number of gang-pressed new hands is five: Harvus, Mirei, Sho, Rak, and Conchobhar.
 - Plugg's job assignments were not neutral or rational, even when he disguised them as practical command decisions.
 - Harvus and Conchobhar had already been marked as riggers by the prior test.
 - Rak became cook's mate because Plugg wanted a cook's mate and preferred not to deal with the nagaji directly.
@@ -78,6 +79,5 @@ Rak Wraithraiser, who had come to Port Peril looking for a pirate crew and found
 ## Open Checks
 
 - Confirm the exact first test immediately before this scene.
-- Confirm whether the "six" new crew were Harvus, Mirei, Sho, Rak, Conchobhar, and one additional AP new hand, or whether the count reflects a merged table/AP grouping.
 - Confirm which PCs were assigned as swabs in this reconstruction.
 - Confirm whether Plugg's naga-related discomfort was ever revealed in play or remains narrator-only characterization.
