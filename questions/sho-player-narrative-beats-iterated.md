@@ -113,3 +113,37 @@ Sho used the feinting/positioning mechanic tied to Owlbear's weak side. More imp
 5. Did showing mercy feel like restraint, defiance, pity, discipline, or a refusal to become Plugg's weapon?
 6. When Owlbear understood Sho's mercy, did that change how Sho saw him?
 7. Looking back now, how does Sho feel about Owlbear: protective, guilty, fond, sad, responsible, or something else?
+
+## 7. Peppery Longfarthing, Attraction, and Authority
+
+**Known from Sho's memory**
+
+Sho remembers trying and failing badly to flirt with **Peppery Longfarthing**. Peppery seemed at least mildly amused, but not interested. Sho remembers the dynamic as Peppery seeing her as young, naive, and maybe not yet worth taking seriously in that way.
+
+This matters less as a romance beat and more as a question of how Sho related to power, competence, danger, and charisma aboard the Wormwood.
+
+**Questions**
+
+1. What attracted Sho to Peppery: confidence, danger, competence, command presence, beauty, mystery, or something else?
+2. Did Sho see Peppery as different from Plugg and Scourge, or simply more controlled and harder to read?
+3. Was Sho embarrassed by failing to flirt, or did she mostly find it funny afterward?
+4. Did Peppery's amusement feel kind, condescending, dangerous, or unreadable?
+5. Did Sho trust Peppery's warnings or advice, if any were given?
+6. Did this interaction affect how Sho understood authority aboard the Wormwood?
+
+## 8. Harrigan, the Fog, and the Captain's Reward
+
+**Known from Sho's memory**
+
+During the assault on the **Man's Promise**, Sho called out to **Captain Harrigan** in the fog to prevent him from being attacked from behind. Harrigan later used that as a reason to spare her from keelhauling and gave her a locket, pendant, or amulet. Existing notes describe this as a Rahadoumi captain's amulet with a bronze tree design.
+
+This beat complicates Sho's view of Harrigan: he is dangerous, but he recognized her action and rewarded it.
+
+**Questions**
+
+1. Why did Sho warn Harrigan: instinct, discipline, respect for command, refusal to allow dishonorable murder, or something else?
+2. Did Sho think about the consequences before calling out, or did she act immediately?
+3. How did Harrigan's later recognition affect Sho: relief, confusion, pride, discomfort, or suspicion?
+4. Did being spared because of that warning make Sho feel protected, indebted, manipulated, or simply lucky?
+5. What did the pendant/locket/amulet mean to Sho after receiving it?
+6. Does Sho still see Harrigan as different from Plugg and Scourge, or did later events erase that distinction?
