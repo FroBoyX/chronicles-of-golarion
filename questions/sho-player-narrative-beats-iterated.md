@@ -267,3 +267,19 @@ This batch is about what Sho is trying to remain connected to, not just what she
 5. Would Sho be ashamed to tell Agatha what happened aboard the Wormwood and Man's Promise?
 6. Does Sho still want to reach Magnimar or Agatha someday, or has the sea changed that goal?
 7. What would Agatha think of Sho's current bargain with Kahina?
+
+## 16. If Plugg Is Not in Command of the Man's Promise
+
+**Known from existing archive + Sho memory**
+
+Sho's immediate future may depend on whether the **Man's Promise** becomes something different once Plugg is no longer in command. Sho has guilt toward the Man's Promise dead, unresolved responsibility toward its survivors, and serious doubts about the violence of the people around her.
+
+**Questions**
+
+1. What would justice for the Man's Promise dead actually require from Sho?
+2. If Plugg were no longer in command, what would make Sho willing to stay aboard the Man's Promise?
+3. Who would Sho trust, or tolerate, in command instead?
+4. What rules or boundaries would Sho need the crew to accept before she could remain?
+5. What would make Sho believe the Man's Promise was not simply becoming another Wormwood?
+6. Does Sho want a voice in the ship's decisions, or does she only want enough influence to prevent cruelty?
+7. What would make Sho leave the Man's Promise, even if Plugg was gone?
