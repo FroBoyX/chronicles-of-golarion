@@ -214,3 +214,20 @@ Sho saw Harvus as a possible comrade, but his rage worried her. During the Man's
 5. When Harvus vowed blood against Scourge after learning what happened to Sho, did that make Sho feel protected, alarmed, guilty, or responsible?
 6. Does Sho believe Harvus' rage can be directed toward justice, or does she fear it will become another version of the Wormwood's violence?
 7. What would Harvus have to do for Sho to fully trust him?
+
+## 13. Mirei, Trust, and the Person Who Noticed
+
+**Known from Sho's memory + GM correction**
+
+Sho remembers that Mirei noticed her disguise early, probably on Day 1 or Day 2. Sho was able to confide in Mirei. Later, Sho also noticed Mirei becoming closed off or affected by officer attention, though Sho may not have understood the full Plugg pressure yet.
+
+This is a mirrored relationship: Mirei noticed Sho's hidden truth early; Sho later noticed something hidden in Mirei.
+
+**Questions**
+
+1. When Mirei noticed Sho's disguise, did Sho feel exposed, relieved, threatened, or unexpectedly seen?
+2. Why did Sho choose to confide in Mirei rather than deny it or push her away?
+3. Did keeping that secret make Mirei feel like an ally to Sho?
+4. What did Sho think of Mirei during the Wormwood period: naive, kind, useful, fragile, dangerous, sheltered, brave, or something else?
+5. When Sho noticed Mirei becoming closed off, did Sho suspect fear, coercion, officer manipulation, guilt, or something else?
+6. Did Sho try to reach Mirei, or was Sho too isolated and embattled herself?
