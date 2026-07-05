@@ -102,7 +102,9 @@ The lesson was clear enough: theft was dangerous, being caught was fatal, and th
 
 After the punishment came the evening meal.
 
-After the meal came rum.
+After the meal came the rum ration.
+
+Sho Astor did not drink hers. She would not drink it that night or any night aboard the Wormwood. The exact method has not survived, but the current reconstruction is that she quietly disposed of or avoided consuming the ration each time.
 
 After the rum came whatever passed for leisure aboard the Wormwood: talk, music, gambling, barter, intimidation, favors, and the cautious work of finding out who might help and who might hurt.
 
@@ -212,6 +214,8 @@ Mirei had her harp again.
 
 Harvus had a name, a warning, and the possibility of care for his wing.
 
+Sho had already begun her quiet refusal of the Wormwood's rum discipline.
+
 The Wormwood had not become safer.
 
 It had become more legible.
@@ -228,6 +232,7 @@ That was the first victory.
 - Swabs reported to Scourge, riggers to Plugg, and the cook's mate to Kroop.
 - Jakes Magpie's keelhauling publicly demonstrated Bloody Hour.
 - Plugg's cruelty was noticed as relish, not merely discipline.
+- Sho never drank her rum ration; the exact disposal method remains unknown.
 - Sandara returned Mirei's harp on the first night.
 - Sandara warned the PCs about Plugg and Scourge.
 - Sandara gave the first useful intelligence about Grok.
@@ -242,4 +247,5 @@ That was the first victory.
 - Confirm whether the Sandara/Mirei/Harvus scene happened before or after rum ration.
 - Confirm whether Mirei played the harp that night.
 - Confirm whether Sandara's offer of a sling for Harvus became an actual item or treatment.
+- Confirm how Sho disposed of or avoided each rum ration.
 - Confirm whether any other first-night actions survived in logs or player memory.
