@@ -14,6 +14,8 @@ This document intentionally preserves the player's memory in raw form first, the
 
 Some names, timing, and identities may be misremembered. Do not promote a memory detail to final canon until it is reconciled with other evidence or GM truth.
 
+GM correction: Anji's character is **Mirei**. Sho's player remembered the name as possibly Talia, but the character identity is now resolved as Mirei.
+
 ## Raw Player Memory
 
 > I obviously don't have specifics, but I know I stood up for someone the first day and got whipped for it. I believe I also got whipped for speaking up for Rak as well.
@@ -55,8 +57,8 @@ Some names, timing, and identities may be misremembered. Do not promote a memory
 - Sho remembers standing up for someone on the first day and being whipped for it.
 - Sho remembers also being whipped for speaking up for Rak.
 - Sho remembers being disguised as a man originally.
-- Sho remembers Anji's character noticing the disguise early, probably on the first or second day.
-- Sho remembers confiding in Anji's character about the disguise.
+- Sho remembers Mirei noticing the disguise early, probably on the first or second day.
+- Sho remembers confiding in Mirei about the disguise.
 - Sho believes a second whipping made the disguise harder or impossible to conceal because of her cries.
 
 ### Gear Recovery
@@ -92,12 +94,12 @@ Some names, timing, and identities may be misremembered. Do not promote a memory
 
 ### Man's Promise Assault
 
-- Sho remembers being given command of Harvus, Rak, Anji's character, and Giffer Tibbs during the assault on the Man's Promise.
+- Sho remembers being given command of Harvus, Rak, Mirei, and Giffer Tibbs during the assault on the Man's Promise.
 - Sho remembers calling out to Captain Harrigan in the fog to prevent him from being attacked from behind.
 - Harrigan later used that warning as a reason to spare Sho from keelhauling.
 - Harrigan gave Sho a locket or pendant of some kind.
 - Sho's player knows Rak killed Giffer Tibbs in the assault, but Sho as a character found no evidence to support that after the battle.
-- Anji's character failed to climb the ropes and stayed aboard the Wormwood.
+- Mirei failed to climb the ropes and stayed aboard the Wormwood.
 - Rak and Harvus failed to follow Sho's commands and killed people Sho had sworn would not be harmed if they laid down their weapons.
 
 ### Rum Ration
@@ -120,7 +122,7 @@ Some names, timing, and identities may be misremembered. Do not promote a memory
 |---|---|---:|---|
 | First-day whipping for standing up for someone | Wormwood Day 1, likely after initial discipline or Bloody Hour context | Low-Medium | Needs log support; do not assume this was Jakes Magpie without evidence. |
 | Whipping for speaking up for Rak | Early Wormwood, likely separate punishment | Low | Needs day placement and reason. |
-| Disguise noticed by Anji's character | Wormwood Day 1-2 | Medium | Requires confirming Anji's PC identity/name. Current archive likely treats Anji's character as Mirei, but player memory says Talia. |
+| Disguise noticed by Mirei | Wormwood Day 1-2 | Medium | GM correction resolves Anji's character as Mirei; exact day still needs support. |
 | Reversible cloak recovered | Early Wormwood gear recovery / Grok barter | Medium | Needs exact currency, seller, and source of silver. |
 | Rosie rescue attempt | Storm sequence, likely weather Day 8 unless table-shifted | Medium-High | Strongly aligns with existing Rosie-lost-at-sea thread. |
 | Bilges ambush | Wormwood bilges scene, probably before Man's Promise | Medium | Conflicts/overlaps with existing Aretta bilges death framing; needs reconciliation. |
@@ -136,6 +138,7 @@ Some names, timing, and identities may be misremembered. Do not promote a memory
 ## Reconstruction Rules From This Evidence
 
 - Treat this as player memory evidence, not automatic final canon for timing or exact names.
+- Treat Anji's character as Mirei in extracted claims and placement notes.
 - Preserve Sho's distinction between player knowledge and character knowledge about Giffer.
 - Do not write Sho as knowing Rak killed Giffer unless later evidence establishes that she learned it.
 - Do not write Sho as drinking rum rations.
@@ -143,7 +146,7 @@ Some names, timing, and identities may be misremembered. Do not promote a memory
   - first-day whipping,
   - speaking up for Rak,
   - cloak recovery,
-  - disguise discovery,
+  - disguise discovery with Mirei,
   - bilges ambush,
   - Owlbear fight,
   - Peppery interaction,
@@ -155,7 +158,6 @@ Some names, timing, and identities may be misremembered. Do not promote a memory
 - Who did Sho stand up for on Day 1?
 - Was Sho whipped once or multiple times before Man's Promise?
 - What exact event caused the whipping for speaking up for Rak?
-- Was Anji's character Mirei, Talia, or another name/PC?
 - How did Sho acquire the silver used to recover the reversible cloak?
 - Was the cloak recovered from Grok, another quartermaster interaction, or another NPC?
 - Who was the third attacker in the bilges with Syl and Jape?
