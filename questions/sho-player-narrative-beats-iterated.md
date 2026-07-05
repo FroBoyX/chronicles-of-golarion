@@ -147,3 +147,70 @@ This beat complicates Sho's view of Harrigan: he is dangerous, but he recognized
 4. Did being spared because of that warning make Sho feel protected, indebted, manipulated, or simply lucky?
 5. What did the pendant/locket/amulet mean to Sho after receiving it?
 6. Does Sho still see Harrigan as different from Plugg and Scourge, or did later events erase that distinction?
+
+## 9. Command, Surrender, and the Man's Promise Dead
+
+**Known from Sho's memory**
+
+During the assault on the **Man's Promise**, Sho remembers being given command of Harvus, Rak, Mirei, and Giffer Tibbs. Mirei failed to climb the ropes and stayed aboard the Wormwood. Sho remembers that Rak and Harvus did not follow her commands and killed people she had promised would come to no harm if they laid down their weapons.
+
+This is likely the core wound behind Sho's later guilt toward the Man's Promise survivors.
+
+**Questions**
+
+1. When Sho was given command, did she feel ready, honored, trapped, unqualified, or focused on doing it properly?
+2. What promise did Sho believe she made to the Man's Promise crew who surrendered?
+3. Did Sho think Harvus and Rak heard or understood that promise?
+4. When Harvus and Rak killed people despite Sho's command, did Sho feel betrayed, responsible, ignored, or powerless?
+5. Did Sho blame them, herself, Harrigan's command structure, the chaos of boarding, or all of it?
+6. Did this change how Sho saw leadership?
+7. Is this the main reason Sho carries guilt for the Man's Promise crew, or only one part of it?
+
+## 10. Giffer Tibbs, Player Knowledge, and Character Uncertainty
+
+**Known from Sho's memory**
+
+Sho remembers **Giffer Tibbs** being under her command during the Man's Promise assault. Sho's player believes Rak killed Giffer during the assault, but Sho as a character found no evidence afterward to prove it.
+
+This matters because it separates player knowledge from Sho's lived uncertainty.
+
+**Questions**
+
+1. What did Sho think of Giffer before the Man's Promise assault?
+2. Did Sho feel responsible for Giffer because Giffer was under her command?
+3. After the battle, what did Sho know for certain about Giffer's fate?
+4. Did Sho suspect Rak, suspect the chaos of battle, or simply not know what happened?
+5. Did not knowing make the guilt worse?
+6. If Sho later learned Rak killed Giffer, would that change how she sees Rak, or only confirm what she already feared?
+
+## 11. Rak, Violence, and the Line Sho Might Draw
+
+**Known from Sho's memory + existing archive**
+
+Sho fought alongside Rak and benefited from his rescue actions, but she was deeply disturbed by his violence. The Man's Promise assault sharpened this: Sho remembers Rak ignoring surrender protections and killing people she meant to spare. Existing notes also preserve the possibility that Sho may need to stop Rak if he continues reckless killing.
+
+**Questions**
+
+1. Before the Man's Promise assault, did Sho see Rak as dangerous, useful, funny, chaotic, loyal, or something else?
+2. Did Sho believe Rak understood why surrendered enemies mattered to her?
+3. Was Sho more disturbed by Rak's violence itself, or by his refusal to respect limits once Sho had set them?
+4. Did Rak's actions make Sho question whether they could safely stay on the same crew?
+5. Does Sho believe Rak can be reasoned with?
+6. What would Rak have to do for Sho to decide he must be stopped?
+7. What would Rak have to do for Sho to trust him again?
+
+## 12. Harvus, Rage, and the Difference Between Ally and Weapon
+
+**Known from Sho's memory + existing archive**
+
+Sho saw Harvus as a possible comrade, but his rage worried her. During the Man's Promise assault, Sho remembers Harvus ignoring her commands and killing people she had promised would be spared. Separately, Harvus' anger toward Scourge intensified after learning Scourge had tried to have Sho killed or boxed.
+
+**Questions**
+
+1. Before the Man's Promise assault, did Sho see Harvus as honorable, volatile, protective, dangerous, wounded, or something else?
+2. Did Sho believe Harvus could control his rage when it mattered?
+3. When Harvus killed people Sho meant to spare, did that feel different from Rak's violence, or part of the same failure of command?
+4. Did Sho think Harvus understood why surrendered enemies mattered?
+5. When Harvus vowed blood against Scourge after learning what happened to Sho, did that make Sho feel protected, alarmed, guilty, or responsible?
+6. Does Sho believe Harvus' rage can be directed toward justice, or does she fear it will become another version of the Wormwood's violence?
+7. What would Harvus have to do for Sho to fully trust him?
