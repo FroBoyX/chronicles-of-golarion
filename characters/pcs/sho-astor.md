@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue and PCGen sheet evidence
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, and GM rum-ration truth
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -140,6 +140,14 @@ She went to the Formidably Maid, drank something stronger than expected, passed 
 Sho repeatedly resisted the moral logic of the Wormwood.
 
 She challenged excess violence, objected to unnecessary killing, and drew attention from Plugg and Scourge.
+
+### Rum Ration Refusal
+
+GM truth: Sho never drank her rum ration aboard the Wormwood.
+
+The exact method is unknown. She likely disposed of, hid, traded, poured out, or otherwise avoided consuming it each night.
+
+Do not write Sho as willingly drinking the Wormwood rum unless later direct evidence contradicts this.
 
 ### Owlbear
 
@@ -374,6 +382,7 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Who is Crimson?
 - What did Sho need to discuss with Crimson?
 - What did Sho need to discuss with Ratline?
+- How did Sho dispose of or avoid drinking her rum ration each night?
 - Is the killed brother's name Cor'Wal, Kor'al, or something else?
 - Is Nor'Gal / Nor'gal alive and aboard the Man's Promise?
 - Was Goyle definitely the quartermaster of the Man's Promise?
