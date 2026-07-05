@@ -249,3 +249,21 @@ Kahina's challenge is not forgiveness. It is a life-for-life bargain: their live
 5. Does Sho believe killing Plugg and Scourge would make anything right, or only stop them from doing worse?
 6. What would make Sho hesitate if Kahina demands blood?
 7. Does Sho want Kahina's trust, forgiveness, cooperation, or only the chance to act?
+
+## 15. Agatha Dreamriver and the Life Before This
+
+**Known from Sho's sheet/backstory memory**
+
+Agatha Dreamriver is one of Sho's strongest remembered emotional anchors. Sho's player specifically called out "my crush, Agatha Dreamriver." Existing archive notes place Agatha as someone who showed Sho kindness and helped her imagine a life beyond the monastery's limits.
+
+This batch is about what Sho is trying to remain connected to, not just what she is trying to survive.
+
+**Questions**
+
+1. What did Agatha represent to Sho: kindness, freedom, desire, safety, beauty, ordinary life, or a future she had not imagined?
+2. Did Sho understand her feelings for Agatha clearly at the time, or only later?
+3. When Sho left Jalmeray, was Agatha someone she hoped to return to, impress, protect, or simply remember?
+4. Aboard the Wormwood, did thinking of Agatha help Sho resist becoming what the ship wanted?
+5. Would Sho be ashamed to tell Agatha what happened aboard the Wormwood and Man's Promise?
+6. Does Sho still want to reach Magnimar or Agatha someday, or has the sea changed that goal?
+7. What would Agatha think of Sho's current bargain with Kahina?
