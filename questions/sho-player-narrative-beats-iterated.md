@@ -283,3 +283,14 @@ Sho's immediate future may depend on whether the **Man's Promise** becomes somet
 5. What would make Sho believe the Man's Promise was not simply becoming another Wormwood?
 6. Does Sho want a voice in the ship's decisions, or does she only want enough influence to prevent cruelty?
 7. What would make Sho leave the Man's Promise, even if Plugg was gone?
+
+## 17. Final Catchall
+
+**Purpose**
+
+This catches the two remaining player-memory questions most likely to surface useful material that the structured sections missed.
+
+**Questions**
+
+1. What is one thing other characters misunderstand about Sho?
+2. What question should I have asked but did not?
