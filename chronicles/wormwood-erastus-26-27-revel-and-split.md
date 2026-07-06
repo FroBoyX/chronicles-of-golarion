@@ -4,8 +4,8 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Post-Man's Promise revel, Sho's reward, Mirei defense, Sandara recovery, prisoner muster, Harrigan's example execution, and Man's Promise prize-crew split
-- Source basis: Direct Erastus 26 revel chat excerpts, Erastus 27 chat correction, GM timeline note, survivor-set correction
+- Scope: Post-Man's Promise revel, Sho's reward, Mirei defense, Sandara recovery, prisoner muster, Harrigan's example execution, Man's Promise prize-crew split, and Plugg's first command speech
+- Source basis: Direct Erastus 26 revel chat excerpts, Erastus 27 chat correction, Plugg first-speech chat, GM timeline note, survivor-set correction
 - Spoiler scope: Player-safe as historical reconstruction
 - Canon status: Becomes canon after GM/player sign-off and later log reconciliation
 
@@ -15,7 +15,7 @@
 
 ## Source Note
 
-The direct chat supports the revel, Sho's reward, the confrontation around Mirei, Harvus watching over Sandara, and the party winding down. The Erastus 27 chat clarifies that the Man's Promise captain died during the battle and that Harrigan's post-battle example victim was a weakened captured sailor, not the captain or a confirmed officer.
+The direct chat supports the revel, Sho's reward, the confrontation around Mirei, Harvus watching over Sandara, and the party winding down. The Erastus 27 chat clarifies that the Man's Promise captain died during the battle and that Harrigan's post-battle example victim was a weakened captured sailor, not the captain or a confirmed officer. The Plugg first-speech chat supports the first public Man's Promise command structure.
 
 ## Erastus 26 — The Revel Begins
 
@@ -139,6 +139,36 @@ Harrigan allowed the other fourteen captured survivors to live if they swore all
 
 Then he assigned a skeleton crew under Mr. Plugg to take the Man's Promise, and the two ships separated.
 
+## Plugg's First Speech Aboard the Man's Promise
+
+Once the prize crew was gathered aboard the Man's Promise, Plugg called the "land'lubbers" over and demanded to be addressed as **Captain Plugg**.
+
+He named Scourge as first mate and promised the whip or knife for disrespect.
+
+> "I will not tolerate decent on this ship, you live at my whim, and my whim alone!"
+
+Plugg then named "Ms. Sly" as boatswain and ordered the crew to treat her commands as his own.
+
+The public mission was still Port Peril and then return to the Wormwood.
+
+> "Our task is back to Port Paril, then we will return to the wormwood."
+
+This is important because it is the public cover before the later course change.
+
+Scourge reinforced the order by saying they had taken it easy on the Wormwood. Because the Man's Promise had only a skeleton crew, any fall in discipline would be handled quickly and forcefully.
+
+Syl then took over work assignments.
+
+> "Alright you bastards, you're mine now!"
+
+She told them to keep their Wormwood jobs and threatened slackers with the mast under her care.
+
+Plugg ordered Sho to the poop deck within ten minutes. Scourge ordered Harvus to the deck of the Man's Promise. Kroop told Rak to help him pack because they were going with the new ship to Port Peril. Plugg ordered Mirei to report as personal entertainment to keep morale up.
+
+Grok did not go with Rak. She held back tears, told Rak she had a present for him before he left, and said they would see each other again.
+
+Sho went with Mirei to collect her things. Rak went with Grok.
+
 This is the formal start of the Man's Promise prize-crew crisis.
 
 ## What This Establishes
@@ -164,6 +194,10 @@ This is the formal start of the Man's Promise prize-crew crisis.
 - Fourteen captured survivors remain after the example execution.
 - A Rahadoumi officer is visible after the execution; identity and fate unresolved.
 - Plugg receives the Man's Promise and the ships separate.
+- Plugg's first public command structure is: Plugg as captain, Scourge as first mate, Syl as boatswain.
+- Plugg publicly claims the ship is going to Port Peril and then back to the Wormwood.
+- Sho, Harvus, Rak, Mirei, and Kroop are explicitly sent to the Man's Promise in this scene.
+- Grok remains aboard the Wormwood and separates emotionally from Rak.
 
 ## Open Checks
 
@@ -174,4 +208,6 @@ This is the formal start of the Man's Promise prize-crew crisis.
 - Is Harrigan's amulet the same captain's amulet from Sho's later notes?
 - Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
 - Does the 11 fresh bodies line reconcile cleanly with the 15 survivor / 14 survivor math?
-- Who exactly is selected into Plugg's skeleton crew in the split scene?
+- Who exactly is selected into Plugg's skeleton crew beyond the directly named PCs/NPCs?
+- What present did Grok give Rak before he left?
+- Did Plugg's public Port Peril order come from Harrigan, or was Plugg already lying here?
