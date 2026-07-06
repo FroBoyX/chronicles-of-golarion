@@ -3,16 +3,18 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Sho PCGen evidence
-- Scope: Man's Promise survivor / revenge thread, status unresolved
+- Maturity: Draft, expanded with Sho PCGen evidence and survivor-set confirmation
+- Scope: Man's Promise swab, tracked survivor, revenge thread
 
 ## Overview
 
-Nor'gal Daraa is a Man's Promise sailor connected to the death of Kor'al / Cor'Wal Daraa during the boarding action.
+Nor'gal Daraa is a Man's Promise swab and one of the six tracked Man's Promise survivors.
 
 He matters because Man's Promise survivors are not automatically PC allies, even if they oppose Plugg.
 
 Nor'gal may embody survivor grievance, brother-death revenge, and the unresolved moral cost of the Wormwood's attack.
+
+He is described as a soldier hell-bent on revenge for the loss of his brother.
 
 ## Name / Spelling Evidence
 
@@ -26,16 +28,19 @@ Sho's PCGen notes use:
 - Nor'Gal
 - Cor'Wal
 
-These should be treated as evidence variants until GM/player truth settles the final spellings.
+Use **Nor'gal Daraa** as the current file-path spelling unless later GM/player truth changes it. Treat the brother spelling as still under reconstruction.
 
 ## Identity
 
 - Name: Nor'gal Daraa / Nor'Gal
 - Type: NPC
+- Role: Swab
+- Listed location / tag: The Man's Promise
 - Origin: Man's Promise crew
 - Related dead: Kor'al Daraa / Cor'Wal, likely brother
-- Current location: Unresolved — Man's Promise or Bonewrack vicinity
-- Current status: Unknown / presumed possibly alive
+- Current location: Man's Promise survivor context; exact physical position pending confirmation
+- Current status: Alive / tracked Man's Promise survivor
+- Core motivation: Revenge for the loss of his brother
 
 ## Campaign Role
 
@@ -43,7 +48,7 @@ Nor'gal represents the cost of piracy from the other side.
 
 The PCs boarded the Man's Promise as pirates. Some of the people they fought had names, families, and grievances.
 
-If Nor'gal survived, he may not care that the PCs now oppose Plugg.
+Nor'gal survived, and he may not care that the PCs now oppose Plugg unless their actions satisfy, redirect, or defer his revenge.
 
 ## Known Campaign Context
 
@@ -59,6 +64,17 @@ Sho's PCGen notes say:
 - The brother who was killed was named Cor'Wal.
 
 Nor'gal may therefore have reason to hate Harvus, Rak, or the party broadly.
+
+## Survivor Set
+
+Nor'gal is one of the six tracked Man's Promise survivors:
+
+- Dahrehn Numus
+- Ebony Saable
+- Goyle Onórach
+- Kahina Bukekayo
+- Merchiel V'giatore
+- Nor'gal Daraa
 
 ## Relationships
 
@@ -84,19 +100,25 @@ Sho preserved Nor'gal's name and the brother-death fact in her notes.
 
 This suggests she remembered him as part of her moral burden after the Man's Promise boarding.
 
+It is not yet known whether Nor'gal distinguishes Sho's attempted command / surrender promise from the actions of Harvus, Rak, or the wider Wormwood attack.
+
 ### Kahina Bukekayo
 
 Kahina may know Nor'gal, speak for the same survivor anger, or disagree with his priorities.
+
+Nor'gal may support her life-for-life test, reject it as too lenient, or push for direct revenge.
 
 ### Goyle Onórach
 
 If Goyle survived and returns, he may complicate Nor'gal's view of the PCs: the same people who killed Man's Promise sailors also rescued one of them from Plugg's betrayal.
 
+If Goyle was the former Man's Promise quartermaster, Nor'gal may also recognize some practical or moral authority in him.
+
 ## Current State
 
-- Location: Unresolved
-- Status: Unknown / potentially alive
-- Political state: likely Man's Promise survivor grievance if present
+- Location: Man's Promise survivor context; exact physical position pending confirmation
+- Status: Alive / tracked survivor
+- Political state: likely Man's Promise survivor grievance
 - Immediate relevance: potential anti-PC thread within anti-Plugg politics
 
 ## Campaign Function at Relaunch
@@ -119,11 +141,11 @@ Nor'gal may:
 
 ## Open Questions
 
-- Is Nor'gal / Nor'Gal alive?
-- Is he aboard the Man's Promise?
+- Is Nor'gal physically aboard the Man's Promise at the cold open?
 - Is the dead brother's name Kor'al, Cor'Wal, or something else?
 - Who does Nor'gal believe killed his brother?
 - Does Nor'gal know Rak spared or captured him rather than killing him?
+- Did Nor'gal witness Sho's surrender promise during the boarding?
 - Does he know Goyle survived?
 - Would he cooperate with Sho through Kahina?
 - Would he accept any PC-led command?
