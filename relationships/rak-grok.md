@@ -16,7 +16,9 @@ This is a major relationship beat and should be treated as campaign canon.
 
 ## Origin / Early Friendship
 
-The earliest recovered seed of the relationship is the night of **Erastus 6 / Wormwood Day 2**, when Rak returned to Grok after failing to stop by earlier.
+The first recovered explicit friendship-development scene is the night of **Erastus 6 / Wormwood Day 2**, when Rak returned to Grok after failing to stop by earlier.
+
+This should not be treated as Rak and Grok's first contact. Given Rak's cook's mate duties under Ambrose Kroop, Grok's closeness to Kroop, and the galley / quartermaster context aboard the Wormwood, it is easy to assume they had already crossed paths earlier through galley work or Rak's duties for Ambrose. Those earlier interactions are not currently recovered.
 
 Rak apologized for bailing and explained that he lost track of time while cooking for the ship.
 
@@ -36,7 +38,7 @@ Grok grinned and invited him to show what he could brew.
 
 The current GM reconstruction presumes Grok furnished both Rak's alchemy kit and ingredients to brew with.
 
-This scene should be treated as the beginning of their friendship unless stronger evidence later places an earlier bond.
+This scene should be treated as the first recovered growth point in their friendship, not necessarily its absolute beginning.
 
 ## Campaign Significance
 
@@ -50,7 +52,8 @@ The brew scene also shows why Grok might become interested in Rak specifically: 
 
 ## Timing
 
-- First recovered friendship seed: Erastus 6 / Wormwood Day 2 night, when Rak offered to brew alcohol for Grok.
+- First recovered explicit friendship-development beat: Erastus 6 / Wormwood Day 2 night, when Rak offered to brew alcohol for Grok.
+- Earlier contact through the galley, Kroop, or Rak's cook's mate duties is likely but unrecovered.
 - Occurred before the capture of the Man's Promise.
 - Occurred before the prize crew was split from the Wormwood.
 - Occurred while Rak was still aboard the Wormwood.
@@ -88,6 +91,7 @@ The relationship can matter later if:
 
 ## Open Questions
 
+- What earlier galley / Kroop / quartermaster contact occurred before the Erastus 6 brew scene?
 - What did Rak brew for Grok on Erastus 6?
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
 - Did any officers know Rak was bunking with Grok?
