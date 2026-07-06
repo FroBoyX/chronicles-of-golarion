@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Day 2 work conversation and Arodus 5 split-scene log
+- Maturity: Draft, expanded with Day 2 work conversation, Erastus 29 course-change concern, and Arodus 5 split-scene log
 - Scope: Wormwood sailor, early Mirei contact, rescued captive, witness to Riptide Cove
 
 ## Overview
@@ -38,6 +38,8 @@ Her apparent loss or capture helped make the island personal rather than only lo
 
 Her survival gives the returning Harvus group another witness and another life saved.
 
+Before Bonewrack, she also became one of the early lower-crew voices to notice the course-change danger aboard the Man's Promise.
+
 ## Early Wormwood
 
 ### Joining the Wormwood
@@ -61,6 +63,32 @@ Mirei told Tilly she had been admiring the water a few nights before, did not kn
 Tilly advised Mirei to get used to shipboard life, keep her head down, and avoid drawing attention.
 
 Mirei admitted she had not succeeded at avoiding attention so far.
+
+## Man's Promise
+
+### Erastus 29 Course-Change Concern
+
+On Erastus 29, Tilly warned Mirei that some crew were worried Mr. Plugg might be taking the Man's Promise for himself.
+
+Tilly said Sandara had noticed the ship changed course the previous night and that she was not sure what it meant.
+
+Tilly started to say "Some of u-" and stopped herself, suggesting she nearly named a group or person but chose not to.
+
+Tilly then asked where Mirei had been the night before.
+
+When Mirei explained she had entertained Plugg, borrowed a fiddle because her harp was missing, and agreed to bunk near him because it seemed quieter, Tilly reacted sharply:
+
+> "...and you agreed!"
+
+After thinking, Tilly shifted to practical risk assessment and asked whether Plugg trusted Mirei.
+
+She then asked whether Mirei could get Plugg to trust her.
+
+When Mirei said she thought she could if her playing stayed strong enough, Tilly told her to keep her posted.
+
+Mirei asked Tilly to keep an eye out for her missing harp.
+
+This scene shows Tilly as worried, suspicious of Plugg, and willing to treat Mirei's compromised access as potentially useful rather than only condemn it.
 
 ## Capture
 
@@ -114,6 +142,8 @@ She says Sandara took the worst of the abuse and fought hard when captured.
 
 Tilly likely understands Sandara's condition and the danger of the lair from direct experience.
 
+Tilly also relayed Sandara's Erastus 29 course-change warning to Mirei.
+
 ### Goyle Onórach
 
 Tilly showed immediate concern for Goyle after the rescue.
@@ -129,6 +159,8 @@ This relationship should be treated as meaningful even if its exact nature remai
 Mirei first connected with Tilly during work on Wormwood Day 2 by talking to make the work go faster.
 
 Tilly and Mirei both wanted the sea, but Tilly chose shipboard danger while Mirei was taken into it by force.
+
+On Erastus 29, Tilly challenged Mirei about agreeing to sleep near Plugg, then asked whether Mirei could use that position to get Plugg to trust her.
 
 Mirei later helped make Tilly's rescue possible.
 
@@ -162,6 +194,8 @@ She can confirm:
 - Goyle helped her survive captivity,
 - and Plugg's claim that missing sailors were simply gone is incomplete or false.
 
+Her Erastus 29 course-change concern also means she was aware of Plugg suspicion before the Bonewrack crisis fully exposed it.
+
 ## Possible Stances After Return
 
 Tilly may support:
@@ -179,6 +213,7 @@ Her exact political stance should emerge from play and prior influence history.
 - What was Tilly's attitude toward each PC before the Bonewrack rescue?
 - Did Mirei's Day 2 conversation improve Tilly's attitude toward her?
 - What roll produced Mirei's `15` in the Day 2 work conversation?
+- What exactly did Tilly almost say with "Some of u-" before stopping herself?
 - What is Tilly's exact relationship with Goyle beyond survival attachment?
 - Does Tilly still have Harvus' flail?
 - Does she remember the Whale clearly, or only fragments of the rescue?
