@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Mirei performance scene, Harvus light timeline, and Rak player-sheet evidence
-- Scope: Lower-crew NPC, placement unresolved, possible social ally
+- Maturity: Draft, expanded with Mirei performance scene, Harvus light timeline, Rak player-sheet evidence, and Erastus 16 reef task
+- Scope: Lower-crew NPC, placement unresolved after Wormwood, possible social ally
 
 ## Overview
 
@@ -24,11 +24,12 @@ Rak's player sheet lists Badger as a helpful NPC.
 - Type: NPC
 - Ancestry: Half-elf
 - Baseline role: Wormwood swab
-- Current location: Unresolved — Man's Promise or Wormwood
+- Current location: Unresolved — Man's Promise or Wormwood after the crew split
 - Current status: Presumed alive
 - Known Mirei interaction: Complimented Mirei's early Wormwood performances
 - Known Harvus interaction: Socialized with him aboard the Man's Promise; warmed somewhat by his note
 - Known Rak evidence: Listed as helpful in Rak's Foundry sheet notes
+- Known AP task evidence: Added by Plugg to the Erastus 16 crab reef task group
 
 ## Baseline Adventure Path Role
 
@@ -60,6 +61,14 @@ Badger framed that loss as "just the life."
 
 This establishes Badger as someone who responds to music but also treats shipboard hardship and loss as normalized.
 
+### Erastus 16 Reef Task
+
+On the morning of Erastus 16, Plugg gathered Harvus, Rak, Sho, and Mirei for a reef task, then yelled for Scourge to get "that damn badger."
+
+Badger became the fifth member of the group ordered to swim to the reef, fill buckets with crabs, and return.
+
+This confirms Badger was involved in the crab reef / Clam AP encounter setup.
+
 ### Man's Promise Socializing
 
 Harvus' light timeline records that after transfer to the new boat, he socialized with Badger and that she "digs me...ish."
@@ -90,9 +99,13 @@ On Day 2, she complimented Mirei and asked where she learned. Mirei told Badger 
 
 If this appreciation developed further, Badger could become a potential witness to Mirei's value before Plugg's later manipulation.
 
+Badger and Mirei were both assigned to the Erastus 16 reef task.
+
 ### Harvus G'ron
 
 Badger socialized with Harvus aboard the Man's Promise and may have warmed to him somewhat.
+
+Harvus and Badger were both assigned to the Erastus 16 reef task.
 
 This could matter if she is aboard when Harvus returns with rescued captives.
 
@@ -102,6 +115,14 @@ Rak's player sheet lists Badger as helpful.
 
 If accurate, Badger may be part of Rak's perceived support network.
 
+Rak and Badger were both assigned to the Erastus 16 reef task.
+
+### Sho Astor
+
+Badger and Sho were both assigned to the Erastus 16 reef task.
+
+Sho had just been released from being tied to the mast when the task began, which Badger may or may not have witnessed depending on when Scourge brought her over.
+
 ### PCs Generally
 
 Badger's exact attitude toward each PC needs reconstruction.
@@ -109,6 +130,8 @@ Badger's exact attitude toward each PC needs reconstruction.
 ### Plugg and Scourge
 
 Badger is not currently defined as Plugg-loyal, but fear and shipboard pressure may constrain her.
+
+Plugg selected or added Badger to the Erastus 16 reef task by ordering Scourge to fetch her.
 
 ## Current State
 
@@ -132,6 +155,8 @@ Mirei's performance may matter if Badger is a lower-crew witness to Mirei being 
 ## Open Questions
 
 - Is Badger aboard the Man's Promise or the Wormwood?
+- Why did Plugg add Badger to the Erastus 16 reef task?
+- What happened to Badger during the reef / Clam encounter?
 - Does the formal influence tracker confirm Rak's helpful note?
 - What is her exact attitude toward Mirei after the Day 2 performance?
 - What is her exact attitude toward Harvus?
