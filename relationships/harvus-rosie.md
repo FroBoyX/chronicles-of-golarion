@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft
+- Maturity: Draft, expanded with recovered fiddle-return scene
 - Scope: Wormwood fiddle recovery, friendship, and storm loss
 
 ## Summary
@@ -22,11 +22,35 @@ Harvus' light timeline records that he recovered:
 
 Recovering the fiddle was a direct way of helping Rosie regain something personal after being press-ganged.
 
+A recovered leisure-time scene shows the actual return.
+
+Rosie invited Harvus to drink and offered him an unidentified draft she had won or taken after beating someone in a game.
+
+She was tipsy, foul-mouthed, lonely, and restless, moving between drinking-game bravado, sexual confusion, hunger, and a blunt admission that it gets lonely being short and cursing all the time.
+
+Harvus accepted a drink, then told Rosie he had something for her from Grok.
+
+He handed over the fiddle.
+
+Rosie reacted with immediate gratitude and physical enthusiasm:
+
+> "I can't believe this!"
+
+She tackled Harvus hard enough that he cried out about his injured wing.
+
+> "Sweet Calistra.... THAT'S MY WING!"
+
+Rosie played the fiddle, pounced him again, briefly apologized, then told him to get over it and punched his shoulder.
+
+Harvus called her entertaining and retired for the night while Rosie thanked him and continued playing.
+
 ## Friendship
 
 Harvus' notes later record that he made friends with Rosie.
 
-This should be treated as a meaningful influence success unless contradicted by formal records.
+This recovered scene should be treated as the direct table evidence for why that friendship mattered.
+
+It was not just a mechanical influence success. Harvus restored something important to her, and Rosie responded with sincere if chaotic gratitude.
 
 ## Rosie's Loss
 
@@ -51,6 +75,10 @@ This may help explain the intensity of his response to Sandara's disappearance.
 
 ## Open Questions
 
+- What was the unidentified draft Rosie shared with Harvus?
+- Who was the "lisping pig-nut" Rosie beat in a game?
+- Did Rosie become mechanically friendly/helpful from this scene, or only socially warmer?
+- Did Harvus suffer any mechanical consequence from Rosie hitting or pouncing on his damaged wing?
 - What happened to Rosie's fiddle after she was lost?
 - Did Harvus keep it, return it to her locker, or lose track of it?
 - Did Harvus speak about Rosie after her death?
