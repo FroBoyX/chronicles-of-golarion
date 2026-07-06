@@ -3,10 +3,10 @@
 ## Document Status
 
 - Type: Obsidian Portal / GM source extract
-- Maturity: Source note
-- Scope: Ebony Saable identity, tags, and current reconstruction use
+- Maturity: Source note, updated with GM survivor confirmation
+- Scope: Ebony Saable identity, tags, Man's Promise survivor status, and current reconstruction use
 - Spoiler scope: GM-facing until Man's Promise survivor politics are resolved
-- Canon status: Evidence source; integrate through character dossier and current-state audit
+- Canon status: Evidence source plus GM confirmation; integrate through character dossier and current-state audit
 
 ## Tags / Listed Roles
 
@@ -23,24 +23,24 @@ He is most often silent.
 
 GM identification: Ebony Saable is the "monk man" referenced by Sho.
 
-## Current Reconstruction Assumption
+## GM Survivor Confirmation
 
-Ebony is assumed to be a **Man's Promise survivor** unless later evidence contradicts this.
+Ebony Saable is confirmed as **one of the six tracked Man's Promise survivors**.
 
-This assumption is based on the Man's Promise tag and the current reconstruction need to identify named Man's Promise survivors around Sho's prisoner / mutiny thread.
+He should no longer be treated as merely assumed or pending for survivor status.
 
 ## Reconstruction Use
 
 - Treat Ebony as a named Man's Promise-side figure, not a Wormwood press-ganged new hand.
-- Treat him as tied to the Man's Promise survivor bloc pending stronger placement evidence.
+- Treat him as tied to the Man's Promise survivor bloc.
 - Use him to resolve Sho's prior "monk man" reference.
-- Do not assume his loyalty, combat role, or relationship to Sho beyond the identification and survivor assumption.
+- Treat his survival as confirmed.
+- Do not assume his loyalty, combat role, or relationship to Sho beyond the identification and survivor confirmation.
 
 ## Open Checks
 
 - What exactly did Sho say about the "monk man"?
 - Did Ebony personally interact with Sho while she was imprisoned or trying to make amends?
-- Was Ebony aboard during the Man's Promise assault?
 - Did Ebony witness Sho's promise of safety or the later slaughter?
-- Is Ebony physically aboard the Man's Promise at the current relaunch point?
+- What are the names of the other five tracked Man's Promise survivors?
 - What is Ebony's stance toward Plugg, Scourge, Kahina, Goyle, and Sho?
