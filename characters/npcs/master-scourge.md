@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rosie loss suspicion
+- Maturity: Draft, expanded with Rosie loss suspicion and Erastus 16 mast / reef summons
 - Scope: Book One emotional antagonist and disciplinary threat
 - Source basis: Recovered Adventure Path material, GM-provided campaign facts, chat logs, and player journals
 
@@ -94,6 +94,10 @@ Scourge enforced daily work, punishment, and intimidation aboard the Wormwood.
 
 He helped create the environment in which the PCs had to build alliances quietly rather than confront authority openly.
 
+On the morning of Erastus 16, Sho woke slumped and tied to the mast. Scourge placed a whip under her chin and asked if she enjoyed the previous punishment, openly admitting that he did.
+
+After Ratline called land ho and the deck came alive, Scourge called for Rak to be brought on deck, unlocked Sho, and later fetched Badger on Plugg's order for the reef task.
+
 ### Targeting the PCs
 
 Scourge used goons and hostile crew to test, intimidate, or harm the PCs and their friends.
@@ -132,6 +136,8 @@ He depends on Plugg's authority and protection.
 
 He can influence Plugg, but he is not the architect of every Plugg decision. Chronicles canon should preserve Plugg's agency, especially in the manipulation of Mirei.
 
+On Erastus 16, he fetched Badger when Plugg ordered it.
+
 ### Harvus G'ron
 
 Scourge is Harvus' personal enemy.
@@ -160,6 +166,8 @@ Whether Scourge had any direct role in Rosie's storm loss is unresolved.
 
 Sho's defiance draws Scourge's punishment and contempt.
 
+On Erastus 16, Scourge taunted Sho while she was tied to the mast, using the whip under her chin and making clear that he enjoyed her suffering.
+
 His assault on Sho before she wakes in the hot-box is one of the immediate pre-relaunch provocations.
 
 ### Mirei
@@ -173,6 +181,12 @@ However, Scourge watched, threatened, and reinforced the danger around her compr
 Rak is useful but uncontrolled.
 
 Scourge can attempt to command him through hierarchy, but Rak's island competence and social unpredictability complicate that control.
+
+On Erastus 16, Scourge ordered Rak brought on deck for the reef task.
+
+### Badger Medlar
+
+On Erastus 16, Scourge was ordered to fetch Badger for Plugg's reef task.
 
 ## Baseline Mechanics Snapshot
 
@@ -207,6 +221,7 @@ If he dies, survives, flees, or is captured, each outcome should create differen
 
 ## Open Questions
 
+- Which prior punishment left Sho tied to the mast before the Erastus 16 reef task?
 - Was Rosie's going overboard accidental, negligent, or intentional?
 - If intentional, did Scourge directly cause it, signal it, or merely benefit from it?
 - Does Scourge know Sandara, Tilly, and Goyle survived?
