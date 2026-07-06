@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft, expanded with corrected boarding origin, survivor math, and Plugg's first command speech
+- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, and first-night command state
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -85,6 +85,30 @@ Scourge reinforces that because the ship has only a skeleton crew, any fall in d
 Syl then tells the crew to keep their Wormwood jobs and threatens slackers with the mast under her care.
 
 Plugg publicly states that the Man's Promise is going to Port Peril, then back to the Wormwood. This matters because later evidence shows the ship changes course, making the public mission either a temporary truth or a lie that Plugg soon abandons.
+
+## First Night Under Plugg
+
+The first recovered night aboard the Man's Promise shows Plugg's command becoming practical, intimate, and coercive.
+
+Early in the departure, Rak attempted to warn Nor'gal Daraa and Merchiel V'giatore that Plugg and his officers were not kind men. Merchiel restrained Nor'gal from attacking Rak. Nor'gal rejected Rak's warning because, from his view, the new order had given the survivors a chance at life while Rak had brought death.
+
+That evening, Scourge announced a stricter regime:
+
+- no rum rations,
+- nobody above deck except nightshift,
+- no entertainment,
+- berths after supper,
+- and harsh punishment.
+
+The one exception was Mirei, who was ordered to report to the captain with her instrument.
+
+Rak lent Mirei a fiddle during dinner so she could perform for Plugg. Mirei played well enough to impress Plugg, who offered her a hammock in his cabin area. The offer was immediately entangled with coercion: Plugg performed a slow weapon check, pushed Mirei against the bulkhead, seized a pouch, allowed her to keep a potion, and promised her life would improve if she kept him entertained.
+
+Plugg then made the cabin rules explicit: Mirei was not to touch anything without permission, would play for him each night, and was not to speak to him or Owlbear unless spoken to.
+
+Below decks, Syl called for nightwatch and treated reluctant sailors as volunteered. Fipps Chumlett was named boatswain for nightshift. Harvus and Ebony were assigned to rigging, while Sho and Goyle were assigned to swab work cleaning the burned hold.
+
+Goyle directly identified himself to Sho as former quartermaster of the Man's Promise and told her to follow his lead.
 
 ## Campaign State
 
@@ -172,6 +196,8 @@ Kahina is the clearest current example.
 
 Nor'gal is another important survivor-facing thread because his brother appears to have been killed during the boarding and he later becomes one of the named survivors assigned to Plugg's skeleton crew.
 
+The first-night Rak exchange shows Nor'gal's anger directly: he may see Plugg's order as the reason he is alive while seeing Rak as someone who gave only death.
+
 A Rahadoumi officer visible in the Erastus 27 chat may also matter to survivor politics if they remained alive after the split.
 
 ### Hostile Independents
@@ -194,9 +220,9 @@ Strategically important for command, ship's wheel, and prior boarding memory.
 
 Claimed by Plugg.
 
-Contains the hospitality's hammock and Plugg's seized authority space.
+Mirei's first-night hammock is placed in or near this authority space after Plugg's coercive offer.
 
-Owlbear may be chained as a guard depending on exact current configuration.
+Owlbear may be chained or stationed as a guard depending on exact current configuration.
 
 ### Cook's Cabin and Galley
 
@@ -215,6 +241,12 @@ Sho's current prison.
 This is a symbolic return to captivity at the exact moment the others are moving toward rescue and decision.
 
 The hot-box also creates a constrained social scene rather than only a punishment state: Kahina can speak to Sho there, test her sincerity, and decide whether Sho is useful or unforgivable.
+
+### Burned / Fire-Damaged Hold
+
+On the first night, Sho and Goyle were assigned to clean the hold from the fire under Fipps' nightshift authority.
+
+This is a key early private space for Sho and Goyle because Goyle directly identified himself to her as the former quartermaster of the Man's Promise.
 
 ## Important Artifacts
 
@@ -244,6 +276,7 @@ This has not yet become central in play but remains a future identity hook.
 - The ship may not have enough reliable sailors for every possible outcome.
 - The crew may not accept any single leader automatically.
 - Former Man's Promise survivors have reason to hate both Plugg's tyranny and the PCs' role in the original boarding.
+- Mirei's prior placement in Plugg's cabin makes her both witness and target within Plugg's command space.
 
 ## Possible Outcomes
 
@@ -258,33 +291,3 @@ Possible states include:
 - The ship fractures into factions.
 - The ship is abandoned.
 - The ship remains damaged and unusable.
-- The crew uses the ship temporarily without resolving legitimacy.
-
-## Open Questions
-
-- What is the exact repair status at relaunch?
-- Who is physically aboard the Man's Promise when Harvus and Rak's groups return?
-- Is Owlbear currently chained in or near Plugg's cabin?
-- Who has access to ship's boats?
-- How many former Man's Promise sailors remain aboard?
-- Does anyone aboard know Goyle survived?
-- What visible sign marks Sho's imprisonment?
-- How many sailors are required to move the ship at the moment?
-- What exactly does Kahina require from Sho before considering her useful or sincere?
-- Did Giffer die during the boarding or later from injuries?
-- What happened to the lifeboat and fleeing sailors during the boarding?
-- Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
-- Did Plugg's public Port Peril order come from Harrigan, or was Plugg already lying?
-
-## Related Documents
-
-- `chronology/current-state.md`
-- `state/post-island-decision-space.md`
-- `characters/npcs/mr-plugg.md`
-- `characters/npcs/master-scourge.md`
-- `characters/npcs/ambrose-fishguts-kroop.md`
-- `chronicles/the-fork.md`
-- `chronicles/battle-of-the-mans-promise.md`
-- `evidence/chat-logs/wormwood-erastus-25-mans-promise-boarding.md`
-- `evidence/gm-notes/mans-promise-captain-death-correction.md`
-- `evidence/chat-logs/mans-promise-erastus-27-plugg-first-speech.md`
