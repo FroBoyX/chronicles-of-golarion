@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log and Sho PCGen evidence
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Sho PCGen evidence, and survivor-set confirmation
 - Scope: Man's Promise survivor, rescued captive, anti-Plugg witness
 
 ## Overview
 
-Goyle Onórach is a Man's Promise sailor rescued from Riptide Cove alongside Sandara Quinn and Tilly Brackett.
+Goyle Onórach is one of the six tracked Man's Promise survivors and a Man's Promise sailor rescued from Riptide Cove alongside Sandara Quinn and Tilly Brackett.
 
 His survival matters because he is not only another rescued prisoner. He is a witness.
 
@@ -20,12 +20,25 @@ Sho's PCGen notes state that Goyle used to be quartermaster of the Man's Promise
 
 - Name: Goyle Onórach
 - Type: NPC
+- Role: Swab
+- Listed location / tag: The Man's Promise
 - Origin: Man's Promise crew
 - Pre-capture role evidence: Former quartermaster of the Man's Promise, per Sho's notes
 - Baseline temperament: Gruff, honor-conscious, sailorly
 - Current location: Bonewrack Isle, returning from Riptide Cove
-- Current status: Alive, rescued
+- Current status: Alive, rescued, tracked Man's Promise survivor
 - Current stance: Casts his lot with Harvus' group after rescue
+
+## Survivor Set
+
+Goyle is one of the six tracked Man's Promise survivors:
+
+- Dahrehn Numus
+- Ebony Saable
+- Goyle Onórach
+- Kahina Bukekayo
+- Merchiel V'giatore
+- Nor'gal Daraa
 
 ## Campaign Role
 
@@ -119,7 +132,7 @@ He refers to her as the priestess and asks whether she survived.
 
 Tilly was rescued alongside him and showed strong concern for whether Goyle survived.
 
-Tilly says Goyle helped her through the last day of captivity.
+Tilly says Goyle helped her through the last day.
 
 Their relationship should be treated as meaningful, though exact nature remains open.
 
@@ -141,6 +154,10 @@ Sho may therefore view Goyle as more than a generic Man's Promise survivor.
 
 ### Man's Promise Survivors
 
+Goyle is one of the six tracked Man's Promise survivors.
+
+The known survivor set is Dahrehn, Ebony, Goyle, Kahina, Merchiel, and Nor'gal.
+
 Goyle can become a rally point for surviving Man's Promise crew, especially if they distrust both Plugg and the PCs.
 
 His former quartermaster role may increase that function.
@@ -148,7 +165,7 @@ His former quartermaster role may increase that function.
 ## Current State
 
 - Location: Bonewrack Isle, with Harvus group
-- Status: Alive, recently escaped Riptide Cove
+- Status: Alive, recently escaped Riptide Cove, tracked Man's Promise survivor
 - Condition: Exhausted, coughing, angry, but able to move; exact injury state needs confirmation
 - Immediate leverage: Can expose Plugg's plan and Plugg's direct role in his capture
 - Current declared stance: Casts his lot with Harvus' group
@@ -188,3 +205,4 @@ Goyle may support:
 - What does Goyle want if Plugg falls?
 - Would Goyle serve under a PC captain?
 - Would Goyle support Kahina if she makes a claim or demand on behalf of Man's Promise survivors?
+- How does Goyle relate to Dahrehn, Ebony, Merchiel, and Nor'gal?
