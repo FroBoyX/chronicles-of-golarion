@@ -102,9 +102,9 @@ He assigned Harvus and Conchobhar as riggers, assigned Rak as cook's mate, and p
 
 He repeatedly targeted PCs and their allies through discipline, indirect violence, and manipulation.
 
-During the early Wormwood storm window, Mirei knocked on or approached Plugg's door to invite the captain / command to her performance that night. Plugg answered through the door with hostility, then ordered her below before the storm hit and told her to give a performance that would pacify the "land-lubber scum."
+During the early Wormwood storm window, Mirei attempted to invite **Captain Harrigan** to her performance that night. Plugg answered through the door instead. He answered with hostility, then ordered her below before the storm hit and told her to give a performance that would pacify the "land-lubber scum."
 
-This shows Plugg recognizing Mirei's performance as a tool for crew morale control before the later Man's Promise manipulation arc.
+This shows Plugg recognizing Mirei's performance as a tool for crew morale control before the later Man's Promise manipulation arc. It should not be written as Mirei intentionally seeking Plugg out; he intercepted or answered her attempt to reach Harrigan.
 
 ### Man's Promise Capture
 
@@ -147,6 +147,8 @@ Plugg gives direction and protection. Scourge carries out discipline and feeds h
 Plugg treated Mirei as a prize and tried to turn her into an asset against the other PCs.
 
 Before that later pressure, he had already seen or used Mirei's performances as a way to pacify crew morale during a storm.
+
+The storm-window scene began as Mirei attempting to invite Harrigan, not Plugg. Plugg intercepted or answered the door and converted the invitation into an order.
 
 He gave her a privileged but dangerous position and expected betrayal as proof of loyalty.
 
@@ -219,7 +221,8 @@ This should be used as cultural evidence for why the crew fears acting openly ag
 ## Open Questions
 
 - Was the storm-window performance order on Erastus 11, 12, or 13?
-- Was Harrigan the intended captain in Mirei's invitation, or was Plugg the practical command figure answering from behind the door?
+- Did Harrigan hear about Mirei's attempted invitation?
+- Why was Plugg the person answering the captain's door or command-space door?
 - Did Plugg attend or only order Mirei to perform below?
 - Does Plugg still believe he can restore control without open slaughter?
 - How much does he know about Sandara, Tilly, and Goyle being rescued?
