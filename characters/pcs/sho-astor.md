@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -131,6 +131,18 @@ Sho would still try to maintain the presentation to preserve some sense of contr
 
 No player character knew the truth at first. The player notes that the press-gang members who searched Sho's belongings may have figured it out, so select Wormwood crew may have known or suspected before the PCs did.
 
+## Cloak and Quiet Selfhood
+
+Sho's cloak was primarily comfort and a quiet promise to herself that she would see Agatha again.
+
+Recovering the cloak was not merely recovering gear. It was reclaiming part of herself. Sho could not lose something so important to her.
+
+When Sho realized she had been swindled around the cloak recovery, she felt embarrassed that she had not noticed until too late and was too prideful to bring it back up. She was still deeply glad to have the cloak back.
+
+After recovering it, Sho absolutely hid the cloak because she could not risk someone taking it or damaging it.
+
+This cloak should be treated as a selfhood anchor, not only equipment.
+
 ## Ancient Explorer / Ghol-Gan Hook
 
 The PCGen sheet preserves the **Ancient Explorer** campaign trait.
@@ -183,7 +195,11 @@ This does not make Harrigan safe or good in Sho's mind, but it complicates him i
 
 GM truth: Sho never drank her rum ration aboard the Wormwood.
 
-The exact method is unknown. She likely disposed of, hid, traded, poured out, or otherwise avoided consuming it each night.
+Refusing or ditching the rum was partly quiet resistance, but mostly practical self-preservation: Sho wanted to keep her wits about her in a hostile environment.
+
+The refusal also had a monastic element. Sho understood alcohol as a poison of the body and mind. Agatha had tried to get her to loosen up about that, but old habits die hard, especially in an environment like the Wormwood.
+
+Sho was afraid of getting caught because the last thing she wanted was for the crew to force her to drink it.
 
 Do not write Sho as willingly drinking the Wormwood rum unless later direct evidence contradicts this.
 
@@ -455,6 +471,8 @@ Agatha remains a backstory emotional anchor and possible future objective.
 
 Sho's clothing and presentation boundaries partly revolve around Agatha: Sho does not want to dress in anything fancy for anyone other than Agatha when she sees her again.
 
+Sho's cloak is a promise to herself that she will see Agatha again.
+
 ### Ratline Rattsberger
 
 Sho's notes say she had something to discuss with Ratline.
@@ -532,13 +550,17 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Which press-gang members searched Sho's belongings and may have learned her disguise truth?
 - What exactly did Sho mean by admitting "who and what she is" if confronted?
 - When exactly did Sho ask Mirei to keep the secret?
+- Who swindled Sho around the cloak recovery, and what was the trade?
+- Where did Sho hide the cloak after recovering it?
+- Was the cloak still hidden when she transferred to the Man's Promise?
+- How exactly did Sho ditch or avoid the rum ration each night?
+- Did anyone ever almost catch Sho ditching the rum before later threats around rum refusal?
 - What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 23 bilge fight?
 - Who ordered Sho released for the Erastus 25 battle and gave her the strike-team opportunity?
 - What was Sho's physical condition when released for the Erastus 25 battle?
 - What did Sho suspect about Giffer's body?
 - What did Sho need to discuss with Crimson?
 - What did Sho need to discuss with Ratline?
-- How did Sho dispose of or avoid drinking her rum ration each night?
 - Is the killed brother's name Cor'Wal, Kor'al, or something else?
 - Is Nor'Gal / Nor'gal alive and aboard the Man's Promise?
 - Was Goyle definitely the quartermaster of the Man's Promise?
