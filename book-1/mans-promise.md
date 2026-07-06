@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft, expanded with corrected boarding origin
+- Maturity: Draft, expanded with corrected boarding origin and survivor math
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -52,9 +52,21 @@ Sho warned Harrigan of an attacker behind him and received direct acknowledgemen
 
 Rak's conduct during the boarding became a major moral thread: he killed a pleading or downed sailor, likely worsened Giffer's fatal state, and intimidated Nor'gal into surrender. Sho repeatedly tried to impose restraint and subdue rather than slaughter.
 
+The **captain of the Man's Promise died during the battle**. The later Erastus 27 example victim was a weakened captured sailor, not the captain.
+
 After the ship was secured, Harrigan ordered rum, loot, celebration, and officers gathered. Habbly stitched Sho while reminding her she was still likely to go under the boat. Sandara collapsed from a serious wound after healing Harvus.
 
 This boarding is the violent birth of the Man's Promise political crisis.
+
+## Prisoners and Split
+
+After the Erastus 26 revel wound down, fifteen captured survivors were led out.
+
+Harrigan made an example of a weakened captured sailor by throwing that sailor overboard to the sharks. Fourteen captured survivors remained afterward.
+
+A Rahadoumi officer is visible in the Erastus 27 chat after Harrigan's example and spits in disgust. That officer's exact identity and later fate remain unresolved.
+
+Harrigan assigned a skeleton crew under Mr. Plugg to take the Man's Promise, and the two ships separated.
 
 ## Campaign State
 
@@ -138,6 +150,8 @@ Former Rahadoumi or Man's Promise crew may oppose Plugg and Scourge without forg
 Kahina is the clearest current example.
 
 Nor'gal is another important survivor-facing thread because his brother appears to have been killed during the boarding and he later becomes one of the named survivors assigned to Plugg's skeleton crew.
+
+A Rahadoumi officer visible in the Erastus 27 chat may also matter to survivor politics if they remained alive after the split.
 
 ### Hostile Independents
 
@@ -237,6 +251,7 @@ Possible states include:
 - What exactly does Kahina require from Sho before considering her useful or sincere?
 - Did Giffer die during the boarding or later from injuries?
 - What happened to the lifeboat and fleeing sailors during the boarding?
+- Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
 
 ## Related Documents
 
@@ -248,3 +263,4 @@ Possible states include:
 - `chronicles/the-fork.md`
 - `chronicles/battle-of-the-mans-promise.md`
 - `evidence/chat-logs/wormwood-erastus-25-mans-promise-boarding.md`
+- `evidence/gm-notes/mans-promise-captain-death-correction.md`
