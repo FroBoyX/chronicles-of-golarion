@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Draft, expanded with Arodus 5 split-scene evidence and confirmed Man's Promise survivor set
+- Maturity: Draft, expanded with Arodus 5 split-scene evidence and clarified Man's Promise survivor math
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 
 ## Purpose
@@ -26,7 +26,7 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 | Mirei | PC, alive | Accompanied Harvus; confessed she was tasked with killing the PCs but did not. |
 | Sandara Quinn | NPC, alive | Rescued; took the worst of captivity; likely still has Besmara's tricorne, pending player confirmation. |
 | Tilly Brackett | NPC, alive | Rescued; weak but walking; says Goyle helped her through the last day. |
-| Goyle Onórach | NPC, alive / tracked Man's Promise survivor | Rescued; casts lot with Harvus' group; warns Plugg/Scourge planned an ambush. One of the six tracked Man's Promise survivors. |
+| Goyle Onórach | NPC, alive / named Man's Promise skeleton-crew survivor | Rescued; casts lot with Harvus' group; warns Plugg/Scourge planned an ambush. One of the six named Man's Promise survivors assigned to Plugg's skeleton crew. |
 
 ## Bonewrack Isle — Moving Supply Party
 
@@ -48,20 +48,30 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 | Character | Status | Notes |
 |---|---|---|
 | Sho Astor | PC, alive | Still believed locked in the hot-box. Accepted Kahina's life-for-life test. |
-| Kahina Bukekayo | NPC, alive / tracked Man's Promise survivor | Rigger; issued Sho a life-for-life test: their lives or Sho's. One of the six tracked Man's Promise survivors. |
+| Kahina Bukekayo | NPC, alive / named Man's Promise skeleton-crew survivor | Rigger; issued Sho a life-for-life test: their lives or Sho's. One of the six named Man's Promise survivors assigned to Plugg's skeleton crew. |
 
-## Man's Promise — Tracked Survivor Bloc
+## Man's Promise — Survivor Count Context
 
-The six tracked Man's Promise survivors are fixed as:
+The attack on the Man's Promise left **15 survivors**.
+
+Captain Harrigan immediately made an example of the only surviving Rahadoumi officer by throwing her overboard to the sharks.
+
+That left **14 surviving non-officer Man's Promise crew**.
+
+Of those fourteen, the archive currently tracks **six named survivors assigned to Plugg's skeleton crew** on their own captured ship. The other eight non-officer survivors are acknowledged by the count but are not currently named or tracked as relaunch actors.
+
+## Man's Promise — Named Skeleton-Crew Survivor Bloc
+
+The six named skeleton-crew survivors are fixed as:
 
 | Character | Role | Status | Notes |
 |---|---|---|---|
-| Dahrehn Numus | Swab | Alive / tracked survivor | Previously wealthy trader who had been on the Man's Promise. Exact physical position at cold open needs confirmation. |
-| Ebony Saable | Rigger | Alive / tracked survivor | Identified as Sho's referenced "monk man"; short, dark, bald, leanly muscled, mostly silent. Exact physical position needs confirmation. |
-| Goyle Onórach | Swab | Alive / tracked survivor | Currently off-ship with Harvus, Mirei, Sandara, and Tilly after escaping Riptide Cove. |
-| Kahina Bukekayo | Rigger | Alive / tracked survivor | A tall slender warrior; aboard the Man's Promise and currently testing Sho. |
-| Merchiel V'giatore | Rigger | Alive / tracked survivor | Last known vessel: The Man's Promise. Last known position: rigger. Exact physical position needs confirmation. |
-| Nor'gal Daraa | Swab | Alive / tracked survivor | Soldier hell-bent on revenge for the loss of his brother. Exact physical position needs confirmation. |
+| Dahrehn Numus | Swab | Alive / named skeleton-crew survivor | Previously wealthy trader who had been on the Man's Promise. Exact physical position at cold open needs confirmation. |
+| Ebony Saable | Rigger | Alive / named skeleton-crew survivor | Identified as Sho's referenced "monk man"; short, dark, bald, leanly muscled, mostly silent. Exact physical position needs confirmation. |
+| Goyle Onórach | Swab | Alive / named skeleton-crew survivor | Currently off-ship with Harvus, Mirei, Sandara, and Tilly after escaping Riptide Cove. |
+| Kahina Bukekayo | Rigger | Alive / named skeleton-crew survivor | A tall slender warrior; aboard the Man's Promise and currently testing Sho. |
+| Merchiel V'giatore | Rigger | Alive / named skeleton-crew survivor | Last known vessel: The Man's Promise. Last known position: rigger. Exact physical position needs confirmation. |
+| Nor'gal Daraa | Swab | Alive / named skeleton-crew survivor | Soldier hell-bent on revenge for the loss of his brother. Exact physical position needs confirmation. |
 
 ## Man's Promise — Command Threat
 
@@ -83,6 +93,7 @@ The six tracked Man's Promise survivors are fixed as:
 | Badger Medlar | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood; warmed somewhat to Harvus and Mirei; Rak sheet lists helpful. |
 | Maheem | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood. |
 | Tam "Narwhal" Tate | NPC, presumed alive | Status and location need confirmation. |
+| Eight unnamed Man's Promise survivors | NPCs, unresolved | Non-officer survivors left alive after Harrigan killed the officer; not part of the six named skeleton-crew bloc currently tracked. |
 
 ## Wormwood — Not Currently Present
 
@@ -101,12 +112,13 @@ The six tracked Man's Promise survivors are fixed as:
 
 | Character | Status | Notes |
 |---|---|---|
+| Unnamed surviving Rahadoumi officer | Dead | Only surviving Rahadoumi officer after the attack; Harrigan threw her overboard to the sharks as an example. |
 | Rosie Cusswell | Dead / lost at sea | Lost during Wormwood storm despite rescue attempts; Harvus had recovered her fiddle and befriended her. |
 | Aretta Bansion | Dead | Died after conflict with Sho in the bilges; Harvus recognized her from press-gang context. |
 | Giffer Tibbs | Dead | Killed during Man's Promise boarding sequence. |
 | Jakes Magpie | Dead | Keelhauled aboard Wormwood. |
 | Harmak Gruft | Dead | Body in cage on Wormwood. |
-| Kor'al Daraa | Dead | Man's Promise sailor killed during boarding; brother Nor'gal is one of the six tracked survivors. Spelling may reconcile with Cor'Wal. |
+| Kor'al Daraa | Dead | Man's Promise sailor killed during boarding; brother Nor'gal is one of the six named skeleton-crew survivors. Spelling may reconcile with Cor'Wal. |
 
 ## Non-Humanoid / Monster State
 
@@ -122,5 +134,6 @@ The six tracked Man's Promise survivors are fixed as:
 - Which Wormwood NPCs are definitively aboard the Man's Promise?
 - Where is Owlbear physically at the cold open?
 - Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard the Man's Promise at the cold open?
-- What is each tracked survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle?
+- What happened to the other eight non-officer Man's Promise survivors?
+- What is each named skeleton-crew survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle?
 - Does the ship actually reach Coconut Beach before or after the fork collision resolves?
