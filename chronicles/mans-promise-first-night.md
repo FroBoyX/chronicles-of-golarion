@@ -4,7 +4,7 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Source basis: Direct chat logs, GM context, current Man's Promise chronology
+- Source basis: Direct chat logs, GM context, current Man's Promise chronology, and GM correction on captain's cabin blood
 - Date candidate: First night after Plugg takes command of the Man's Promise, likely Erastus 27 evening
 - Spoiler scope: GM-facing / character-limited for Plugg-Mirei coercion details
 - Canon status: Becomes canon after GM/player sign-off and final date confirmation
@@ -44,6 +44,8 @@ Below decks, Harvus tried to keep a social thread with Crimson Cogward. Crimson 
 Sho heard the conversations and tried to sleep under the weight of what the battle had already done to the crew around her.
 
 Mirei ate quickly and went above. Owlbear stopped her at the cabin door and asked what she was doing on deck. When she said Scourge had sent her to the captain, Owlbear told her to wait. After a few minutes, Plugg called for her to be brought in.
+
+The cabin was not clean of its former owner. The Man's Promise captain had been killed there during the boarding, and the blood was still visible: splashed across the floor, the desk, and the walls.
 
 Mirei explained that her usual instrument had gone missing before they left the other ship, but she had found a fiddle. Plugg accepted and ordered her to play. She performed well enough to impress him.
 
@@ -89,6 +91,8 @@ The first night of Plugg's command divided the ship into its new order: survivor
 - Mirei was ordered to entertain Plugg with an instrument.
 - Rak lent Mirei a fiddle during dinner for the performance.
 - Harvus and Crimson established a civil but non-friendly war-story exchange.
+- The Man's Promise captain was killed in the captain's cabin during the boarding.
+- When Mirei performed for Plugg, blood from the captain's death remained splashed across the floor, desk, and walls.
 - Mirei performed for Plugg with a 32.
 - Plugg offered Mirei a hammock in his cabin area, then used a coercive weapons check and seized a pouch.
 - Plugg allowed Mirei to keep a potion.
@@ -108,3 +112,4 @@ The first night of Plugg's command divided the ship into its new order: survivor
 - Confirm what happened during the unaccounted remainder of nightshift.
 - Confirm whether Ebony's nightshift assignment proves she was aboard the Man's Promise at this point.
 - Confirm which other sailors Syl counted among the five nightwatch volunteers.
+- Recover Mirei's direct words or reaction to the blood in the captain's cabin, if present in logs.
