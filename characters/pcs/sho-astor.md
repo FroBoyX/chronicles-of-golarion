@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, and Erastus 22-25 escalation summary
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, and keelhaul-charge clarification
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -219,11 +219,11 @@ The current reconstruction should treat Aretta's death as the result of Sho's de
 
 ### Erastus 24 — Hot-Box and Interrupted Keelhauling
 
-On Erastus 24, Sho was in the hot-box and was to be keelhauled at Bloody Hour.
+On Erastus 24, Sho was put in the hot-box under the charge of killing Aretta on Erastus 23.
 
-In the late afternoon, the Man's Promise was sighted.
+She was to be keelhauled at Bloody Hour.
 
-Preparations for piracy interrupted the keelhaul trajectory.
+The punishment was not carried out. In the late afternoon, the Man's Promise was sighted and the Wormwood shifted into preparations for piracy.
 
 ### Giffer / Foul Play Suspicion
 
@@ -255,9 +255,9 @@ Crimson is not yet indexed in the archive and needs identification.
 
 In the early morning of Erastus 25, the Wormwood overtook the Man's Promise.
 
-All hands, including Sho, took part in a bloody and violent battle for control of the ship.
+Sho was let out because of her combat prowess and was given the opportunity to lead a strike team in the battle.
 
-Sho participated despite the prior day's hot-box / planned keelhauling.
+She participated despite having spent the prior day in the hot-box awaiting a keelhauling that never occurred.
 
 She warned Harrigan when a sailor threatened him from behind, earning Harrigan's recognition and later reward.
 
@@ -475,8 +475,9 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Which punishment left Sho tied to the mast before the Erastus 16 reef task?
 - Did that punishment expose or threaten Sho's disguise?
 - What spell or healing effect lifted the fog in Sho's head on Erastus 16?
-- What exact public charge put Sho in the hot-box for the planned Erastus 24 keelhauling?
 - What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 23 bilge fight?
+- Who ordered Sho released for the Erastus 25 battle and gave her the strike-team opportunity?
+- What was Sho's physical condition when released for the Erastus 25 battle?
 - What did Sho suspect about Giffer's body?
 - Who is Crimson?
 - What did Sho need to discuss with Crimson?
