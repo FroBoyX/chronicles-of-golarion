@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Sho player mercy perspective
 - Scope: Plugg-controlled brute, potential mutiny variable, Man's Promise uncertainty
 
 ## Overview
@@ -51,6 +51,8 @@ He can hurt people badly, but he is also exploited by Plugg.
 
 Sho's decision to defeat him without killing him is part of her restraint arc.
 
+The Sho player clarified that Sho originally misread Owlbear as another of Plugg's goons, but realized during and after the fight that Owlbear was also a victim and captive. That recognition drove her to spare him and try to befriend him.
+
 ## Relationship With Plugg
 
 Plugg controls Owlbear through fear, habit, and possession.
@@ -69,9 +71,22 @@ Plugg uses him as:
 
 Sho fought Owlbear and refused to kill him.
 
-This may matter if Owlbear recognizes her as someone who hurt him less than Plugg intended.
+At the start of the fight, Sho thought Owlbear was another Plugg brute. She was ready to put him in his place and show Plugg she could take him down too.
 
-If a friendship or respect beat was established at the table, that should be confirmed.
+During the fight, Sho was tactical rather than panicked. Unlike the bilges fight, this was a controlled fight in her mind: use the opponent's weaknesses, take them down quickly, end the threat.
+
+Then Sho saw that Owlbear was beaten and that there was no need to continue. More importantly, she realized he was not the beast Plugg had made him out to be.
+
+Sho's mercy came from both pity and defiance:
+
+- pity because Owlbear was also a victim,
+- defiance because Sho refused to do what Plugg wanted her to do.
+
+Befriending Owlbear was one of the first positive things Sho experienced after being put on the Wormwood.
+
+Sho became a little protective of him, fond of him, and wanted to somehow release him so he could become more than Plugg's captive tool.
+
+This may matter if Owlbear recognizes her as someone who hurt him less than Plugg intended.
 
 ## Relationship With the Crew
 
@@ -105,9 +120,14 @@ Owlbear should not be treated as generic hostile muscle unless prior play confir
 
 His presence can force players to decide whether their new order reproduces Plugg's use of him or frees him from it.
 
+For Sho specifically, Owlbear is an early example of a threatening figure who was also a captive. He helped her learn to separate the person being used from the person doing the using.
+
 ## Open Questions
 
-- Did Sho gain Owlbear's friendship by backing away or sparing him during the fight?
+- What exact table action established Sho's attempt to befriend Owlbear after sparing him?
+- Did Owlbear visibly understand Sho's mercy in the moment?
+- Did Plugg react immediately to Sho refusing the expected cruelty?
+- Did Sho ever speak to Owlbear privately or try to release him before the Man's Promise split?
 - Is Owlbear currently chained in Plugg's cabin, another compartment, or loose under orders?
 - Does Owlbear know Sho is in the hot-box?
 - If Plugg orders him to kill Sho, Harvus, Rak, or Mirei, does he obey immediately?
