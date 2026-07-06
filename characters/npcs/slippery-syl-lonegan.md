@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak player-sheet evidence, and Erastus 27 boatswain appointment
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak player-sheet evidence, Erastus 27 boatswain appointment, and first-night nightwatch assignment
 - Scope: Hostile Wormwood pirate, Man's Promise pressure point, current fork threat
 
 ## Overview
@@ -72,6 +72,20 @@ After Scourge reinforced the threat of quick discipline, Syl took command of imm
 She ordered everyone to keep their Wormwood jobs and threatened slackers with being put on the mast under her care.
 
 This appointment formalizes Syl's authority aboard the Man's Promise before the later Bonewrack supply mission.
+
+### First Man's Promise Nightshift
+
+On the first recovered night aboard the Man's Promise, Syl demanded attention below decks and called for five volunteers for night watch.
+
+She treated reluctance as consent and began assigning people as "volunteered."
+
+She named Fipps Chumlett as boatswain for nightshift and told the crew they would follow his every order.
+
+Syl then assigned Harvus to the rigging with Ebony and assigned Sho and Goyle as swabs.
+
+> "Goodnight... don't disappear."
+
+This scene shows Syl immediately translating her new boatswain authority into delegated night labor, surveillance, and intimidation.
 
 ### Man's Promise
 
@@ -152,6 +166,14 @@ She follows Scourge's supply order but interprets it through tactical survival.
 
 She may serve cruelty, advantage, or survival more than formal loyalty.
 
+## Relationship With Fipps Chumlett
+
+Syl delegated nightshift boatswain authority to Fipps on the first recovered Man's Promise night.
+
+She later ordered Fipps to stay at Coconut Beach as the ship rendezvous contact or guard.
+
+This suggests Fipps is a subordinate tool she will use for delegated coercion when useful.
+
 ## Relationship With Shivikah and Jape
 
 Syl is the immediate commander of the current moving group.
@@ -204,4 +226,5 @@ She is violent and unstable, but can still be tactically self-preserving.
 - Would she try to kill Goyle before he can speak?
 - Is she more loyal to Plugg, Scourge, herself, or violence?
 - Does she prioritize completing Scourge's supply order or preserving Plugg's political position?
+- Which two sailors did Syl say knew the ship and were volunteered for nightshift?
 - If she survives Book One, does she become a pirate hook, a fugitive, or a recurring personal enemy?
