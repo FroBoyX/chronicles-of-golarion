@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Day 2 Rak brew scene
+- Maturity: Draft, expanded with Day 2 Rak brew scene and undocumented bonding note
 - Scope: Wormwood quartermaster, Kroop's closest friend, Rak relationship context
 
 ## Overview
@@ -107,6 +107,14 @@ The GM reconstruction presumes Grok furnished both Rak's alchemy kit and ingredi
 
 This scene is currently treated as the first recovered growth point in Rak and Grok's friendship, not necessarily their first meeting.
 
+### Undocumented Rak Bonding Time
+
+Rak and Grok likely had substantial undocumented bonding time after the Day 2 brew scene.
+
+The supporting context is direct and practical: Grok and Ambrose were friends, Ambrose was a drunk, Grok liked alcohol, Rak was Kroop's cook's mate, and Rak did most of the cooking up until the Man's Promise.
+
+This likely created a repeated galley / quartermaster / alcohol loop where Rak could keep becoming useful and familiar to Grok even when the table did not preserve every interaction.
+
 ### Relationship With Rak
 
 Before the capture of the Man's Promise and the split of the crew, Rak and Grok hooked up.
@@ -132,6 +140,8 @@ If Grok's story continues along the published Adventure Path's later direction, 
 Rak and Grok likely crossed paths before the brew scene through Rak's cook's mate duties, the galley, Kroop, or Grok's quartermaster role, but those interactions are not recovered.
 
 Their first recovered friendship-development beat is the Day 2 brew scene, where Rak offered to make alcohol and Grok apparently furnished his alchemy kit and ingredients.
+
+They likely had recurring undocumented bonding time afterward through cooking, alcohol, Ambrose, the galley, and quartermaster access.
 
 They later had a sexual or intimate relationship before the Man's Promise split, and Rak began bunking with her.
 
@@ -192,6 +202,7 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 - What earlier galley / Kroop / quartermaster contact occurred before the Erastus 6 brew scene?
 - What did Rak brew for Grok on Erastus 6?
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
+- What recurring alcohol / cooking / galley interactions occurred but were not preserved?
 - How did Grok and Rak's friendship become flirtation or intimacy?
 - Was Rak/Grok public knowledge aboard the Wormwood?
 - Did Plugg, Scourge, or Harrigan know?
