@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: Tactical map evidence / GM interpretation note
-- Maturity: High-value recovered artifact, text reconstruction from uploaded tactical screenshot
-- Source basis: GM-provided screenshot of the actual Man's Promise fight map from the original table era, uploaded in conversation
+- Maturity: High-value recovered artifact, text reconstruction from uploaded tactical screenshot, corrected for map-visible versus full shipwide death toll
+- Source basis: GM-provided screenshot of the actual Man's Promise fight map from the original table era, uploaded in conversation; later GM correction on death-toll scope
 - Date of represented event: Erastus 25, 4712 AR / Battle of the Man's Promise
 - Spoiler scope: GM-facing / reconstruction-facing
 - Canon status: Strong placement evidence, subject to token-name key confirmation for individual surrendered / injured figures
@@ -14,6 +14,12 @@
 The uploaded map screenshot shows the actual tactical layout used for the Man's Promise boarding fight roughly ten years ago.
 
 The screenshot itself was provided in the current chat. This evidence note preserves the extracted facts and GM interpretation so the archive can use the map even if the image is not stored directly in the repository.
+
+## Scope Correction
+
+The map confirms visible / represented deaths on the tactical fight map. It does **not** establish the complete shipwide death toll.
+
+Kahina Bukekayo's later statement that more than thirty people died should be treated as accurate survivor testimony. The archive still needs to canonize the Man's Promise crew count to derive the final death toll from starting crew minus captured survivors.
 
 ## Confirmed Tactical Flow
 
@@ -32,6 +38,14 @@ This clarifies the previous uncertainty around whether Giffer died immediately o
 
 The previous open question about possible foul play with Giffer's body remains a separate issue until the exact body / injury sequence is reconstructed.
 
+## Captain's Cabin Death Evidence
+
+The Man's Promise captain was killed in the captain's cabin, not as an ordinary visible deck casualty.
+
+Later physical evidence supports this: when Mirei went into the captured captain's cabin to perform for Plugg a few nights later, blood was still visible splashed across the floor, desk, and walls.
+
+This means the captain's death should not be flattened into the above-deck tactical-map count until token / scene reconciliation proves how the map represented off-deck casualties.
+
 ## Lifeboat Incident
 
 The map confirms that the lifeboat Rak launched prematurely was on the **starboard side**.
@@ -42,18 +56,18 @@ The crew member ended up in the water.
 
 The map and GM note suggest the crew member may have been swarmed by sharks, but the exact final mechanism of death / injury should remain open unless the token state or later chat confirms it directly.
 
-## Casualty Count
+## Map-Visible Casualty Count
 
-The map confirms **16 total deaths on the Man's Promise fight map**:
+The map confirms **16 deaths visible / represented on the Man's Promise fight map**:
 
-- 15 members of the Man's Promise side.
+- 15 Man's Promise-side figures.
 - Giffer Tibbs from the Wormwood side.
 
-This strongly supports the survivor math in which the Man's Promise had 15 captured survivors after the battle, before Harrigan executed one weakened captured sailor during the later split sequence.
+This supports the survivor math in which the Man's Promise had 15 captured survivors after the battle, before Harrigan executed one weakened captured sailor during the later split sequence.
 
-The Man's Promise dead count should therefore be treated as 15 during the boarding battle, including the captain and other unnamed / named casualties.
+However, this should not be treated as the complete Man's Promise death toll. It only confirms the tactical-map deaths we can currently see or account for.
 
-Kahina's later line about more than thirty dead should be preserved as direct dialogue and survivor grievance, but the map-supported casualty audit currently uses 16 total fight-map deaths / 15 Man's Promise dead.
+Kahina's later line about more than thirty dead is now treated as accurate. The archive still needs the canon starting crew count to calculate final deaths cleanly.
 
 ## Surrender / Injury Evidence
 
@@ -69,13 +83,17 @@ This map evidence upgrades the following from uncertain or hearsay to strong rec
 - Giffer's death location: below port-side stairs.
 - Rak's premature lifeboat release: starboard side.
 - Lifeboat occupant: ended up in the water, possible shark involvement.
-- Boarding casualty count: 16 total deaths on the map, consisting of 15 Man's Promise personnel and Giffer.
+- Map-visible casualty count: 16 deaths represented on the fight map, consisting of 15 Man's Promise-side figures and Giffer.
+
+It does **not** cap the full death toll at 16.
 
 ## Open Checks
 
+- Canonize the starting crew count of the Man's Promise.
 - Identify every surrendered token by character / crew category.
 - Identify every injured Wormwood crew token by name.
 - Confirm whether the starboard lifeboat victim died by crash, drowning, shark swarm, or later damage.
-- Confirm whether Giffer's death was caused directly by enemy fire, Rak's later action, delayed treatment, or a combination.
-- Confirm whether the Man's Promise captain is one of the 15 Man's Promise dead shown on the map.
-- Confirm whether Kor'al / Cor'Wal Daraa is one of the 15 Man's Promise dead shown on the map.
+- Confirm whether Giffer's death was caused directly by enemy fire, Rak's later action, delayed care, or a combination.
+- Confirm whether the Man's Promise captain is represented by one of the 15 map-visible Man's Promise-side deaths or is an additional off-map / cabin death.
+- Confirm whether Kor'al / Cor'Wal Daraa is one of the 15 map-visible Man's Promise-side deaths.
+- Recover or reconstruct Mirei's first observation of the blood across the captain's cabin floor, desk, and walls.
