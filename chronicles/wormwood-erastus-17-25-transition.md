@@ -5,15 +5,17 @@
 - Type: Narrative reconstruction / gap bridge
 - Maturity: Draft / canon-candidate
 - Scope: Erastus 17 through Erastus 25, covering the gap between the reefclaw task and the battle for the Man's Promise
-- Source basis: GM-provided date summary and keelhaul-charge clarification; direct logs not currently available for Erastus 17-24
+- Source basis: GM-provided date summary, keelhaul-charge clarification, and direct Man's Promise boarding log with date rectification
 - Spoiler scope: Player-safe as historical reconstruction
 - Canon status: Becomes canon after GM/player sign-off or later log reconciliation
 
 ## Source Note
 
-At current reconstruction, there are no recovered chat logs for Erastus 17 through Erastus 24. The next available log appears to be the battle of the Man's Promise on Erastus 25.
+At current reconstruction, there are no recovered chat logs for Erastus 17 through Erastus 24.
 
-This document is therefore a bridge, not a fully dramatized day-by-day chronicle.
+A direct chat log has been recovered for the Man's Promise boarding. Its original header says **Sunday, Erastus 26th, 4691 - Day 21**, but current campaign chronology places the battle in the early morning of **Erastus 25, 4712 AR**.
+
+Treat the old header as preserved source text, not final date truth.
 
 ## Timeline
 
@@ -85,9 +87,17 @@ In the early morning, the Wormwood overtook the Man's Promise.
 
 Sho was let out because of her combat prowess and given the opportunity to lead a strike team in the battle.
 
-All hands took part in a bloody and violent battle for control of the ship.
+Mirei was badly wounded by arrows during the approach and stayed aboard the Wormwood rather than boarding.
 
-The battle marks the end of this gap bridge and the beginning of the next recovered log sequence.
+Sho warned Harrigan of an attacker behind him and received direct acknowledgment after Harrigan killed the attacker.
+
+Rak's violence during the boarding became one of the battle's defining moral tensions: he killed a pleading or downed sailor, likely worsened Giffer's fatal state, and intimidated Nor'gal into surrender.
+
+Sho repeatedly attempted to impose restraint on the strike team, calling for surrender, subdual, and killing only active threats.
+
+After the ship was secured, Sho was stitched by Habbly but remained under the keelhaul threat. Sandara collapsed from a serious wound after healing Harvus. Harvus carried Sandara back to her bunk and later gathered the seriously wounded.
+
+The battle marks the end of this gap bridge and the beginning of the Man's Promise prize-crew crisis.
 
 ## What This Establishes
 
@@ -100,6 +110,10 @@ The battle marks the end of this gap bridge and the beginning of the next recove
 - The Man's Promise sighting interrupts the keelhaul trajectory before punishment is carried out.
 - Sho is released for the Erastus 25 battle because her combat ability is useful.
 - Sho is given an opportunity to lead a strike team in the Man's Promise battle.
+- The recovered battle log's old date/year are superseded by corrected Erastus 25, 4712 placement.
+- Mirei does not board because she is badly wounded by arrows during the approach.
+- Rak's conduct during the battle directly supports Sho's later moral concern over his brutality.
+- Sandara's post-battle collapse establishes that she was badly wounded before the later Man's Promise / Bonewrack crisis.
 
 ## Open Checks
 
@@ -110,3 +124,6 @@ The battle marks the end of this gap bridge and the beginning of the next recove
 - Who witnessed Aretta's death or its aftermath?
 - Who specifically ordered Sho released and assigned her strike-team role on Erastus 25?
 - What was Sho's exact condition when released for battle?
+- Did Giffer die during the boarding scene or later from injuries?
+- Who cut, dropped, or mishandled the lifeboat?
+- What happened in the officers' meeting after Harrigan ordered Scourge to round them up?
