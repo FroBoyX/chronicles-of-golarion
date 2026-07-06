@@ -4,7 +4,7 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes
+- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers
 - Corrected date: Erastus 25, 4712 AR
 - Original chat header: Sunday, Erastus 26th, 4691 - Day 21
 - Spoiler scope: Player-safe as historical reconstruction
@@ -104,18 +104,41 @@ Patch offered to shut Sho's mouth for Peppery, but Peppery stopped her.
 
 Sho remained alive, stitched, and marked for punishment.
 
+## Sho's Later Perspective
+
+Sho's later player answers clarify how she understood the strike-team role and why the battle became one of her largest guilt sources.
+
+Being given command or coordination did not feel cleanly empowering to Sho. It felt confusing and possibly like another task designed for her to fail so the officers could justify killing her.
+
+Sho believed that once the Man's Promise was taken and the defenders surrendered, no further harm needed to come to anyone. Her promise was sincere: stand down, do not keep fighting, and no one would be hurt.
+
+From Sho's perspective, that promise failed catastrophically because the people she was supposed to be commanding did not listen. Her memory emphasizes two failures:
+
+- Rak released or triggered a lifeboat before it was ready, causing it to crash into another lifeboat and possibly killing or injuring people.
+- Sho demanded that a crew member put down their weapon and promised safety, only for Harvus to strike another crew member with a flail who was not even looking to attack.
+
+The exact casualties and table mechanics remain open, but the character truth is clear: Sho felt responsible for atrocities she could not stop.
+
+She blames Rak and Harvus for direct actions, Harrigan for attacking the ship in the first place, and herself for not doing more. Despite working with them, Sho does **not** trust Rak or Harvus after this battle.
+
+The battle also changed Sho's understanding of command. If she is going to take charge of anyone, she believes she must be powerful enough to make that authority real and hold people to their actions.
+
 ## What This Establishes
 
 - Corrected battle date is Erastus 25, 4712 AR.
 - Original chat date/year is preserved as source text but superseded by GM timeline.
 - Sho was released from the hot-box because her combat prowess was useful.
 - Sho was given an opportunity to lead or coordinate a strike team.
+- Sho experienced that command role as confusing and possibly as another setup to fail.
 - Mirei was badly wounded by arrows on approach and did not board the Man's Promise.
 - Harvus and Giffer were hit during approach but made it across.
 - Sho warned Harrigan and received a nod of recognition after he killed the attacker.
 - Rak killed at least one pleading or downed sailor and likely directly caused or worsened Giffer's fatal state.
 - Sho repeatedly tried to impose restraint: subdue enemies, kill only threats, hold positions, and avoid unnecessary deaths.
+- Sho believed surrender should have ended the need for further bloodshed.
 - The fight around the lifeboats created unresolved casualties and moral tension.
+- Sho's player memory specifically links Rak to a premature lifeboat release / crash, with casualties unresolved.
+- Sho's player memory links Harvus to striking someone after Sho promised safety, worsening her command-failure guilt.
 - Nor'gal appears in the battle and is intimidated into surrender by Rak.
 - The officer / commander defended Nor'gal and refused to surrender because of the slaughter she had witnessed.
 - Patch helped force surrender in the fog.
@@ -125,6 +148,8 @@ Sho remained alive, stitched, and marked for punishment.
 - Harvus carried Sandara back to her bunk and went to gather the seriously wounded.
 - Rak assisted Grok with looting after the battle.
 - Sho was back in the hot-box that night and Peppery warned her about Plugg's ambition.
+- Sho carries guilt for failing to prevent the deaths after believing she could reduce bloodshed through surrender.
+- Sho does not trust Rak or Harvus after the battle, despite working with them.
 
 ## Open Checks
 
@@ -132,8 +157,14 @@ Sho remained alive, stitched, and marked for punishment.
 - Was the log one continuous sequence, or does the night hot-box scene occur after a time jump from battle/cleanup?
 - Did Giffer die immediately here or later from injuries?
 - Who cut, dropped, or mishandled the lifeboat?
+- Did Rak's lifeboat action kill anyone, injure them, or only nearly cause death?
 - Is Ko'ral / Cor'Wal / Kor'al the same killed brother referenced in Sho notes?
 - Is Nor'gal definitively the sailor Rak intimidated into surrender?
+- Which exact Man's Promise crew member did Sho promise safety to before Harvus struck another person?
+- Was Harvus' flail target surrendering, distracted, fleeing, or still engaged in battle?
+- Did Sho confront Rak or Harvus during or after the battle about these specific incidents?
+- Does Sho's distrust of Harvus persist after learning he rescued Sandara / Tilly / Goyle?
+- Does Sho's distrust of Rak change if Rak helps resolve Bonewrack or the Man's Promise mutiny?
 - Who specifically ordered Sho released from the hot-box and gave her the strike-team role?
 - What happened in the officers' meeting after Harrigan told Scourge to round them up?
 - What was Sandara's exact wound and recovery state after collapse?
