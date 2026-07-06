@@ -3,18 +3,22 @@
 ## Document Status
 
 - Type: Chat log extract
-- Maturity: Direct table evidence
-- Scope: Sandara tending Harvus, Sho, and Mirei after the reef task; Sandara wearing Harvus' necklace; Rak recovering gear and flirting with Grok
+- Maturity: Direct table evidence with GM confirmation
+- Scope: Sandara tending Harvus, Sho, and Mirei after the reef task; Sandara wearing Harvus' necklace; Rak recovering gear and first hooking up with Grok
 - Date: Night of Erastus 16, 4712 AR
 - Placement confidence: High
 - Placement clue: User identifies the scene as night of the 16th, after the reef / reefclaw task
 - Participants: Harvus G'ron, Sandara Quinn, Mirei, Sho Astor, Rak Wraithraiser, Cut-Throat Grok
 - Spoiler scope: Player-safe
-- Canon status: Direct evidence for Erastus 16 night aftermath
+- Canon status: Direct evidence for Erastus 16 night aftermath and GM-confirmed first Rak/Grok hookup
 
 ## Scene Candidate
 
 **Night after the reef — Sandara heals the wounded; Rak goes to Grok's store**
+
+## GM Confirmation
+
+The user confirmed that the Rak/Grok "slap and tickle" scene on Erastus 16 was their **first hook-up**.
 
 ## Raw Chat
 
@@ -96,6 +100,7 @@ Harvus:	Ms. Quinn once again I am in your debt.
 - Grok has not heard of it but asks if Rak will teach her.
 - Rak asks if "he" will wake up; this likely refers to Kroop, but remains open.
 - Grok asks how intensive the game is, cracks her knuckles, and agrees to see what Rak has.
+- GM confirmation: this is Rak and Grok's first hook-up.
 - Sandara, with Harvus, approaches Mirei and Sho.
 - Mirei reports that a sea monster got her leg.
 - Sho had not realized Mirei fought the reefclaws and apologizes for not being there.
@@ -116,7 +121,7 @@ Harvus:	Ms. Quinn once again I am in your debt.
 Use this as the direct night-after scene for three threads:
 
 1. **Reef aftermath:** Harvus, Sho, and Mirei are still hurt or affected after the task. Sandara wanted to help sooner, but Scourge blocked her.
-2. **Rak/Grok escalation:** Harrigan's gear-return reward sends Rak to Grok, and the exchange moves from gear recovery into explicitly flirtatious / sexual setup.
+2. **Rak/Grok first hook-up:** Harrigan's gear-return reward sends Rak to Grok, and the exchange moves from gear recovery into their first confirmed sexual encounter.
 3. **Harvus/Sandara relationship:** Sandara is wearing the necklace Harvus gave her, explicitly linked to Rosie's death and her promise to keep it safe.
 
 ## Open Checks
@@ -125,6 +130,5 @@ Use this as the direct night-after scene for three threads:
 - Did Sandara also heal Mirei in this scene, or only check on her after healing Sho and Harvus?
 - What exactly was returned to Rak from Grok's chest?
 - Who was Rak worried might wake up during "slap and tickle"?
-- Did this night become the first Rak/Grok sexual encounter, or had one already occurred earlier?
 - What is Sandara's ebony idol?
 - What did Harvus do after deciding to sneak around the ship?
