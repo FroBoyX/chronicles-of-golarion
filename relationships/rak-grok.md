@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: GM-confirmed seed, expanded with Day 2 brew scene and undocumented bonding note
+- Maturity: GM-confirmed seed, expanded with Day 2 brew scene, Day 3 trust talk, and undocumented bonding note
 - Scope: Wormwood period before capture of the Man's Promise and prize-crew split
 
 ## Summary
@@ -58,6 +58,26 @@ The archive should treat the Rak/Grok relationship as developing through a repea
 
 Because Rak was doing most of the cooking for the ship, and because Ambrose and Grok's friendship already tied the galley to the quartermaster's sphere, Rak likely had many small undocumented opportunities to be useful, familiar, funny, and present before the later hookup / bunking thread.
 
+## Erastus 7 Trust Talk
+
+On the night of **Erastus 7 / Wormwood Day 3**, Rak asked Grok who the bad crew members were and who he could trust or befriend.
+
+Rak framed the question directly around survival:
+
+> "I want to know who I can trust on this ship, I am going to need friends if I plan to survive since I appear to already have enemies out to get me brah"
+
+Grok became serious and nervous when the word was trust.
+
+> "Trust? *Thinks for a moment then looks nurvous* I wouldn't trust any of the lot... but you have to throw in your axe with somebody. You know?"
+
+When Rak softened the question from trust to people who were friendly or not too bad, Grok warned him away from most officers and said Scourge seemed to have it out for some of the new blood.
+
+Grok admitted she had an in with most of the officers, but little sway. She pointed to her neck scar as proof that she was hard to push around, then offered guarded support:
+
+> "As for you, I'll try and help if people really try something... I'd try and create some friends with the newer members of the crew just incase something goes down. Or good old Ambrose."
+
+This scene is important because it moves the relationship beyond alcohol and useful trade. Rak is asking Grok how to survive, and Grok is answering honestly enough to reveal anxiety, caution, and partial willingness to protect him.
+
 ## Campaign Significance
 
 This changes Rak's Wormwood social position.
@@ -68,6 +88,8 @@ Because Grok controlled the quartermaster's store and was Kroop's closest friend
 
 The brew scene also shows why Grok might become interested in Rak specifically: Rak could offer something she valued, not merely ask for property or favors.
 
+The trust-talk scene shows why the relationship could become emotionally or practically meaningful: Rak was asking for survival guidance, and Grok answered with guarded real advice.
+
 The likely undocumented bonding time means the later hookup and bunking should not feel abrupt in reconstruction. The preserved evidence shows only the visible edge of a larger shipboard pattern.
 
 ## Timing
@@ -75,6 +97,7 @@ The likely undocumented bonding time means the later hookup and bunking should n
 - First recovered explicit friendship-development beat: Erastus 6 / Wormwood Day 2 night, when Rak offered to brew alcohol for Grok.
 - Earlier contact through the galley, Kroop, or Rak's cook's mate duties is likely but unrecovered.
 - Recurring undocumented bonding through cooking, alcohol, Ambrose, the galley, and quartermaster access is likely up until the Man's Promise.
+- First recovered serious trust conversation: Erastus 7 / Wormwood Day 3 night, when Rak asked Grok who he could trust and Grok advised him to avoid officers, watch Scourge, and make friends with newer crew or Ambrose.
 - Occurred before the capture of the Man's Promise.
 - Occurred before the prize crew was split from the Wormwood.
 - Occurred while Rak was still aboard the Wormwood.
@@ -116,6 +139,8 @@ The relationship can matter later if:
 - What did Rak brew for Grok on Erastus 6?
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
 - What recurring alcohol / cooking / galley interactions occurred but were not preserved?
+- Did Rak follow Grok's advice about befriending newer crew or Ambrose?
+- Did Grok name any specific newer crew in surrounding lost text?
 - Did any officers know Rak was bunking with Grok?
 - Did Kroop know before the crew split?
 - Did Grok give Rak a material parting gift, or was the goodbye purely sentimental?
