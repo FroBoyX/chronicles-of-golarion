@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence and Rak/Patch night-shift scene
+- Maturity: Draft, expanded with Rak player-sheet evidence, Rak/Patch night-shift scene, and Erastus 26 revel threat
 - Scope: Wormwood officer-adjacent hostile NPC, transfer status unresolved
 
 ## Overview
@@ -65,7 +65,23 @@ This scene should be treated as threatening flirtation, not safety. It supports 
 
 ### Man's Promise Boarding
 
-During the boarding, Patch may have helped force the Rahadoumi officer or another target to surrender in the fog.
+During the boarding, Patch helped force or support surrender in the fog by threatening a captive or officer:
+
+> "Give up... or your neck get's slit."
+
+### Erastus 26 Revel
+
+During the revel after the Man's Promise capture, Patch was part of the hostile crowd around collapsed or unconscious Mirei.
+
+When Sho tried to clear people away from Mirei and take her below, Patch asserted that she had it handled and told Sho to walk away.
+
+Patch escalated when Sho refused, saying they did not take orders from Sho. She later threatened to call Mr. Plugg, then drew both knives and shouted:
+
+> "LAST CHANCE, need I remind you I'm the boatswains mate. Pipedown or get gutted!"
+
+Rak distracted her with drunken flirtation, and Patch answered with dagger-themed interest. After Tam broke up the confrontation, Patch warned Sho that Scourge would hear about it.
+
+This scene reinforces that Patch is a dangerous officer-adjacent actor who uses both rank and knives to enforce hostile social pressure.
 
 ### Transfer Uncertainty
 
@@ -85,15 +101,25 @@ Rak's sheet may indicate that Patch was less personally hostile toward Rak than 
 
 Patch's recovered line praising Scourge's whip reinforces her comfort with his disciplinary violence.
 
+During the Erastus 26 revel, Patch threatened to call Plugg and later said Scourge would hear about Sho's conduct.
+
 ### Rak Wraithraiser / Wraithriser
 
 Recovered context includes Patch interacting with Rak in a threatening or flirtatious knife-centered way.
 
 Around the night shift, she challenged him about work, cooking, and rum, then invited him to meet her on the night shift while warning that she gets "stabby" in her sleep.
 
+During the Erastus 26 revel, Rak tried to redirect Patch with party energy and flirtation. Patch answered that she would only party with daggers, then told Rak she would be over later.
+
 Rak's Foundry notes list Patch as indifferent.
 
 This should be read as personal ambiguity, not alliance.
+
+### Sho Astor
+
+Patch directly threatened Sho during the Erastus 26 revel after Sho attempted to protect or remove Mirei from a dangerous drunken crowd.
+
+Patch treated Sho's defiance as something to report to Plugg and Scourge.
 
 ### Master Scourge
 
@@ -138,3 +164,4 @@ If aboard the Man's Promise, she may:
 - Does Patch know Sho is locked up?
 - Would Patch obey Plugg if Scourge falls?
 - Would Patch survive as a recurring villain if she flees?
+- Did Patch actually report Sho's Erastus 26 confrontation to Scourge?
