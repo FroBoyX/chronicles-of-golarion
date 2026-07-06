@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, and Erastus 16 reef injury
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, and Man's Promise work-distance scene
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -107,7 +107,7 @@ Mirei was abducted from the Formidably Maid in Port Peril alongside Harvus, Rak,
 
 Mirei became part of the Wormwood crew.
 
-Sandara Quinn recovered or returned Mirei's harp by convincing Cut-Throat Grok that it was cursed by the sea and had to be played regularly to protect the ship.
+Sandara Quinn recovered or returned Mirei's harp by convincing Cut-Throat Grok that it was cursed by the sea and needed to be played regularly to protect the ship.
 
 ### Erastus 6, 4712 AR / Wormwood Day 2
 
@@ -173,6 +173,14 @@ After the capture of the Man's Promise, Mirei was aboard the prize crew.
 
 Plugg singled her out and pressured her into a privileged but dangerous role, treating her as useful leverage and assigning her to spy on or betray the other PCs.
 
+During an unknown Man's Promise work day, Mirei tried to make friendly conversation with Crimson Cogward while working, saying it made the work go by faster and that this was a new start.
+
+Crimson told her she was not worth the risk. When Mirei suggested he might feel that way because Sho was outspoken, Crimson called Sho stupid and clarified that he had nothing against Mirei, but did not want anything to do with her.
+
+Mirei accepted the boundary.
+
+This shows that Mirei's attempt at normal friendly crew work met the social danger created by association with the PCs and Sho's defiance.
+
 ### Bonewrack Isle
 
 Mirei helped the party survive several island hazards.
@@ -233,6 +241,12 @@ This may be an early seed of Badger recognizing Mirei's value as a performer rat
 
 Badger was part of the Erastus 16 reef task with Mirei.
 
+### Crimson Cogward
+
+During an unknown Man's Promise work day, Mirei tried to make friendly conversation with Crimson.
+
+Crimson said he had nothing against her but did not want anything to do with her because association with her was not worth the risk.
+
 ### Captain Barnabas Harrigan
 
 Mirei attempted to invite Harrigan to one of her storm-window performances.
@@ -262,6 +276,7 @@ This does not yet equal the later Man's Promise betrayal assignment, but it is e
 - Confirm whether Mirei used the message cantrip during Rosie's storm rescue attempt.
 - Confirm whether Rosie ever got hold of the rope Mirei referenced.
 - Confirm the severity and healing state of Mirei's Erastus 16 reef-leg injury.
+- Confirm the exact day of Mirei's Man's Promise work conversation with Crimson.
 
 ## Evidence Notes
 
