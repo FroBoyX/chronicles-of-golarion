@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Rak rum-ration sighting fragment
 - Scope: Wormwood gunner's mate, Plugg/Scourge bootlicker, transfer status unresolved
 
 ## Overview
@@ -13,6 +13,8 @@ Kipper is the Wormwood's gunner's mate and a bootlicker for Plugg and Scourge.
 He matters because he belongs to the more dangerous hostile support layer around the officers, and because he was involved in the Man's Promise boarding chaos.
 
 His current placement after the prize-crew split needs confirmation.
+
+A recovered floating fragment also suggests Kipper saw Rak dispose of a rum ration, making him part of a possible discipline / punishment thread.
 
 ## Identity
 
@@ -35,11 +37,17 @@ Kipper represents the technical hostile layer: weapons, armory, explosions, and 
 
 He is likely more dangerous than his social footprint alone suggests.
 
+He may also function as a witness / informer if he saw Rak dispose of rum and reported it.
+
 ## Campaign History
 
 ### Wormwood
 
 Kipper served as gunner's mate and bootlicker for Plugg and Scourge.
+
+A recovered floating chat fragment has Rak saying that Kipper saw him get rid of rum and that Rak did not know what to do. Rak planned to ask Grok for help when he ran into her that night.
+
+This fragment is not yet final-dated, but it likely belongs to a night after dinner / rum ration. If connected to the later punishment scene, Kipper may be the witness who escalated Rak's rum disposal into officer discipline.
 
 ### Man's Promise Battle
 
@@ -61,9 +69,17 @@ This matters because his presence aboard the Man's Promise would strengthen Plug
 
 Kipper is aligned with Plugg and Scourge and likely benefits from their authority.
 
+If he reported Rak's rum disposal, that would fit his officer-adjacent / bootlicker role.
+
 ### Riaris Krine
 
 As gunner's mate, Kipper may have worked under or adjacent to Riaris Krine.
+
+### Rak Wraithraiser
+
+Rak believed Kipper saw him get rid of rum and planned to ask Grok for help.
+
+This may place Kipper in a direct conflict or informant role against Rak.
 
 ### PCs
 
@@ -94,6 +110,8 @@ If he remained on the Wormwood, he is part of Harrigan's future hostile ecosyste
 - Is Kipper aboard the Man's Promise?
 - How badly was he burned during the boarding explosion?
 - Does he have access to the Man's Promise armory or any remaining alchemist's fire?
+- Did Kipper report Rak's rum disposal to Plugg, Scourge, or another officer?
+- Is the rum-disposal sighting connected to the later punishment scene?
 - Does he know Sho is locked up?
 - Would he fight for Plugg, flee, or surrender if Plugg falls?
 - Is he personally invested in hating any PC?
