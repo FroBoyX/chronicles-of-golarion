@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with direct fiddle-return scene
 - Scope: Wormwood lower-crew ally, Harvus friendship, storm loss
 
 ## Overview
@@ -30,6 +30,8 @@ Rosie was short, muscular, fierce, and famously foul-mouthed.
 
 She was aggressive, proud, and unwilling to let others push her around.
 
+A recovered leisure-time scene also shows her as lonely beneath the insults: she said it gets lonely being short and cursing all the time.
+
 ## Baseline Adventure Path Role
 
 Rosie begins as an indifferent recent recruit aboard the Wormwood.
@@ -54,6 +56,22 @@ Harvus recovered Rosie's fiddle along with his own ring and necklace.
 
 Harvus' light timeline later records that he made friends with Rosie.
 
+A direct recovered scene shows the return itself.
+
+During leisure time before Rosie's storm loss, Rosie invited Harvus to drink and offered him an unidentified draft she had taken after beating someone in a game.
+
+She was tipsy, profane, and restless. She suggested a drinking game, going to bed, or food, and admitted that it gets lonely being short and cursing all the time.
+
+Harvus drank and then told her he had something for her from Grok.
+
+When he handed over the fiddle, Rosie was stunned, tackled him, thanked him repeatedly, played the fiddle, pounced him again, apologized briefly, told him to get over it, and punched his shoulder.
+
+Harvus' damaged wing was disturbed by the tackle, but he retired politely and called Rosie entertaining.
+
+Rosie thanked him again and kept playing the fiddle.
+
+This is the direct emotional evidence behind the summary note that Harvus became Rosie's friend.
+
 ### Storm Loss
 
 Rosie was lost at sea during the Wormwood storm despite rescue efforts.
@@ -67,6 +85,8 @@ Her loss should remain a meaningful death in the Book One record.
 Harvus recovered Rosie's fiddle and became her friend.
 
 This gives Harvus a grief connection before Bonewrack and before Sandara's rescue.
+
+The recovered fiddle scene shows Rosie responding with genuine, chaotic gratitude rather than polite thanks.
 
 ### Conchobhar Turlach Shortstone
 
@@ -90,6 +110,8 @@ The sea itself took people.
 
 The campaign's later question of what kind of crew survives should remember those who did not.
 
+For Harvus specifically, Rosie's death comes after he successfully restored something personal to her. That makes the later grief cleaner and sharper.
+
 ## Open Questions
 
 - What happened to Rosie's fiddle after her death?
@@ -97,3 +119,6 @@ The campaign's later question of what kind of crew survives should remember thos
 - Did Conchobhar meaningfully grieve her?
 - Did any crew member blame the officers, the storm, or the rescue failure?
 - Is Rosie remembered by name in any later shipboard story?
+- What was the unidentified draft Rosie shared with Harvus?
+- Who was the "lisping pig-nut" Rosie beat in a game?
+- Did Rosie become mechanically friendly/helpful from the fiddle return, or only socially warmer?
