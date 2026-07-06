@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with Day 2 performance evidence and Day 3 Sho disguise discovery
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, and storm-window Plugg performance order
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -129,9 +129,21 @@ By the following night, the GM clarified that Mirei had noticed the previous day
 
 This is the recovered beginning of the Mirei/Sho disguise thread.
 
+### Storm-Window Performance Order
+
+Sometime during the early Wormwood storm window, likely between Erastus 11 and Erastus 13 if the AP weather scaffold maps cleanly to the reconstructed calendar, Mirei went to invite Plugg or the captain to her nightly performance.
+
+She knocked on the door and called through it that she wanted to invite everyone to her performance that night.
+
+Plugg barked back that she should get below before the storm hit and give a performance that would pacify the "land-lubber scum."
+
+This scene shows that Mirei's performances had become a recurring shipboard event by the storm window, and that Plugg recognized their use as morale control.
+
 ### Wormwood Period
 
 Mirei performed aboard ship and attracted crew attention through music.
+
+Recovered evidence suggests the performances became increasingly impressive and possibly nightly by the storm-window period, with a 31 performance on Erastus 7 and a later floating 34 performance.
 
 Giffer Tibbs was notably fond of Mirei's supper performances and praised her playing after warming to her.
 
@@ -189,6 +201,12 @@ Badger complimented Mirei's early Wormwood performances and asked where she lear
 
 This may be an early seed of Badger recognizing Mirei's value as a performer rather than only as a new press-ganged hand.
 
+### Mr. Plugg
+
+Plugg recognized Mirei's performances as a way to pacify crew morale during the storm window.
+
+This does not yet equal the later Man's Promise betrayal assignment, but it is early evidence that Plugg saw Mirei's social usefulness.
+
 ## Open Threads
 
 - Mirei's level 2 mechanics need to be recovered or rebuilt with the player.
@@ -198,6 +216,8 @@ This may be an early seed of Badger recognizing Mirei's value as a performer rat
 - Her role as a Sea Singer should be preserved in any future conversion.
 - Confirm whether the Day 2 performance was the first actual performance after the harp's return or simply the first recovered one.
 - Confirm when Sho openly confided the disguise truth to Mirei.
+- Confirm whether the storm-window Plugg performance order is Erastus 11, 12, or 13.
+- Confirm whether the floating 34 performance belongs to the same night as the storm-window Plugg order.
 
 ## Evidence Notes
 
