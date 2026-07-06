@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log
+- Maturity: Draft, expanded with Arodus 5 split-scene log and first-night Man's Promise nightshift authority
 - Scope: Hostile lower-crew NPC, current beach-side loose end
 
 ## Overview
@@ -51,6 +51,16 @@ Fipps was present in the orbit of Aretta and other hostile crew during Sho's con
 
 His precise role in the bilge sequence should be reconstructed from logs.
 
+### First Man's Promise Nightshift
+
+On the first recovered night aboard the Man's Promise, Slippery Syl named Fipps as boatswain for nightshift.
+
+Syl told the crew that they would follow his every order.
+
+Fipps growled and then gave direct work assignments. He ordered Sho and Goyle below to clean the hold from the fire, and assigned the others to rigging.
+
+This shows Fipps briefly holding delegated nightshift authority under Syl, placing him directly over Sho and Goyle in the burned-hold cleanup.
+
 ### Man's Promise and Bonewrack
 
 Fipps transferred into the Man's Promise pressure environment.
@@ -91,15 +101,23 @@ Fipps watched Rak fail or struggle at the broken bridge, and Rak saw Fipps strug
 
 ### Slippery Syl Lonegan
 
-Syl ordered Fipps to stay at Coconut Beach.
+Syl appointed Fipps as nightshift boatswain on the first Man's Promise night and later ordered him to stay at Coconut Beach.
 
-This indicates she still considered him useful but not necessary for the stronghold push.
+This indicates she considered him useful for delegated authority and later as a beach-side contact or guard, even if not necessary for the stronghold push.
 
 ### Sho Astor
 
 Fipps was part of the hostile pressure environment around Sho.
 
+On the first Man's Promise nightshift, Fipps had delegated authority over Sho and ordered her below with Goyle to clean the burned hold.
+
 If he participated directly in prior violence or intimidation against her, that should be recorded.
+
+### Goyle Onórach
+
+On the first Man's Promise nightshift, Fipps ordered Goyle and Sho below to clean the burned hold.
+
+This placed Fipps over a former Man's Promise quartermaster, reinforcing the indignity of Plugg's reduced command order.
 
 ### Aretta Bansion
 
@@ -143,3 +161,4 @@ Do not assume his loyalty is strong if Plugg's position weakens.
 - Does he know the rescue party succeeded?
 - Would he run to Plugg, Scourge, or Syl if threatened?
 - Does Aretta's death make him personally hostile to Sho?
+- Did Fipps use nightshift authority to target Sho beyond assigning her and Goyle to the burned hold?
