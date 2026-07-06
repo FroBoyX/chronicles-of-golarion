@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Day 2 Rak brew scene
 - Scope: Wormwood quartermaster, Kroop's closest friend, Rak relationship context
 
 ## Overview
@@ -77,6 +77,28 @@ She controlled the store that held impressed sailors' equipment.
 
 Sandara persuaded her to release Mirei's harp by claiming it was cursed by the sea and needed to be played to keep the ship safe.
 
+### Early Sho Interaction
+
+On Erastus 6 / Wormwood Day 2, Sho approached Grok to try to recover what was hers.
+
+Sho offered information and future services as muscle, citing the morning fight as proof of usefulness.
+
+Grok had already heard about the fight and recognized Sho might be useful, but refused to trade for uncertain future value.
+
+This establishes Grok as pragmatic rather than charitable: promises are not enough, even from someone capable.
+
+### Beginning of Friendship With Rak
+
+The earliest recovered seed of Grok's relationship with Rak is the night of Erastus 6 / Wormwood Day 2.
+
+Rak returned after failing to stop by earlier, apologized for losing track of time while cooking, and offered to brew alcohol if he had ingredients and his kit.
+
+Grok was willing to open the shop for him and invited him to show what he could brew.
+
+The GM reconstruction presumes Grok furnished both Rak's alchemy kit and ingredients to brew with.
+
+This scene is currently treated as the beginning of Rak and Grok's friendship.
+
 ### Relationship With Rak
 
 Before the capture of the Man's Promise and the split of the crew, Rak and Grok hooked up.
@@ -99,7 +121,9 @@ If Grok's story continues along the published Adventure Path's later direction, 
 
 ### Rak Wraithraiser
 
-Rak and Grok had a sexual or intimate relationship before the Man's Promise split, and Rak began bunking with her.
+Rak and Grok's first recovered friendship seed is the Day 2 brew scene, where Rak offered to make alcohol and Grok apparently furnished his alchemy kit and ingredients.
+
+They later had a sexual or intimate relationship before the Man's Promise split, and Rak began bunking with her.
 
 This may have been casual, meaningful, opportunistic, or some mixture; Rak's player's understanding should be recovered if possible.
 
@@ -120,6 +144,12 @@ Through Kroop and Rak, Grok forms part of the same support network.
 Sandara successfully manipulated or persuaded Grok into returning Mirei's harp through superstition.
 
 Grok's superstition is therefore a practical roleplay point, not just a trait.
+
+### Sho Astor
+
+Sho tried to trade information and future muscle services to Grok on Day 2.
+
+Grok saw potential usefulness in Sho, but refused to trade for future value that might never materialize.
 
 ### The PCs
 
@@ -149,8 +179,10 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 
 ## Open Questions
 
-- How did Grok and Rak's relationship begin?
-- Was it public knowledge aboard the Wormwood?
+- What did Rak brew for Grok on Erastus 6?
+- Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
+- How did Grok and Rak's friendship become flirtation or intimacy?
+- Was Rak/Grok public knowledge aboard the Wormwood?
 - Did Plugg, Scourge, or Harrigan know?
 - Did Grok give Rak a parting gift before the Man's Promise split, or was the goodbye sentimental without a material token?
 - Does Rak intend to see her again?
