@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, and GM rum-ration truth
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, and Erastus 16 mast / reef task evidence
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -148,6 +148,22 @@ GM truth: Sho never drank her rum ration aboard the Wormwood.
 The exact method is unknown. She likely disposed of, hid, traded, poured out, or otherwise avoided consuming it each night.
 
 Do not write Sho as willingly drinking the Wormwood rum unless later direct evidence contradicts this.
+
+### Erastus 16 Mast and Reef Task
+
+On the morning of Erastus 16, Sho woke slumped and tied to the mast.
+
+Scourge placed his whip under her chin and taunted her about whether she had enjoyed the prior punishment. Sho recognized from his grin that he had enjoyed it.
+
+Ratline called land ho from the rigging, causing commotion on deck.
+
+Scourge told Sho that Plugg wanted to talk to her and said he was sure a tough girl like her could handle it.
+
+After Plugg and Scourge summoned the others, Scourge unlocked Sho. She rubbed her wrists and stood wearily.
+
+Plugg then assigned Sho, Harvus, Rak, Mirei, and Badger to swim to the reef, fill buckets with crabs, and return.
+
+This scene likely connects to the later player memory that a whipping made Sho's disguise harder to hide through pain or physical exposure, but the exact prior punishment that left her tied to the mast still needs placement.
 
 ### Owlbear
 
@@ -303,17 +319,27 @@ She is also disturbed by his violence.
 
 Sho has considered that if Rak continues reckless killing, she may need to stop him.
 
+Rak was in the Erastus 16 reef task group with Sho.
+
 ### Harvus G'ron
 
 Sho sees Harvus as a possible comrade and may hope his rage can be controlled or redirected.
 
 She is not present for his rescue of Sandara and does not currently know what happened in Riptide Cove.
 
+Harvus was in the Erastus 16 reef task group with Sho.
+
 ### Mirei
 
 Sho and Mirei shared survival under the Wormwood and Man's Promise.
 
 Sho does not yet know the full result of Mirei's confession at the current reconstruction point.
+
+Mirei was in the Erastus 16 reef task group with Sho.
+
+### Badger Medlar
+
+Badger was added as the fifth member of the Erastus 16 reef task group.
 
 ### Captain Harrigan
 
@@ -335,11 +361,19 @@ Sho's notes say she had something to discuss with Ratline.
 
 The subject is currently unknown.
 
+Ratline's land-ho call interrupted Scourge's morning taunting of Sho on Erastus 16.
+
 ### Crimson
 
 Sho's notes say she had something to discuss with Crimson.
 
 Crimson is not yet identified in the archive.
+
+### Master Scourge
+
+Scourge repeatedly targeted Sho for defiance.
+
+On Erastus 16, he taunted her while she was tied to the mast, placing his whip under her chin and openly enjoying the prior punishment.
 
 ## Current Knowledge
 
@@ -378,6 +412,8 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Was Irori a meaningful deity choice or a sheet artifact?
 - Was the PCGen sheet current at the campaign pause?
 - Are the 15/25 HP and 17 nonlethal values current to the hot-box scene?
+- Which punishment left Sho tied to the mast before the Erastus 16 reef task?
+- Did that punishment expose or threaten Sho's disguise?
 - What did Sho suspect about Giffer's body?
 - Who is Crimson?
 - What did Sho need to discuss with Crimson?
