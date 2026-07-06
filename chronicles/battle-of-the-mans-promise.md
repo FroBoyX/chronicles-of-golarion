@@ -4,7 +4,7 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers
+- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers, recovered tactical map evidence
 - Corrected date: Erastus 25, 4712 AR
 - Original chat header: Sunday, Erastus 26th, 4691 - Day 21
 - Spoiler scope: Player-safe as historical reconstruction
@@ -15,6 +15,18 @@
 The recovered chat log preserves an old header: **Sunday, Erastus 26th, 4691 - Day 21**.
 
 Current campaign chronology places this battle in the early morning of **Erastus 25, 4712 AR**. The old header should be preserved as source text but not treated as final calendar truth.
+
+## Recovered Tactical Map Evidence
+
+A recovered tactical map screenshot from the original table era confirms several details previously reconstructed from memory and partial notes.
+
+The boarding party secured the aft deck and the ship's wheel in the fog before working down toward the middle deck, between the two lifeboats and near the main mast.
+
+The map confirms that Giffer Tibbs died below the stairs on the port side.
+
+The map confirms Rak's premature lifeboat release was on the starboard side. A Man's Promise crew member in or around that boat ended up in the water, with possible shark involvement still requiring final confirmation.
+
+The map confirms 16 total deaths on the fight map: 15 Man's Promise personnel and Giffer Tibbs. This supersedes broader casualty uncertainty while preserving Kahina's later "more than thirty" line as direct survivor dialogue / grievance rather than current casualty math.
 
 ## Narrative Log
 
@@ -40,6 +52,8 @@ That is the current reason Mirei did not board the Man's Promise during the batt
 
 The fog, lines, and shouted orders turned the boarding into a confused close fight.
 
+The recovered tactical map shows the PCs first secured the aft deck and ship's wheel, then worked down toward the middle deck between the two lifeboats and near the main mast.
+
 Sho warned Harrigan when an enemy threatened him from behind.
 
 > "Captain watch your back!"
@@ -54,13 +68,15 @@ Rak entered the fight with brutal effectiveness. He killed a pleading or downed 
 
 Rak's violence continued to shape the battle's moral texture. Giffer became nonresponsive, and the GM note says she was silent because Rak had ensured she was downed. Another GM note preserves that Rak intended to stomp Giffer or reopen her wounds while moving past.
 
+The recovered map confirms Giffer's death position below the port-side stairs, but the exact death mechanism remains unresolved.
+
 Rak also reported that alchemist fire may have gone off in the rear or lower section of the ship.
 
 Sho continued trying to turn the boarding into a controlled fight rather than a massacre. She secured the wheel, ordered the others to hold the position, and repeatedly told them to subdue enemies who were no longer threats.
 
 > "Subdue but dont kill if they're not a threat!"
 
-The escape boats became another crisis. A boat was cut loose, dropped, or otherwise mishandled, and at least one escaping sailor went into the water. The exact responsibility is still unclear.
+The escape boats became another crisis. The recovered map confirms the key lifeboat incident was on the starboard side: Rak released or triggered a boat before it was ready, causing the crew member in or around it to end up in the water. Shark involvement is possible but not yet finally confirmed.
 
 A Rahadoumi officer or commander confronted the attackers and refused to surrender. She accused the pirates of taking her ship, killing her people, and showing no mercy when asked.
 
@@ -77,6 +93,8 @@ Sho tried to give the officer an honorable target.
 > "Your fight is with me. Do me that honor and I will do my best to keep you alive."
 
 Eventually the battle broke. Riaris called for prisoners to be rounded up. Patch forced or helped force surrender in the fog. Harrigan declared the ship secured, ordered rum, loot, celebration, and sent Scourge to gather the officers.
+
+The recovered map confirms the battle left 16 dead on the fight map: 15 from the Man's Promise side and Giffer from the Wormwood side.
 
 The victory did not mean the violence ended cleanly.
 
@@ -114,10 +132,10 @@ Sho believed that once the Man's Promise was taken and the defenders surrendered
 
 From Sho's perspective, that promise failed catastrophically because the people she was supposed to be commanding did not listen. Her memory emphasizes two failures:
 
-- Rak released or triggered a lifeboat before it was ready, causing it to crash into another lifeboat and possibly killing or injuring people.
+- Rak released or triggered the starboard lifeboat before it was ready, sending a Man's Promise crew member into the water and possibly into shark danger.
 - Sho demanded that a crew member put down their weapon and promised safety, only for Harvus to strike another crew member with a flail who was not even looking to attack.
 
-The exact casualties and table mechanics remain open, but the character truth is clear: Sho felt responsible for atrocities she could not stop.
+The exact lifeboat victim identity and final death / injury mechanism remain open, but the character truth is clear: Sho felt responsible for atrocities she could not stop.
 
 She blames Rak and Harvus for direct actions, Harrigan for attacking the ship in the first place, and herself for not doing more. Despite working with them, Sho does **not** trust Rak or Harvus after this battle.
 
@@ -132,13 +150,15 @@ The battle also changed Sho's understanding of command. If she is going to take 
 - Sho experienced that command role as confusing and possibly as another setup to fail.
 - Mirei was badly wounded by arrows on approach and did not board the Man's Promise.
 - Harvus and Giffer were hit during approach but made it across.
+- The recovered tactical map confirms the PCs secured the aft deck and ship's wheel before pushing toward the middle deck between the lifeboats and main mast.
 - Sho warned Harrigan and received a nod of recognition after he killed the attacker.
 - Rak killed at least one pleading or downed sailor and likely directly caused or worsened Giffer's fatal state.
+- The recovered map confirms Giffer died below the port-side stairs during the battle.
 - Sho repeatedly tried to impose restraint: subdue enemies, kill only threats, hold positions, and avoid unnecessary deaths.
 - Sho believed surrender should have ended the need for further bloodshed.
-- The fight around the lifeboats created unresolved casualties and moral tension.
-- Sho's player memory specifically links Rak to a premature lifeboat release / crash, with casualties unresolved.
+- The recovered map confirms Rak's premature lifeboat release was on the starboard side and put a crew member into the water.
 - Sho's player memory links Harvus to striking someone after Sho promised safety, worsening her command-failure guilt.
+- The recovered map confirms 16 total deaths on the fight map: 15 Man's Promise personnel and Giffer Tibbs.
 - Nor'gal appears in the battle and is intimidated into surrender by Rak.
 - The officer / commander defended Nor'gal and refused to surrender because of the slaughter she had witnessed.
 - Patch helped force surrender in the fog.
@@ -155,9 +175,8 @@ The battle also changed Sho's understanding of command. If she is going to take 
 
 - Should the old `Day 21` label be ignored with the old date/year, or preserved as a separate relative-day artifact?
 - Was the log one continuous sequence, or does the night hot-box scene occur after a time jump from battle/cleanup?
-- Did Giffer die immediately here or later from injuries?
-- Who cut, dropped, or mishandled the lifeboat?
-- Did Rak's lifeboat action kill anyone, injure them, or only nearly cause death?
+- What exactly killed Giffer: arrows, melee, Rak's action, delayed care, or another cause?
+- Did the starboard lifeboat victim die by crash, drowning, shark swarm, or later injury?
 - Is Ko'ral / Cor'Wal / Kor'al the same killed brother referenced in Sho notes?
 - Is Nor'gal definitively the sailor Rak intimidated into surrender?
 - Which exact Man's Promise crew member did Sho promise safety to before Harvus struck another person?
@@ -169,3 +188,4 @@ The battle also changed Sho's understanding of command. If she is going to take 
 - What happened in the officers' meeting after Harrigan told Scourge to round them up?
 - What was Sandara's exact wound and recovery state after collapse?
 - Which wounded crew received aid after Harvus gathered them?
+- Use a token key to identify every surrendered Man's Promise figure and every injured Wormwood figure from the recovered map.
