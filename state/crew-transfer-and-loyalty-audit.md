@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, expanded with Rak and Sho player-sheet evidence plus confirmed Man's Promise survivor math
+- Maturity: Draft, expanded with Rak and Sho player-sheet evidence plus corrected Man's Promise survivor math
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -59,11 +59,13 @@ Sho's notes record:
 
 ### GM Man's Promise Survivor Math
 
-The attack on the Man's Promise left **15 survivors**.
+The attack on the Man's Promise left **15 captured survivors**.
 
-Captain Harrigan immediately made an example of the only surviving Rahadoumi officer by throwing her overboard to the sharks.
+The **captain of the Man's Promise died during the battle**.
 
-That left **14 surviving non-officer Man's Promise crew**.
+Captain Harrigan immediately made an example of a **weakened captured sailor** by throwing that sailor overboard to the sharks.
+
+That left **14 surviving captured Man's Promise crew**.
 
 Of those fourteen, six named survivors were assigned to the skeleton crew on their own captured ship under Mr. Plugg:
 
@@ -76,7 +78,9 @@ Of those fourteen, six named survivors were assigned to the skeleton crew on the
 
 Ebony Saable is also identified as the "monk man" referenced by Sho.
 
-The other eight non-officer survivors are acknowledged by the survivor math but are not currently named or tracked in the relaunch survivor bloc.
+Earlier reconstruction incorrectly stated that Harrigan threw the only surviving Rahadoumi officer overboard. The Erastus 27 chat instead has Harrigan throwing a weakened sailor, while a Rahadoumi officer is still present and spits in disgust. That officer's exact identity and fate remain open.
+
+The other eight survivors are acknowledged by the survivor math but are not currently named or tracked in the relaunch survivor bloc.
 
 ## Known Current PCs
 
@@ -95,11 +99,11 @@ The other eight non-officer survivors are acknowledged by the survivor math but 
 | Master Scourge | Man's Promise / command structure | Alive | Plugg's enforcer. |
 | Sandara Quinn | Bonewrack, Harvus group | Alive | Rescued; likely anti-Plugg; helpful from Rak sheet. |
 | Tilly Brackett | Bonewrack, Harvus group | Alive | Rescued; likely witness to rescue; helpful from Rak sheet. |
-| Goyle Onórach | Bonewrack, Harvus group | Alive / named skeleton-crew survivor | Witness against Plugg; former Man's Promise quartermaster per Sho sheet; one of six named survivors assigned to Plugg's skeleton crew. |
+| Goyle Onórach | Bonewrack, Harvus group | Alive / named skeleton-crew survivor | Witness against Plugg; former Man's Promise quartermaster per Sho sheet; one of six named Man's Promise survivors assigned to Plugg's skeleton crew. |
 | Shivikah | Bonewrack, Rak group | Alive | Hostile/unfriendly but possibly movable; helped Rak in frog fight. |
 | Slippery Syl Lonegan | Bonewrack, Rak group | Alive | Hostile, violent, opportunistic; unfriendly from Rak sheet; on Sho watch list. |
 | Jaundiced Jape | Bonewrack, Rak group | Alive | Hostile, silent threat; on Sho watch list. |
-| Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; left at Coconut Beach by Syl because ship was expected there; on Sho watch list. |
+| Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; left at Coconut Beach by Syl because the ship was expected to meet the supply party there. |
 | Kahina Bukekayo | Man's Promise | Alive / named skeleton-crew survivor | Rigger; Sho's current moral interrogator; one of six named survivors assigned to Plugg's skeleton crew. |
 | Dahrehn Numus | Man's Promise survivor context | Alive / named skeleton-crew survivor | Swab; previously wealthy trader; exact physical position needs confirmation. |
 | Ebony Saable | Man's Promise survivor context | Alive / named skeleton-crew survivor | Rigger; identified as Sho's referenced "monk man"; exact physical position needs confirmation. |
@@ -111,7 +115,7 @@ The other eight non-officer survivors are acknowledged by the survivor math but 
 ## Known Wormwood-Side NPCs
 
 | Character | Current Location | Status | Notes |
-|---|---|---|---|
+|---|---|---|
 | Barnabas Harrigan | Wormwood | Alive | Strategic future threat. |
 | Cut-Throat Grok | Wormwood | Alive | Parted sentimentally from Rak; helpful from Rak sheet. |
 | Peppery Longfarthing | Wormwood likely | Presumed alive | Placement should be confirmed. |
@@ -123,7 +127,8 @@ The other eight non-officer survivors are acknowledged by the survivor math but 
 
 | Character | Status | Notes |
 |---|---|---|
-| Unnamed surviving Rahadoumi officer | Dead | Only surviving Rahadoumi officer after the attack; Harrigan threw her overboard to the sharks as an example. |
+| Man's Promise captain | Dead | Died during the Man's Promise boarding battle; not the post-battle example victim. |
+| Unnamed weakened captured sailor | Dead | Harrigan threw this sailor overboard to the sharks as an example on Erastus 27. |
 | Jakes Magpie | Dead | Keelhauled early aboard Wormwood. |
 | Rosie Cusswell | Dead / lost at sea | Lost during storm despite rescue efforts. |
 | Aretta Bansion | Dead | Died after conflict with Sho in the bilges. |
@@ -135,7 +140,8 @@ The other eight non-officer survivors are acknowledged by the survivor math but 
 
 | Character | Possible States | Notes |
 |---|---|---|
-| Eight unnamed non-officer Man's Promise survivors | Unknown | Existed after Harrigan's execution of the officer; not among the six named skeleton-crew survivors currently tracked. Fate and assignment unresolved. |
+| Rahadoumi officer from Erastus 27 chat | Unknown | Present after Harrigan throws a weakened sailor overboard; spits in disgust. Identity and later fate unresolved. |
+| Eight unnamed Man's Promise survivors | Unknown | Existed after Harrigan's example; not among the six named skeleton-crew survivors currently tracked. Fate and assignment unresolved. |
 | Badger Medlar | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists helpful. |
 | Maheem / Muheem | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists kill-if-a-moment-arises; on Sho watch list. |
 | Barefoot Samms Toppin | Man's Promise likely | Harvus light-log says friendly; needs placement confirmation. |
@@ -197,9 +203,11 @@ The survivor bloc should not be treated as monolithic. Goyle has been rescued an
 
 ### Other Man's Promise Survivors
 
-After Harrigan killed the surviving officer, eight other non-officer survivors existed beyond the six named skeleton-crew survivors.
+After Harrigan killed the weakened captured sailor, eight other survivors existed beyond the six named skeleton-crew survivors.
 
 They are acknowledged by the survivor math but currently untracked. Do not use them as named relaunch actors without further evidence.
+
+The Rahadoumi officer visible in the Erastus 27 chat may or may not be part of those untracked survivors or later assigned elsewhere; identity and fate remain open.
 
 ### Uncommitted / Survival Bloc
 
@@ -218,10 +226,10 @@ Before running the return to the Man's Promise, determine or confirm:
 5. Who will fight?
 6. Who will flee?
 7. Who will refuse to serve under specific leaders?
-8. Which player-sheet attitude notes reflect actual influence state versus player impression?
-9. Which Man's Promise survivor names and spellings are final?
+8. Which player-sheet attitude notes reflect actual influence state versus player impression.
+9. Which Man's Promise survivor names and spellings are final.
 10. What Sho's Giffer-body suspicion refers to.
-11. Whether any of the eight unnamed non-officer survivors need to re-enter the record.
+11. Whether any of the eight unnamed survivors need to re-enter the record.
 
 ## Design Note
 
@@ -233,7 +241,8 @@ If too many people die or leave, the ship may become a prize no one can actually
 
 ## Open Questions
 
-- Resolve what happened to the eight non-officer Man's Promise survivors who were not part of the named skeleton-crew bloc.
+- Resolve what happened to the eight Man's Promise survivors who were not part of the named skeleton-crew bloc.
+- Resolve the identity and fate of the Rahadoumi officer visible in the Erastus 27 chat.
 - Resolve Badger placement and confirm why Rak's sheet lists her helpful.
 - Resolve Maheem placement and why Rak wants to kill him if a moment arises.
 - Resolve Sho's Maheem/Muheem, Fipps, Jaundiced, and Slippery watch-list context.
