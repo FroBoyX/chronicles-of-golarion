@@ -7,7 +7,7 @@
 - Scope: New hands reaching deck after the Day 2 harassment fight
 - Date: Erastus 6, 4712 AR / Wormwood Day 2
 - Spoiler scope: Player-safe
-- Canon status: Direct evidence for dialogue and immediate aftermath; speaker-label interpretation remains partly unresolved
+- Canon status: Direct evidence for dialogue and immediate aftermath; speaker labels now mapped by GM clarification
 
 ## Scene Context
 
@@ -30,32 +30,32 @@ Me:	Yessa massah
 chas:	*nods and proceeds to head up on deck*
 ```
 
+## Speaker Mapping
+
+GM clarification maps the chat labels as follows:
+
+- `Rak Wraithraiser`: Rak Wraithraiser
+- `Master Scourge`: Master Scourge
+- `Me`: Harvus G'ron
+- `chas`: Sho Astor
+
 ## Extracted Facts
 
 - The new hands reached deck after the harassment fight.
 - Master Scourge challenged them for being late.
 - Rak framed the delay as having run into trouble belowdecks.
-- One PC framed the harassers as knaves who tried to keep them from duty.
-- Another PC stated that the harassers were unconscious downstairs.
+- Harvus framed the harassers as knaves who tried to keep the new hands from duty.
+- Sho stated that the harassers were unconscious downstairs.
 - Scourge gripped his whip but did not immediately lash the new hands in this exchange.
 - Scourge ordered them onto deck and said he would deal with the harassers later.
-
-## Speaker-Label Notes
-
-- `Rak Wraithraiser` is clear.
-- `Master Scourge` is clear.
-- `Me` is preserved as-is from the chat log and likely reflects a PC with archaic / theatrical diction, but the character identity should be confirmed before assigning the lines in prose.
-- `chas` is preserved as-is from the chat log and should be mapped to the relevant player character only if confirmed.
 
 ## Reconstruction Use
 
 This scene should be placed immediately after the Day 2 harassment fight and before the new hands begin their daily work.
 
-The exact speaker identities for `Me` and `chas` should remain open unless confirmed.
+Use Harvus for the `Me` lines and Sho for the `chas` lines in prose reconstruction.
 
 ## Open Checks
 
-- Which character spoke the `Me` lines?
-- Which character spoke the `chas` lines?
 - Was Scourge angry because his plan failed, because the new hands were late, or both?
 - Did any sailor witness Scourge's reaction on deck?
