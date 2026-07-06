@@ -22,6 +22,8 @@ It is presumed that Grok furnished both Rak's alchemy kit and ingredients to bre
 
 This is the first recovered explicit friendship-development scene between Rak and Grok. It should not be treated as their first contact. Given Rak's cook's mate duties under Ambrose Kroop, Grok's closeness to Kroop, and the AP's heavy galley / quartermaster context, it is easy to assume Rak and Grok had already crossed paths earlier through galley work or duties for Ambrose. Those earlier interactions are not currently recovered.
 
+It is also likely that Rak and Grok had substantial undocumented bonding time after this scene. Grok and Ambrose were friends, Ambrose was a drunk, Grok liked alcohol, and Rak became cook's mate and did most of the cooking up until the Man's Promise. The archive should treat this as a relationship with a lot of plausible off-screen reinforcement, not a relationship that rests on a single preserved chat scene.
+
 ## Raw Chat
 
 ```text
@@ -46,6 +48,7 @@ Cut-Throat Grok:	*Grins* Lets see what you can brew!
 - Grok responded positively and invited him to show what he could brew.
 - GM reconstruction presumes Grok furnished Rak's alchemy kit and ingredients.
 - This scene is the first recovered explicit Rak/Grok friendship-development beat, eventually leading into their later intimate relationship.
+- Later undocumented bonding through the galley, Ambrose, alcohol, cooking, and quartermaster access is likely.
 
 ## Reconstruction Use
 
@@ -57,9 +60,12 @@ This scene supports:
 - Grok's interest in unusual alcohol;
 - Grok's willingness to open the shop for Rak;
 - the first recovered explicit growth point in Rak and Grok's personal connection;
-- the practical path toward Rak recovering his alchemy kit or using Grok's store access.
+- the practical path toward Rak recovering his alchemy kit or using Grok's store access;
+- a plausible ongoing off-screen friendship loop through Rak's cook's mate duties, Ambrose, alcohol, and the galley.
 
 Do not write this as Rak and Grok's first-ever meeting. Earlier contact through the galley, Kroop, or Rak's cook's mate duties is likely but unrecovered.
+
+Do not write the later Rak/Grok relationship as if it developed from one isolated scene. The preserved brew scene should be read as the first visible point in a larger undocumented shipboard pattern.
 
 ## Open Checks
 
@@ -70,3 +76,4 @@ Do not write this as Rak and Grok's first-ever meeting. Earlier contact through 
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
 - Did anyone else witness the brewing scene?
 - How quickly did the friendship become flirtation or intimacy?
+- What recurring galley / alcohol / Ambrose interactions happened but were not preserved?
