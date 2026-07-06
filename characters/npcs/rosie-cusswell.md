@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with direct fiddle-return scene and post-loss suspicion
+- Maturity: Draft, expanded with direct fiddle-return scene, storm rescue message fragments, and post-loss suspicion
 - Scope: Wormwood lower-crew ally, Harvus friendship, storm loss
 
 ## Overview
@@ -76,9 +76,15 @@ Rosie thanked him again and kept playing the fiddle.
 
 This is the direct emotional evidence behind the summary note that Harvus became Rosie's friend.
 
-### Storm Loss
+### Storm Loss and Rescue Attempt
 
 Rosie was lost at sea during the Wormwood storm despite rescue efforts.
+
+The only currently recovered chat fragments from the rescue attempt show Mirei using distance communication, likely the **message** spell / cantrip, to speak with Rosie.
+
+Mirei told Rosie to hold on, that they were trying to get her, and that they would save her. Mirei also instructed Rosie to tie the rope to herself, including telling her to do so the next time the rope got to her.
+
+This proves there was an active rescue effort involving a rope and communication to Rosie, but it does not by itself reconstruct who threw the rope, whether Rosie got hold of it, or why the attempt failed.
 
 Her loss should remain a meaningful death in the Book One record.
 
@@ -97,6 +103,12 @@ This gives Harvus a grief connection before Bonewrack and before Sandara's rescu
 The recovered fiddle scene shows Rosie responding with genuine, chaotic gratitude rather than polite thanks.
 
 Rosie's loss was one of the events Harvus later named when describing the renewed rage building in his heart.
+
+### Mirei
+
+Mirei attempted to communicate with Rosie during the storm rescue attempt, telling her to hold on and instructing her to tie the rope to herself.
+
+This gives Mirei a direct but failed rescue connection to Rosie's death.
 
 ### Conchobhar Turlach Shortstone
 
@@ -126,6 +138,8 @@ The campaign's later question of what kind of crew survives should remember thos
 
 For Harvus specifically, Rosie's death comes after he successfully restored something personal to her. That makes the later grief cleaner and sharper.
 
+For Mirei, Rosie's death carries a different weight: she was actively trying to reach and instruct Rosie through magic, but the rescue failed.
+
 If the suspicion of intentionality is later confirmed, Rosie may become an early example of Plugg and Scourge using shipboard danger as cover for selective elimination.
 
 ## Open Questions
@@ -133,6 +147,10 @@ If the suspicion of intentionality is later confirmed, Rosie may become an early
 - What happened to Rosie's fiddle after her death?
 - Did Harvus keep, return, or lose it?
 - Was Rosie's going overboard accidental, negligent, or intentional?
+- Did Rosie ever get hold of the rope during the rescue attempt?
+- Who controlled or threw the rope?
+- Did Sho dive after Rosie in this same sequence, as player memory suggests?
+- What was the final reason the rescue failed?
 - Did Conchobhar meaningfully grieve her?
 - Did any crew member blame the officers, the storm, or the rescue failure?
 - Is Rosie remembered by name in any later shipboard story?
