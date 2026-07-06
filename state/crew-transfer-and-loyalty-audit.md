@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, expanded with Rak and Sho player-sheet evidence plus confirmed Man's Promise survivor set
+- Maturity: Draft, expanded with Rak and Sho player-sheet evidence plus confirmed Man's Promise survivor math
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -57,9 +57,15 @@ Sho's notes record:
 - Nor'Gal and dead brother Cor'Wal name evidence,
 - and Goyle as former quartermaster of the Man's Promise.
 
-### GM Survivor Set Confirmation
+### GM Man's Promise Survivor Math
 
-The six tracked Man's Promise survivors are fixed as:
+The attack on the Man's Promise left **15 survivors**.
+
+Captain Harrigan immediately made an example of the only surviving Rahadoumi officer by throwing her overboard to the sharks.
+
+That left **14 surviving non-officer Man's Promise crew**.
+
+Of those fourteen, six named survivors were assigned to the skeleton crew on their own captured ship under Mr. Plugg:
 
 - Dahrehn Numus
 - Ebony Saable
@@ -69,6 +75,8 @@ The six tracked Man's Promise survivors are fixed as:
 - Nor'gal Daraa
 
 Ebony Saable is also identified as the "monk man" referenced by Sho.
+
+The other eight non-officer survivors are acknowledged by the survivor math but are not currently named or tracked in the relaunch survivor bloc.
 
 ## Known Current PCs
 
@@ -87,16 +95,16 @@ Ebony Saable is also identified as the "monk man" referenced by Sho.
 | Master Scourge | Man's Promise / command structure | Alive | Plugg's enforcer. |
 | Sandara Quinn | Bonewrack, Harvus group | Alive | Rescued; likely anti-Plugg; helpful from Rak sheet. |
 | Tilly Brackett | Bonewrack, Harvus group | Alive | Rescued; likely witness to rescue; helpful from Rak sheet. |
-| Goyle Onórach | Bonewrack, Harvus group | Alive / tracked Man's Promise survivor | Witness against Plugg; former Man's Promise quartermaster per Sho sheet; one of the six tracked survivors. |
+| Goyle Onórach | Bonewrack, Harvus group | Alive / named skeleton-crew survivor | Witness against Plugg; former Man's Promise quartermaster per Sho sheet; one of six named survivors assigned to Plugg's skeleton crew. |
 | Shivikah | Bonewrack, Rak group | Alive | Hostile/unfriendly but possibly movable; helped Rak in frog fight. |
 | Slippery Syl Lonegan | Bonewrack, Rak group | Alive | Hostile, violent, opportunistic; unfriendly from Rak sheet; on Sho watch list. |
 | Jaundiced Jape | Bonewrack, Rak group | Alive | Hostile, silent threat; on Sho watch list. |
 | Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; left at Coconut Beach by Syl because ship was expected there; on Sho watch list. |
-| Kahina Bukekayo | Man's Promise | Alive / tracked Man's Promise survivor | Rigger; Sho's current moral interrogator; one of the six tracked survivors. |
-| Dahrehn Numus | Man's Promise survivor context | Alive / tracked Man's Promise survivor | Swab; previously wealthy trader; exact physical position needs confirmation. |
-| Ebony Saable | Man's Promise survivor context | Alive / tracked Man's Promise survivor | Rigger; identified as Sho's referenced "monk man"; exact physical position needs confirmation. |
-| Merchiel V'giatore | Man's Promise survivor context | Alive / tracked Man's Promise survivor | Rigger; exact physical position needs confirmation. |
-| Nor'gal Daraa | Man's Promise survivor context | Alive / tracked Man's Promise survivor | Swab; revenge thread for dead brother Kor'al / Cor'Wal; exact physical position needs confirmation. |
+| Kahina Bukekayo | Man's Promise | Alive / named skeleton-crew survivor | Rigger; Sho's current moral interrogator; one of six named survivors assigned to Plugg's skeleton crew. |
+| Dahrehn Numus | Man's Promise survivor context | Alive / named skeleton-crew survivor | Swab; previously wealthy trader; exact physical position needs confirmation. |
+| Ebony Saable | Man's Promise survivor context | Alive / named skeleton-crew survivor | Rigger; identified as Sho's referenced "monk man"; exact physical position needs confirmation. |
+| Merchiel V'giatore | Man's Promise survivor context | Alive / named skeleton-crew survivor | Rigger; exact physical position needs confirmation. |
+| Nor'gal Daraa | Man's Promise survivor context | Alive / named skeleton-crew survivor | Swab; revenge thread for dead brother Kor'al / Cor'Wal; exact physical position needs confirmation. |
 | Ambrose Kroop | Man's Promise | Alive | Practical ally; likely anti-Plugg but survival-minded; helpful from Rak sheet. |
 | Owlbear Hartshorn | Man's Promise | Presumed alive | Plugg-controlled unless prior friendship changes him. |
 
@@ -115,6 +123,7 @@ Ebony Saable is also identified as the "monk man" referenced by Sho.
 
 | Character | Status | Notes |
 |---|---|---|
+| Unnamed surviving Rahadoumi officer | Dead | Only surviving Rahadoumi officer after the attack; Harrigan threw her overboard to the sharks as an example. |
 | Jakes Magpie | Dead | Keelhauled early aboard Wormwood. |
 | Rosie Cusswell | Dead / lost at sea | Lost during storm despite rescue efforts. |
 | Aretta Bansion | Dead | Died after conflict with Sho in the bilges. |
@@ -126,6 +135,7 @@ Ebony Saable is also identified as the "monk man" referenced by Sho.
 
 | Character | Possible States | Notes |
 |---|---|---|
+| Eight unnamed non-officer Man's Promise survivors | Unknown | Existed after Harrigan's execution of the officer; not among the six named skeleton-crew survivors currently tracked. Fate and assignment unresolved. |
 | Badger Medlar | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists helpful. |
 | Maheem / Muheem | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists kill-if-a-moment-arises; on Sho watch list. |
 | Barefoot Samms Toppin | Man's Promise likely | Harvus light-log says friendly; needs placement confirmation. |
@@ -136,7 +146,7 @@ Ebony Saable is also identified as the "monk man" referenced by Sho.
 | Kipper | Unknown | Burned in battle; transfer status needs confirmation. |
 | Patch Patchsalt | Unknown | Rak sheet lists indifferent; placement and true loyalty need confirmation. |
 | Crimson | Unknown | Sho notes say she has something to discuss with Crimson; identity unresolved. |
-| Melina Drakesworn | Unknown | Status and role need confirmation; no longer part of the six tracked Man's Promise survivor set unless later evidence says otherwise. |
+| Melina Drakesworn | Unknown | Status and role need confirmation; no longer part of the six named skeleton-crew survivors unless later evidence says otherwise. |
 
 ## Faction Buckets
 
@@ -170,9 +180,9 @@ Likely or player-evidenced:
 - possibly Owlbear if befriended
 - possibly Jack Scrimshaw, per Rak sheet friendly? note
 
-### Man's Promise Survivor Bloc
+### Man's Promise Named Skeleton-Crew Survivor Bloc
 
-Confirmed tracked survivor set:
+Confirmed named survivors assigned to Plugg's skeleton crew:
 
 - Dahrehn Numus
 - Ebony Saable
@@ -184,6 +194,12 @@ Confirmed tracked survivor set:
 This bloc may oppose Plugg while still distrusting the PCs.
 
 The survivor bloc should not be treated as monolithic. Goyle has been rescued and may oppose Plugg from an honor / testimony position; Kahina is testing Sho aboard the ship; Nor'gal may prioritize revenge for his brother; Dahrehn, Ebony, and Merchiel need stance reconstruction.
+
+### Other Man's Promise Survivors
+
+After Harrigan killed the surviving officer, eight other non-officer survivors existed beyond the six named skeleton-crew survivors.
+
+They are acknowledged by the survivor math but currently untracked. Do not use them as named relaunch actors without further evidence.
 
 ### Uncommitted / Survival Bloc
 
@@ -205,6 +221,7 @@ Before running the return to the Man's Promise, determine or confirm:
 8. Which player-sheet attitude notes reflect actual influence state versus player impression?
 9. Which Man's Promise survivor names and spellings are final?
 10. What Sho's Giffer-body suspicion refers to.
+11. Whether any of the eight unnamed non-officer survivors need to re-enter the record.
 
 ## Design Note
 
@@ -216,6 +233,7 @@ If too many people die or leave, the ship may become a prize no one can actually
 
 ## Open Questions
 
+- Resolve what happened to the eight non-officer Man's Promise survivors who were not part of the named skeleton-crew bloc.
 - Resolve Badger placement and confirm why Rak's sheet lists her helpful.
 - Resolve Maheem placement and why Rak wants to kill him if a moment arises.
 - Resolve Sho's Maheem/Muheem, Fipps, Jaundiced, and Slippery watch-list context.
