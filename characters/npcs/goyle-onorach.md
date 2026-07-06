@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log, Sho PCGen evidence, and survivor-set confirmation
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Sho PCGen evidence, survivor-set confirmation, and first-night quartermaster confirmation
 - Scope: Man's Promise survivor, rescued captive, anti-Plugg witness
 
 ## Overview
@@ -14,16 +14,16 @@ His survival matters because he is not only another rescued prisoner. He is a wi
 
 He can testify to Plugg's dishonor, Plugg's use of the tidewater cutlass, and the plan to eliminate troublesome PCs.
 
-Sho's PCGen notes state that Goyle used to be quartermaster of the Man's Promise.
+Sho's PCGen notes state that Goyle used to be quartermaster of the Man's Promise. A later first-night chat confirms Goyle identifying himself to Sho as the ship's quartermaster.
 
 ## Identity
 
 - Name: Goyle Onórach
 - Type: NPC
-- Role: Swab
+- Role: Swab in Plugg's reduced command structure
 - Listed location / tag: The Man's Promise
 - Origin: Man's Promise crew
-- Pre-capture role evidence: Former quartermaster of the Man's Promise, per Sho's notes
+- Pre-capture role evidence: Former quartermaster of the Man's Promise, per Sho's notes and first-night direct dialogue
 - Baseline temperament: Gruff, honor-conscious, sailorly
 - Current location: Bonewrack Isle, returning from Riptide Cove
 - Current status: Alive, rescued, tracked Man's Promise survivor
@@ -48,7 +48,7 @@ He gives the PCs a living Man's Promise witness who can oppose Plugg without nec
 
 His worldview appears more honor-bound than sentimental.
 
-His quartermaster role, if confirmed, gives him practical and political weight among Man's Promise survivors.
+His quartermaster role gives him practical and political weight among Man's Promise survivors.
 
 ## Pre-Capture Role
 
@@ -58,7 +58,23 @@ Sho's PCGen notes explicitly state:
 
 > Goyle used to be Quartermaster of the Man's Promise.
 
-This should be treated as strong player-sheet evidence, pending final GM/player confirmation.
+The first recovered Man's Promise night confirms this directly in dialogue. When assigned to nightshift swab work with Sho, Goyle identified himself:
+
+> "I was the quartermaster on this ship..... follow my lead."
+
+This should now be treated as strongly confirmed table evidence, pending only exact title/status nuance after the capture.
+
+## First Man's Promise Night
+
+On the first night under Plugg, Syl assigned Sho and Goyle as swabs under Fipps Chumlett's nightshift authority.
+
+A scarred Rahadoumi sailor asked whether Sho was Sho. Sho guessed he was Goyle.
+
+Goyle attempted something between a snarl and a smile through fresh battle scars, identified himself as the former quartermaster, and told Sho to follow his lead.
+
+Fipps then ordered the two of them below to clean the hold from the fire.
+
+This gives Sho and Goyle an early direct work contact before Goyle's later capture and rescue.
 
 ## Capture
 
@@ -92,7 +108,7 @@ This makes him politically dangerous to Plugg.
 
 If he speaks in front of neutral or hostile sailors, he may shift the legitimacy question from rumor to testimony.
 
-If his quartermaster status is confirmed, his testimony may carry more weight among surviving Man's Promise crew.
+His quartermaster status may increase that function.
 
 ## Post-Rescue Conversation
 
@@ -148,9 +164,11 @@ Goyle's warning implicates Scourge in the plan to kill or eliminate troublesome 
 
 ### Sho Astor
 
-Sho's notes preserve Goyle's former quartermaster role.
+Sho's notes preserve Goyle's former quartermaster role, and the first-night direct log confirms Goyle introduced himself to Sho as quartermaster.
 
 Sho may therefore view Goyle as more than a generic Man's Promise survivor.
+
+During the first night under Plugg, Sho trusted Goyle's direction when Fipps sent the two of them below to clean the burned hold.
 
 ### Man's Promise Survivors
 
@@ -169,7 +187,7 @@ His former quartermaster role may increase that function.
 - Condition: Exhausted, coughing, angry, but able to move; exact injury state needs confirmation
 - Immediate leverage: Can expose Plugg's plan and Plugg's direct role in his capture
 - Current declared stance: Casts his lot with Harvus' group
-- Political weight: Former Man's Promise quartermaster if Sho's notes are confirmed
+- Political weight: Former Man's Promise quartermaster, now strongly supported by direct dialogue
 
 ## Campaign Function at Relaunch
 
@@ -197,7 +215,6 @@ Goyle may support:
 
 ## Open Questions
 
-- Confirm whether Goyle was officially quartermaster of the Man's Promise.
 - What authority did quartermaster status give him among the Man's Promise crew?
 - What is Goyle's exact relationship with Tilly beyond her saying he helped her through the last day?
 - Does Goyle owe Harvus a formal honor debt in his own mind?
@@ -206,3 +223,4 @@ Goyle may support:
 - Would Goyle serve under a PC captain?
 - Would Goyle support Kahina if she makes a claim or demand on behalf of Man's Promise survivors?
 - How does Goyle relate to Dahrehn, Ebony, Merchiel, and Nor'gal?
+- Did Sho and Goyle have any additional conversation while cleaning the burned hold?
