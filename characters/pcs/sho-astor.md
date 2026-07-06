@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal / Rosie rescue / bilges ambush
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal / Rosie rescue / bilges ambush / Owlbear mercy
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -253,9 +253,21 @@ Sho thanked Sandara, nodded when Sandara reminded them to keep friends close, an
 
 Sho fought Owlbear Hartshorn when Plugg brought him out for sport.
 
-She defeated him but refused to kill him.
+At first, Sho saw Owlbear as another of Plugg's goons and was ready for the challenge of putting him in his place. In her head, beating Owlbear would also show Plugg that she could take him down too.
 
-This established one of Sho's core Book One themes: strength under restraint.
+The fight did not play out the way Sho expected. During and after the fight, she realized Owlbear was another victim and captive, not the beast Plugg had made him out to be.
+
+Sho fought tactically rather than in panic. Unlike the bilges fight, this was a controlled fight where exploiting an opponent's weaknesses to end the threat quickly made sense.
+
+She stopped because Owlbear was beaten and there was no need to continue, and because he did not deserve what she had originally set out to do at the start of the fight.
+
+Sho's mercy came from both pity and defiance: pity because Owlbear was also a victim, and defiance because Sho refused to do what Plugg wanted.
+
+Befriending Owlbear was one of the first positive things Sho experienced after being put on the Wormwood.
+
+Sho became somewhat protective and fond of him. She wanted to somehow release him so he could hopefully become more than Plugg's captive tool.
+
+This established one of Sho's core Book One themes: strength under restraint, and the ability to distinguish a victimized tool from the person using him.
 
 ### Erastus 22 — Plugg Watches Sho
 
@@ -489,6 +501,14 @@ On Erastus 16, Sho apologized when she realized Mirei had fought the reef creatu
 
 Badger was added as the fifth member of the Erastus 16 reef task group.
 
+### Owlbear Hartshorn
+
+Sho first saw Owlbear as one of Plugg's goons, then realized he was another victim and captive.
+
+Sparing and befriending him became one of the first positive things Sho experienced aboard the Wormwood.
+
+Sho is somewhat protective and fond of him, and wanted to somehow release him so he could become more than Plugg's captive tool.
+
 ### Rosie Cusswell
 
 Sho did not know Rosie well, but Rosie seemed all right compared with some of the more hostile Wormwood crew.
@@ -551,6 +571,8 @@ Plugg's use of punishment, indirect violence, and authority makes him a clear mo
 
 After the Erastus 23 bilges ambush and frame, Sho's hatred intensified. She concluded that Plugg and Scourge needed to be taken down and that she herself would do it.
 
+Owlbear also sharpened Sho's view of Plugg's cruelty: Plugg did not merely command goons; he made victims into tools.
+
 ### Sandara Quinn
 
 On Erastus 16, Sandara healed or restored Sho after the reef task / mast punishment, reducing the fog in Sho's head.
@@ -607,6 +629,11 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Did Sho actually dive off the ship tied to a rope?
 - Who held or controlled Sho's rope, if any?
 - Which crew members did Sho start sorting as rotten versus trapped after Rosie's death?
+- What exact table action established Sho's attempt to befriend Owlbear after sparing him?
+- Did Owlbear visibly understand Sho's mercy in the moment?
+- Did Plugg react immediately to Sho refusing the expected cruelty?
+- Did Sho ever speak to Owlbear privately or try to release him before the Man's Promise split?
+- Does Owlbear know Sho is currently in the hot-box?
 - What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 23 bilge fight?
 - Who went down to the bilges after the fight, and what did Sho observe them doing or not doing?
 - Did Sho explicitly ask for help for Aretta and / or Fipps?
