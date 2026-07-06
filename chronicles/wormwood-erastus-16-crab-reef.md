@@ -4,8 +4,8 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Morning of Erastus 16, land sighting, Plugg's crab task, reef encounter outcome, galley handoff, and Rak's Harrigan reward
-- Source basis: Direct chat logs for Erastus 16 crab reef task and return, AP scaffold paraphrase, current character dossiers
+- Scope: Morning of Erastus 16, land sighting, Plugg's crab task, reef encounter outcome, galley handoff, Rak's Harrigan reward, and night-after recovery scenes
+- Source basis: Direct chat logs for Erastus 16 crab reef task, return, and night aftermath; AP scaffold paraphrase; current character dossiers
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -201,26 +201,103 @@ Riaris reduced the matter to the practical outcome.
 
 > "Caught good food, good enough for me."
 
+## Night — Sandara Gathers the Hurt
+
+That night, Sandara found Harvus and asked how the reef had gone.
+
+She had asked Scourge if she could come with them, but he refused.
+
+> "I asked that ass Scourge if I could come with... guess he still holds a grudge."
+
+Harvus slouched before her in pain.
+
+Sandara immediately shifted from conversation to care and asked whether anyone else had been hurt.
+
+Harvus named Scourge as the blame and said Mirei had also been hurt.
+
+> "Scourge.... that apish geck."
+
+Sandara decided they should gather the wounded.
+
+> "Basmara's blessings will smile on them this day."
+
+She and Harvus found Mirei and Sho.
+
+Mirei said a monster in the sea had gotten her leg.
+
+Sho had not realized Mirei had been fighting the reef creatures.
+
+> "I think I saw part of one at the bottom of the reef. Didnt know you did battle with them. Sorry I wasnt there"
+
+Sandara told them to stand still, concentrated, touched Sho and Harvus, and invoked healing or divine aid.
+
+Sho felt the fog in her head lessen.
+
+> "yeah, thanks, the fog in my head is lessened by quite a bit"
+
+Sandara asked Mirei how she was and reminded all of them to save their strength and keep their friends close.
+
+Sho and Mirei both nodded.
+
+Harvus kissed Sandara's hand and noticed the necklace he had given her.
+
+Sandara smiled, then softened and admitted the reason.
+
+> "With Rosie gone, I... anyway. It's no problem."
+
+She said she was keeping it safe.
+
+Mirei left awkwardly. Sho also excused herself and thanked Sandara again.
+
+Harvus then said he suddenly felt the urge to sneak around the ship.
+
+Sandara told him good luck and not to get caught. Then she looked out to sea, touching her ebony idol.
+
+## Night — Rak and Grok at the Store
+
+At the quartermaster's store, Grok grinned at Rak.
+
+Harrigan had instructed Grok to return anything taken from Rak from ship stores, and Grok led him into the store to find what was his.
+
+> "So you finally decided to stop fighting it huh? Well, I always liked you."
+
+Rak insisted he had not stopped fighting anything. He said he had only seen delicious lobster, taken it for laughs, and ended up getting sweet goods for it.
+
+Grok accepted the strangeness.
+
+> "You know, I think you've gotten stranger every day we've talked. Still cute"
+
+She opened the chest and rummaged through it, asking which things were his.
+
+The conversation quickly became flirtation. Rak asked whether she was busy tonight and proposed a game called slap and tickle.
+
+Grok had not heard of it, but asked whether he would teach her.
+
+Rak asked whether "he" would wake up, likely referring to Kroop, though this remains open.
+
+Grok asked how intensive the game was.
+
+Rak said it was quite intensive.
+
+Grok cracked her knuckles.
+
+> "Let's see what you got!"
+
 ## What This Establishes
 
-- Sho was tied to the mast and still recovering from prior punishment when this scene began.
-- Scourge openly enjoyed Sho's suffering and continued taunting her the next morning.
-- Ratline was the rigger who called land ho.
-- Harvus was in the rigging at the time of the summons.
-- Rak was called to deck by Scourge.
-- Mirei was summoned by Tam "Narwhal" Tate.
-- Badger was specifically added by Plugg after the first four had gathered.
-- The reef group was Harvus, Rak, Sho, Mirei, and Badger.
-- Plugg framed the dangerous reef errand as the captain wanting crabs.
-- The group encountered reefclaws or equivalent reef predators.
-- Mirei was attacked at the legs.
-- Rak caught the notable reefclaw / big one.
-- Sho returned late because she had been shackled to the mast overnight, but still returned with a full bucket.
-- Kroop recognized the reef danger and confirmed Rak as the one who caught the big one.
-- Caulky brought Rak before Harrigan as the source of dinner.
-- Harrigan rewarded Rak by ordering Grok to return anything taken from him from ship stores.
-- Harrigan explicitly framed the reward as going above and beyond.
-- Scourge and Plugg disliked Rak being rewarded.
+- Sandara wanted to go on the reef task but Scourge blocked her.
+- Harvus, Sho, and Mirei were still suffering after the reef encounter and/or prior punishment.
+- Mirei's leg was injured by the reef creature.
+- Sho had not been in the fight with the creature Mirei fought, or at least did not realize it at the time.
+- Sandara healed or restored Sho and Harvus, and possibly assessed Mirei.
+- Sho's head-fog lessened after Sandara's aid.
+- Sandara repeated the survival rule: keep friends close.
+- Sandara was wearing the necklace Harvus gave her.
+- Sandara linked wearing/keeping the necklace to Rosie's death and said she was keeping it safe.
+- Harvus planned to sneak around after the healing scene.
+- Grok began returning Rak's confiscated gear from the store after Harrigan's order.
+- Grok already liked Rak and found him increasingly strange but cute.
+- The Rak/Grok relationship escalated into an explicitly sexual or flirtatious night setup.
 
 ## Open Checks
 
@@ -232,3 +309,7 @@ Riaris reduced the matter to the practical outcome.
 - Which items did Rak actually receive back?
 - Was the "big one" one reefclaw or both reefclaws?
 - What happened to Badger during the reef fight?
+- Which spell or healing effect did Sandara use that night?
+- Did Sandara heal Mirei directly?
+- What did Harvus do while sneaking around afterward?
+- Who was Rak worried might wake up during the Grok scene?
