@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence
+- Maturity: Draft, expanded with Day 2 rigging conversation and Rak player-sheet evidence
 - Scope: Hostile lower-crew rigger, Harvus abduction witness, Rak kill-list target, placement unresolved
 
 ## Overview
@@ -37,7 +37,7 @@ He can contribute to the hostile side of the final mutiny if aboard the Man's Pr
 
 Maheem is important because he connects Harvus' current vengeance to direct shipboard testimony.
 
-He told Harvus that Scourge had been the one who twisted or damaged his wing after Harvus was taken.
+He told Harvus that Scourge had been the one who ordered or performed the effort to "tame" him after he was dragged aboard.
 
 This makes Maheem part of Harvus' truth chain.
 
@@ -47,11 +47,29 @@ Rak's sheet adds a second personal hostility thread: Rak is willing to kill Mahe
 
 ### Press-Ganging Harvus
 
-Maheem was involved in or adjacent to Harvus' press-ganging.
+Maheem was involved in Harvus' press-ganging or immediate boarding.
 
-He later told Harvus that Scourge was the one who dragged him aboard and damaged his wing.
+In a later Day 2 work conversation, Maheem told Harvus that he and others dragged Harvus aboard and dumped him, but distanced himself from the wing injury / mistreatment.
 
-This was not kindness, necessarily, but it gave Harvus a target for revenge.
+Maheem said it was Scourge, and that Scourge said Harvus needed to be "tamed."
+
+This was not kindness, necessarily, but it gave Harvus a clearer target for revenge.
+
+### Wormwood Day 2 Rigging Conversation
+
+During work on Erastus 6, likely in the rigging, Maheem spoke to Harvus after seeing what Harvus had done downstairs during the Day 2 harassment fight.
+
+Only Maheem's side of the conversation survives.
+
+Maheem sneered that Harvus had not put up much of a fight when brought aboard, then acknowledged what he had seen belowdecks. He then said:
+
+> "...it wasn't me."
+
+> "It was scurge, we dragged you on board."
+
+> "Dumped you.... and he said you needed to be \"tamed\""
+
+This should be treated as partial confession, partial distancing, and partial provocation unless later context clarifies his intent.
 
 ### Wormwood
 
@@ -69,9 +87,11 @@ This matters because if he is aboard the Man's Promise, he may become part of th
 
 ### Harvus G'ron
 
-Maheem gave Harvus important information about Scourge's role in the wing injury.
+Maheem gave Harvus important information about Scourge's role in the wing injury and the order to "tame" him.
 
 Harvus may not like Maheem, but Maheem's information shaped Harvus' vendetta.
+
+Maheem's tone in the surviving Day 2 line is sneering and self-protective rather than openly remorseful.
 
 ### Rak Wraithraiser / Wraithriser
 
@@ -112,8 +132,8 @@ If he remained on the Wormwood, he becomes a future Harrigan-side witness and Ra
 ## Open Questions
 
 - Is Maheem aboard the Man's Promise or the Wormwood?
-- Did he participate directly in Harvus' abduction?
-- Why did he tell Harvus about Scourge and the wing?
+- What did Harvus say before Maheem's surviving Day 2 lines?
+- Was Maheem attempting apology, self-protection, intimidation, or all three?
 - Why does Rak want to kill Maheem if a moment arises?
 - What is Maheem's current attitude toward Harvus?
 - What is Maheem's current attitude toward Sho?
