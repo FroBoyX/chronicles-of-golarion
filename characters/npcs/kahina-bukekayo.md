@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue and survivor-set confirmation
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, survivor-set confirmation, and corrected Man's Promise death-toll scope
 - Scope: Man's Promise survivor, Sho hot-box counterpart, potential anti-Plugg actor
 
 ## Overview
@@ -81,6 +81,8 @@ Sho asked why Kahina would blindly follow those in command of a massacre.
 Kahina turned that accusation back on Sho, asking how long Sho had blindly followed those same men before being chained to the mast or hot-boxed.
 
 Kahina said she saw Sho lead a group onto the Man's Promise and that more than thirty people lost their lives.
+
+That death-toll statement should now be treated as accurate survivor testimony. The recovered tactical map confirms only visible / represented map deaths, not the full shipwide death toll. Final exact numbers require canonizing the Man's Promise starting crew count.
 
 She told Sho that Plugg and Scourge would find the justice of the sea, and so would Sho.
 
@@ -197,3 +199,4 @@ Her position should be conditional on what Sho says and does.
 - What does Kahina want besides revenge?
 - What would convince Kahina that Sho is sincere beyond killing Plugg or Scourge?
 - What would make Kahina decide Sho deserves to die with the rest?
+- What was the Man's Promise starting crew count used to make Kahina's more-than-thirty death toll exact?
