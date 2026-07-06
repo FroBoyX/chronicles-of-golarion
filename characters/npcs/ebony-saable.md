@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, created from source extract and GM identification
-- Scope: Man's Promise rigger, Sho "monk man" reference, assumed survivor
+- Maturity: Draft, created from source extract and GM identification; updated with survivor confirmation
+- Scope: Man's Promise rigger, Sho "monk man" reference, confirmed survivor
 
 ## Overview
 
@@ -14,14 +14,17 @@ He is tagged as a **Rigger** associated with **The Man's Promise**.
 
 Current GM identification resolves him as the "monk man" referenced by Sho.
 
+Ebony is confirmed as **one of the six tracked Man's Promise survivors**.
+
 ## Identity
 
 - Name: Ebony Saable
 - Type: NPC
 - Role: Rigger
 - Listed location / tag: The Man's Promise
-- Current location: Assumed Man's Promise, pending confirmation
-- Current status: Assumed alive / Man's Promise survivor, pending confirmation
+- Current location: Man's Promise
+- Current status: Alive / confirmed Man's Promise survivor
+- Survivor set: One of the six tracked Man's Promise survivors
 
 ## Appearance and Bearing
 
@@ -43,15 +46,15 @@ Current GM identification: Ebony Saable is the "monk man" Sho referenced.
 
 The exact content of Sho's reference still needs to be tied back to the recovered Sho notes or logs.
 
-Do not infer more than the identification: Ebony's actual attitude toward Sho, whether he trusts her, and whether he supports freeing her remain unresolved.
+Do not infer more than the identification and confirmed survivor status: Ebony's actual attitude toward Sho, whether he trusts her, and whether he supports freeing her remain unresolved.
 
 ## Current State
 
-- Location: Assumed Man's Promise
-- Status: Assumed survivor
+- Location: Man's Promise
+- Status: Alive / confirmed survivor
 - Faction position: Man's Promise survivor bloc, stance unresolved
 - Practical role: Rigger / physically capable sailor
-- Immediate relevance: Possible named survivor near Sho's current guilt and mutiny thread
+- Immediate relevance: Named survivor near Sho's current guilt and mutiny thread
 
 ## Relationships
 
@@ -65,7 +68,7 @@ He may matter if Sho's attempts to make amends with Man's Promise survivors invo
 
 ### Kahina Bukekayo
 
-Ebony is assumed to belong to the same Man's Promise survivor context as Kahina, but his relationship with her is unresolved.
+Ebony belongs to the same Man's Promise survivor context as Kahina, but his relationship with her is unresolved.
 
 ### Goyle Onórach
 
@@ -75,7 +78,7 @@ Goyle was formerly tied to the Man's Promise crew structure. Ebony's relationshi
 
 Ebony's stance toward Plugg and Scourge is unresolved.
 
-If he is a Man's Promise survivor, he may oppose them, submit for survival, or wait to see who can actually hold the ship.
+As a confirmed Man's Promise survivor, he may oppose them, submit for survival, or wait to see who can actually hold the ship.
 
 ## Campaign Function at Relaunch
 
@@ -83,12 +86,14 @@ Ebony can serve as a quiet, physically credible Man's Promise survivor whose opi
 
 He should not be treated as automatically friendly to the PCs merely because he is not part of the Wormwood hostile bloc.
 
+His rigger role may matter if the post-mutiny question becomes whether the remaining crew can actually sail the Man's Promise.
+
 ## Open Questions
 
 - What exact Sho note or log called him the "monk man"?
-- Is Ebony physically aboard the Man's Promise at the current relaunch point?
 - Did Ebony witness Sho's attempt to spare surrendering sailors during the boarding?
 - Did Ebony witness Rak or Harvus killing people Sho had promised safety?
 - Does Ebony support Kahina's life-for-life test?
 - Would Ebony support freeing Sho to oppose Plugg?
 - Can Ebony help sail or rig the Man's Promise after the mutiny?
+- Who are the other five tracked Man's Promise survivors?
