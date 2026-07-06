@@ -3,11 +3,17 @@
 ## Document Status
 
 - Type: GM timeline note / gap bridge
-- Maturity: GM-provided reconstruction with direct chat support for the revel
+- Maturity: GM-provided reconstruction with direct chat support for the revel and Erastus 27 correction
 - Scope: Erastus 26-27 after the Man's Promise battle
-- Source basis: User-provided chronology and recovered revel chat log
+- Source basis: User-provided chronology, recovered revel chat log, and Erastus 27 chat correction
 - Spoiler scope: Player-safe as historical reconstruction
 - Canon status: Canon-candidate / GM truth unless later logs refine details
+
+## Correction
+
+Earlier reconstruction said Harrigan threw the only surviving Rahadoumi officer overboard.
+
+Current correction: the **captain of the Man's Promise died during the battle**. On Erastus 27, Harrigan throws a **weakened captured sailor** overboard as the example victim. A Rahadoumi officer is still visible in the chat after that moment and spits in disgust.
 
 ## Timeline
 
@@ -27,11 +33,11 @@ Sho is also summoned to Harrigan.
 
 A few hours after the party winds down, the ship's bell is tolled and the captured sailors from the Man's Promise are led out.
 
-Fifteen survive the encounter.
+Fifteen captured sailors survive the encounter.
 
-Captain Harrigan immediately makes an example of the only surviving Rahadoumi officer by throwing her overboard to the sharks.
+Captain Harrigan immediately makes an example of a weakened captured sailor by throwing that sailor overboard to the sharks.
 
-Harrigan offers to let the other fourteen survive.
+Harrigan offers to let the other fourteen survive if they swear allegiance.
 
 He then assigns a skeleton crew under Mr. Plugg to take the Man's Promise, and the two ships separate.
 
@@ -40,14 +46,18 @@ He then assigns a skeleton crew under Mr. Plugg to take the Man's Promise, and t
 - The revel begins after the battle for the Man's Promise.
 - The party lasts through Erastus 26 and into the next morning.
 - No work takes place during the party.
-- The prisoner muster and execution belong after the revel winds down.
-- The survivor math remains: 15 total survivors after the Man's Promise battle; 1 surviving Rahadoumi officer executed by Harrigan; 14 non-officer survivors remain.
+- The prisoner muster and example execution belong after the revel winds down.
+- The Man's Promise captain died during the battle, not in the post-battle prisoner muster.
+- The Erastus 27 example victim is a weakened captured sailor.
+- Survivor math: 15 captured survivors after the battle; 1 weakened sailor executed by Harrigan; 14 captured survivors remain.
+- The Rahadoumi officer visible in the Erastus 27 chat remains unresolved rather than automatically executed.
 - Plugg receives command of the prize crew after Harrigan's example-making punishment.
 
 ## Open Checks
 
 - Did the prisoner muster happen at dawn of Erastus 27 exactly, or at dawn after a 36-hour revel that may require additional calendar reconciliation?
-- Is the executed officer the same officer Sho tried to spare / duel during the boarding?
-- Which fourteen non-officer survivors remained after Harrigan's execution?
+- Who exactly was the weakened captured sailor Harrigan threw overboard?
+- Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
+- Which fourteen captured survivors remained after Harrigan's execution?
 - Which named survivors are visibly selected for Plugg's skeleton crew in the handoff scene?
 - How public was Sho's team reward and Harrigan's protection order?
