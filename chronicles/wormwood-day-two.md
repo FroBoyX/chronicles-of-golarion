@@ -4,8 +4,8 @@
 
 - Type: Day-by-day narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, Rak/Grok brew scene, and Bloody Hour consequence
-- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Tilly/Mirei work chat extract, Maheem/Harvus rigging chat extract, Sho/Grok item chat extract, Rak/Grok brew chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
+- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, Mirei's first recovered performance, Rak/Grok brew scene, and Bloody Hour consequence
+- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Tilly/Mirei work chat extract, Maheem/Harvus rigging chat extract, Sho/Grok item chat extract, Mirei/Badger performance chat extract, Rak/Grok brew chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -243,9 +243,47 @@ For Aretta especially, the punishment mattered.
 
 She had been beaten, distracted, rendered unconscious, and then punished for the failure. That was not the end of the conflict. It was the beginning of her revenge thread.
 
+## Mirei's First Recovered Performance
+
+That night, likely after the day's labor and near dinner, **Mirei** performed for the nearby crew.
+
+It is currently the first recovered performance after Sandara returned Mirei's harp. It may or may not have been the first performance in absolute chronology.
+
+**Harvus** reacted without restraint.
+
+> "Mirei... you're so talented"
+
+**Rak** praised her in his own language.
+
+> "Nice shredding brah"
+
+**Badger Medlar**, tired from the work, also noticed.
+
+> "Nice perfomances by the way... where did you learn?"
+
+Mirei answered that music had been with her for as long as she could remember.
+
+> "Been kind of picking it up my whole life."
+
+She liked many types of music, but the harp remained her favorite.
+
+Mirei noticed Badger's exhaustion and asked how long she had been with the crew.
+
+Badger answered from the perspective of someone who had normalized years of loss.
+
+> "Just getting a little old child. I'll be alright. I've known this life for awhile for a half-elf. I don't actually remember how long since they sank the ship I was on."
+
+Mirei recognized the roughness of it, but Badger answered simply.
+
+> "Just the life."
+
+Mirei thanked Badger for liking the performances and noted that it sounded like dinner time.
+
+The scene matters because Mirei's music became visible social currency almost immediately. Harvus and Rak supported her openly, while Badger's compliment gave Mirei a connection to an older lower-crew sailor who had already learned to treat shipwreck and loss as ordinary parts of the life.
+
 ## Rak and Grok Brew
 
-That night, **Rak Wraithraiser** returned to **Cut-Throat Grok**.
+Later that night, **Rak Wraithraiser** returned to **Cut-Throat Grok**.
 
 Grok greeted him with the sort of smile that may not have been much of a smile at all.
 
@@ -271,7 +309,7 @@ Grok grinned.
 
 > "Lets see what you can brew!"
 
-The current reconstruction presumes that Grok furnished both Rak's alchemy kit and ingredients for brewing. This is the recovered beginning of their friendship: Rak offered Grok something concrete that she valued, and Grok opened the way for him to prove it.
+The current reconstruction presumes that Grok furnished both Rak's alchemy kit and ingredients for brewing. This is the first recovered explicit friendship-development beat between them, not necessarily their first contact. Rak offered Grok something concrete that she valued, and Grok opened the way for him to prove it.
 
 ## Character Beats
 
@@ -291,7 +329,17 @@ Mirei distracted Aretta during the fight.
 
 During work, she spoke with Tilly to make the labor pass faster. She told Tilly that she had been admiring the water when she was struck on the back of the head and taken.
 
-This is an early example of Mirei acting in support of the new hands during direct shipboard danger, then trying to build survivable social contact through conversation.
+That night, Mirei performed for the nearby crew. Harvus and Rak praised her openly, and Badger Medlar complimented her performances and asked where she learned.
+
+This is an early example of Mirei acting in support of the new hands during direct shipboard danger, trying to build survivable social contact through conversation, and using performance as connection and social value aboard the Wormwood.
+
+### Badger Medlar
+
+Badger complimented Mirei's performances and asked where Mirei learned.
+
+She was visibly tired from work and described herself as getting old. She told Mirei that she had known this life for a while and did not remember how long it had been since the ship she was on was sunk.
+
+Her "Just the life" response establishes an older lower-crew perspective: hardship is not remarkable because it is already normalized.
 
 ### Tilly Brackett
 
@@ -309,6 +357,8 @@ He also gave the theatrical explanation to Scourge on deck and answered Scourge'
 
 During work in the rigging, Maheem told Harvus that Scourge had said Harvus needed to be "tamed" after he was dragged aboard and dumped.
 
+That night, Harvus openly praised Mirei's talent after her performance.
+
 The altercation gives Harvus an early role as direct physical resistance against Scourge-aligned crew. Maheem's later words sharpen Harvus' Scourge vendetta by making the wing injury and humiliation feel deliberate rather than incidental.
 
 ### Maheem
@@ -323,7 +373,7 @@ Rak was present in the aftermath and spoke to Scourge with characteristic casual
 
 His "Sup brah" and "As you command, brah" responses show Rak refusing to adopt the fear-language expected aboard the Wormwood.
 
-That night, Rak returned to Grok, apologized for missing her earlier, and offered to brew alcohol using ingredients and his kit. Grok appears to have furnished what he needed. This is the first recovered seed of Rak and Grok's friendship.
+Rak praised Mirei's performance, then later returned to Grok, apologized for missing her earlier, and offered to brew alcohol using ingredients and his kit. Grok appears to have furnished what he needed. This is the first recovered explicit friendship-development beat between Rak and Grok, not necessarily their first contact.
 
 ### Conchobhar Turlach Shortstone
 
@@ -343,7 +393,7 @@ Grok had already heard about the morning fight by the time Sho came to her.
 
 She considered Sho potentially useful but refused to trade property for uncertain future services. This establishes Grok as pragmatic rather than charitable.
 
-That night, Grok opened the possibility of shop access and brewing with Rak. Her interest in unusual drink becomes the first recovered path into her friendship with him.
+That night, Grok opened the possibility of shop access and brewing with Rak. Her interest in unusual drink becomes the first recovered explicit path into her friendship with him.
 
 ### Aretta Bansion
 
@@ -381,6 +431,8 @@ Jape is part of the harassment group and is punished with the others.
 - The exact item or items Sho was trying to recover from Grok in this conversation.
 - Whether Sho had made an earlier rude comment to Grok and, if so, what it was.
 - Whether Sho faced consequences for slacking off or exploring to reach Grok.
+- Whether this was Mirei's first actual performance after the harp return or only the first recovered performance.
+- Whether Grok, Sho, or any officer reacted to Mirei's performance.
 - What Rak brewed for Grok, and whether the brew succeeded mechanically.
 - Whether Grok returned Rak's alchemy kit permanently, loaned it, or supervised its use.
 - Whether there were additional Day 2 daytime social scenes before Bloody Hour.
@@ -398,6 +450,8 @@ Jape is part of the harassment group and is punished with the others.
 - Confirm whether Maheem's admission changed Harvus' attitude toward him.
 - Confirm what specific property Sho was trying to recover from Grok.
 - Confirm whether Grok later accepted Sho's services or required a different trade.
+- Confirm whether the performance improved Badger's attitude toward Mirei.
+- Confirm whether this performance happened before or after Bloody Hour.
 - Confirm what Rak brewed and whether anyone else witnessed it.
 - Confirm how quickly the Rak/Grok friendship became flirtation or intimacy.
 
@@ -412,7 +466,9 @@ Jape is part of the harassment group and is punished with the others.
 - Maheem confirmed that Scourge framed Harvus as needing to be "tamed," sharpening Harvus' Scourge vendetta.
 - Grok learned quickly about the fight and recognized Sho's potential usefulness.
 - Sho's early attempt to bargain with Grok failed because she had no concrete value to trade.
-- Rak's ability to brew alcohol became the first recovered seed of his friendship with Grok.
+- Mirei's performance became immediate social currency aboard the Wormwood.
+- Badger complimented Mirei's performances and revealed an older lower-crew perspective on shipboard loss.
+- Rak's ability to brew alcohol became the first recovered explicit friendship-development beat with Grok.
 - Aretta, Fipps, Jape, and Syl were publicly punished for the failed attempt.
 - Aretta's later revenge motive begins here.
 - The later bilges ambush against Sho should be treated as connected to Day 2 humiliation, not as an isolated incident.
