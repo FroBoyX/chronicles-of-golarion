@@ -3,9 +3,9 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, seeded with Erastus 16 reefclaw reward scene
+- Maturity: Draft, seeded with Erastus 16 reefclaw reward scene and expanded with Sho reward perspective
 - Scope: Wormwood captain, strategic antagonist, reward-and-terror authority model
-- Source basis: AP scaffold, recovered table evidence, current campaign reconstruction
+- Source basis: AP scaffold, recovered table evidence, current campaign reconstruction, and Sho player answers
 
 ## Overview
 
@@ -14,6 +14,8 @@ Captain Barnabas Harrigan is the captain of the Wormwood and the strategic antag
 He is cruel, powerful, and dangerous, but not random. He rewards competence and punishes weakness or defiance when it suits his authority.
 
 The Erastus 16 reefclaw dinner scene gives a direct recovered example of this: Harrigan rewards Rak for bringing him good food, even while Plugg and Scourge dislike Rak.
+
+The Man's Promise reward to Sho gives a second example: Harrigan can recognize useful conduct, protect a sailor temporarily from Plugg, and still remain morally dangerous.
 
 ## Identity
 
@@ -43,6 +45,18 @@ Harrigan also told Rak that doing right by him could bring money and infamy.
 
 This scene matters because it establishes Harrigan's reward logic on-screen. He can be openly approving of useful performance while remaining a dangerous captain whose approval does not make him safe.
 
+## Man's Promise Reward to Sho
+
+During the Man's Promise battle, Sho warned Harrigan when an attacker was about to strike him from behind.
+
+From Sho's own perspective, the warning was mostly instinct. She saw what was about to happen and warned him before thinking through the consequences. A refusal to allow a dishonorable murder may also have shaped the impulse.
+
+After the battle, Harrigan rewarded Sho with gold, protection from Plugg, and a pendant / captain's amulet. This did not make Sho feel safe or proud. It left her confused and uncomfortable.
+
+Sho did not fully grasp how much her own life was on the line in the battle. She later felt discomfort that her life had been spared or improved at the expense of innocent Man's Promise lives.
+
+The pendant / captain's amulet remains emotionally unresolved for her. She does not want to get rid of it, but she also does not know how to feel about it.
+
 ## Relationships
 
 ### Mr. Plugg
@@ -54,6 +68,16 @@ Plugg's later ambition aboard the Man's Promise should be measured against Harri
 ### Master Scourge
 
 Scourge operates under the protection of Harrigan's shipboard order, even when Harrigan is not personally present.
+
+### Sho Astor
+
+Sho distinguishes Harrigan from Plugg and Scourge.
+
+Plugg and Scourge need to be taken out as soon as possible in Sho's mind. Harrigan may eventually need to be taken down for his actions, but she does not place him in the same immediate category.
+
+Sho's warning during the Man's Promise battle should not be treated as loyalty to Harrigan. It was instinct, possibly mixed with refusal to allow a dishonorable killing.
+
+Harrigan's reward creates moral confusion for Sho because it ties recognition and survival to a battle where innocents died.
 
 ### Rak Wraithraiser
 
@@ -85,6 +109,8 @@ Harrigan's function is to show the PCs that pirate command can be effective with
 
 He is a model of power that can reward useful behavior and still be part of the system the PCs may ultimately reject.
 
+For Sho specifically, Harrigan creates a moral category separate from Plugg and Scourge: a captain whose actions may require eventual accountability, but whose competence, recognition, and reward logic make him harder for her to read than officers who simply delight in malice.
+
 ## Open Questions
 
 - Did Grok immediately return Rak's equipment after Harrigan's order?
@@ -92,3 +118,7 @@ He is a model of power that can reward useful behavior and still be part of the 
 - Did Harrigan remember Rak meaningfully after this scene?
 - Did Harrigan's reward influence Plugg or Scourge's later treatment of Rak?
 - How much did Harrigan understand about Plugg's ambition before the Man's Promise split?
+- Which exact moment made Sho realize Harrigan's reward meant her life had been spared?
+- What does Sho currently do with the pendant / captain's amulet?
+- What would make Sho decide Harrigan must be taken down later?
+- What line separates Harrigan's eventual accountability from Plugg and Scourge's immediate removal in Sho's mind?
