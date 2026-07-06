@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Seeded, expanded with Erastus 16 crab reef galley handoff
+- Maturity: Seeded, expanded with Erastus 16 crab reef galley handoff and Erastus 29 cook-cabin offer
 - Scope: Book One major ally and ship's cook
 - Source basis: Recovered Adventure Path text, GM-provided campaign notes, campaign timeline, and player interaction context
 
@@ -131,6 +131,24 @@ Away from the sour atmosphere of the Wormwood, Kroop's spirits appear capable of
 
 He also retained or secured a small barrel of rum from Cut-Throat Grok before leaving the Wormwood.
 
+### Erastus 29 Cook-Cabin Offer
+
+On Erastus 29, Rak brought in turtles for the galley. Kroop greeted him with approval:
+
+> "There you are! You done good."
+
+Kroop then told Rak there was a second hammock in the cook's cabin. He offered it to Rak, saying it provided more privacy and that the walls did not listen.
+
+He took a swig of rum, offered the bottle, and said he wanted to talk to Rak about something that night.
+
+Kroop told Rak he could put his things in there now and that Kroop would finish cooking.
+
+This scene is important because Kroop is quietly creating a more private, safer space for Rak aboard the Man's Promise. It suggests deliberate trust and possibly preparation for a sensitive conversation about Plugg, the course, or mutiny.
+
+The same morning, Kroop handed Mirei Plugg's food and told her the captain wanted her to bring it. When Mirei's face dropped, Kroop said he assumed it was worth whatever Plugg had offered her and told her to go.
+
+This shows Kroop was aware of the danger or compromise around Mirei's new position, even if he did not intervene directly.
+
 ## Relationships
 
 ### Rak Wraithraiser
@@ -143,6 +161,8 @@ Kroop may protect Rak from mistakes or punishments when he can.
 
 On Erastus 16, Kroop confirmed Rak as his assistant and as the one who caught the big reefclaw / dinner source.
 
+On Erastus 29, Kroop offered Rak the second hammock in the cook's cabin and said the walls there did not listen. He wanted to talk to Rak that night.
+
 ### Cut-Throat Grok
 
 Grok is Kroop's best friend aboard the Wormwood.
@@ -154,6 +174,12 @@ She encourages his taste for rum, but their friendship is genuine and important.
 Kroop and Sandara both function as potential voices of reason and mutiny-sympathetic allies.
 
 Both understand that open action too early can get people killed.
+
+### Mirei
+
+Kroop saw enough of Mirei's position around Plugg to make a pointed remark when sending her with Plugg's food on Erastus 29.
+
+He assumed whatever Plugg had offered her was worth it, suggesting he understood the exchange as dangerous or compromised.
 
 ### Captain Harrigan
 
@@ -222,3 +248,5 @@ Kroop sometimes claims the bird talks to him.
 - How sober is Kroop at the exact relaunch moment?
 - What supplies, rum, and food remain under his practical influence?
 - Does Black-Hearted Bezebel remain with him on the Man's Promise?
+- What did Kroop want to discuss with Rak on Erastus 29?
+- Did Rak move into the cook's cabin?
