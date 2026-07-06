@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log and Rak Foundry sheet evidence
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak Foundry sheet evidence, and Erastus 16 reefclaw reward
 - Scope: Book One continuity, current state, mechanics snapshot, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -19,7 +19,7 @@ This spelling needs GM/player confirmation before file paths are renamed.
 
 Rak Wraithraiser / Wraithriser is a nagaji PC with pirate legacy, alchemical competence, practical shipboard usefulness, humor, and a dangerous streak of violence.
 
-He begins as a press-ganged sailor and cook's mate, becomes tied to Kroop and Grok, saves allies during the Riptide Cove failure, and at the current relaunch point is guiding a hostile or semi-hostile supply party across Bonewrack Isle.
+He begins as a press-ganged sailor and cook's mate, becomes tied to Kroop and Grok, earns Harrigan's attention by catching reefclaw for dinner, saves allies during the Riptide Cove failure, and at the current relaunch point is guiding a hostile or semi-hostile supply party across Bonewrack Isle.
 
 Rak is not simply comic relief. His choices repeatedly affect survival, loyalty, and moral tension.
 
@@ -158,6 +158,26 @@ Grok knew Rak was being transferred to the Man's Promise, and they shared a sent
 This relationship gives Rak a continuing emotional and practical tie back to the Wormwood.
 
 Rak's player sheet lists Grok as a helpful NPC.
+
+### Erastus 16 Crab Reef and Harrigan Reward
+
+On Erastus 16, Rak was assigned to the crab reef task with Harvus, Sho, Mirei, and Badger.
+
+The group encountered reefclaws or equivalent dangerous reef creatures. Rak claimed afterward that he one-shot the big one.
+
+Kroop confirmed Rak as the one who caught the big reefclaw / dinner source when Caulky Tarroon came looking for the successful hunter.
+
+Caulky brought Rak before Captain Harrigan as the source of dinner.
+
+Harrigan rewarded Rak directly:
+
+> "You've done well, I've instructed Grok to give you anything we took from you from our stores... remember, I smile on those who go above and beyond!"
+
+Harrigan also told Rak that if he did right by him, Harrigan would treat him right, and that there was money and infamy in it.
+
+This is the current best explanation for Rak recovering his confiscated equipment from Grok / ship stores. Confirm exactly which items were returned.
+
+Plugg dismissed Rak afterward and warned him not to get caught throwing out rum. Scourge openly wanted the chance to catch him.
 
 ## Man's Promise Battle
 
@@ -298,6 +318,12 @@ Do not assume every listed item is currently possessed without GM confirmation, 
 - Spear
 - Studded Leather Armor
 
+### Erastus 16 Equipment Return
+
+After Rak caught the big reefclaw for Harrigan's supper, Harrigan instructed Grok to give Rak anything taken from him from ship stores.
+
+This likely explains how Rak recovered at least some of his confiscated equipment. The exact returned inventory needs confirmation.
+
 ### Pages of Notes
 
 The sheet includes **Pages of Notes** with the description: "Got from hut in stronghold on Bonewreck Island."
@@ -326,6 +352,8 @@ Through Kroop, Rak gains access to shipboard survival knowledge and possible pos
 
 Rak's player sheet lists Ambrose as helpful.
 
+Kroop confirmed Rak as the one who caught the big reefclaw on Erastus 16.
+
 ### Cut-Throat Grok
 
 Grok is Rak's Wormwood relationship and one of his strongest unresolved ties.
@@ -333,6 +361,8 @@ Grok is Rak's Wormwood relationship and one of his strongest unresolved ties.
 Their sentimental goodbye may become darker if Grok's later published-path fate is used.
 
 Rak's player sheet lists Grok as helpful.
+
+Harrigan instructed Grok to return anything taken from Rak from ship stores after the Erastus 16 reefclaw reward.
 
 ### Sho Astor
 
@@ -377,6 +407,26 @@ This may matter when Tilly returns from Riptide Cove with Harvus.
 Rak's player sheet lists Badger as helpful.
 
 This is stronger than the current uncertain Badger notes and should be reconciled with the influence tracker.
+
+Badger was part of the Erastus 16 reef task with Rak.
+
+### Barnabas Harrigan
+
+Harrigan directly rewarded Rak for catching the big reefclaw / source of dinner on Erastus 16.
+
+This does not make Harrigan safe, but it gives Rak a specific example of Harrigan rewarding competence and above-and-beyond usefulness.
+
+### Caulky Tarroon
+
+Caulky brought Rak to Harrigan after the reefclaw dinner was prepared. She found Rak difficult and tried to warn him to keep his perkiness down.
+
+### Riaris Krine
+
+Riaris approved of Rak catching good food and did not seem troubled by Rak's strange delivery.
+
+### Peppery Longfarthing
+
+Peppery observed that Rak was a strange creature during the Harrigan dinner scene.
 
 ### Jack Scrimshaw
 
@@ -465,6 +515,7 @@ For future 5e or system conversion, preserve:
 ## Open Threads
 
 - Is the canonical spelling Wraithriser or Wraithraiser?
+- Which items did Rak actually recover after Harrigan ordered Grok to return anything taken from him?
 - Does Rak know or care that his spear killed the Whale?
 - Is the +1 returning spear lost forever?
 - Does Rak want repayment, apology, story credit, or all three?
