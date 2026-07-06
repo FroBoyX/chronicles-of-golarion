@@ -5,7 +5,7 @@
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
 - Scope: Early Wormwood deck tests and first job assignments
-- Source basis: GM prose entry supplied during reconstruction, existing character dossiers, AP scaffold, and GM ruling that five people were gang-pressed
+- Source basis: GM prose entry supplied during reconstruction, existing character dossiers, AP scaffold, GM ruling that five people were gang-pressed, and GM log note that Crimson volunteered to join the crew
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -15,7 +15,7 @@ The new hands did not have long to understand where they were.
 
 Pain, missing possessions, and the roll of the sea had already made the point. The Wormwood was not asking for permission. It had them, and that was enough.
 
-After the first test, the five newest members of the crew were brought back onto the deck and lined up again for **Mr. Plugg**.
+After the first test, the five press-ganged newest members of the crew were brought back onto the deck and lined up again for **Mr. Plugg**.
 
 The next test was simpler.
 
@@ -63,9 +63,12 @@ The snake would report to **Mr. Kroop**.
 
 Rak Wraithraiser, who had come to Port Peril looking for a pirate crew and found one by force, was sent below to the galley.
 
+Separately, the GM log records **Crimson** as joining the Wormwood on Erastus 5 by volunteering. That makes Crimson part of the same broad crew-intake day, but not one of the five press-ganged new hands in this lineup unless later evidence places him there.
+
 ## What This Establishes
 
-- The canon number of gang-pressed new hands is five: Harvus, Mirei, Sho, Rak, and Conchobhar.
+- The canon number of press-ganged new hands is five: Harvus, Mirei, Sho, Rak, and Conchobhar.
+- Crimson is the sixth person associated with the Erastus 5 crew intake, but Crimson volunteered to join the crew rather than being press-ganged.
 - Plugg's job assignments were not neutral or rational, even when he disguised them as practical command decisions.
 - Harvus and Conchobhar had already been marked as riggers by the prior test.
 - Rak became cook's mate because Plugg wanted a cook's mate and preferred not to deal with the nagaji directly.
@@ -81,3 +84,4 @@ Rak Wraithraiser, who had come to Port Peril looking for a pirate crew and found
 - Confirm the exact first test immediately before this scene.
 - Confirm which PCs were assigned as swabs in this reconstruction.
 - Confirm whether Plugg's naga-related discomfort was ever revealed in play or remains narrator-only characterization.
+- Confirm Crimson's first scene, shipboard duty, and whether he was present for any of Plugg's early tests.
