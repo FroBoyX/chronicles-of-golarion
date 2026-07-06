@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft, expanded from Harvus light timeline evidence and Day 3 dinner scene
+- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, and peridot necklace scene
 - Scope: Wormwood through Bonewrack rescue
 
 ## Summary
@@ -34,6 +34,26 @@ Sandara invited him to ask more later and checked whether resting the wing was h
 
 This is the first recovered extended Harvus/Sandara dinner conversation and establishes the courtly tone of Harvus' affection alongside Sandara's willingness to share more when not pressed.
 
+## Peridot Necklace Promise
+
+Sometime in the early Wormwood period, currently placed somewhere between Erastus 9 and Erastus 13, Harvus gave Sandara a peridot necklace.
+
+Harvus presented it as a token of gratitude for Sandara's aid. He knelt, addressed her as milady, and asked to kiss her.
+
+> "Being in your mere presence intoxicates me with bliss. If you will vouchsafe my request, I would drink of your lips so deeply."
+
+Sandara chuckled, accepted the necklace into her keeping, and paused before offering a deal.
+
+> "If we ever get of this wreck, I'll personally thank you for your gallantry. For now though, let's get some rest."
+
+Harvus accepted the deferral.
+
+> "The torch my princess, shall be held."
+
+This scene matters because it is a romantic escalation without consummation. Sandara does not reject Harvus, but she sets the boundary around survival: get off the Wormwood first, then thanks can become personal.
+
+The peridot necklace may be the same necklace Harvus' light timeline says he recovered with his ring and Rosie's fiddle on note Day 7. If so, the best current date range narrows toward Erastus 11-13 rather than the full Erastus 9-13 range.
+
 ## Comfort and Care
 
 After Rosie's loss, Harvus sought solace with Sandara.
@@ -51,6 +71,8 @@ After the Man's Promise boarding, Harvus spent time aiding Sandara's recovery.
 Harvus' notes later record a kiss or smooch with Sandara during the Man's Promise phase.
 
 This confirms the relationship had moved into explicitly romantic territory before Bonewrack.
+
+The peridot necklace promise helps bridge the early courtly desire and the later Man's Promise kiss: Sandara deferred the kiss until they survived the Wormwood, rather than shutting the door.
 
 ## Bonewrack
 
@@ -84,17 +106,23 @@ Sandara's survival is therefore one of the clearest reasons Harvus can become le
 
 The Day 3 dinner scene also shows that Harvus' affection was not only dramatic rescue energy. It began with patient curiosity, restraint around Sandara's boundaries, and concern for her story.
 
+The peridot necklace scene shows the same pattern under stronger romantic pressure: Harvus makes an intense offer, Sandara sets a boundary, and Harvus accepts the boundary.
+
 ## Current State
 
 - Sandara is alive, rescued, and returning with Harvus.
 - Harvus has just risked death to save her.
 - Sandara likely still has Besmara's tricorne.
 - Harvus may still have or may need to return Sandara's holy symbol.
+- Sandara may still have the peridot necklace Harvus gave her, pending confirmation.
 - The relationship's next scene occurs under immediate political danger, not peace.
 
 ## Open Questions
 
 - Did Harvus return Sandara's holy symbol after the rescue?
+- Did Sandara keep the peridot necklace through the Wormwood, Man's Promise, and Bonewrack sequences?
+- Is the peridot necklace the same necklace Harvus recovered with his ring and Rosie's fiddle?
+- Was the peridot scene before or after Harvus drank heavily with Sandara?
 - How conscious was Sandara during the actual Whale fight and ascent?
 - Does Sandara understand how close Harvus came to death?
 - Does Sandara want the rescue story told publicly?
