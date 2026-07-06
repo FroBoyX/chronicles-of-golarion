@@ -3,13 +3,13 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, and keelhaul-charge clarification
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
 ## Overview
 
-Sho Astor is a disciplined, defiant PC whose Book One arc centers on restraint, moral responsibility, and refusal to become the sort of pirate the Wormwood expects.
+Sho Astor is a disciplined, stubborn, defiant PC whose Book One arc centers on restraint, moral responsibility, self-control, and refusal to accept the Wormwood's cruelty as normal.
 
 At the current relaunch point, Sho is separated from the island party and still believed locked in the hot-box aboard the Man's Promise.
 
@@ -117,6 +117,20 @@ A noblewoman named Agatha Dreamriver became important to Sho after intervening w
 
 Sho eventually left to explore and pursue knowledge, with Magnimar and Agatha remaining future emotional anchors.
 
+## Disguise and Presentation
+
+Sho's male presentation was a mixture of safety, monastery habit, and personal boundary.
+
+Safety mattered because people tended to mess with her less, or exploit her lack of worldly knowledge less, when she presented as masculine.
+
+Monastery habit mattered because Sho's monastery used very gender-neutral clothing focused on function rather than gendered display.
+
+Agatha mattered because Sho did not want to dress in anything fancy for anyone other than Agatha when she saw her again.
+
+Sho would still try to maintain the presentation to preserve some sense of control. If directly confronted, however, she would likely admit who and what she is.
+
+No player character knew the truth at first. The player notes that the press-gang members who searched Sho's belongings may have figured it out, so select Wormwood crew may have known or suspected before the PCs did.
+
 ## Ancient Explorer / Ghol-Gan Hook
 
 The PCGen sheet preserves the **Ancient Explorer** campaign trait.
@@ -141,7 +155,29 @@ Sho repeatedly resisted the moral logic of the Wormwood.
 
 She challenged excess violence, objected to unnecessary killing, and drew attention from Plugg and Scourge.
 
+The Sho player clarified that this defiance was not calculated. Sho can tell herself she should be cautious, but when the crew acts as if cruelty is normal and justified, her blood boils and she cannot stop herself.
+
 By Erastus 22, Plugg had taken specific notice of Sho's defiance and began tracking who she interacted with.
+
+### Jakes Magpie and the First Warning
+
+Sho's reaction to Jakes Magpie's keelhauling was **righteous anger**.
+
+The Sho player describes Sho as very stubborn: she was pissed and would continue to lash out.
+
+Sho did not regret speaking up. From her perspective, someone had to say something, and she was going to be the person who did.
+
+Sho does not blame herself for any consequences of speaking out. She blames the people who actually carried out the cruelty.
+
+This is an important early moral anchor. Sho's first open defiance is not strategy or self-image. It is the first clear sign that she cannot quietly accept normalized shipboard malice.
+
+### View of Plugg, Scourge, and Harrigan
+
+Sho sees Plugg and Scourge as scum who delight in malicious acts and need to be taken down.
+
+Harrigan initially seemed the same to her. Later Harrigan actions, including his rewards and recognition of competence, created a level of moral grey that confuses Sho.
+
+This does not make Harrigan safe or good in Sho's mind, but it complicates him in a way Plugg and Scourge do not share.
 
 ### Rum Ration Refusal
 
@@ -247,7 +283,7 @@ She also noted that she had things to discuss with:
 - Crimson
 - Ratline
 
-Crimson is not yet indexed in the archive and needs identification.
+The subject of those conversations remains unresolved.
 
 ## Boarding the Man's Promise
 
@@ -385,6 +421,12 @@ Harvus was in the Erastus 16 reef task group with Sho.
 
 Sho and Mirei shared survival under the Wormwood and Man's Promise.
 
+Mirei was the first recovered PC to detect that Sho's presentation was false.
+
+The Sho player confirmed that this created tension at first, but quickly turned to trust once Mirei proved she could and would keep the secret.
+
+Sho directly asked Mirei to keep the secret, and Mirei agreed.
+
 Sho does not yet know the full result of Mirei's confession at the current reconstruction point.
 
 Mirei was in the Erastus 16 reef task group with Sho.
@@ -397,7 +439,9 @@ Badger was added as the fifth member of the Erastus 16 reef task group.
 
 ### Captain Harrigan
 
-Sho has an odd respect for Harrigan, and Harrigan recognized her warning during the Man's Promise battle.
+Sho has an odd and confused respect for Harrigan after the Man's Promise battle.
+
+She first saw Harrigan as similar to Plugg and Scourge: cruel and implicated in the Wormwood's malice. His later actions, including reward, recognition, and a more complex command style, created a level of grey that confuses her.
 
 This does not make him safe or good, but it complicates her view of authority.
 
@@ -408,6 +452,8 @@ Sho has thought Peppery attractive in a commanding way and received warning or i
 ### Agatha Dreamriver
 
 Agatha remains a backstory emotional anchor and possible future objective.
+
+Sho's clothing and presentation boundaries partly revolve around Agatha: Sho does not want to dress in anything fancy for anyone other than Agatha when she sees her again.
 
 ### Ratline Rattsberger
 
@@ -421,7 +467,7 @@ Ratline's land-ho call interrupted Scourge's morning taunting of Sho on Erastus 
 
 Sho's notes say she had something to discuss with Crimson.
 
-Crimson is not yet identified in the archive.
+The subject is currently unresolved.
 
 ### Master Scourge
 
@@ -430,6 +476,14 @@ Scourge repeatedly targeted Sho for defiance.
 On Erastus 16, he taunted her while she was tied to the mast, placing his whip under her chin and openly enjoying the prior punishment.
 
 The Erastus 23 bilge setup and Erastus 24 hot-box / keelhaul trajectory likely occurred with Scourge's participation or enforcement, though exact direct orders still need recovered evidence.
+
+Sho sees Scourge as scum who delights in malicious cruelty and needs to be taken down.
+
+### Mr. Plugg
+
+Sho sees Plugg as scum who delights in malicious cruelty and needs to be taken down.
+
+Plugg's use of punishment, indirect violence, and authority makes him a clear moral enemy for Sho.
 
 ### Sandara Quinn
 
@@ -475,11 +529,13 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Which punishment left Sho tied to the mast before the Erastus 16 reef task?
 - Did that punishment expose or threaten Sho's disguise?
 - What spell or healing effect lifted the fog in Sho's head on Erastus 16?
+- Which press-gang members searched Sho's belongings and may have learned her disguise truth?
+- What exactly did Sho mean by admitting "who and what she is" if confronted?
+- When exactly did Sho ask Mirei to keep the secret?
 - What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 23 bilge fight?
 - Who ordered Sho released for the Erastus 25 battle and gave her the strike-team opportunity?
 - What was Sho's physical condition when released for the Erastus 25 battle?
 - What did Sho suspect about Giffer's body?
-- Who is Crimson?
 - What did Sho need to discuss with Crimson?
 - What did Sho need to discuss with Ratline?
 - How did Sho dispose of or avoid drinking her rum ration each night?
@@ -489,7 +545,7 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Does Sho still have the Rahadoumi captain's amulet?
 - What did Sho intend to do with the 1100 gp sack from Riaris?
 - What does Sho believe justice requires for the Man's Promise dead?
-- Does Sho still respect Harrigan after everything that followed?
+- Which Harrigan actions most contributed to Sho's confused grey view of him?
 - Does Sho prioritize escape, justice, or reconciliation in the hot-box scene?
 - Would Sho kill Plugg or Scourge if that were the price of proving repentance?
 - What would Sho do if Kahina demands action Sho considers dishonorable?
