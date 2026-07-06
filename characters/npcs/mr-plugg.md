@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Seeded
+- Maturity: Seeded, expanded with storm-window Mirei performance order
 - Scope: Book One primary antagonist
 - Source basis: Recovered Adventure Path text, GM-provided campaign facts, campaign timeline, player journals, and chat-log context
 
@@ -102,6 +102,10 @@ He assigned Harvus and Conchobhar as riggers, assigned Rak as cook's mate, and p
 
 He repeatedly targeted PCs and their allies through discipline, indirect violence, and manipulation.
 
+During the early Wormwood storm window, Mirei knocked on or approached Plugg's door to invite the captain / command to her performance that night. Plugg answered through the door with hostility, then ordered her below before the storm hit and told her to give a performance that would pacify the "land-lubber scum."
+
+This shows Plugg recognizing Mirei's performance as a tool for crew morale control before the later Man's Promise manipulation arc.
+
 ### Man's Promise Capture
 
 After the Wormwood captured the Man's Promise, Harrigan assigned Plugg to command the prize crew and sail the Man's Promise back toward Port Peril.
@@ -141,6 +145,8 @@ Plugg gives direction and protection. Scourge carries out discipline and feeds h
 ### Mirei
 
 Plugg treated Mirei as a prize and tried to turn her into an asset against the other PCs.
+
+Before that later pressure, he had already seen or used Mirei's performances as a way to pacify crew morale during a storm.
 
 He gave her a privileged but dangerous position and expected betrayal as proof of loyalty.
 
@@ -212,6 +218,9 @@ This should be used as cultural evidence for why the crew fears acting openly ag
 
 ## Open Questions
 
+- Was the storm-window performance order on Erastus 11, 12, or 13?
+- Was Harrigan the intended captain in Mirei's invitation, or was Plugg the practical command figure answering from behind the door?
+- Did Plugg attend or only order Mirei to perform below?
 - Does Plugg still believe he can restore control without open slaughter?
 - How much does he know about Sandara, Tilly, and Goyle being rescued?
 - How does he respond if Rak returns with Harvus and the rescued prisoners instead of supplies alone?
