@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, recovered boarding-map evidence, and corrected shipwide death-toll scope
+- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, recovered boarding-map evidence, corrected shipwide death-toll scope, and Erastus 29 course-change evidence
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -124,6 +124,28 @@ Below decks, Syl called for nightwatch and treated reluctant sailors as voluntee
 
 Goyle directly identified himself to Sho as former quartermaster of the Man's Promise and told her to follow his lead.
 
+## Erastus 29 Course Alarm
+
+On Erastus 29, Sandara stopped Harvus and asked what happened the previous night. Harvus first thought she meant night crew, but Sandara clarified that she meant the change of course.
+
+Sandara recognized that the Man's Promise was no longer headed in the right direction for Port Peril and warned Harvus to keep his eye out.
+
+That same morning, Tilly warned Mirei that some of the crew were worried Mr. Plugg might be taking the Man's Promise for himself. Tilly also knew from Sandara that the ship had changed course the previous night.
+
+Plugg's conduct later that morning strengthens the course-change evidence. When Mirei entered the locked captain's cabin to deliver food, Scourge opened the door and Plugg quickly folded a chart before ordering Mirei to bring the food over.
+
+This is the clearest recovered evidence that the course change had become visible to attentive crew before the storm / Bonewrack crisis fully exposed Plugg's intentions.
+
+## Erastus 29 Mirei Duties Escalation
+
+The same morning, Plugg added food-tasting to Mirei's duties. He ordered her to taste both dishes before he ate and then said this was now part of her duties.
+
+When Scourge called Mirei "wench," Mirei objected. Plugg stopped Scourge, appeared to defend Mirei's right to respect, then struck her and corrected the title to "Captain's wench," adding that she had not earned that right.
+
+Plugg then ordered Mirei to leave and return to sing in twenty minutes, warning her not to be late.
+
+This scene shows Plugg escalating from private possession and performance to service, testing, humiliation, and controlled access to his chart / command space.
+
 ## Campaign State
 
 ### Command Claim
@@ -135,6 +157,16 @@ Master Scourge acts as his first mate and enforcer.
 Slippery Syl Lonegan acts as boatswain under Plugg.
 
 Plugg's authority is real in the sense that he controls force, punishment, and shipboard assignments. It is not yet legitimate in the deeper sense of crew acceptance.
+
+### Course Change
+
+The Man's Promise is no longer headed toward Port Peril by Erastus 29.
+
+Sandara notices the course change and warns Harvus.
+
+Tilly knows some crew are worried Plugg may be taking the Man's Promise for himself.
+
+Plugg is seen quickly folding a chart in the locked captain's cabin when Mirei brings him food.
 
 ### Damage and Repair
 
@@ -256,6 +288,8 @@ The Man's Promise captain was killed here during the boarding. Blood remained sp
 
 Mirei's first-night hammock is placed in or near this authority space after Plugg's coercive offer.
 
+On Erastus 29, Plugg quickly folded a chart here when Mirei entered with food, making this a key course-change evidence location.
+
 Owlbear may be chained or stationed as a guard depending on exact current configuration.
 
 ### Cook's Cabin and Galley
@@ -263,6 +297,8 @@ Owlbear may be chained or stationed as a guard depending on exact current config
 Kroop's domain.
 
 Important for private conversation, food, morale, and practical crew survival.
+
+On Erastus 29, Kroop offered Rak the second hammock in the cook's cabin, saying it offered more privacy and that the walls did not listen.
 
 ### Crew Berths
 
@@ -300,6 +336,12 @@ The ship has evidence of a prior name beneath Man's Promise: **the Motley**.
 
 This has not yet become central in play but remains a future identity hook.
 
+### Mirei's Harp
+
+Mirei's harp went missing before the Man's Promise split or before her first Plugg performance.
+
+On Erastus 29, Mirei asked Tilly to watch for it, hoping someone aboard the Man's Promise had taken it and that it could be recovered.
+
 ## Immediate Relaunch Pressures
 
 - Sho is imprisoned.
@@ -312,6 +354,7 @@ This has not yet become central in play but remains a future identity hook.
 - Former Man's Promise survivors have reason to hate both Plugg's tyranny and the PCs' role in the original boarding.
 - Mirei's prior placement in Plugg's cabin makes her both witness and target within Plugg's command space.
 - Kahina's death-toll accusation is accurate enough to treat as real survivor truth; the final exact count depends on the canon crew complement.
+- The Erastus 29 course-change warning means some crew already suspected Plugg before Bonewrack made his betrayal obvious.
 
 ## Possible Outcomes
 
@@ -332,3 +375,7 @@ Possible states include:
 - Canonize the starting crew count of the Man's Promise so the final death toll can be calculated.
 - Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map cabin death.
 - Recover Mirei's direct observation of the blood in the captain's cabin, if available.
+- Confirm whether the Erastus 29 date is fully locked.
+- Confirm whether Mirei saw enough of Plugg's chart to infer the course change.
+- Confirm what Kroop wanted to discuss with Rak that night.
+- Confirm who took Mirei's harp and whether it is still aboard the Man's Promise.
