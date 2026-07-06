@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Draft, expanded with Arodus 5 split-scene evidence and Ebony Saable survivor confirmation
+- Maturity: Draft, expanded with Arodus 5 split-scene evidence and confirmed Man's Promise survivor set
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 
 ## Purpose
@@ -14,7 +14,7 @@ It should be updated when player confirmation resolves open reconstruction issue
 
 ## Date
 
-Arodus 5, 4691 AR.
+Arodus 5, 4712 AR.
 
 Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 
@@ -26,7 +26,7 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 | Mirei | PC, alive | Accompanied Harvus; confessed she was tasked with killing the PCs but did not. |
 | Sandara Quinn | NPC, alive | Rescued; took the worst of captivity; likely still has Besmara's tricorne, pending player confirmation. |
 | Tilly Brackett | NPC, alive | Rescued; weak but walking; says Goyle helped her through the last day. |
-| Goyle Onórach | NPC, alive | Rescued; casts lot with Harvus' group; warns Plugg/Scourge planned an ambush. |
+| Goyle Onórach | NPC, alive / tracked Man's Promise survivor | Rescued; casts lot with Harvus' group; warns Plugg/Scourge planned an ambush. One of the six tracked Man's Promise survivors. |
 
 ## Bonewrack Isle — Moving Supply Party
 
@@ -48,13 +48,20 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 | Character | Status | Notes |
 |---|---|---|
 | Sho Astor | PC, alive | Still believed locked in the hot-box. Accepted Kahina's life-for-life test. |
-| Kahina Bukekayo | NPC, alive | Man's Promise survivor; issued Sho a life-for-life test: their lives or Sho's. |
+| Kahina Bukekayo | NPC, alive / tracked Man's Promise survivor | Rigger; issued Sho a life-for-life test: their lives or Sho's. One of the six tracked Man's Promise survivors. |
 
-## Man's Promise — Confirmed Survivor Bloc
+## Man's Promise — Tracked Survivor Bloc
 
-| Character | Status | Notes |
-|---|---|---|
-| Ebony Saable | NPC, alive | Confirmed as one of the six tracked Man's Promise survivors; rigger; identified as Sho's referenced "monk man." |
+The six tracked Man's Promise survivors are fixed as:
+
+| Character | Role | Status | Notes |
+|---|---|---|---|
+| Dahrehn Numus | Swab | Alive / tracked survivor | Previously wealthy trader who had been on the Man's Promise. Exact physical position at cold open needs confirmation. |
+| Ebony Saable | Rigger | Alive / tracked survivor | Identified as Sho's referenced "monk man"; short, dark, bald, leanly muscled, mostly silent. Exact physical position needs confirmation. |
+| Goyle Onórach | Swab | Alive / tracked survivor | Currently off-ship with Harvus, Mirei, Sandara, and Tilly after escaping Riptide Cove. |
+| Kahina Bukekayo | Rigger | Alive / tracked survivor | A tall slender warrior; aboard the Man's Promise and currently testing Sho. |
+| Merchiel V'giatore | Rigger | Alive / tracked survivor | Last known vessel: The Man's Promise. Last known position: rigger. Exact physical position needs confirmation. |
+| Nor'gal Daraa | Swab | Alive / tracked survivor | Soldier hell-bent on revenge for the loss of his brother. Exact physical position needs confirmation. |
 
 ## Man's Promise — Command Threat
 
@@ -73,7 +80,7 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 | Jack Scrimshaw | NPC, presumed alive | Status and location need confirmation. |
 | Ratline Rattsberger | NPC, presumed alive | Status and location need confirmation; Harvus influenced him. |
 | Barefoot Samms Toppin | NPC, presumed alive | Status and location need confirmation; Harvus influenced her to friendly. |
-| Badger Medlar | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood; warmed somewhat to Harvus. |
+| Badger Medlar | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood; warmed somewhat to Harvus and Mirei; Rak sheet lists helpful. |
 | Maheem | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood. |
 | Tam "Narwhal" Tate | NPC, presumed alive | Status and location need confirmation. |
 
@@ -99,7 +106,7 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 | Giffer Tibbs | Dead | Killed during Man's Promise boarding sequence. |
 | Jakes Magpie | Dead | Keelhauled aboard Wormwood. |
 | Harmak Gruft | Dead | Body in cage on Wormwood. |
-| Kor'al Daraa | Dead | Man's Promise sailor killed during boarding; brother Nor'gal may remain a thread. |
+| Kor'al Daraa | Dead | Man's Promise sailor killed during boarding; brother Nor'gal is one of the six tracked survivors. Spelling may reconcile with Cor'Wal. |
 
 ## Non-Humanoid / Monster State
 
@@ -114,6 +121,6 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 - Is Sho visibly on deck in the hot-box, or covered/guarded in a way that changes approach options?
 - Which Wormwood NPCs are definitively aboard the Man's Promise?
 - Where is Owlbear physically at the cold open?
-- Name the other five tracked Man's Promise survivors alongside Ebony Saable.
-- What is Nor'gal Daraa's current status?
+- Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard the Man's Promise at the cold open?
+- What is each tracked survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle?
 - Does the ship actually reach Coconut Beach before or after the fork collision resolves?
