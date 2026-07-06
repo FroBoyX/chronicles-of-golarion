@@ -4,8 +4,8 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Post-Man's Promise revel, Sho's reward, Mirei defense, Sandara recovery, prisoner muster, Harrigan's execution, and Man's Promise prize-crew split
-- Source basis: Direct Erastus 26 revel chat excerpts, GM timeline note, survivor-set correction
+- Scope: Post-Man's Promise revel, Sho's reward, Mirei defense, Sandara recovery, prisoner muster, Harrigan's example execution, and Man's Promise prize-crew split
+- Source basis: Direct Erastus 26 revel chat excerpts, Erastus 27 chat correction, GM timeline note, survivor-set correction
 - Spoiler scope: Player-safe as historical reconstruction
 - Canon status: Becomes canon after GM/player sign-off and later log reconciliation
 
@@ -15,7 +15,7 @@
 
 ## Source Note
 
-The direct chat supports the revel, Sho's reward, the confrontation around Mirei, Harvus watching over Sandara, and the party winding down. The prisoner muster and ship split come from GM timeline summary rather than direct chat in this chunk.
+The direct chat supports the revel, Sho's reward, the confrontation around Mirei, Harvus watching over Sandara, and the party winding down. The Erastus 27 chat clarifies that the Man's Promise captain died during the battle and that Harrigan's post-battle example victim was a weakened captured sailor, not the captain or a confirmed officer.
 
 ## Erastus 26 — The Revel Begins
 
@@ -127,9 +127,15 @@ A few hours after it finally wound down, the ship's bell sounded and called all 
 
 The captured sailors from the Man's Promise were led out.
 
-Fifteen had survived the encounter. Harrigan made an example of the only surviving Rahadoumi officer by throwing her overboard to the sharks.
+Fifteen captured sailors had survived the encounter.
 
-He allowed the other fourteen to live.
+The captain of the Man's Promise had already died during the battle.
+
+Harrigan made an example of a weakened captured sailor by throwing that sailor overboard to the sharks.
+
+A Rahadoumi officer was still present in the scene afterward and spat in disgust. That officer's identity and later fate remain unresolved.
+
+Harrigan allowed the other fourteen captured survivors to live if they swore allegiance.
 
 Then he assigned a skeleton crew under Mr. Plugg to take the Man's Promise, and the two ships separated.
 
@@ -153,7 +159,10 @@ This is the formal start of the Man's Promise prize-crew crisis.
 - Sandara was unconscious for about thirty hours after the battle and woke with Harvus still attending her.
 - Harvus believes Giffer may have been lost in the fray.
 - The prisoner muster follows the revel.
-- Harrigan executes the only surviving Rahadoumi officer and leaves fourteen non-officer survivors alive.
+- The Man's Promise captain died during the battle.
+- Harrigan executes a weakened captured sailor as the Erastus 27 example victim.
+- Fourteen captured survivors remain after the example execution.
+- A Rahadoumi officer is visible after the execution; identity and fate unresolved.
 - Plugg receives the Man's Promise and the ships separate.
 
 ## Open Checks
@@ -163,6 +172,6 @@ This is the formal start of the Man's Promise prize-crew crisis.
 - Did Rak deliver Mirei safely to the hammocks without further incident?
 - Was the lost team member Riaris mentions definitely Giffer?
 - Is Harrigan's amulet the same captain's amulet from Sho's later notes?
-- Is the executed Rahadoumi officer the same officer Sho tried to spare during the boarding?
-- Does the 11 fresh bodies line reconcile cleanly with the 15 survivor / 14 non-officer survivor math?
+- Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
+- Does the 11 fresh bodies line reconcile cleanly with the 15 survivor / 14 survivor math?
 - Who exactly is selected into Plugg's skeleton crew in the split scene?
