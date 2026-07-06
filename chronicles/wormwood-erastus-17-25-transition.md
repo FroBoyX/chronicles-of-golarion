@@ -5,7 +5,7 @@
 - Type: Narrative reconstruction / gap bridge
 - Maturity: Draft / canon-candidate
 - Scope: Erastus 17 through Erastus 25, covering the gap between the reefclaw task and the battle for the Man's Promise
-- Source basis: GM-provided date summary; direct logs not currently available for Erastus 17-24
+- Source basis: GM-provided date summary and keelhaul-charge clarification; direct logs not currently available for Erastus 17-24
 - Spoiler scope: Player-safe as historical reconstruction
 - Canon status: Becomes canon after GM/player sign-off or later log reconciliation
 
@@ -71,17 +71,21 @@ This remains one of Sho's major moral burden points: Aretta died after a violent
 
 ### Erastus 24 — Hot-Box and Interrupted Keelhauling
 
-Sho was put in the hot-box and was to be keelhauled at Bloody Hour.
+Sho was put in the hot-box under the charge of killing Aretta.
+
+She was to be keelhauled at Bloody Hour.
 
 Late that afternoon, the Man's Promise was sighted.
 
-The ship shifted immediately into preparations for piracy, interrupting the punishment trajectory.
+The ship shifted immediately into preparations for piracy, interrupting the punishment before it could be carried out.
 
 ### Erastus 25 — Battle for the Man's Promise
 
 In the early morning, the Wormwood overtook the Man's Promise.
 
-All hands, including Sho, took part in a bloody and violent battle for control of the ship.
+Sho was let out because of her combat prowess and given the opportunity to lead a strike team in the battle.
+
+All hands took part in a bloody and violent battle for control of the ship.
 
 The battle marks the end of this gap bridge and the beginning of the next recovered log sequence.
 
@@ -92,16 +96,17 @@ The battle marks the end of this gap bridge and the beginning of the next recove
 - Plugg's attention to Sho becomes deliberate surveillance by Erastus 22.
 - Plugg is tracking not only Sho, but also people around defiance.
 - Aretta's death is placed on Erastus 23.
-- Sho's hot-box / planned keelhauling is placed on Erastus 24.
-- The Man's Promise sighting interrupts the keelhaul trajectory.
-- Sho is active in the Erastus 25 boarding battle despite the prior punishment threat.
+- Sho's Erastus 24 hot-box / planned keelhauling is the direct consequence of Aretta's death.
+- The Man's Promise sighting interrupts the keelhaul trajectory before punishment is carried out.
+- Sho is released for the Erastus 25 battle because her combat ability is useful.
+- Sho is given an opportunity to lead a strike team in the Man's Promise battle.
 
 ## Open Checks
 
 - Was Harvus' Riaris / Scourge lashing during the Erastus 19 boarding drills or another drill sequence?
 - What direct scenes, if any, survive from Erastus 17-24 in player notes rather than chat logs?
-- What was the exact public accusation against Sho before the Erastus 24 keelhaul sentence?
 - Did Plugg or Scourge explicitly order Aretta and Fipps to attack Sho, or was the order framed indirectly?
 - What was Fipps' condition after the Erastus 23 bilge fight?
 - Who witnessed Aretta's death or its aftermath?
-- How was Sho released or redeployed for the Erastus 25 battle?
+- Who specifically ordered Sho released and assigned her strike-team role on Erastus 25?
+- What was Sho's exact condition when released for battle?
