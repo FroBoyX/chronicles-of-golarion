@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft
+- Maturity: Draft, expanded with Rosie loss suspicion
 - Scope: Book One emotional antagonist and disciplinary threat
 - Source basis: Recovered Adventure Path material, GM-provided campaign facts, chat logs, and player journals
 
@@ -100,6 +100,14 @@ Scourge used goons and hostile crew to test, intimidate, or harm the PCs and the
 
 His hostility escalated as the PCs became more socially and physically dangerous.
 
+### Rosie Suspicion
+
+After Rosie's storm loss, Sandara told Harvus that Rosie had been new aboard the Wormwood but angered Scourge and Plugg quickly.
+
+Sandara said she was busy in the rigging during the storm, but Rosie's going over might have been intentional.
+
+This is an unresolved suspicion, not confirmed fact. It matters because it shows Sandara already considering that Scourge and Plugg might use shipboard danger as cover for eliminating troublesome crew.
+
 ### Man's Promise
 
 After the capture of the Man's Promise, Scourge transferred with Plugg's prize crew and continued in a more openly hostile role.
@@ -132,11 +140,21 @@ He caused or contributed directly to Harvus' damaged wing and forced service.
 
 This relationship is vengeance-shaped and tied to Calistria.
 
+Rosie's loss and Sandara's suspicion of intentionality further fed Harvus' renewed rage against the Wormwood's cruelty.
+
 ### Sandara Quinn
 
 Sandara humiliated Scourge by rejecting him.
 
 Scourge's hostility toward Sandara and anyone close to her should be treated as personal, jealous, and status-driven.
+
+Sandara later warned Harvus that she and Scourge did not see eye to eye, and that Rosie's going over during the storm might have been intentional after Rosie angered Scourge and Plugg.
+
+### Rosie Cusswell
+
+Sandara believed Rosie angered Scourge and Plugg quickly.
+
+Whether Scourge had any direct role in Rosie's storm loss is unresolved.
 
 ### Sho Astor
 
@@ -189,6 +207,8 @@ If he dies, survives, flees, or is captured, each outcome should create differen
 
 ## Open Questions
 
+- Was Rosie's going overboard accidental, negligent, or intentional?
+- If intentional, did Scourge directly cause it, signal it, or merely benefit from it?
 - Does Scourge know Sandara, Tilly, and Goyle survived?
 - Does he know Mirei confessed?
 - Does he try to use Sho as leverage?
