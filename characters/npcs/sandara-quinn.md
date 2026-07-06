@@ -3,9 +3,9 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Harvus light timeline evidence
+- Maturity: Draft, expanded with Harvus light timeline evidence and Day 3 dinner scene
 - Scope: Major ally, Besmaran priestess, emotional center of Book One
-- Source basis: Recovered Adventure Path material, Obsidian material, player journals, chat logs, GM clarification, and Harvus light timeline notes
+- Source basis: Recovered Adventure Path material, Obsidian material, player journals, chat logs, GM clarification, Harvus light timeline notes, and direct table scene evidence
 
 ## Overview
 
@@ -109,6 +109,28 @@ She helped Mirei recover her harp by convincing Cut-Throat Grok that the harp wa
 
 She advised the PCs to keep friends close and avoid Plugg and Scourge's attention.
 
+### Erastus 7 Dinner With Harvus
+
+On Erastus 7 / Wormwood Day 3, Sandara invited Harvus to sit with her during dinner in the middle hold.
+
+She asked whether he was adjusting to life aboard the Wormwood.
+
+Harvus said he was, though he had not been looking for life at sea, and asked to know more about Sandara: where she was from and how she came to be aboard.
+
+Sandara hesitated and said she did not like to go into it. Harvus said he would not push if it was sensitive.
+
+Sandara then shared that she was raised in Hell Harbor, that her parents were always overworked and had little time, that she grew up on the port streets, worked on the docks when she could, got into trouble, found taverns by nine, and was at sea by twelve.
+
+She concluded that the sea was probably where she belonged.
+
+During the same broader moment, Mirei rolled a 31 performance somewhere nearby.
+
+Harvus responded with courtly affection, saying his heart was filled with joy at the chance to meet her. He left to sleep so he could rest his wing and kissed her hand.
+
+Sandara thanked him, invited him to ask more later, and checked whether resting the wing was helping.
+
+This scene shows Sandara opening up because Harvus respected her boundary rather than pressing past it.
+
 ### Relationship With Harvus
 
 Harvus quickly admired Sandara, often addressing her with courtly reverence.
@@ -122,6 +144,8 @@ Harvus' notes record:
 - drinking heavily with Sandara and passing out,
 - aiding Sandara's recovery after the Man's Promise boarding,
 - and kissing / smooching Sandara during the Man's Promise phase.
+
+The Erastus 7 dinner scene is an early direct example of this tone: Harvus is courtly and careful, while Sandara allows guarded personal history into the conversation.
 
 ### Man's Promise and Bonewrack
 
@@ -158,7 +182,7 @@ This relationship has romantic and mythic weight in the campaign.
 
 Sandara has shown warmth and trust toward him, and the rescue should deepen that bond unless play complicates it.
 
-Their relationship already included comfort, drinking, healing, care after injury, and a kiss before the rescue.
+Their relationship already included comfort, drinking, healing, care after injury, a courtly Day 3 dinner conversation, and a kiss before the rescue.
 
 ### Mirei
 
@@ -245,3 +269,4 @@ She can interpret pirate custom, Besmara's code, and the moral difference betwee
 - What does she believe should happen to Plugg and Scourge if they are defeated?
 - Would she support a PC captain, an NPC captain, a council, or another model?
 - Does she want to stay with this emerging crew if the PCs choose something other than piracy?
+- What aid, if any, was Harvus using for his wing during the Day 3 dinner scene?
