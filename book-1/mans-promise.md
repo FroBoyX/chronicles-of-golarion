@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft
+- Maturity: Draft, expanded with corrected boarding origin
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -35,6 +35,26 @@ The published adventure uses the Man's Promise to:
 - and set up the PCs as future shipholders.
 
 The published route assumes Plugg is supposed to sail the ship to Port Peril, but he changes course toward Rickety's Squibs to claim the ship for himself.
+
+## Capture and Boarding
+
+The Wormwood overtook the Man's Promise in the early morning of **Erastus 25, 4712 AR**.
+
+A recovered chat log has an old header reading **Sunday, Erastus 26th, 4691 - Day 21**, but current chronology rectifies the battle date to Erastus 25, 4712.
+
+Sho was released from the hot-box because of her combat prowess and was given the chance to lead or coordinate a strike team.
+
+Mirei was badly wounded by arrows during the approach and did not board.
+
+Harvus and Giffer took arrows but made it across the lines.
+
+Sho warned Harrigan of an attacker behind him and received direct acknowledgement after Harrigan killed the attacker.
+
+Rak's conduct during the boarding became a major moral thread: he killed a pleading or downed sailor, likely worsened Giffer's fatal state, and intimidated Nor'gal into surrender. Sho repeatedly tried to impose restraint and subdue rather than slaughter.
+
+After the ship was secured, Harrigan ordered rum, loot, celebration, and officers gathered. Habbly stitched Sho while reminding her she was still likely to go under the boat. Sandara collapsed from a serious wound after healing Harvus.
+
+This boarding is the violent birth of the Man's Promise political crisis.
 
 ## Campaign State
 
@@ -117,6 +137,8 @@ Former Rahadoumi or Man's Promise crew may oppose Plugg and Scourge without forg
 
 Kahina is the clearest current example.
 
+Nor'gal is another important survivor-facing thread because his brother appears to have been killed during the boarding and he later becomes one of the named survivors assigned to Plugg's skeleton crew.
+
 ### Hostile Independents
 
 Some sailors may follow whoever appears strongest.
@@ -185,6 +207,7 @@ This has not yet become central in play but remains a future identity hook.
 - The rescued captives may expose Plugg's plan.
 - The ship may not have enough reliable sailors for every possible outcome.
 - The crew may not accept any single leader automatically.
+- Former Man's Promise survivors have reason to hate both Plugg's tyranny and the PCs' role in the original boarding.
 
 ## Possible Outcomes
 
@@ -212,6 +235,8 @@ Possible states include:
 - What visible sign marks Sho's imprisonment?
 - How many sailors are required to move the ship at the moment?
 - What exactly does Kahina require from Sho before considering her useful or sincere?
+- Did Giffer die during the boarding or later from injuries?
+- What happened to the lifeboat and fleeing sailors during the boarding?
 
 ## Related Documents
 
@@ -221,3 +246,5 @@ Possible states include:
 - `characters/npcs/master-scourge.md`
 - `characters/npcs/ambrose-fishguts-kroop.md`
 - `chronicles/the-fork.md`
+- `chronicles/battle-of-the-mans-promise.md`
+- `evidence/chat-logs/wormwood-erastus-25-mans-promise-boarding.md`
