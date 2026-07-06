@@ -3,14 +3,14 @@
 ## Document Status
 
 - Type: Chat log fragment / placement analysis
-- Maturity: Direct fragment, placement unresolved
+- Maturity: Direct fragment, linked to later recovered punishment scene
 - Scope: Rak being seen disposing of rum by Kipper; Mirei's later high harp performance
-- Date candidate: Possibly Erastus 8 / Wormwood Day 4, but unresolved
-- Placement confidence: Low-medium
-- Placement clue: Night, after rum ration, before or near a punishment sequence
+- Date candidate: Possibly Erastus 8 / Wormwood Day 4, but still not fully locked
+- Placement confidence: Medium
+- Placement clue: Night, after rum ration, before or near Rak's rum punishment scene
 - Participants: Rak Wraithraiser, Kipper, Cut-Throat Grok by intended follow-up; Mirei nearby performing
 - Spoiler scope: Player-safe
-- Canon status: Preserve as direct fragment; do not final-date until punishment scene and surrounding log are reconciled
+- Canon status: Preserve as direct fragment; likely connected to Rak's rum punishment, but exact timing remains open
 
 ## Raw Fragment
 
@@ -59,6 +59,14 @@ Current recovered performance anchors:
 
 Because the fragment says the performances are getting "more and more epic," the 34 performance is probably after the 31, making Erastus 8 / Day 4 a plausible candidate if the surrounding log sequence is chronological.
 
+### Punishment Scene Link
+
+A later recovered punishment scene has Scourge punishing Rak for not drinking rum and reminding the crew that three days earlier they had been warned anyone caught not drinking would get the lash.
+
+This strongly suggests the Kipper fragment is setup for that punishment scene.
+
+The exact gap is unresolved: Rak may have intended to ask Grok for help but been taken before he could, or may have asked and still been punished. No recovered line currently shows Grok's response to this specific problem.
+
 ## Placement Candidates
 
 ### Candidate A — Erastus 8 / Wormwood Day 4 night
@@ -70,7 +78,8 @@ Supporting logic:
 - It appears after the Erastus 7 31-performance material.
 - It describes an even higher performance roll.
 - It occurs at night after rum ration.
-- It may set up a next-day punishment scene.
+- The recovered punishment scene likely follows from Kipper seeing Rak dispose of rum.
+- Scourge says the rum warning was three days earlier; if that warning was Day 1 / Erastus 5, then Erastus 8 fits.
 
 ### Candidate B — Later Wormwood night before Man's Promise
 
@@ -83,17 +92,16 @@ Supporting logic:
 
 ## Reconstruction Rules
 
-- Do not yet lock this as Erastus 8 without the punishment scene or surrounding log context.
+- Treat Erastus 8 as the best current candidate, not final locked date.
 - Do treat Rak as knowing Kipper saw him dispose of rum.
 - Do treat Kipper as a risk vector in the rum-ration discipline thread.
 - Do treat the Mirei 34 performance as a later escalation beyond the already recovered 31 performance unless stronger context contradicts it.
-- Do not assume the punishment scene is automatically the next day until the actual punishment log is placed.
+- Do treat the recovered punishment scene as very likely connected to this fragment, while leaving the exact sequence open.
 
 ## Open Checks
 
-- What exactly happened in the punishment scene?
-- Was the punishment for Rak disposing of rum, for Sho speaking up, for both, or for another incident?
-- Did Kipper report Rak to Plugg, Scourge, or another officer?
+- Did Kipper explicitly report Rak to Scourge, Plugg, or another officer?
+- Did Rak get to Grok before the punishment?
 - Did Grok give Rak advice or protection after he asked for help?
 - Did the Mirei 34 performance happen the same night as Rak's Kipper problem, or was it just nearby in the log?
 - Does the source chat log preserve the surrounding before/after lines?
