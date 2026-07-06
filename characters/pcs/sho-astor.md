@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal / Rosie rescue
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -202,6 +202,22 @@ The refusal also had a monastic element. Sho understood alcohol as a poison of t
 Sho was afraid of getting caught because the last thing she wanted was for the crew to force her to drink it.
 
 Do not write Sho as willingly drinking the Wormwood rum unless later direct evidence contradicts this.
+
+### Rosie Storm Rescue Attempt
+
+During Rosie's storm-loss scene, Sho acted on total instinct.
+
+Someone was in danger. Sho thought she could do something about it, so she did.
+
+Sho did not know Rosie well. The player thinks Mirei and Rak probably interacted with Rosie more. But Rosie seemed all right compared with some of the more surly members of the crew, and Sho saw a person in danger rather than a close friend or stranger.
+
+Sho did not think the rescue through deeply. She figured a rope should do the trick and went for it.
+
+Sho probably blamed herself a little after the rescue failed, but not heavily. Unlike many other things that happened aboard the Wormwood, Rosie's loss felt to Sho like an unfortunate accident rather than deliberate cruelty.
+
+Rosie's death still affected Sho's view of the crew. She likely began trying to sort out which crew were rotten and which were good people trapped in a bad situation like herself and the other press-ganged sailors.
+
+The failed rescue did not make Sho more cautious. Given the same situation again, she would dive after someone every time.
 
 ### Erastus 16 Mast and Reef Task
 
@@ -453,6 +469,14 @@ On Erastus 16, Sho apologized when she realized Mirei had fought the reef creatu
 
 Badger was added as the fifth member of the Erastus 16 reef task group.
 
+### Rosie Cusswell
+
+Sho did not know Rosie well, but Rosie seemed all right compared with some of the more hostile Wormwood crew.
+
+During Rosie's storm loss, Sho saw someone in danger and acted by instinct. The failed rescue did not create heavy guilt in Sho because she understood it as an unfortunate accident rather than deliberate cruelty.
+
+Rosie's death still contributed to Sho's growing habit of separating the crew into rotten people and good people trapped in a bad situation.
+
 ### Captain Harrigan
 
 Sho has an odd and confused respect for Harrigan after the Man's Promise battle.
@@ -555,6 +579,10 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Was the cloak still hidden when she transferred to the Man's Promise?
 - How exactly did Sho ditch or avoid the rum ration each night?
 - Did anyone ever almost catch Sho ditching the rum before later threats around rum refusal?
+- What exact physical action did Sho take during Rosie's failed rescue?
+- Did Sho actually dive off the ship tied to a rope?
+- Who held or controlled Sho's rope, if any?
+- Which crew members did Sho start sorting as rotten versus trapped after Rosie's death?
 - What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 23 bilge fight?
 - Who ordered Sho released for the Erastus 25 battle and gave her the strike-team opportunity?
 - What was Sho's physical condition when released for the Erastus 25 battle?
