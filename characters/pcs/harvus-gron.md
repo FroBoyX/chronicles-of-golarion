@@ -3,13 +3,13 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Harvus light timeline notes and Rosie fiddle-return scene
+- Maturity: Draft, expanded with Harvus light timeline notes, Rosie fiddle-return scene, and post-Rosie rage confession
 - Scope: Book One continuity, current state, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
 ## Overview
 
-Harvus G'ron is a wing-damaged avian PC whose Book One arc runs through humiliation, vengeance, devotion, shipboard social survival, grief, and rescue.
+Harvus G'ron is a wing-damaged avian PC whose Book One arc runs through humiliation, vengeance, devotion, shipboard social survival, grief, rage, and rescue.
 
 He begins as a press-ganged victim of Scourge's cruelty and develops into the central figure of the Rescue of Sandara.
 
@@ -148,6 +148,24 @@ Harvus' damaged wing was jostled by the tackle, making the wing an active social
 By his note sequence, Harvus made friends with Rosie shortly afterward.
 
 Rosie's later loss during the storm is therefore personally meaningful for Harvus.
+
+### After Rosie's Loss and Sandara's Counsel
+
+After Rosie's loss at sea, likely around Erastus 14 or 15, Harvus went to Sandara for aid.
+
+He confessed that a great swell of anger was growing in his heart.
+
+Harvus tied that anger to losing his family when he was young, Scourge rending his wing, Rosie's death the previous night, and the Wormwood reawakening pain that had only dulled rather than vanished.
+
+He told Sandara that being with her eased his soul and that she restrained his rage.
+
+Sandara placed a hand on his shoulder, asked whether his wing was any better, and told him not to discard the rage. She said he might want that rage and should keep it inside because they might need to use it.
+
+Sandara also said things were getting worse aboard the Wormwood. Rosie had been new, but had angered Scourge and Plugg quickly. Sandara had been busy in the rigging during the storm, but said Rosie's going over might have been intentional.
+
+Sandara told Harvus to keep his rage inside and his friends close. She said there may be a time to use the rage, but for now he should rest his heart and his wing.
+
+This scene is central to Harvus' rage arc: Sandara is not making him harmless. She is helping him keep the rage contained until it can be put to good use.
 
 ### Reef and Sandara's Healing
 
@@ -339,15 +357,19 @@ Because the item is returning, confirm whether it truly remained lost or returne
 
 Sandara is Harvus' strongest emotional connection in Book One.
 
-Their relationship includes courtly affection, drinking, healing, a kiss during the Man's Promise phase, trust, and rescue.
+Their relationship includes courtly affection, drinking, healing, a kiss during the Man's Promise phase, trust, restraint, and rescue.
 
 Her survival matters to Harvus beyond strategy.
+
+Sandara is one of the people who can help Harvus contain his rage without denying it.
 
 ### Master Scourge
 
 Scourge is Harvus' personal enemy.
 
 He damaged Harvus' wing, humiliated him, punished him, and represents the cruelty of the Wormwood's disciplinary order.
+
+After Rosie's loss, Harvus explicitly named Scourge rending his wing and Rosie's death as part of the rage reawakening inside him.
 
 Harvus' own notes state that after hearing Sho had been boxed and Scourge had tried to have her killed, Harvus wanted Scourge's blood spilled.
 
@@ -383,7 +405,7 @@ Harvus recovered Rosie's fiddle and returned it to her.
 
 The recovered return scene shows Rosie responding with intense, chaotic gratitude and immediately playing the fiddle again.
 
-Her loss at sea is one of Harvus' important early grief beats.
+Her loss at sea is one of Harvus' important early grief beats and part of the recovered explanation for his rage returning.
 
 ### Barefoot Samms Toppin
 
@@ -456,6 +478,7 @@ His presence can still affect legitimacy because he has done something the crew 
 - Did Sandara's holy symbol return to her after the rescue?
 - What is the current condition of Harvus' wing?
 - What happened to Rosie's fiddle after her loss at sea?
+- Was Rosie's going overboard accidental, negligent, or intentional?
 - Did Rosie's death affect Harvus' later refusal to abandon Sandara?
 - How does Harvus react if the crew discusses captaincy?
 - Did Ratline, Conchobhar, Badger, and Samms become mechanically friendly/helpful or only socially warmer?
