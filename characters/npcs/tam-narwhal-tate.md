@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence and Erastus 16 Mirei summons
+- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, and Erastus 26 revel intervention
 - Scope: Hostile lower-crew rigger, pirate custom witness, placement unresolved
 
 ## Overview
@@ -63,9 +63,19 @@ This shows Tam participating in routine command pressure while also needling Mir
 
 ### Post-Man's Promise Revel
 
-During the revel after the Man's Promise capture, Tam intervened in a tense social moment and framed the situation through pirate custom: this was a party, not a fight, and at sea people do not hold grudges the same way they do on land.
+During the Erastus 26 revel after the Man's Promise capture, Tam intervened in a tense confrontation involving Sho, Mirei, Patch, Maheem, Jape, Crimson, and others.
 
-This moment matters because it shows Tam understands pirate order even if he is not kind.
+Sho was trying to get the drunken crew away from collapsed or unconscious Mirei. The confrontation escalated toward blades and open violence.
+
+Tam first warned Sho quietly to end it and walk away. Sho asked whether Mirei would be safe. Tam did not give her a reassuring answer; he urgently repeated that she should walk.
+
+When Rak removed Mirei toward the hammocks, Tam threw Sho to the ground and placed himself between her and the others.
+
+He then stated the rule that makes this scene important:
+
+> "This is a party, not a fight. At sea, we don't hold grudges... save that for LAND! Especially when we have 11 freash bodies below..."
+
+This moment matters because Tam is not simply protecting Sho, Mirei, or the hostile crew. He is enforcing a pirate-custom boundary: the revel cannot become a private vendetta, and shipboard order takes precedence over unresolved grudges.
 
 ### Man's Promise
 
@@ -87,6 +97,8 @@ Tam judged Mirei's place aboard the ship harshly, telling her she lacked pirate 
 
 On Erastus 16, he summoned Mirei to Plugg's reef task and remarked that her voice did not get her out of everything.
 
+During the Erastus 26 revel, he intervened in the confrontation around collapsed Mirei, but his intervention did not read as personal care for Mirei. It read as enforcement of shipboard order and revel rules.
+
 This may become relevant if Mirei returns from Riptide Cove having helped rescue captives.
 
 ### Sho Astor
@@ -94,6 +106,8 @@ This may become relevant if Mirei returns from Riptide Cove having helped rescue
 Tam intervened during a tense moment involving Sho after the Man's Promise battle.
 
 This did not make him an ally, but it showed he was willing to regulate conflict through pirate custom.
+
+He physically threw Sho to the ground to end the confrontation, but also prevented Patch, Maheem, Jape, and others from turning the party into open violence.
 
 ### Rak Wraithraiser / Wraithriser
 
@@ -144,3 +158,4 @@ Tam may:
 - Does Tam know Mirei was ordered to betray the PCs?
 - Does Tam respect Harvus' rescue if he hears it?
 - Would Tam accept an election, duel, council, or only force?
+- Did Tam's Erastus 26 intervention create any lasting debt, resentment, or respect with Sho?
