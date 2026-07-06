@@ -5,7 +5,7 @@
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
 - Scope: Early Wormwood deck tests and first job assignments
-- Source basis: GM prose entry supplied during reconstruction, existing character dossiers, AP scaffold, GM ruling that five people were gang-pressed, and GM log note that Crimson volunteered to join the crew
+- Source basis: GM prose entry supplied during reconstruction, existing character dossiers, AP scaffold, GM ruling that five people were gang-pressed, GM log note that Crimson volunteered to join the crew, and GM clarification that Crimson also took part in the early trials
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -13,9 +13,11 @@
 
 The new hands did not have long to understand where they were.
 
-Pain, missing possessions, and the roll of the sea had already made the point. The Wormwood was not asking for permission. It had them, and that was enough.
+For the press-ganged five, pain, missing possessions, and the roll of the sea had already made the point. The Wormwood was not asking for permission. It had them, and that was enough.
 
-After the first test, the five press-ganged newest members of the crew were brought back onto the deck and lined up again for **Mr. Plugg**.
+The Erastus 5 intake also included **Crimson "Cog" Cogward**, but his presence had a different origin. Crimson had volunteered to join the crew. He was part of the early Wormwood trials, but not one of the five who had been taken by force.
+
+After the first test, the trial group was brought back onto the deck and lined up again for **Mr. Plugg**.
 
 The next test was simpler.
 
@@ -37,7 +39,7 @@ The question was who.
 
 Plugg looked over the line.
 
-The Strix and the gnome had already been assigned as riggers after the last display. His eyes moved past the human, the aasimar, and the suli. Any of them could fill the role if he ordered it.
+The Strix and the gnome had already been assigned as riggers after the last display. His eyes moved past the human, the aasimar, the suli, and the volunteer sailor. Any of them could fill the role if he ordered it.
 
 Then his eyes settled on the nagaji.
 
@@ -63,12 +65,11 @@ The snake would report to **Mr. Kroop**.
 
 Rak Wraithraiser, who had come to Port Peril looking for a pirate crew and found one by force, was sent below to the galley.
 
-Separately, the GM log records **Crimson** as joining the Wormwood on Erastus 5 by volunteering. That makes Crimson part of the same broad crew-intake day, but not one of the five press-ganged new hands in this lineup unless later evidence places him there.
-
 ## What This Establishes
 
 - The canon number of press-ganged new hands is five: Harvus, Mirei, Sho, Rak, and Conchobhar.
-- Crimson is the sixth person associated with the Erastus 5 crew intake, but Crimson volunteered to join the crew rather than being press-ganged.
+- Conchobhar was one of the press-ganged five, took part in the trials, became a rigger, and quickly faded into the background as an NPC after the first few days.
+- Crimson is the sixth person associated with the Erastus 5 crew intake and also took part in the early trials, but Crimson volunteered to join the crew rather than being press-ganged.
 - Plugg's job assignments were not neutral or rational, even when he disguised them as practical command decisions.
 - Harvus and Conchobhar had already been marked as riggers by the prior test.
 - Rak became cook's mate because Plugg wanted a cook's mate and preferred not to deal with the nagaji directly.
@@ -84,4 +85,4 @@ Separately, the GM log records **Crimson** as joining the Wormwood on Erastus 5 
 - Confirm the exact first test immediately before this scene.
 - Confirm which PCs were assigned as swabs in this reconstruction.
 - Confirm whether Plugg's naga-related discomfort was ever revealed in play or remains narrator-only characterization.
-- Confirm Crimson's first scene, shipboard duty, and whether he was present for any of Plugg's early tests.
+- Confirm Crimson's exact trial actions and first assigned duty.
