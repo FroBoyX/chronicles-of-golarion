@@ -4,9 +4,9 @@
 
 - Type: Day-by-day narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 7 scaffold, Sho/Grok cloak attempt, and recovered night Rak/Grok trust conversation
-- Source basis: AP weather scaffold, GM note tying next-day bilges to Erastus 8 dire-rat encounter, Sho/Grok cloak chat extract, Rak/Grok trust chat extract, existing relationship records
-- Spoiler scope: Player-safe
+- Scope: Erastus 7 scaffold, Sho/Grok cloak attempt, Mirei noticing Sho's disguise, and recovered night Rak/Grok trust conversation
+- Source basis: AP weather scaffold, GM note tying next-day bilges to Erastus 8 dire-rat encounter, Sho/Grok cloak chat extract, Mirei/Sho disguise whisper evidence, Rak/Grok trust chat extract, existing relationship records
+- Spoiler scope: Player-safe after Sho's disguise truth is no longer secret; otherwise character-limited
 - Canon status: Becomes canon after GM/player sign-off
 
 ## Date
@@ -22,7 +22,7 @@ The Wormwood remained in normal weather.
 
 The exact daytime assignments and checks for Day 3 are not currently recovered.
 
-The recovered scenes are a medium-confidence Sho/Grok cloak attempt and a high-confidence night conversation between **Rak Wraithraiser** and **Cut-Throat Grok**, with **Mirei** performing nearby.
+The recovered scenes are a medium-confidence Sho/Grok cloak attempt, the first recovered Mirei/Sho disguise-discovery evidence, and a high-confidence night conversation between **Rak Wraithraiser** and **Cut-Throat Grok**, with **Mirei** performing nearby.
 
 The Rak/Grok date placement is high-confidence because Grok ends the exchange by telling Rak to rest because he is in the bilges tomorrow. The GM note places the dire-rat bilges encounter on Erastus 8.
 
@@ -65,6 +65,30 @@ Sho accepted the terms but left the offer of future service open.
 The scene matters because Sho's target item is now clear: the cloak. It also shows that Sho understood she had insulted Grok or risked doing so, and that she tried to repair the social damage even while still pressing for her property.
 
 For Grok, the pattern stayed consistent. Services might become useful later, but the store worked on value.
+
+## Mirei and Sho: Something Is Off
+
+Another recovered thread from Day 3 shows **Mirei** noticing that something about **Sho** was not what it appeared to be.
+
+The GM first told Sho's player:
+
+> "Anji sensed through bluff"
+
+Then the GM told Mirei:
+
+> "You sensed that something isn't quite what it appears with Chas"
+
+The GM asked whether Mirei wanted to hide that she had noticed, warning that a Bluff roll would be needed.
+
+Mirei did not initially want to hide it.
+
+> "no, I dont want to hide. Already on the path to asking him what the f is up"
+
+The exact conversation that triggered the check is not recovered. The next night's follow-up clarifies the result: Mirei had noticed **yesterday** that Sho was actually a woman.
+
+That later follow-up also shows Mirei choosing to hide that she had figured out the exact truth, while recognizing that Sho knew Mirei was suspicious.
+
+The Day 3 scene matters because it starts the recovered Mirei/Sho disguise thread. Mirei does not simply learn a fact. She notices a dangerous secret, decides at first not to conceal her suspicion, and later chooses to hide that she knows the exact truth.
 
 ## Rak and Grok: Trust
 
@@ -140,6 +164,20 @@ She also tries to repair the insult she believes she left with Grok, which matte
 
 Her offer of future service remains open, but Grok still requires concrete value.
 
+Separately, Sho's disguise begins to come under pressure from Mirei's perception. Sho knows Mirei is suspicious by the following night.
+
+### Mirei
+
+Mirei notices through deception context that something about Sho is not what it appears to be.
+
+She initially does not want to hide that she noticed and is already inclined to ask Sho directly what is going on.
+
+The next night's follow-up clarifies that the thing Mirei noticed on Day 3 was that Sho was actually a woman. Mirei later chooses to hide that she has figured out the exact truth.
+
+Mirei was also performing nearby strongly enough that the performance entered the Rak/Grok scene record as a 31 on harp.
+
+This reinforces that Mirei's music was already shaping the ship's night atmosphere and drawing reactions from nearby crew, even as she was also noticing dangerous personal secrets.
+
 ### Rak Wraithraiser
 
 Rak has already realized he cannot survive the Wormwood alone.
@@ -160,12 +198,6 @@ She is honest enough to warn him away from officers, name Scourge as a threat to
 
 She also directs him toward Ambrose and newer crew rather than pretending she can protect him through officer influence.
 
-### Mirei
-
-Mirei was performing nearby strongly enough that the performance entered the scene record as a 31 on harp.
-
-This reinforces that Mirei's music was already shaping the ship's night atmosphere and drawing reactions from nearby crew.
-
 ### Ambrose "Fishguts" Kroop
 
 Ambrose is not directly present in the recovered exchange, but Grok names him as someone Rak should try.
@@ -184,6 +216,9 @@ Scourge is not present, but Grok explicitly warns that he seems to have it out f
 - What Grok meant by "a step in the right direction."
 - What insult Sho believed she had left on Grok.
 - Whether Sho later found something of value to trade for the cloak.
+- The exact conversation that triggered Mirei's first check on Sho's disguise.
+- Whether Mirei asked Sho directly what was going on that same night.
+- What Sho thought Mirei had noticed before the truth was openly resolved.
 - Whether Rak followed Grok's advice immediately.
 - Whether Grok named specific newer crew in lost surrounding text.
 - Whether the Rak/Grok conversation happened before or after rum ration.
@@ -195,6 +230,8 @@ Scourge is not present, but Grok explicitly warns that he seems to have it out f
 
 - Did Sho's second attempt happen before or after the Rak/Grok trust conversation?
 - Is this the same cloak Sho later recovered and overpaid for due to exchange-rate confusion?
+- Did Mirei ask Sho directly what was going on that night?
+- When did Sho explicitly confide the disguise truth to Mirei?
 - Did Rak speak with Ambrose after Grok's advice?
 - Which newer crew did Rak approach after this conversation?
 - Did Grok's warning change Rak's behavior around officers?
@@ -206,6 +243,8 @@ Scourge is not present, but Grok explicitly warns that he seems to have it out f
 
 - Sho's desired item is confirmed as her cloak.
 - Sho attempts to repair an insult with Grok, but Grok still requires concrete value for trade.
+- Mirei notices that something is false about Sho's presentation.
+- The following night confirms that Mirei noticed on Day 3 that Sho was actually a woman.
 - Rak/Grok moves beyond alcohol and barter into guarded survival advice.
 - Grok is established as nervous about trust but willing to help Rak within limits.
 - Grok identifies Scourge as specifically dangerous to the new hands.
