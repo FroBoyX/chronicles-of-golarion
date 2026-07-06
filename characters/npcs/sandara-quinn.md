@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Harvus light timeline evidence and Day 3 dinner scene
+- Maturity: Draft, expanded with Harvus light timeline evidence, Day 3 dinner scene, and peridot necklace promise
 - Scope: Major ally, Besmaran priestess, emotional center of Book One
 - Source basis: Recovered Adventure Path material, Obsidian material, player journals, chat logs, GM clarification, Harvus light timeline notes, and direct table scene evidence
 
@@ -131,6 +131,20 @@ Sandara thanked him, invited him to ask more later, and checked whether resting 
 
 This scene shows Sandara opening up because Harvus respected her boundary rather than pressing past it.
 
+### Peridot Necklace Promise
+
+Sometime in the early Wormwood period, currently placed somewhere between Erastus 9 and Erastus 13, Harvus gave Sandara a peridot necklace.
+
+He presented it as a token of gratitude for the aid Sandara had given him, knelt, and asked to kiss her.
+
+Sandara chuckled, accepted the necklace into her keeping, paused, smiled softly to herself, and made him a deal: if they ever got off the Wormwood, she would personally thank him for his gallantry. For the moment, she told him they should rest.
+
+Harvus accepted the deferral in courtly language, saying the torch would be held.
+
+This scene shows Sandara accepting the romantic gesture without surrendering her boundary. She does not reject Harvus, but she places survival first.
+
+The peridot necklace may be the same necklace Harvus' light timeline says he recovered with his ring and Rosie's fiddle on note Day 7. If so, the best current range narrows toward Erastus 11-13 unless the necklace came from another source.
+
 ### Relationship With Harvus
 
 Harvus quickly admired Sandara, often addressing her with courtly reverence.
@@ -146,6 +160,8 @@ Harvus' notes record:
 - and kissing / smooching Sandara during the Man's Promise phase.
 
 The Erastus 7 dinner scene is an early direct example of this tone: Harvus is courtly and careful, while Sandara allows guarded personal history into the conversation.
+
+The peridot necklace scene is a later early-Wormwood escalation: Harvus presses his romantic feeling more explicitly, and Sandara answers with warmth, humor, and a deferred promise rather than immediate acceptance.
 
 ### Man's Promise and Bonewrack
 
@@ -170,6 +186,7 @@ At current reconstruction, Sandara is believed to still have Besmara's tricorne 
 - Immediate knowledge: Knows she was taken by grindylows and rescued; exact understanding of Plugg's current plan may depend on what Goyle and the others tell her
 - Immediate possessions: Believed to still have Besmara's tricorne, pending player confirmation
 - Immediate open item question: Her holy symbol was given to Harvus by Rak before the island search; confirm whether it has been returned
+- Immediate open item question: Harvus gave her a peridot necklace during the early Wormwood period; confirm whether she kept it through later events
 - Immediate importance: Her survival can alter crew morale, Harvus' legitimacy, and the political state aboard the Man's Promise
 
 ## Relationships
@@ -182,7 +199,7 @@ This relationship has romantic and mythic weight in the campaign.
 
 Sandara has shown warmth and trust toward him, and the rescue should deepen that bond unless play complicates it.
 
-Their relationship already included comfort, drinking, healing, care after injury, a courtly Day 3 dinner conversation, and a kiss before the rescue.
+Their relationship already included comfort, drinking, healing, care after injury, a courtly Day 3 dinner conversation, the peridot necklace promise, and a kiss before the rescue.
 
 ### Mirei
 
@@ -252,6 +269,14 @@ This made Sandara's absence concrete and became a strong emotional motivator for
 
 Confirm whether Harvus returned it to Sandara after the rescue.
 
+### Peridot Necklace
+
+Harvus gave Sandara a peridot necklace during the early Wormwood period as a token of gratitude and romantic devotion.
+
+Sandara accepted it into her keeping and deferred a kiss / personal thanks until they got off the Wormwood.
+
+Confirm whether this is the same necklace Harvus recovered with his ring and Rosie's fiddle, and whether Sandara still had it after the Wormwood and Man's Promise sequences.
+
 ## Campaign Function at Relaunch
 
 Sandara's survival gives the post-island crew a living proof of rescue, courage, and Plugg's failure to erase inconvenient people.
@@ -264,6 +289,8 @@ She can interpret pirate custom, Besmara's code, and the moral difference betwee
 
 - Confirm with players whether Sandara still has Besmara's tricorne.
 - Confirm whether Harvus returned Sandara's holy symbol after the rescue.
+- Confirm whether Sandara still has the peridot necklace.
+- Confirm whether the peridot necklace is the same necklace Harvus recovered with his ring and Rosie's fiddle.
 - What is her exact physical condition at the fork?
 - How much does she know about Mirei's confession?
 - What does she believe should happen to Plugg and Scourge if they are defeated?
