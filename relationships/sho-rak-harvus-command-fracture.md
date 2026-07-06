@@ -3,9 +3,9 @@
 ## Document Status
 
 - Type: Relationship / conflict record
-- Maturity: Draft, seeded from Sho player answers and Man's Promise battle reconstruction
+- Maturity: Draft, seeded from Sho player answers and Man's Promise battle reconstruction, expanded with recovered tactical map evidence
 - Scope: Sho's failed command, broken surrender promise, distrust of Rak and Harvus, and implications for later leadership
-- Source basis: Sho player answers relayed by GM; recovered Man's Promise battle reconstruction
+- Source basis: Sho player answers relayed by GM; recovered Man's Promise battle reconstruction; recovered tactical map evidence
 - Spoiler scope: Character-private / GM-facing until revealed in play
 
 ## Summary
@@ -34,7 +34,9 @@ The recovered battle log already shows Rak killing a pleading or downed sailor a
 
 Sho's later player memory also emphasizes the lifeboat incident: Man's Promise crew ran for a lifeboat, and Rak hit the switch / release before it was ready, causing it to crash into another lifeboat and potentially killing or injuring people.
 
-The exact casualties are unresolved, but Sho's character truth is that Rak's actions helped turn her attempted surrender / containment into a disaster.
+The recovered tactical map confirms the lifeboat incident occurred on the **starboard side** and that the crew member ended up in the water. Shark involvement is possible but not yet finally confirmed.
+
+The exact victim identity and final death / injury mechanism remain unresolved, but Sho's character truth is that Rak's actions helped turn her attempted surrender / containment into a disaster.
 
 ## Harvus
 
@@ -66,7 +68,7 @@ This matters for any later leadership question. Sho's problem is not only whethe
 
 ## Open Questions
 
-- Did Rak's lifeboat action kill anyone, injure them, or only nearly cause death?
+- Did the starboard lifeboat victim die by crash, drowning, shark swarm, or later injury?
 - Which exact Man's Promise crew member did Sho promise safety to before Harvus struck another person?
 - Was Harvus' flail target surrendering, distracted, fleeing, or still engaged in battle?
 - Did Sho confront Rak or Harvus during or after the battle about these specific incidents?
