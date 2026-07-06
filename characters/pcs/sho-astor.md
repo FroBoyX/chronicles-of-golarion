@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, and Erastus 16 mast / reef task evidence
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, and Erastus 16 night healing
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -163,7 +163,21 @@ After Plugg and Scourge summoned the others, Scourge unlocked Sho. She rubbed he
 
 Plugg then assigned Sho, Harvus, Rak, Mirei, and Badger to swim to the reef, fill buckets with crabs, and return.
 
+Sho returned late from the task, but with a full bucket of crabs, saying it was hard to swim after a night shackled to the mast.
+
 This scene likely connects to the later player memory that a whipping made Sho's disguise harder to hide through pain or physical exposure, but the exact prior punishment that left her tied to the mast still needs placement.
+
+### Erastus 16 Night Healing
+
+That night, Sandara approached Sho and Mirei with Harvus after hearing they had been hurt during or around the reef task.
+
+Sho initially appreciated the concern but asked why Sandara was worried. When Mirei said a monster in the sea got her leg, Sho realized she had missed part of the danger and apologized.
+
+> "I think I saw part of one at the bottom of the reef. Didnt know you did battle with them. Sorry I wasnt there"
+
+Sandara concentrated, touched Sho and Harvus, and restored Sho enough that the fog in her head lessened.
+
+Sho thanked Sandara, nodded when Sandara reminded them to keep friends close, and then left to give Harvus and Sandara privacy.
 
 ### Owlbear
 
@@ -337,6 +351,8 @@ Sho does not yet know the full result of Mirei's confession at the current recon
 
 Mirei was in the Erastus 16 reef task group with Sho.
 
+On Erastus 16, Sho apologized when she realized Mirei had fought the reef creatures and been injured.
+
 ### Badger Medlar
 
 Badger was added as the fifth member of the Erastus 16 reef task group.
@@ -374,6 +390,10 @@ Crimson is not yet identified in the archive.
 Scourge repeatedly targeted Sho for defiance.
 
 On Erastus 16, he taunted her while she was tied to the mast, placing his whip under her chin and openly enjoying the prior punishment.
+
+### Sandara Quinn
+
+On Erastus 16, Sandara healed or restored Sho after the reef task / mast punishment, reducing the fog in Sho's head.
 
 ## Current Knowledge
 
@@ -414,6 +434,7 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Are the 15/25 HP and 17 nonlethal values current to the hot-box scene?
 - Which punishment left Sho tied to the mast before the Erastus 16 reef task?
 - Did that punishment expose or threaten Sho's disguise?
+- What spell or healing effect lifted the fog in Sho's head on Erastus 16?
 - What did Sho suspect about Giffer's body?
 - Who is Crimson?
 - What did Sho need to discuss with Crimson?
