@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, created from source extract and GM clarification
+- Maturity: Draft, created from source extract, GM clarification, and Erastus 26 revel evidence
 - Scope: Voluntary Wormwood recruit, swab, Man's Promise / Wormwood crew member
 
 ## Overview
@@ -58,35 +58,62 @@ Cog fights like a cornered boar, caring little for his own safety.
 
 Cog does not fight to lose. He fights to win, or dies trying.
 
-## Influence Hooks
+## Campaign History
 
-Cog loves dark tales.
+### Early Wormwood
 
-A character who makes at least a DC 10 Perform (oratory) check focusing on dark tales gains a +2 bonus on checks to influence Cog for the next 24 hours.
+Crimson was part of the Erastus 5 intake / trial context but volunteered rather than being press-ganged.
 
-Fighters and other warriors, as well as aggressive characters who favor muscle over talk, can gain a +2 bonus on Bluff and Diplomacy checks with him by interspersing conversation with grisly details of fights.
+He watched the Day 2 lower-crew confrontation rather than taking part.
 
-A failed check is likely to elicit a violent response from the angry sailor.
+### Man's Promise Boarding Aftermath
 
-## Campaign Function
+During the immediate aftermath of the Man's Promise boarding, Grok was gathering loot from corpses and sending Crimson back to the stores with it.
 
-Cog provides a contrast to the press-ganged new hands.
+This places Crimson in a practical loot-hauling / stores support role after the battle.
 
-He joined willingly, which means his relationship to the Wormwood, Plugg, Scourge, and the Man's Promise should not be assumed to match the forced recruits' perspective.
+### Erastus 26 Revel
 
-His volatility, Pharasmin devotion, trading habits, and love of dark tales make him a useful lower-crew social actor for reconstruction.
+During the revel after the Man's Promise capture, Crimson was drunk and present around collapsed or unconscious Mirei.
 
-## Current State
+When Sho challenged the group, Crimson claimed he was only checking Mirei's pulse and told Sho to bug off. Sho objected that checking a pulse did not require a hand in Mirei's robes.
 
-- Location: Likely Man's Promise, pending confirmation
-- Status: Presumed alive unless later evidence says otherwise
-- Immediate relevance: Volunteer crew member, possible swab, possible barter contact, volatile combatant
+Crimson later quietly walked away after rummaging through much of Mirei's clothing.
+
+This is a negative / suspicious beat and should not be softened into harmless drunken concern unless later evidence clarifies what he was doing or taking.
+
+Later in the same broad revel period, Crimson reacted to Harvus with initial hostility, spitting when he saw him, but then brightened at the idea of battle stories. He offered to trade stories with Harvus at the celebration and said they were all brothers tonight.
+
+This leaves Crimson socially complicated: he can be predatory or opportunistic in a drunken crowd, but also responds to battle-story camaraderie.
+
+## Relationships
+
+### Sho Astor
+
+Sho confronted Crimson during the Erastus 26 revel because he was crowding / handling Mirei while claiming to check her pulse.
+
+This may become relevant if Sho later remembers or pursues what happened to Mirei during the party.
+
+### Mirei
+
+Crimson was part of the dangerous drunken crowd around collapsed Mirei during the Erastus 26 revel and appeared to rummage through her clothing before walking away.
+
+The exact intent and whether anything was taken remain open.
+
+### Harvus G'ron
+
+Crimson spat on seeing Harvus during the post-battle revel, then offered to trade battle stories and said everyone was brothers tonight.
+
+This suggests Harvus' battlefield presence may have opened a temporary social route with Crimson.
+
+### Cut-Throat Grok
+
+Grok sent Crimson back to the stores with looted material after the Man's Promise battle.
 
 ## Open Questions
 
-- Why did Cog volunteer for the Wormwood?
-- What exact trial or trials did Cog participate in on Erastus 5?
-- Was Cog assigned as a swab immediately?
-- Did Cog transfer to the Man's Promise prize crew under Plugg?
-- How did Cog relate to Mirei, Harvus, Rak, Sho, and Conchobhar?
-- Did Cog's item-acquisition / barter habit matter in play?
+- Did Crimson transfer to the Man's Promise with Plugg's skeleton crew?
+- What did Crimson remove or attempt to remove from Mirei's clothing during the Erastus 26 revel?
+- Did Sho ever confront Crimson again about the incident with Mirei?
+- Did Harvus and Crimson actually trade battle stories during the celebration?
+- Does Crimson's Pharasma faith affect how he interprets the Man's Promise dead?
