@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal / Rosie rescue / bilges ambush / Owlbear mercy
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal / Rosie rescue / bilges ambush / Owlbear mercy / Man's Promise command failure
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -370,6 +370,31 @@ Sho's PCGen notes preserve the emotional aftermath more strongly:
 - saddened that it all happened,
 - and angry that it happened at all.
 
+### Command, Surrender, and the Man's Promise Dead
+
+Sho felt confused and possibly trapped by being given the strike-team / command role. It felt like another task she might fail, giving the officers another excuse to justify killing her.
+
+As Sho understood it, once the ship was taken and the crew surrendered, no further harm needed to come to anyone. Her promise was direct: if they stood down and did not put up a fight, no one would be hurt.
+
+Sho believes that promise was broken in part because the people she was supposed to be commanding did not listen.
+
+Her player memory emphasizes two specific failures:
+
+- Man's Promise crew ran for a lifeboat, and Rak hit the switch or release before it was ready, causing it to crash into another lifeboat and potentially killing or injuring people.
+- Sho demanded that a Man's Promise crew member put down their weapon and promised no harm would come to them, only for Harvus to smash another crew member with a flail who was not even looking to attack.
+
+The exact casualties and mechanics remain unresolved, but Sho's character truth is that innocent people were hurt because the people she was supposed to command ignored her.
+
+Sho felt responsible for the atrocities, powerless to stop them, and angry that the people ignoring her were press-ganged people like her rather than only malicious officers.
+
+Despite working with them, Sho does **not** trust Rak or Harvus after the Man's Promise battle.
+
+Sho blames Rak and Harvus for their direct actions, Harrigan for attacking the ship in the first place, and herself for not doing more to stop it.
+
+This is a major source of Sho's guilt. She did not like attacking another ship, but thought she could at least prevent most of the bloodshed if she convinced the crew to surrender. When that failed catastrophically, she carried much of the guilt on her shoulders.
+
+The experience changed how Sho thinks about command. If she is going to take charge of anyone, she believes she needs to be powerful enough to make that authority real and hold people to their actions.
+
 ### Man's Promise Names
 
 Sho's PCGen notes identify:
@@ -473,6 +498,8 @@ Sho has considered that if Rak continues reckless killing, she may need to stop 
 
 Rak was in the Erastus 16 reef task group with Sho.
 
+After the Man's Promise battle, Sho does not trust Rak. She blames him for direct atrocities during the battle, including the killing of a downed or pleading sailor and the unresolved lifeboat incident.
+
 ### Harvus G'ron
 
 Sho sees Harvus as a possible comrade and may hope his rage can be controlled or redirected.
@@ -480,6 +507,8 @@ Sho sees Harvus as a possible comrade and may hope his rage can be controlled or
 She is not present for his rescue of Sandara and does not currently know what happened in Riptide Cove.
 
 Harvus was in the Erastus 16 reef task group with Sho.
+
+After the Man's Promise battle, Sho does not trust Harvus. Her player memory preserves a moment where Sho promised safety as part of a surrender demand, only for Harvus to strike another crew member with a flail who was not looking to attack.
 
 ### Mirei
 
@@ -524,6 +553,8 @@ Sho has an odd and confused respect for Harrigan after the Man's Promise battle.
 She first saw Harrigan as similar to Plugg and Scourge: cruel and implicated in the Wormwood's malice. His later actions, including reward, recognition, and a more complex command style, created a level of grey that confuses her.
 
 This does not make him safe or good, but it complicates her view of authority.
+
+Sho blames Harrigan for attacking the Man's Promise in the first place. In her mind, he may need to be taken down eventually, but Plugg and Scourge remain the immediate category of people who need to be removed as soon as possible.
 
 ### Peppery Longfarthing
 
@@ -608,6 +639,8 @@ Her choices can affect whether Man's Promise survivors become enemies, allies, w
 
 The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 
+Sho's Man's Promise command failure also makes leadership a loaded subject for her: command without the power to enforce restraint becomes another way to fail people.
+
 ## Open Threads
 
 - Resolve Sho's true height and physical description.
@@ -643,6 +676,13 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - How long did Sho's tunnel vision last after being put in the hot-box?
 - Who ordered Sho released for the Erastus 25 battle and gave her the strike-team opportunity?
 - What was Sho's physical condition when released for the Erastus 25 battle?
+- Did Rak's lifeboat action kill anyone, injure them, or only nearly cause death?
+- Which exact Man's Promise crew member did Sho promise safety to before Harvus struck another person?
+- Was Harvus' flail target surrendering, distracted, fleeing, or still engaged in battle?
+- Did Sho confront Rak or Harvus during or after the battle about these specific incidents?
+- Does Sho's distrust of Harvus persist after learning he rescued Sandara / Tilly / Goyle?
+- Does Sho's distrust of Rak change if Rak helps resolve Bonewrack or the Man's Promise mutiny?
+- What does Sho consider sufficient authority to hold people accountable?
 - What did Sho suspect about Giffer's body?
 - What did Sho need to discuss with Crimson?
 - What did Sho need to discuss with Ratline?
