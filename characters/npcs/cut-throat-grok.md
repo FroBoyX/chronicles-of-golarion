@@ -87,9 +87,17 @@ Grok had already heard about the fight and recognized Sho might be useful, but r
 
 This establishes Grok as pragmatic rather than charitable: promises are not enough, even from someone capable.
 
-### Beginning of Friendship With Rak
+### Early Rak Contact
 
-The earliest recovered seed of Grok's relationship with Rak is the night of Erastus 6 / Wormwood Day 2.
+Rak's first direct contact with Grok is not recovered.
+
+Given Rak's cook's mate duties under Ambrose Kroop, Grok's closeness to Kroop, and the AP's heavy galley / quartermaster context, it is easy to assume Rak and Grok had already crossed paths through galley work or Rak's duties for Ambrose before the first preserved brew scene.
+
+Those earlier interactions are currently lost to time.
+
+### First Recovered Friendship Beat With Rak
+
+The first recovered explicit friendship-development beat between Grok and Rak is the night of Erastus 6 / Wormwood Day 2.
 
 Rak returned after failing to stop by earlier, apologized for losing track of time while cooking, and offered to brew alcohol if he had ingredients and his kit.
 
@@ -97,7 +105,7 @@ Grok was willing to open the shop for him and invited him to show what he could 
 
 The GM reconstruction presumes Grok furnished both Rak's alchemy kit and ingredients to brew with.
 
-This scene is currently treated as the beginning of Rak and Grok's friendship.
+This scene is currently treated as the first recovered growth point in Rak and Grok's friendship, not necessarily their first meeting.
 
 ### Relationship With Rak
 
@@ -121,7 +129,9 @@ If Grok's story continues along the published Adventure Path's later direction, 
 
 ### Rak Wraithraiser
 
-Rak and Grok's first recovered friendship seed is the Day 2 brew scene, where Rak offered to make alcohol and Grok apparently furnished his alchemy kit and ingredients.
+Rak and Grok likely crossed paths before the brew scene through Rak's cook's mate duties, the galley, Kroop, or Grok's quartermaster role, but those interactions are not recovered.
+
+Their first recovered friendship-development beat is the Day 2 brew scene, where Rak offered to make alcohol and Grok apparently furnished his alchemy kit and ingredients.
 
 They later had a sexual or intimate relationship before the Man's Promise split, and Rak began bunking with her.
 
@@ -179,6 +189,7 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 
 ## Open Questions
 
+- What earlier galley / Kroop / quartermaster contact occurred before the Erastus 6 brew scene?
 - What did Rak brew for Grok on Erastus 6?
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
 - How did Grok and Rak's friendship become flirtation or intimacy?
