@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Harvus light timeline evidence, Day 3 dinner scene, and peridot necklace promise
+- Maturity: Draft, expanded with Harvus light timeline evidence, Day 3 dinner scene, peridot necklace promise, and post-Rosie counsel scene
 - Scope: Major ally, Besmaran priestess, emotional center of Book One
 - Source basis: Recovered Adventure Path material, Obsidian material, player journals, chat logs, GM clarification, Harvus light timeline notes, and direct table scene evidence
 
@@ -75,6 +75,8 @@ She can gamble, drink, flirt, heal, advise, and fight, but she should not be por
 
 Her strength is not omniscience. It is resilience, faith, and the ability to connect with people under pressure.
 
+A post-Rosie scene shows her counsel can be strategically hard-edged: she does not tell Harvus to discard rage, but tells him to keep it contained because it may need to be used.
+
 ## Campaign History
 
 ### Before the Wormwood
@@ -145,6 +147,30 @@ This scene shows Sandara accepting the romantic gesture without surrendering her
 
 The peridot necklace may be the same necklace Harvus' light timeline says he recovered with his ring and Rosie's fiddle on note Day 7. If so, the best current range narrows toward Erastus 11-13 unless the necklace came from another source.
 
+### After Rosie's Loss
+
+After Rosie's loss at sea, likely around Erastus 14 or 15, Harvus came to Sandara and said he sought her aid.
+
+He confessed that a great swell of anger was growing in his heart. He connected that rage to losing his family when he was young, Scourge rending his wing, and Rosie's death the previous night.
+
+Harvus said being with Sandara eased his soul and that he feared the Wormwood had reawakened a rage he thought had dulled.
+
+Sandara placed a hand on his shoulder and asked whether the wing was any better.
+
+She told Harvus that he might want that rage and should keep it because they might need to use it.
+
+She said things were getting worse aboard the Wormwood. Rosie had been new, but had angered Scourge and Plugg quickly. Sandara had been busy in the rigging during the storm, but said Rosie's going over might have been intentional.
+
+Sandara also noted that she and Scourge did not see eye to eye.
+
+She told Harvus to keep his rage inside and his friends close. For now, he should rest his heart and his wing.
+
+She said she would pray for Besmara to look over them.
+
+When Harvus called her the vessel restraining his rage, Sandara said she would try to see it put to good use when the time came, but asked him to call her Sandara rather than queen.
+
+This scene shows Sandara as both comfort and strategic restraint. She is not trying to make Harvus harmless. She is trying to keep him alive and useful until the right time.
+
 ### Relationship With Harvus
 
 Harvus quickly admired Sandara, often addressing her with courtly reverence.
@@ -162,6 +188,8 @@ Harvus' notes record:
 The Erastus 7 dinner scene is an early direct example of this tone: Harvus is courtly and careful, while Sandara allows guarded personal history into the conversation.
 
 The peridot necklace scene is a later early-Wormwood escalation: Harvus presses his romantic feeling more explicitly, and Sandara answers with warmth, humor, and a deferred promise rather than immediate acceptance.
+
+The post-Rosie rage scene clarifies that Sandara also became a restraint on Harvus' rage, but not by denying it. She told him to keep it controlled because there may be a time to use it.
 
 ### Man's Promise and Bonewrack
 
@@ -199,7 +227,7 @@ This relationship has romantic and mythic weight in the campaign.
 
 Sandara has shown warmth and trust toward him, and the rescue should deepen that bond unless play complicates it.
 
-Their relationship already included comfort, drinking, healing, care after injury, a courtly Day 3 dinner conversation, the peridot necklace promise, and a kiss before the rescue.
+Their relationship already included comfort, drinking, healing, care after injury, a courtly Day 3 dinner conversation, the peridot necklace promise, post-Rosie rage counsel, and a kiss before the rescue.
 
 ### Mirei
 
@@ -230,6 +258,8 @@ Sandara does not yet know Sho's current hot-box situation unless told.
 Sandara rejected and humiliated Scourge before the campaign began.
 
 His hostility toward her and those close to her is personal.
+
+Sandara later warned Harvus that she and Scourge did not see eye to eye and that Rosie's going overboard may have been intentional after Rosie angered Scourge and Plugg.
 
 ### Ambrose Kroop
 
@@ -291,6 +321,8 @@ She can interpret pirate custom, Besmara's code, and the moral difference betwee
 - Confirm whether Harvus returned Sandara's holy symbol after the rescue.
 - Confirm whether Sandara still has the peridot necklace.
 - Confirm whether the peridot necklace is the same necklace Harvus recovered with his ring and Rosie's fiddle.
+- What did Sandara mean by "Not enough to matter tonight.... it will have to wait. This is becoming a problem"?
+- Was Rosie's going over truly intentional, or was Sandara voicing suspicion under pressure?
 - What is her exact physical condition at the fork?
 - How much does she know about Mirei's confession?
 - What does she believe should happen to Plugg and Scourge if they are defeated?
