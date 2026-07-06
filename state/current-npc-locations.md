@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Draft, expanded with Arodus 5 split-scene evidence
+- Maturity: Draft, expanded with Arodus 5 split-scene evidence and Ebony Saable survivor confirmation
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 
 ## Purpose
@@ -49,6 +49,12 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 |---|---|---|
 | Sho Astor | PC, alive | Still believed locked in the hot-box. Accepted Kahina's life-for-life test. |
 | Kahina Bukekayo | NPC, alive | Man's Promise survivor; issued Sho a life-for-life test: their lives or Sho's. |
+
+## Man's Promise — Confirmed Survivor Bloc
+
+| Character | Status | Notes |
+|---|---|---|
+| Ebony Saable | NPC, alive | Confirmed as one of the six tracked Man's Promise survivors; rigger; identified as Sho's referenced "monk man." |
 
 ## Man's Promise — Command Threat
 
@@ -108,6 +114,6 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 - Is Sho visibly on deck in the hot-box, or covered/guarded in a way that changes approach options?
 - Which Wormwood NPCs are definitively aboard the Man's Promise?
 - Where is Owlbear physically at the cold open?
-- Which Man's Promise survivors remain alive and aboard?
+- Name the other five tracked Man's Promise survivors alongside Ebony Saable.
 - What is Nor'gal Daraa's current status?
 - Does the ship actually reach Coconut Beach before or after the fork collision resolves?
