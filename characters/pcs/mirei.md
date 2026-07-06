@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, and storm-window Harrigan performance invitation intercepted by Plugg
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, and Rosie rescue messages
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -139,6 +139,16 @@ Plugg, not Harrigan, answered through the door. He barked back that she should g
 
 This scene shows that Mirei's performances had become a recurring shipboard event by the storm window, and that Plugg recognized their use as morale control, even though Mirei's intended invitation target was Harrigan.
 
+### Rosie Storm Rescue Attempt
+
+During Rosie's storm-loss scene, the only currently recovered direct chat fragments show Mirei using distance communication, likely **message**, to speak with Rosie.
+
+Mirei told Rosie to hold on, that they were trying to get her, and that they would save her.
+
+She also instructed Rosie to tie the rope to herself, including telling Rosie to do it the next time the rope reached her.
+
+These fragments prove Mirei was actively trying to guide Rosie during the rescue attempt. They do not by themselves reconstruct who controlled the rope, whether Rosie got hold of it, or why the rescue ultimately failed.
+
 ### Wormwood Period
 
 Mirei performed aboard ship and attracted crew attention through music.
@@ -195,6 +205,12 @@ On Day 3, Mirei noticed something was wrong through deception context. By the fo
 
 Sho noticed Mirei becoming closed off later and suspected Scourge or officer attention might be influencing her situation.
 
+### Rosie Cusswell
+
+Mirei tried to communicate with Rosie during the storm rescue attempt, telling her to hold on and instructing her to tie a rope to herself.
+
+The rescue failed, but the recovered evidence shows Mirei was actively trying to keep Rosie alive and direct her.
+
 ### Badger Medlar
 
 Badger complimented Mirei's early Wormwood performances and asked where she learned.
@@ -227,6 +243,8 @@ This does not yet equal the later Man's Promise betrayal assignment, but it is e
 - Confirm whether the storm-window Harrigan invitation / Plugg order is Erastus 11, 12, or 13.
 - Confirm whether Harrigan ever heard the invitation or attended the performance.
 - Confirm whether the floating 34 performance belongs to the same night as the storm-window Plugg order.
+- Confirm whether Mirei used the message cantrip during Rosie's storm rescue attempt.
+- Confirm whether Rosie ever got hold of the rope Mirei referenced.
 
 ## Evidence Notes
 
