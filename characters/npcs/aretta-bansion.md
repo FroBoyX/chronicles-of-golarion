@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Obsidian Portal evidence extract and Erastus 23 placement
+- Maturity: Draft, expanded with Obsidian Portal evidence extract, Erastus 23 placement, and Erastus 24 Sho keelhaul charge
 - Scope: Hostile Wormwood sailor, Harvus press-ganging participant, Day 2 hostile-crew punishment, Sho bilge-death thread
 
 ## Overview
@@ -14,6 +14,8 @@ She matters because Harvus recognized her on waking aboard the Wormwood and beca
 
 She later died after conflict with Sho in the bilges on Erastus 23.
 
+Sho was put in the hot-box on Erastus 24 under the charge of killing Aretta and was to be keelhauled at Bloody Hour, but the punishment was interrupted by the sighting of the Man's Promise.
+
 ## Identity
 
 - Name: Aretta Bansion
@@ -22,6 +24,7 @@ She later died after conflict with Sho in the bilges on Erastus 23.
 - Baseline alignment: Neutral Evil
 - Current status: Dead
 - Death placement: Erastus 23, 4712 AR, after bilge fight with Sho
+- Immediate consequence: Sho charged with killing Aretta and placed in hot-box for planned keelhauling on Erastus 24
 - Obsidian Portal tags: Dead, Swab, The Wormwood
 
 ## Baseline Adventure Path Role
@@ -85,6 +88,12 @@ Aretta died soon after from complications because medical attention was slow to 
 
 This places Aretta's death on Erastus 23, after the log gap days and before the Man's Promise sighting.
 
+### Erastus 24 Consequence
+
+Sho was put in the hot-box on Erastus 24 under the charge of killing Aretta.
+
+Sho was to be keelhauled at Bloody Hour, but the Man's Promise was sighted in the late afternoon and the punishment was not carried out.
+
 ## Relationships
 
 ### Harvus G'ron
@@ -100,6 +109,8 @@ Aretta's death is part of Sho's moral burden.
 This is one of the reasons Sho's later conversation with Kahina matters: Sho has already caused death in ugly shipboard conditions.
 
 The current reconstruction should treat Aretta's death as the result of Sho's defensive violence plus the Wormwood's delayed or inadequate care, not as a clean execution by Sho.
+
+The Wormwood's command structure nevertheless treated Aretta's death as enough to charge Sho for killing her and place Sho in the hot-box for keelhauling.
 
 ### Master Scourge
 
@@ -127,7 +138,8 @@ Her arc now has a clearer escalation:
 2. hostile crew/goon,
 3. punished after a failed intimidation job,
 4. revenge-driven or officer-directed bilge attacker,
-5. death by complications after Sho's defensive beating and delayed care.
+5. death by complications after Sho's defensive beating and delayed care,
+6. basis for Sho's Erastus 24 hot-box / planned keelhauling.
 
 ## Open Questions
 
