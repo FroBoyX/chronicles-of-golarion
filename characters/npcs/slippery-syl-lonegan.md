@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log and Rak player-sheet evidence
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak player-sheet evidence, and Erastus 27 boatswain appointment
 - Scope: Hostile Wormwood pirate, Man's Promise pressure point, current fork threat
 
 ## Overview
@@ -26,7 +26,7 @@ Rak's player sheet lists Slippery as unfriendly, which matches the current fork 
 - Baseline alignment: Chaotic Evil
 - Current location: Bonewrack Isle, with Rak's moving group
 - Current status: Alive
-- Current command role: Scourge assigned her to lead the supply team
+- Current command role: Plugg appointed her boatswain aboard the Man's Promise; Scourge later assigned her to lead the supply team
 - Rak sheet evidence: Unfriendly
 
 ## Appearance / Presence
@@ -57,11 +57,25 @@ She is also tactically relevant. She is not only wild; she can read situations a
 
 Syl was part of the early hostile crew pressure against the PCs under Scourge's influence.
 
-### Man's Promise
+### Man's Promise Transfer and Boatswain Appointment
 
 Syl transferred to the Man's Promise prize crew and aligned with Plugg's harsher command structure.
 
-She threatened Mirei with a knife and observed her in connection with Plugg's attempt to use Mirei as a spy or compromised figure.
+On Erastus 27, during Plugg's first command speech aboard the Man's Promise, Plugg appointed "Ms. Sly" / Slippery Syl as boatswain.
+
+Plugg ordered the crew to treat Syl's orders as if they came directly from him.
+
+After Scourge reinforced the threat of quick discipline, Syl took command of immediate work assignments:
+
+> "Alright you bastards, you're mine now!"
+
+She ordered everyone to keep their Wormwood jobs and threatened slackers with being put on the mast under her care.
+
+This appointment formalizes Syl's authority aboard the Man's Promise before the later Bonewrack supply mission.
+
+### Man's Promise
+
+Syl threatened Mirei with a knife and observed her in connection with Plugg's attempt to use Mirei as a spy or compromised figure.
 
 ### Scourge's Supply Order
 
@@ -131,6 +145,8 @@ If Syl sees Mirei returning alive with rescued captives, that may alter her assu
 ## Relationship With Plugg and Scourge
 
 Syl is aligned with Plugg and Scourge's hostile camp, but her loyalty should not be assumed to be principled.
+
+Plugg publicly elevated her as boatswain and ordered the crew to obey her as they would obey him.
 
 She follows Scourge's supply order but interprets it through tactical survival.
 
