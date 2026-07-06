@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with Day 2 performance evidence
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with Day 2 performance evidence and Day 3 Sho disguise discovery
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -119,6 +119,16 @@ Mirei said she had been picking music up her whole life, liked many kinds of mus
 
 This performance is currently the first recovered performance after the harp's return, though not necessarily the first performance in absolute chronology.
 
+### Erastus 7, 4712 AR / Wormwood Day 3
+
+Mirei noticed through deception / Bluff context that something about Sho Astor's presentation was not what it appeared to be.
+
+The GM asked whether Mirei wanted to hide that she had noticed. Mirei initially said no, because she was already on the path to asking Sho what was going on.
+
+By the following night, the GM clarified that Mirei had noticed the previous day that Sho was actually a woman. At that point, Mirei chose to hide that she had figured out the exact truth, while recognizing that Sho already knew she was suspicious.
+
+This is the recovered beginning of the Mirei/Sho disguise thread.
+
 ### Wormwood Period
 
 Mirei performed aboard ship and attracted crew attention through music.
@@ -167,7 +177,11 @@ Rak praised Mirei's early Wormwood performance in his own voice: "Nice shredding
 
 ### Sho Astor
 
-Sho noticed Mirei becoming closed off and suspected Scourge or officer attention might be influencing her situation.
+Mirei was the first recovered character to notice that Sho's presentation was not what it appeared to be.
+
+On Day 3, Mirei noticed something was wrong through deception context. By the following night, she had figured out that Sho was actually a woman and chose to hide that she knew the exact truth.
+
+Sho noticed Mirei becoming closed off later and suspected Scourge or officer attention might be influencing her situation.
 
 ### Badger Medlar
 
@@ -183,6 +197,7 @@ This may be an early seed of Badger recognizing Mirei's value as a performer rat
 - Her relationship to Plugg's attempted manipulation needs careful tracking.
 - Her role as a Sea Singer should be preserved in any future conversion.
 - Confirm whether the Day 2 performance was the first actual performance after the harp's return or simply the first recovered one.
+- Confirm when Sho openly confided the disguise truth to Mirei.
 
 ## Evidence Notes
 
