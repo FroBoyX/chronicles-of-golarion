@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft, expanded with corrected boarding origin and survivor math
+- Maturity: Draft, expanded with corrected boarding origin, survivor math, and Plugg's first command speech
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -68,6 +68,24 @@ A Rahadoumi officer is visible in the Erastus 27 chat after Harrigan's example a
 
 Harrigan assigned a skeleton crew under Mr. Plugg to take the Man's Promise, and the two ships separated.
 
+## First Command Speech
+
+Plugg's first formal speech aboard the Man's Promise establishes the initial command structure and public cover mission.
+
+Plugg demands to be addressed as **Captain Plugg**.
+
+Scourge is named first mate.
+
+Slippery Syl Lonegan is named boatswain.
+
+Plugg tells the crew they live at his whim and threatens the whip or knife for disrespect or dissent.
+
+Scourge reinforces that because the ship has only a skeleton crew, any fall in discipline will be handled quickly and forcefully.
+
+Syl then tells the crew to keep their Wormwood jobs and threatens slackers with the mast under her care.
+
+Plugg publicly states that the Man's Promise is going to Port Peril, then back to the Wormwood. This matters because later evidence shows the ship changes course, making the public mission either a temporary truth or a lie that Plugg soon abandons.
+
 ## Campaign State
 
 ### Command Claim
@@ -75,6 +93,8 @@ Harrigan assigned a skeleton crew under Mr. Plugg to take the Man's Promise, and
 Mr. Plugg claims captaincy.
 
 Master Scourge acts as his first mate and enforcer.
+
+Slippery Syl Lonegan acts as boatswain under Plugg.
 
 Plugg's authority is real in the sense that he controls force, punishment, and shipboard assignments. It is not yet legitimate in the deeper sense of crew acceptance.
 
@@ -124,6 +144,7 @@ The ship contains overlapping factions rather than a unified crew.
 
 - Mr. Plugg
 - Master Scourge
+- Slippery Syl Lonegan
 - hostile or loyal Wormwood pirates
 - potentially Owlbear if not redirected by prior friendship
 
@@ -218,6 +239,7 @@ This has not yet become central in play but remains a future identity hook.
 - Sho is imprisoned.
 - The island party is split.
 - Plugg and Scourge have not yet secured supplies.
+- Syl is enforcing the supply-party mission and is physically near Rak's group on Bonewrack.
 - The rescued captives may expose Plugg's plan.
 - The ship may not have enough reliable sailors for every possible outcome.
 - The crew may not accept any single leader automatically.
@@ -252,6 +274,7 @@ Possible states include:
 - Did Giffer die during the boarding or later from injuries?
 - What happened to the lifeboat and fleeing sailors during the boarding?
 - Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
+- Did Plugg's public Port Peril order come from Harrigan, or was Plugg already lying?
 
 ## Related Documents
 
@@ -264,3 +287,4 @@ Possible states include:
 - `chronicles/battle-of-the-mans-promise.md`
 - `evidence/chat-logs/wormwood-erastus-25-mans-promise-boarding.md`
 - `evidence/gm-notes/mans-promise-captain-death-correction.md`
+- `evidence/chat-logs/mans-promise-erastus-27-plugg-first-speech.md`
