@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Seeded, expanded with storm-window Mirei performance order and Erastus 16 reef task
+- Maturity: Seeded, expanded with storm-window Mirei performance order, Erastus 16 reef task, and Erastus 27 first Man's Promise command speech
 - Scope: Book One primary antagonist
 - Source basis: Recovered Adventure Path text, GM-provided campaign facts, campaign timeline, player journals, and chat-log context
 
@@ -112,13 +112,33 @@ This scene is the direct setup for the reef / Clam AP encounter.
 
 ### Man's Promise Capture
 
-After the Wormwood captured the Man's Promise, Harrigan assigned Plugg to command the prize crew and sail the Man's Promise back toward Port Peril.
+After the Wormwood captured the Man's Promise, Harrigan assigned Plugg to command the prize crew and publicly sail the Man's Promise back toward Port Peril.
+
+### First Man's Promise Command Speech
+
+On Erastus 27, after Harrigan assigned the skeleton crew, Plugg gathered the new Man's Promise crew and demanded to be addressed as **Captain Plugg**.
+
+He named Scourge first mate and threatened disrespect with whip or knife.
+
+> "I will not tolerate decent on this ship, you live at my whim, and my whim alone!"
+
+He appointed Slippery Syl Lonegan as boatswain and ordered the crew to obey Syl's commands as if they came directly from him.
+
+Plugg's public stated task was to sail back to Port Peril and then return to the Wormwood.
+
+He ordered Sho to report to the poop deck of the Man's Promise in ten minutes and corrected her that he was now "Captain."
+
+He ordered Mirei to report as personal entertainment to keep morale up.
+
+This speech establishes Plugg's first public model of command on the Man's Promise: title, fear, delegated cruelty, and no tolerance for dissent.
 
 ### Course Change
 
 The Man's Promise changed course away from Port Peril.
 
 Multiple characters came to suspect that Plugg intended to betray Harrigan and take the ship for himself, likely toward Rickety's Squibs or another place where the ship could be altered and hidden.
+
+This makes the Erastus 27 Port Peril statement important: it is either the public order Plugg later abandons or an early lie.
 
 ### Bonewrack Isle
 
@@ -148,6 +168,14 @@ Plugg gives direction and protection. Scourge carries out discipline and feeds h
 
 On Erastus 16, Plugg ordered Scourge to fetch Badger for the reef task.
 
+On Erastus 27, Plugg publicly named Scourge first mate aboard the Man's Promise.
+
+### Slippery Syl Lonegan
+
+Plugg appointed Syl as boatswain in his first Man's Promise command speech.
+
+Her orders were to be treated as Plugg's orders.
+
 ### Mirei
 
 Plugg treated Mirei as a prize and tried to turn her into an asset against the other PCs.
@@ -158,6 +186,8 @@ The storm-window scene began as Mirei attempting to invite Harrigan, not Plugg. 
 
 On Erastus 16, Plugg assigned Mirei to the reef task with Harvus, Rak, Sho, and Badger.
 
+On Erastus 27, Plugg ordered Mirei to report to the Man's Promise as personal entertainment to keep morale up.
+
 He gave her a privileged but dangerous position and expected betrayal as proof of loyalty.
 
 ### Sho Astor
@@ -167,6 +197,8 @@ Sho's defiance drew Plugg's attention.
 He tracked her interactions and ensured pressure was placed on anyone associated with defiance.
 
 On Erastus 16, Sho was released from being tied to the mast and then sent into the reef task.
+
+On Erastus 27, Plugg ordered Sho to the poop deck of the Man's Promise and insisted she call him Captain.
 
 ### Harvus G'ron
 
@@ -229,6 +261,8 @@ This should be used as cultural evidence for why the crew fears acting openly ag
 
 - Location: Man's Promise
 - Claimed role: Captain
+- Public original mission: Port Peril, then return to the Wormwood
+- Actual course: Changed away from Port Peril, likely toward Rickety's Squibs or another place where the ship can be claimed
 - Situation: Ship damaged or recovering at Bonewrack Isle; crew divided; PCs and rescued prisoners may soon expose his weakness
 - Immediate threat: Mutiny, exposure, loss of command, retaliation from Harrigan if his betrayal fails
 
@@ -240,6 +274,7 @@ This should be used as cultural evidence for why the crew fears acting openly ag
 - Did Plugg attend or only order Mirei to perform below?
 - Did Harrigan truly want crabs on Erastus 16, or was Plugg using the request as cover for dangerous work?
 - Why did Plugg add Badger as the fifth reef-task member?
+- Did Plugg's Erastus 27 Port Peril order come directly from Harrigan, or was Plugg already lying?
 - Does Plugg still believe he can restore control without open slaughter?
 - How much does he know about Sandara, Tilly, and Goyle being rescued?
 - How does he respond if Rak returns with Harvus and the rescued prisoners instead of supplies alone?
