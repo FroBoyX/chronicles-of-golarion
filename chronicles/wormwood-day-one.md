@@ -5,7 +5,7 @@
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
 - Scope: First full day aboard the Wormwood, from deck tests through first night rest
-- Source basis: GM prose entries, AP standard-day scaffold, AP weather scaffold, first-night Sandara/harp chat extract, and existing character dossiers
+- Source basis: GM prose entries, AP standard-day scaffold, AP weather scaffold, first-night Sandara/harp chat extract, existing character dossiers, and GM log note that Crimson volunteered to join the crew on Erastus 5
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -20,9 +20,9 @@ Weather: normal.
 
 The first full day aboard the Wormwood began with possession.
 
-The ship had the new hands. Their belongings were gone. Their choices were narrower than they had been the night before. Above them stood officers who already understood the rules of the game and had no interest in explaining more than necessary.
+For the press-ganged new hands, the ship had them. Their belongings were gone. Their choices were narrower than they had been the night before. Above them stood officers who already understood the rules of the game and had no interest in explaining more than necessary.
 
-The newest five were brought onto the deck and tested.
+The five press-ganged newest members were brought onto the deck and tested.
 
 Some tests were public spectacle. Some were practical. Some were simply another way for **Mr. Plugg** to decide where each body would be most useful and least inconvenient.
 
@@ -30,7 +30,7 @@ By the end of the first tests, the Strix and the gnome had been marked for the r
 
 The next test was simpler.
 
-Plugg stopped in front of each new hand, stared into their eyes for an uncomfortable moment, and asked whether they could cook.
+Plugg stopped in front of each press-ganged new hand, stared into their eyes for an uncomfortable moment, and asked whether they could cook.
 
 Each answer was some form of no.
 
@@ -55,6 +55,8 @@ Therefore, the snake could cook.
 The swabs would report to **Master Scourge**. The riggers would report to Plugg. The cook's mate would report to Kroop.
 
 That was the shape of authority on the Wormwood: decisions first, reasons afterward.
+
+The GM log also records **Crimson** joining the Wormwood on Erastus 5. Crimson was not one of the five press-ganged new hands. He volunteered to join the crew. His first scene, shipboard duty, and relationship to the others remain unresolved in the current reconstruction.
 
 ## Work
 
@@ -216,6 +218,8 @@ Harvus had a name, a warning, and the possibility of care for his wing.
 
 Sho had already begun her quiet refusal of the Wormwood's rum discipline.
 
+Crimson's voluntary entry into the crew is known from the GM log, but his first-night placement is not yet reconstructed.
+
 The Wormwood had not become safer.
 
 It had become more legible.
@@ -225,7 +229,8 @@ That was the first victory.
 ## What This Establishes
 
 - Day 1 weather was normal.
-- The canon number of gang-pressed new hands is five.
+- The canon number of press-ganged new hands is five: Mirei, Harvus, Rak, Sho, and Conchobhar.
+- Crimson is the sixth person in the Erastus 5 crew-intake note, but he volunteered to join the Wormwood rather than being press-ganged.
 - Plugg's tests assigned the first shipboard roles.
 - Harvus and Conchobhar were assigned as riggers.
 - Rak was assigned as Kroop's cook's mate.
@@ -244,6 +249,7 @@ That was the first victory.
 
 - Confirm the exact first test before the cook question.
 - Confirm which characters were assigned as swabs.
+- Confirm Crimson's first scene, shipboard duty, and relationship to the press-ganged new hands.
 - Confirm whether the Sandara/Mirei/Harvus scene happened before or after rum ration.
 - Confirm whether Mirei played the harp that night.
 - Confirm whether Sandara's offer of a sling for Harvus became an actual item or treatment.
