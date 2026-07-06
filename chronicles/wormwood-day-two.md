@@ -5,8 +5,8 @@
 - Type: Day-by-day narrative reconstruction
 - Maturity: Draft / canon-candidate
 - Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, and Bloody Hour consequence
-- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, and NPC source extracts
-- Spoiler scope: Player-safe, except source-note provenance and unresolved speaker mapping are GM-facing
+- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
+- Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
 ## Date
@@ -29,7 +29,7 @@ The harassing group was:
 - **Fipps Chumlett**, a fat, pushy bully with a shaved head;
 - **Aretta Bansion**, a bad-tempered ex-harlot with big ears.
 
-The AP version is a fistfight meant to delay and humiliate, not a lethal knife fight. The campaign version keeps that structure but changes the outcome: the harassers lost badly enough that all four ended up unconscious and were punished later for being late.
+The AP version begins as a fistfight meant to delay and humiliate, not a lethal knife fight. The campaign version keeps that structure but changes the outcome: the harassers lost badly enough that all four ended up unconscious and were punished later for being late. Fipps did draw a dagger when cornered as the last attacker still standing, but he was knocked out before he could use it.
 
 ## Reconstructed Sequence
 
@@ -45,9 +45,13 @@ The four pirates meant to delay them, bruise them, and make them late enough to 
 
 It did not go the way Scourge's proxies intended.
 
-The fight that followed was still the Wormwood teaching its lessons: no privacy, no neutral witnesses, no clean line between discipline and ambush. Sailors loitered nearby to watch. The harassers came expecting a beating. Instead, they found resistance.
+The fight that followed was still the Wormwood teaching its lessons: no privacy, no neutral witnesses, no clean line between discipline and ambush. Sailors loitered nearby to watch. **Conchobhar Turlach Shortstone** and **Crimson "Cog" Cogward** were among those watching, but were not caught up in the fight.
+
+The harassers came expecting a beating. Instead, they found resistance.
 
 Aretta took several blows from **Harvus G'ron**. **Mirei** distracted her. **Sho Astor** ultimately rendered Aretta unconscious.
+
+As the fight collapsed around him, **Fipps Chumlett** found himself cornered as the last attacker still standing, with Harvus and Sho there. He drew a dagger, turning the fistfight toward something more dangerous, but he was knocked out before he could use it.
 
 By the end of the altercation, the entire harassment group was down:
 
@@ -72,13 +76,13 @@ Rak answered plainly enough.
 
 > "Ran into some tallywags down below"
 
-Another new hand gave the same answer in more theatrical language.
+**Harvus** gave the same answer in more theatrical language.
 
 > "A plague of knave thought to hold us from our duties."
 
 Scourge's face hardened. His hand went to the whip.
 
-A third explanation followed.
+**Sho** followed with the practical report.
 
 > "They attempted to restrict our movements. Youll find them unconcious downstairs"
 
@@ -90,13 +94,30 @@ Rak accepted the order in his own manner.
 
 > "As you command, brah"
 
-Another new hand answered with mocking obedience.
+Harvus answered with mocking obedience.
 
 > "Yessa massah"
+
+Sho nodded and proceeded up onto deck.
 
 The workday continued.
 
 The exact shipboard tasks assigned that day have not survived cleanly. Weather was normal. The Wormwood routine held: work by day, punishment at dusk, dinner, rum, and whatever private social maneuvers could survive in the margins.
+
+## Day 2 Work Assignment Reconstruction
+
+The exact task rolls or assignments are not preserved.
+
+The role categories are known or strongly inferred:
+
+- **Harvus:** rigger; possible tasks from the rigger list include rigging repair, line work, upper rigging work, rope work, lookout, or mainsail duties.
+- **Conchobhar:** rigger; exact Day 2 task unknown.
+- **Rak:** cook's mate under Kroop; possible tasks include cooking, fishing, turtle hunting, bull session, or special occasion work.
+- **Sho:** likely swab unless later evidence contradicts; possible tasks include bilges, rat catching, deck swabbing, hauling rope and knot work, runner duties, or repairs.
+- **Mirei:** likely swab unless later evidence contradicts; possible tasks overlap with Sho's likely swab options.
+- **Crimson:** listed as a swab, but his exact Day 2 assignment is unknown.
+
+These are educated reconstruction categories, not confirmed task results.
 
 ## Bloody Hour
 
@@ -120,6 +141,8 @@ She had been beaten, distracted, rendered unconscious, and then punished for the
 
 Sho rendered Aretta unconscious in the fight belowdecks.
 
+She also gave Scourge the practical report that the harassers were unconscious downstairs.
+
 This becomes part of the chain that later leads Aretta and Fipps into the bilges attack against Sho. Sho's Day 2 success therefore becomes one of the reasons she is later targeted.
 
 ### Mirei
@@ -132,6 +155,8 @@ This is an early example of Mirei acting in support of the new hands during dire
 
 Harvus struck Aretta several times.
 
+He also gave the theatrical explanation to Scourge on deck and answered Scourge's order with mocking obedience.
+
 The altercation gives Harvus an early role as direct physical resistance against Scourge-aligned crew.
 
 ### Rak Wraithraiser
@@ -142,11 +167,15 @@ His "Sup brah" and "As you command, brah" responses show Rak refusing to adopt t
 
 ### Conchobhar Turlach Shortstone
 
-Conchobhar was part of the press-ganged new-hands intake and the early trials, but his role in this specific Day 2 harassment scene is not currently recovered.
+Conchobhar was part of the nearby crew watching the fight, but was not caught up in it.
+
+He remains a rigger, and his exact Day 2 task is unknown.
 
 ### Crimson "Cog" Cogward
 
-Crimson was part of the early trials and Erastus 5 intake, but volunteered rather than being press-ganged. His role in the Day 2 harassment scene is not currently recovered.
+Crimson was part of the nearby crew watching the fight, but was not caught up in it.
+
+He is listed as a swab, but his exact Day 2 task is unknown.
 
 ### Aretta Bansion
 
@@ -164,35 +193,36 @@ Her failure here matters because she later remains tied to hostile lower-crew pr
 
 Fipps is part of the harassment group and later remains connected to the bilges revenge thread against Sho.
 
+He drew a dagger only after being cornered as the last person still standing with Harvus and Sho there, but he was knocked out before he could use it.
+
 ### Jaundiced Jape
 
 Jape is part of the harassment group and is punished with the others.
 
 ## What Is Lost to Time
 
-- The exact blow-by-blow of the fight.
+- The exact blow-by-blow of the fight beyond the known Aretta sequence and Fipps's dagger escalation.
 - Whether the fight stayed entirely in the crew berths or moved into the stairs / passage.
-- Whether Fipps drew a dagger in the table version.
-- Which characters directly fought Fipps, Jape, and Syl.
-- Whether Conchobhar or Crimson witnessed, joined, avoided, or missed the fight.
-- The exact daily work assignments for each new hand on Day 2.
+- Which characters directly fought Jape and Syl.
+- Who specifically knocked out Fipps after he drew the dagger.
+- The exact daily task assignments for each new hand on Day 2.
 - Whether there were additional Day 2 daytime social scenes before Bloody Hour.
 - Whether any night scenes on Erastus 6 can be confidently placed after this event.
-- Which player character corresponds to the chat labels `Me` and `chas` in the deck-arrival exchange.
 
 ## Open Checks
 
-- Confirm the speaker behind `Me: A plague of knave thought to hold us from our duties.`
-- Confirm the speaker behind `chas: They attempted to restrict our movements. Youll find them unconcious downstairs`.
 - Confirm whether Scourge's deck reaction was anger at lateness, anger at failed proxies, or both.
 - Confirm whether Scourge or Plugg privately punished or blamed the four before Bloody Hour.
 - Confirm whether any of the watching sailors reacted meaningfully to the new hands winning the fight.
+- Confirm whether Conchobhar or Crimson had any meaningful reaction to watching the fight.
 - Confirm whether the Day 2 victory affected influence with any lower-crew NPCs.
 
 ## Canon Consequences
 
 - Scourge began using lower-crew proxies against the new hands immediately.
 - The new hands resisted the first organized crew harassment attempt.
+- Fipps escalated by drawing a dagger when cornered, but was knocked out before he could use it.
+- Conchobhar and Crimson witnessed the fight but were not caught up in it.
 - Aretta, Fipps, Jape, and Syl were publicly punished for the failed attempt.
 - Aretta's later revenge motive begins here.
 - The later bilges ambush against Sho should be treated as connected to Day 2 humiliation, not as an isolated incident.
