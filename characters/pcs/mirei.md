@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, and storm-window Plugg performance order
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, and storm-window Harrigan performance invitation intercepted by Plugg
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -129,15 +129,15 @@ By the following night, the GM clarified that Mirei had noticed the previous day
 
 This is the recovered beginning of the Mirei/Sho disguise thread.
 
-### Storm-Window Performance Order
+### Storm-Window Performance Invitation
 
-Sometime during the early Wormwood storm window, likely between Erastus 11 and Erastus 13 if the AP weather scaffold maps cleanly to the reconstructed calendar, Mirei went to invite Plugg or the captain to her nightly performance.
+Sometime during the early Wormwood storm window, likely between Erastus 11 and Erastus 13 if the AP weather scaffold maps cleanly to the reconstructed calendar, Mirei went to invite **Captain Harrigan** to her nightly performance.
 
-She knocked on the door and called through it that she wanted to invite everyone to her performance that night.
+She knocked on the captain's door or command-space door and called through it that she wanted to invite everyone to her performance that night.
 
-Plugg barked back that she should get below before the storm hit and give a performance that would pacify the "land-lubber scum."
+Plugg, not Harrigan, answered through the door. He barked back that she should get below before the storm hit and give a performance that would pacify the "land-lubber scum."
 
-This scene shows that Mirei's performances had become a recurring shipboard event by the storm window, and that Plugg recognized their use as morale control.
+This scene shows that Mirei's performances had become a recurring shipboard event by the storm window, and that Plugg recognized their use as morale control, even though Mirei's intended invitation target was Harrigan.
 
 ### Wormwood Period
 
@@ -201,7 +201,15 @@ Badger complimented Mirei's early Wormwood performances and asked where she lear
 
 This may be an early seed of Badger recognizing Mirei's value as a performer rather than only as a new press-ganged hand.
 
+### Captain Barnabas Harrigan
+
+Mirei attempted to invite Harrigan to one of her storm-window performances.
+
+It is not confirmed that Harrigan heard the invitation or attended.
+
 ### Mr. Plugg
+
+Plugg intercepted or answered Mirei's attempt to invite Harrigan and turned the invitation into an order to perform below before the storm hit.
 
 Plugg recognized Mirei's performances as a way to pacify crew morale during the storm window.
 
@@ -216,7 +224,8 @@ This does not yet equal the later Man's Promise betrayal assignment, but it is e
 - Her role as a Sea Singer should be preserved in any future conversion.
 - Confirm whether the Day 2 performance was the first actual performance after the harp's return or simply the first recovered one.
 - Confirm when Sho openly confided the disguise truth to Mirei.
-- Confirm whether the storm-window Plugg performance order is Erastus 11, 12, or 13.
+- Confirm whether the storm-window Harrigan invitation / Plugg order is Erastus 11, 12, or 13.
+- Confirm whether Harrigan ever heard the invitation or attended the performance.
 - Confirm whether the floating 34 performance belongs to the same night as the storm-window Plugg order.
 
 ## Evidence Notes
