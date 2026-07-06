@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, expanded with Rak and Sho player-sheet evidence
+- Maturity: Draft, expanded with Rak and Sho player-sheet evidence plus Ebony Saable survivor confirmation
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -57,6 +57,12 @@ Sho's notes record:
 - Nor'Gal and dead brother Cor'Wal name evidence,
 - and Goyle as former quartermaster of the Man's Promise.
 
+### GM Survivor Confirmation
+
+Ebony Saable is confirmed as one of the six tracked Man's Promise survivors.
+
+He is also identified as the "monk man" referenced by Sho.
+
 ## Known Current PCs
 
 | Character | Current Location | Status | Notes |
@@ -80,6 +86,7 @@ Sho's notes record:
 | Jaundiced Jape | Bonewrack, Rak group | Alive | Hostile, silent threat; on Sho watch list. |
 | Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; left at Coconut Beach by Syl because ship was expected there; on Sho watch list. |
 | Kahina Bukekayo | Man's Promise | Alive | Man's Promise survivor; Sho's current moral interrogator. |
+| Ebony Saable | Man's Promise | Alive | Confirmed as one of the six tracked Man's Promise survivors; rigger; identified as Sho's referenced "monk man." |
 | Ambrose Kroop | Man's Promise | Alive | Practical ally; likely anti-Plugg but survival-minded; helpful from Rak sheet. |
 | Owlbear Hartshorn | Man's Promise | Presumed alive | Plugg-controlled unless prior friendship changes him. |
 
@@ -121,7 +128,6 @@ Sho's notes record:
 | Nor'gal / Nor'Gal Daraa | Man's Promise survivor / unknown | Brother of Kor'al / Cor'Wal; possible revenge thread; named in Sho notes. |
 | Crimson | Unknown | Sho notes say she has something to discuss with Crimson; identity unresolved. |
 | Dahrehn Numus | Man's Promise survivor / unknown | Status and role need confirmation. |
-| Ebony Saable | Man's Promise survivor / unknown | Status and role need confirmation. |
 | Merchiel V'giatore | Man's Promise survivor / unknown | Status and role need confirmation. |
 | Melina Drakesworn | Man's Promise survivor / unknown | Status and role need confirmation. |
 
@@ -162,6 +168,7 @@ Likely or player-evidenced:
 Likely includes:
 
 - Kahina Bukekayo
+- Ebony Saable, confirmed as one of the six tracked survivors
 - Goyle Onórach, former quartermaster if Sho sheet is confirmed
 - Nor'gal / Nor'Gal Daraa if alive
 - other surviving Man's Promise sailors
@@ -207,7 +214,7 @@ If too many people die or leave, the ship may become a prize no one can actually
 - Identify Crimson and resolve what Sho needs to discuss with them.
 - Resolve Kipper and Patch placement.
 - Reconcile Patch baseline hostility with Rak sheet's indifferent note.
-- List surviving Man's Promise original crew.
+- Name the other five tracked Man's Promise survivors alongside Ebony Saable.
 - Confirm Goyle's former quartermaster status.
 - Resolve Nor'Gal / Nor'gal and Cor'Wal / Kor'al spellings.
 - Confirm whether Owlbear is befriended by Sho or another PC.
