@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Harvus light timeline evidence
+- Maturity: Draft, expanded with Harvus light timeline evidence and Erastus 16 land-ho call
 - Scope: Lower-crew rigger, placement and loyalty unresolved
 
 ## Overview
@@ -23,6 +23,7 @@ Harvus' light timeline records that Harvus influenced Ratline during the Wormwoo
 - Current location: Likely Man's Promise, pending confirmation
 - Current status: Presumed alive
 - Known Harvus interaction: Influenced by Harvus during Wormwood Day 15 note sequence
+- Known Wormwood evidence: Called land ho from the rigging on Erastus 16
 
 ## Baseline Adventure Path Role
 
@@ -48,6 +49,8 @@ That loss may affect Ratline's stance toward Rak, the PCs, or the mutiny dependi
 
 Harvus' light timeline records that Harvus influenced Ratline after a conversation with Sandara and before going to bed to heal.
 
+On the morning of Erastus 16, Ratline called "Land ho" from the rigging, triggering the deck commotion that led into Plugg's crab reef task.
+
 ## Relationships
 
 ### Giffer Tibbs
@@ -65,6 +68,8 @@ Harvus influenced Ratline during the Wormwood period.
 The degree of success needs confirmation.
 
 This matters because Harvus is returning with rescued witnesses and may have more credibility with sailors he previously influenced.
+
+Ratline was in the rigging on Erastus 16 when Harvus was later called down from the rigging for the reef task.
 
 ### PCs
 
