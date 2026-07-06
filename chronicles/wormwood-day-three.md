@@ -4,8 +4,8 @@
 
 - Type: Day-by-day narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 7 scaffold, Sho/Grok cloak attempt, Mirei noticing Sho's disguise, and recovered night Rak/Grok trust conversation
-- Source basis: AP weather scaffold, GM note tying next-day bilges to Erastus 8 dire-rat encounter, Sho/Grok cloak chat extract, Mirei/Sho disguise whisper evidence, Rak/Grok trust chat extract, existing relationship records
+- Scope: Erastus 7 scaffold, Sandara/Harvus dinner, Sho/Grok cloak attempt, Mirei noticing Sho's disguise, and recovered night Rak/Grok trust conversation
+- Source basis: AP weather scaffold, GM note tying next-day bilges to Erastus 8 dire-rat encounter, Sandara/Harvus dinner chat extract, Sho/Grok cloak chat extract, Mirei/Sho disguise whisper evidence, Rak/Grok trust chat extract, existing relationship records
 - Spoiler scope: Player-safe after Sho's disguise truth is no longer secret; otherwise character-limited
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -22,7 +22,7 @@ The Wormwood remained in normal weather.
 
 The exact daytime assignments and checks for Day 3 are not currently recovered.
 
-The recovered scenes are a medium-confidence Sho/Grok cloak attempt, the first recovered Mirei/Sho disguise-discovery evidence, and a high-confidence night conversation between **Rak Wraithraiser** and **Cut-Throat Grok**, with **Mirei** performing nearby.
+The recovered scenes are a high-confidence Sandara/Harvus dinner conversation, a medium-confidence Sho/Grok cloak attempt, the first recovered Mirei/Sho disguise-discovery evidence, and a high-confidence night conversation between **Rak Wraithraiser** and **Cut-Throat Grok**, with **Mirei** performing nearby.
 
 The Rak/Grok date placement is high-confidence because Grok ends the exchange by telling Rak to rest because he is in the bilges tomorrow. The GM note places the dire-rat bilges encounter on Erastus 8.
 
@@ -32,7 +32,67 @@ Day 3 likely passed through the same brutal rhythm as the days before it: bell, 
 
 Most of the day's labor is lost to time.
 
-One recovered scene has **Sho Astor** returning to **Cut-Throat Grok** to try again.
+## Sandara and Harvus: Dinner in the Middle Hold
+
+At dinner, **Sandara Quinn** was eating in the middle hold when she invited **Harvus G'ron** to sit with her.
+
+> "Hey Harvus. come have a seat."
+
+Harvus accepted with courtly formality.
+
+> "I thank you."
+
+Sandara asked whether he was adjusting to life aboard the Wormwood.
+
+Harvus said he was, though he had not been looking for life at sea.
+
+> "I am, milady. I wasn't exactly looking for life on the see but it's quite interesting."
+
+Then he asked about Sandara herself: where she was from and how she came to be aboard.
+
+Sandara smiled lightly but hesitated.
+
+> "You sure you want to know? I don't really like to go into it."
+
+Harvus did not press.
+
+> "Only if you are comfortable, I won't push anything that sensitive."
+
+Because he gave her that room, Sandara began.
+
+> "I was raised in Hell harbor...."
+
+Harvus knew of Hell Harbor as one of the largest ports in the Shackles.
+
+Sandara explained that her parents were always overworked and had little time, so she grew up mostly on the port's streets. She worked the docks when she could, got into trouble, and then paused with a chuckle as the past came back to her.
+
+Nearby, Mirei rolled a 31 performance somewhere on her harp.
+
+Harvus listened and answered gently.
+
+> "It sounds like a hard life."
+
+Sandara continued. She had found her way into taverns by nine and was on the seas by twelve.
+
+> "I guess that's really where I belong. Out here."
+
+Harvus answered with open affection.
+
+> "Well, my heart is filled with joy at this chance to meet you."
+
+Then he excused himself to sleep and rest his damaged wing.
+
+> "I'm off to sleep fair maiden, I must give this wing as much rest as I can."
+
+He kissed her hand before leaving.
+
+Sandara thanked him, invited him to ask more later, and called after him to check on his wing.
+
+> "Oh, Harv? that helping the wing any?"
+
+Harvus answered that it was and thanked her.
+
+The scene matters because Sandara shares guarded personal history after Harvus respects her hesitation. Harvus' affection is already courtly and intense, but he is careful enough here not to push past her boundary.
 
 ## Sho and Grok: The Cloak
 
@@ -156,6 +216,24 @@ Rak's player later described Rak having a strong physical attraction or arousal 
 
 ## Character Beats
 
+### Sandara Quinn
+
+Sandara invites Harvus to sit with her at dinner and checks whether he is adjusting.
+
+She is hesitant to speak about her past, but opens up after Harvus makes clear he will not push.
+
+Her Hell Harbor / dock-streets / taverns by nine / sea by twelve history is now directly placed in play.
+
+She also checks on Harvus' wing as he leaves, showing practical care beneath the lightness of the dinner conversation.
+
+### Harvus G'ron
+
+Harvus is courtly and openly affectionate with Sandara, calling her milady and fair maiden and kissing her hand.
+
+More importantly, he respects her boundary when she hesitates to speak about her past.
+
+He leaves to rest his damaged wing, showing that the wing injury remains an active concern.
+
 ### Sho Astor
 
 Sho persists in trying to recover her property, specifically her cloak.
@@ -174,7 +252,7 @@ She initially does not want to hide that she noticed and is already inclined to 
 
 The next night's follow-up clarifies that the thing Mirei noticed on Day 3 was that Sho was actually a woman. Mirei later chooses to hide that she has figured out the exact truth.
 
-Mirei was also performing nearby strongly enough that the performance entered the Rak/Grok scene record as a 31 on harp.
+Mirei was also performing nearby strongly enough that the performance entered multiple Day 3 scene records as a 31 on harp.
 
 This reinforces that Mirei's music was already shaping the ship's night atmosphere and drawing reactions from nearby crew, even as she was also noticing dangerous personal secrets.
 
@@ -212,6 +290,9 @@ Scourge is not present, but Grok explicitly warns that he seems to have it out f
 
 - Day 3 work assignments.
 - Bloody Hour details, if any were unusual.
+- The exact ordering of the Day 3 dinner and night scenes.
+- Whether Sandara explained how she was press-ganged in the same larger conversation or later.
+- What aid, if any, was Harvus using for his wing at this point.
 - The precise placement of Sho's cloak conversation during the day or night.
 - What Grok meant by "a step in the right direction."
 - What insult Sho believed she had left on Grok.
@@ -228,6 +309,8 @@ Scourge is not present, but Grok explicitly warns that he seems to have it out f
 
 ## Open Checks
 
+- Did Sandara explain the press-ganging part of her story later that same night?
+- Did Harvus' hand-kiss shift Sandara's attitude mechanically?
 - Did Sho's second attempt happen before or after the Rak/Grok trust conversation?
 - Is this the same cloak Sho later recovered and overpaid for due to exchange-rate confusion?
 - Did Mirei ask Sho directly what was going on that night?
@@ -241,6 +324,9 @@ Scourge is not present, but Grok explicitly warns that he seems to have it out f
 
 ## Canon Consequences
 
+- Sandara's Hell Harbor / port-streets / taverns by nine / sea by twelve backstory was communicated to Harvus in play.
+- Harvus' courtly affection for Sandara is active by Day 3, but so is his restraint around her boundaries.
+- Harvus' wing injury remains active enough that he is resting it intentionally.
 - Sho's desired item is confirmed as her cloak.
 - Sho attempts to repair an insult with Grok, but Grok still requires concrete value for trade.
 - Mirei notices that something is false about Sho's presentation.
