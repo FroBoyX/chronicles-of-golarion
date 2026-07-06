@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with direct fiddle-return scene
+- Maturity: Draft, expanded with direct fiddle-return scene and post-loss suspicion
 - Scope: Wormwood lower-crew ally, Harvus friendship, storm loss
 
 ## Overview
@@ -13,6 +13,8 @@ Rosie Cusswell was a fierce halfling sailor aboard the Wormwood whose fiddle bec
 Harvus recovered Rosie's fiddle and became her friend before she was lost at sea during the Wormwood storm.
 
 Her death matters because she was not an anonymous storm casualty. She was someone the PCs had helped and begun to know.
+
+A later recovered Sandara conversation introduces suspicion that Rosie's going overboard may have been intentional after she angered Scourge and Plugg, but this remains suspicion rather than confirmed fact.
 
 ## Identity
 
@@ -48,6 +50,8 @@ Recovering her fiddle was not only a gear task. It restored something personal t
 
 Her later death in the storm turned that small kindness into an early grief beat.
 
+If Sandara's suspicion proves true, Rosie's death may also be evidence that Plugg and Scourge were already willing to let difficult lower-crew members die under cover of shipboard danger.
+
 ## Campaign History
 
 ### Fiddle Recovery
@@ -78,6 +82,10 @@ Rosie was lost at sea during the Wormwood storm despite rescue efforts.
 
 Her loss should remain a meaningful death in the Book One record.
 
+In a later conversation with Harvus, Sandara said Rosie was new but had angered Scourge and Plugg quickly. Sandara had been busy in the rigging during the storm, but said Rosie's going over might have been intentional.
+
+This should be recorded as Sandara's suspicion, not confirmed murder, until stronger evidence is recovered.
+
 ## Relationships
 
 ### Harvus G'ron
@@ -87,6 +95,8 @@ Harvus recovered Rosie's fiddle and became her friend.
 This gives Harvus a grief connection before Bonewrack and before Sandara's rescue.
 
 The recovered fiddle scene shows Rosie responding with genuine, chaotic gratitude rather than polite thanks.
+
+Rosie's loss was one of the events Harvus later named when describing the renewed rage building in his heart.
 
 ### Conchobhar Turlach Shortstone
 
@@ -100,6 +110,10 @@ Whether that developed in campaign should be confirmed.
 
 Rosie hated Plugg and Scourge.
 
+Sandara later said Rosie angered both quickly and that Rosie's going over during the storm might have been intentional.
+
+This is an unresolved suspicion, not confirmed canon.
+
 Her death spared her from the Man's Promise crisis, but it also removed a potentially fierce ally.
 
 ## Campaign Function
@@ -112,10 +126,13 @@ The campaign's later question of what kind of crew survives should remember thos
 
 For Harvus specifically, Rosie's death comes after he successfully restored something personal to her. That makes the later grief cleaner and sharper.
 
+If the suspicion of intentionality is later confirmed, Rosie may become an early example of Plugg and Scourge using shipboard danger as cover for selective elimination.
+
 ## Open Questions
 
 - What happened to Rosie's fiddle after her death?
 - Did Harvus keep, return, or lose it?
+- Was Rosie's going overboard accidental, negligent, or intentional?
 - Did Conchobhar meaningfully grieve her?
 - Did any crew member blame the officers, the storm, or the rescue failure?
 - Is Rosie remembered by name in any later shipboard story?
