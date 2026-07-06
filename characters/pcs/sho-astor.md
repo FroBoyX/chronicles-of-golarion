@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal / Rosie rescue
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal / Rosie rescue / bilges ambush
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -277,6 +277,26 @@ Aretta did not survive the ensuing fight.
 
 This is one of Sho's major moral burden points. Aretta died in ugly shipboard conditions after a setup designed to break or remove Sho.
 
+### Bilges Ambush and Attempted Frame
+
+Sho sees the Erastus 23 bilges event first as an attempted murder.
+
+From her perspective, the frame came after the murder attempt failed: she survived, and the setup became a way to make her responsible for what happened.
+
+During the fight, Sho was in full survival mode. She was genuinely terrified that she would die in the bilges and was not pulling punches or kicks while trying to make it out alive.
+
+After the fight, Sho's response was mixed:
+
+- guilt that panic pushed her into going all-out,
+- discipline and mercy telling her she still needed to do the right thing and make sure Aretta and Fipps did not die,
+- and fear that she would be held accountable if they did die.
+
+At first, Aretta's condition was something Sho felt guilt over. That guilt shifted quickly when she realized she had been set up and that those who came afterward did not go down to help, but to frame her.
+
+The incident intensified her hatred of Plugg and Scourge beyond what she had previously understood. Sho concluded that they needed to be taken down and that she herself would take them down.
+
+This also creates tunnel vision: after the ambush and frame, Sho is laser-focused on clearing her name and bringing down the guilty party.
+
 ### Aretta
 
 Sho's conflict with Aretta in the bilges ended with Aretta's death after slow or inadequate shipboard care.
@@ -521,11 +541,15 @@ The Erastus 23 bilge setup and Erastus 24 hot-box / keelhaul trajectory likely o
 
 Sho sees Scourge as scum who delights in malicious cruelty and needs to be taken down.
 
+After the Erastus 23 bilges ambush and frame, Sho's hatred intensified. She concluded that Scourge and Plugg needed to be taken down and that she herself would do it.
+
 ### Mr. Plugg
 
 Sho sees Plugg as scum who delights in malicious cruelty and needs to be taken down.
 
 Plugg's use of punishment, indirect violence, and authority makes him a clear moral enemy for Sho.
+
+After the Erastus 23 bilges ambush and frame, Sho's hatred intensified. She concluded that Plugg and Scourge needed to be taken down and that she herself would do it.
 
 ### Sandara Quinn
 
@@ -584,6 +608,12 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Who held or controlled Sho's rope, if any?
 - Which crew members did Sho start sorting as rotten versus trapped after Rosie's death?
 - What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 23 bilge fight?
+- Who went down to the bilges after the fight, and what did Sho observe them doing or not doing?
+- Did Sho explicitly ask for help for Aretta and / or Fipps?
+- What evidence did Sho have at the time that the aftermath was a frame rather than negligence?
+- Did Sho tell anyone immediately that she believed she had been set up?
+- How much did Sho know about Plugg versus Scourge's roles in the bilges setup?
+- How long did Sho's tunnel vision last after being put in the hot-box?
 - Who ordered Sho released for the Erastus 25 battle and gave her the strike-team opportunity?
 - What was Sho's physical condition when released for the Erastus 25 battle?
 - What did Sho suspect about Giffer's body?
