@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: GM-confirmed, expanded with Day 2 brew scene, Day 3 trust talk, Erastus 16 first hook-up, and undocumented bonding note
+- Maturity: GM-confirmed, expanded with Day 2 brew scene, Day 3 trust talk, Erastus 16 first hook-up, Erastus 27 separation, and undocumented bonding note
 - Scope: Wormwood period before capture of the Man's Promise and prize-crew split
 
 ## Summary
@@ -11,6 +11,8 @@
 Rak Wraithraiser and Cut-Throat Grok first hooked up on the night of **Erastus 16**, after Rak earned Harrigan's reefclaw reward and went to Grok's store to recover his confiscated belongings.
 
 Afterward, Rak began bunking with Grok before the Man's Promise split.
+
+On Erastus 27, Rak was assigned to the Man's Promise while Grok remained aboard the Wormwood. Their goodbye was emotional, and Grok said she had a present for Rak before he left.
 
 This is a major relationship beat and should be treated as campaign canon.
 
@@ -106,6 +108,24 @@ Grok cracked her knuckles and answered:
 
 The user confirmed this was Rak and Grok's **first hook-up**.
 
+## Erastus 27 Separation
+
+When Plugg's skeleton crew was assigned to the Man's Promise, Rak asked whether Grok was coming too.
+
+Grok held back tears and shook her head.
+
+> "I've got a present for you before you go...."
+
+Rak protested.
+
+Grok smiled and told him they would be okay and that she would see him again.
+
+> "We will be okay. I'll see you again."
+
+Rak answered that they would, and that he would make sure of it, then headed down with her.
+
+This is the direct recovered goodbye setup. It confirms the separation was emotional and that Grok intended to give Rak a present before he left. The present itself remains unrecovered.
+
 ## Campaign Significance
 
 This changes Rak's Wormwood social position.
@@ -120,6 +140,8 @@ The trust-talk scene shows why the relationship could become emotionally or prac
 
 The Erastus 16 scene confirms when the relationship became physical: their first hook-up followed Rak's reefclaw reward and gear return.
 
+The Erastus 27 separation establishes that the relationship had emotional weight by the time Rak was sent to the Man's Promise.
+
 The likely undocumented bonding time means the first hook-up should not feel abrupt in reconstruction. The preserved evidence shows only the visible edge of a larger shipboard pattern.
 
 ## Timing
@@ -129,11 +151,9 @@ The likely undocumented bonding time means the first hook-up should not feel abr
 - Recurring undocumented bonding through cooking, alcohol, Ambrose, the galley, and quartermaster access is likely up until the Man's Promise.
 - First recovered serious trust conversation: Erastus 7 / Wormwood Day 3 night, when Rak asked Grok who he could trust and Grok advised him to avoid officers, watch Scourge, and make friends with newer crew or Ambrose.
 - First hook-up: Erastus 16 night, during gear return after Harrigan's reefclaw reward.
-- Occurred before the capture of the Man's Promise.
-- Occurred before the prize crew was split from the Wormwood.
-- Occurred while Rak was still aboard the Wormwood.
+- Separation / goodbye setup: Erastus 27, when Rak is assigned to the Man's Promise and Grok remains aboard the Wormwood.
+- Occurred before the Man's Promise prize crew separated from the Wormwood.
 - Grok was aware that Rak was being transferred to the Man's Promise.
-- Rak and Grok shared a sentimental goodbye before the ships separated.
 
 ## Separation
 
@@ -142,6 +162,8 @@ When Plugg chose the Man's Promise prize crew, Rak was separated from Grok.
 Grok remained aboard the Wormwood.
 
 Their goodbye was sentimental, not merely logistical.
+
+Grok intended to give Rak a present before he left, but the present is not yet identified.
 
 If Grok's story continues along the later published Adventure Path direction, this goodbye may become a grim plot point.
 
@@ -166,6 +188,7 @@ The relationship can matter later if:
 
 ## Open Questions
 
+- What present did Grok give Rak before he left for the Man's Promise?
 - Who was Rak worried might wake up during the Erastus 16 scene?
 - What exact gear did Grok return to Rak after Harrigan's order?
 - What earlier galley / Kroop / quartermaster contact occurred before the Erastus 6 brew scene?
@@ -176,7 +199,6 @@ The relationship can matter later if:
 - Did Grok name any specific newer crew in surrounding lost text?
 - Did any officers know Rak was bunking with Grok?
 - Did Kroop know before the crew split?
-- Did Grok give Rak a material parting gift, or was the goodbye purely sentimental?
 - Does Rak consider the relationship casual, meaningful, strategic, or some mixture?
 - Does Grok remain emotionally or materially invested in Rak after the split?
 - Will Grok's later Adventure Path fate be used, altered, or avoided?
