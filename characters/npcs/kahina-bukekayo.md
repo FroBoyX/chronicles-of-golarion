@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue and survivor-set confirmation
 - Scope: Man's Promise survivor, Sho hot-box counterpart, potential anti-Plugg actor
 
 ## Overview
 
-Kahina Bukekayo is a survivor of the Man's Promise side of the boarding and a current point of contact for Sho Astor while Sho is imprisoned in the hot-box.
+Kahina Bukekayo is one of the six tracked Man's Promise survivors and a current point of contact for Sho Astor while Sho is imprisoned in the hot-box.
 
 She is important because she turns Sho's captivity into a live political and moral scene rather than only punishment.
 
@@ -19,10 +19,22 @@ Kahina may be willing to act against Plugg and Scourge, but she does not automat
 - Name: Kahina Bukekayo
 - Type: NPC
 - Origin: Man's Promise survivor
-- Likely role: Guard / warrior / sailor
+- Role: Rigger
+- Description: A tall slender warrior
 - Current location: Man's Promise
-- Current status: Alive
+- Current status: Alive / tracked Man's Promise survivor
 - Immediate scene partner: Sho Astor
+
+## Survivor Set
+
+Kahina is one of the six tracked Man's Promise survivors:
+
+- Dahrehn Numus
+- Ebony Saable
+- Goyle Onórach
+- Kahina Bukekayo
+- Merchiel V'giatore
+- Nor'gal Daraa
 
 ## Campaign Role
 
@@ -118,9 +130,13 @@ Kahina may not need to like Sho to use her against them.
 
 ## Relationship With Man's Promise Survivors
 
-Kahina may become a voice, organizer, or symbol for surviving Man's Promise sailors.
+Kahina is one of the six tracked Man's Promise survivors.
+
+She may become a voice, organizer, or symbol for surviving Man's Promise sailors.
 
 This should be handled carefully: she may not formally lead them, but she can represent their anger and their memory of the battle.
+
+Known tracked survivors include Dahrehn, Ebony, Goyle, Kahina, Merchiel, and Nor'gal. Their exact alignment behind Kahina's test is unresolved.
 
 ## Relationship With the PCs
 
@@ -138,7 +154,7 @@ She may also refuse to distinguish between them at first.
 ## Current State
 
 - Location: Man's Promise
-- Status: Alive
+- Status: Alive / tracked Man's Promise survivor
 - Scene: Recently left Sho's hot-box after issuing the life-for-life test
 - Immediate leverage: Can offer Sho a path to act against Plugg and Scourge, but only under moral pressure
 - Immediate warning: If Sho hesitates when the moment comes, Kahina has threatened to ensure Sho dies for her sins
@@ -175,7 +191,7 @@ Her position should be conditional on what Sho says and does.
 ## Open Questions
 
 - Does Kahina have authority among the Man's Promise survivors?
-- How many Man's Promise survivors are still aboard and capable of acting?
+- Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard near Kahina at the cold open?
 - Does Kahina know Goyle survived?
 - Does Kahina know Plugg pushed Goyle overboard?
 - What does Kahina want besides revenge?
