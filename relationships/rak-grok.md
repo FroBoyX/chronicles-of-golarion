@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: GM-confirmed seed, expanded with Day 2 brew scene
+- Maturity: GM-confirmed seed, expanded with Day 2 brew scene and undocumented bonding note
 - Scope: Wormwood period before capture of the Man's Promise and prize-crew split
 
 ## Summary
@@ -40,6 +40,21 @@ The current GM reconstruction presumes Grok furnished both Rak's alchemy kit and
 
 This scene should be treated as the first recovered growth point in their friendship, not necessarily its absolute beginning.
 
+## Undocumented Bonding Time
+
+Rak and Grok likely had substantial undocumented bonding time after the first recovered brew scene.
+
+This is a grounded reconstruction because:
+
+- Grok and Ambrose Kroop are friends;
+- Ambrose is a drunk;
+- Grok likes alcohol;
+- Rak became Kroop's cook's mate;
+- Rak did most of the cooking up until the Man's Promise;
+- and Rak could make alcohol, giving him something Grok concretely valued.
+
+The archive should treat the Rak/Grok relationship as developing through a repeated galley / quartermaster / alcohol loop, even though most of those small interactions are lost to time.
+
 ## Campaign Significance
 
 This changes Rak's Wormwood social position.
@@ -50,10 +65,13 @@ Because Grok controlled the quartermaster's store and was Kroop's closest friend
 
 The brew scene also shows why Grok might become interested in Rak specifically: Rak could offer something she valued, not merely ask for property or favors.
 
+The likely undocumented bonding time means the later hookup and bunking should not feel abrupt in reconstruction. The preserved evidence shows only the visible edge of a larger shipboard pattern.
+
 ## Timing
 
 - First recovered explicit friendship-development beat: Erastus 6 / Wormwood Day 2 night, when Rak offered to brew alcohol for Grok.
 - Earlier contact through the galley, Kroop, or Rak's cook's mate duties is likely but unrecovered.
+- Recurring undocumented bonding through cooking, alcohol, Ambrose, the galley, and quartermaster access is likely up until the Man's Promise.
 - Occurred before the capture of the Man's Promise.
 - Occurred before the prize crew was split from the Wormwood.
 - Occurred while Rak was still aboard the Wormwood.
@@ -94,6 +112,7 @@ The relationship can matter later if:
 - What earlier galley / Kroop / quartermaster contact occurred before the Erastus 6 brew scene?
 - What did Rak brew for Grok on Erastus 6?
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
+- What recurring alcohol / cooking / galley interactions occurred but were not preserved?
 - Did any officers know Rak was bunking with Grok?
 - Did Kroop know before the crew split?
 - Did Grok give Rak a material parting gift, or was the goodbye purely sentimental?
