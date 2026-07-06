@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Day 2 Rak brew scene, Day 3 Rak trust talk, Sho cloak attempts, Sho replacement-shirt barter, and undocumented bonding note
+- Maturity: Draft, expanded with Day 2 Rak brew scene, Day 3 Rak trust talk, Sho cloak attempts, Sho replacement-shirt barter, Erastus 16 Rak gear return, and undocumented bonding note
 - Scope: Wormwood quartermaster, Kroop's closest friend, Rak relationship context, Sho item negotiation context
 
 ## Overview
@@ -169,6 +169,28 @@ At the end of the exchange, she told Rak to get rest because she heard he was in
 
 This scene shows Grok offering guarded survival advice and limited protection without pretending that trust aboard the Wormwood is simple or safe.
 
+### Erastus 16 Gear Return and Night Escalation
+
+After Rak caught the big reefclaw / dinner source on Erastus 16, Harrigan instructed Grok to give Rak anything taken from him from ship stores.
+
+That night, Rak came to the quartermaster's store. Grok grinned, said she had always liked him, and led him in to find what was his.
+
+> "So you finally decided to stop fighting it huh?"
+
+Rak insisted he had not stopped fighting anything and had simply gotten lucky after seeing delicious lobster.
+
+Grok told him he had gotten stranger every day they had talked, but was still cute.
+
+She opened the chest, rummaged through it, and asked which things were his.
+
+The exchange then turned directly flirtatious. Rak asked if Grok was busy that night and proposed teaching her "slap and tickle."
+
+Grok had not heard of it, but asked if he would teach her. After Rak warned the game was intensive, Grok cracked her knuckles and answered:
+
+> "Let's see what you got!"
+
+This is the clearest recovered transition from flirtation and practical gear access into overt sexual setup. It may be the first actual sexual encounter, or only the first recovered explicit setup; confirm with Rak's player if needed.
+
 ### Relationship With Rak
 
 Before the capture of the Man's Promise and the split of the crew, Rak and Grok hooked up.
@@ -199,6 +221,8 @@ They likely had recurring undocumented bonding time afterward through cooking, a
 
 The Day 3 trust talk shows Rak coming to Grok for survival advice and Grok answering with guarded honesty.
 
+On Erastus 16, Grok began returning Rak's confiscated belongings on Harrigan's order and the scene escalated into explicit sexual flirtation.
+
 They later had a sexual or intimate relationship before the Man's Promise split, and Rak began bunking with her.
 
 This may have been casual, meaningful, opportunistic, or some mixture; Rak's player's understanding should be recovered if possible.
@@ -216,6 +240,8 @@ She encourages his drinking, but their bond is genuine.
 Through Kroop and Rak, Grok forms part of the same support network.
 
 Grok specifically recommended Ambrose to Rak as someone to cultivate when Rak asked who he could trust or befriend.
+
+Rak's Erastus 16 question about whether "he" would wake up during the proposed game likely refers to Kroop, but this is not fully confirmed.
 
 ### Sandara Quinn
 
@@ -261,6 +287,9 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 
 ## Open Questions
 
+- What exact gear did Grok return to Rak after Harrigan's Erastus 16 order?
+- Was the Erastus 16 "slap and tickle" setup the first Rak/Grok sexual encounter, or only the first recovered explicit setup?
+- Who was Rak worried might wake up during the Erastus 16 scene?
 - What earlier galley / Kroop / quartermaster contact occurred before the Erastus 6 brew scene?
 - What did Rak brew for Grok on Erastus 6?
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
