@@ -4,8 +4,8 @@
 
 - Type: Day-by-day narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Mirei/Tilly work conversation, Sho/Grok item conversation, and Bloody Hour consequence
-- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Tilly/Mirei work chat extract, Sho/Grok item chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
+- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, and Bloody Hour consequence
+- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Tilly/Mirei work chat extract, Maheem/Harvus rigging chat extract, Sho/Grok item chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -167,6 +167,34 @@ Mirei knew she had not managed that.
 
 The conversation matters because Tilly and Mirei both wanted the sea, but reached it by different routes. Tilly had chosen danger and shipboard life. Mirei had been taken into it.
 
+## Maheem and Harvus in the Rigging
+
+During work, likely in the rigging, **Maheem** spoke with **Harvus G'ron**.
+
+Only Maheem's side of the conversation survives.
+
+Maheem sneered first.
+
+> "You didn't put up much of a fight then.... but...."
+
+Whatever Maheem thought of Harvus' first arrival on the Wormwood, the morning's fight had changed the frame.
+
+> "I saw what you did down stairs."
+
+Then Maheem distanced himself from the specific cruelty done to Harvus.
+
+> "...it wasn't me."
+
+Maheem admitted enough to place himself among those who brought Harvus aboard, but shifted the responsibility for Harvus' mistreatment onto Scourge.
+
+> "It was scurge, we dragged you on board."
+
+> "Dumped you.... and he said you needed to be \"tamed\""
+
+The scene matters because Harvus learned that Scourge's treatment of him was not merely rough handling during press-ganging. It had been framed, at least by Scourge, as the need to tame him.
+
+It also complicates Maheem. He was involved in bringing Harvus aboard, but this surviving exchange reads as partial distancing, partial provocation, and possibly self-protection rather than confession in clean moral terms.
+
 ## Sho and Grok
 
 At some point after the morning fight, likely during the workday while Sho was slacking off and exploring, **Sho Astor** found her way to **Cut-Throat Grok**.
@@ -249,7 +277,15 @@ Harvus struck Aretta several times.
 
 He also gave the theatrical explanation to Scourge on deck and answered Scourge's order with mocking obedience.
 
-The altercation gives Harvus an early role as direct physical resistance against Scourge-aligned crew.
+During work in the rigging, Maheem told Harvus that Scourge had said Harvus needed to be "tamed" after he was dragged aboard and dumped.
+
+The altercation gives Harvus an early role as direct physical resistance against Scourge-aligned crew. Maheem's later words sharpen Harvus' Scourge vendetta by making the wing injury and humiliation feel deliberate rather than incidental.
+
+### Maheem
+
+Maheem spoke to Harvus during work, likely in the rigging.
+
+Only Maheem's side survives. He sneered at Harvus, acknowledged seeing what Harvus did downstairs, distanced himself from the worst of Harvus' mistreatment, and identified Scourge as the one who said Harvus needed to be "tamed."
 
 ### Rak Wraithraiser
 
@@ -306,6 +342,8 @@ Jape is part of the harassment group and is punished with the others.
 - The exact daily task assignments for each new hand on Day 2.
 - The exact task Mirei and Tilly were performing while talking.
 - What roll produced Mirei's `15`, and whether it was influence, Diplomacy, work, or something else.
+- Harvus' side of the Maheem rigging conversation.
+- Whether Maheem was attempting apology, self-protection, intimidation, or all three.
 - The exact item or items Sho was trying to recover from Grok in this conversation.
 - Whether Sho had made an earlier rude comment to Grok and, if so, what it was.
 - Whether Sho faced consequences for slacking off or exploring to reach Grok.
@@ -320,6 +358,8 @@ Jape is part of the harassment group and is punished with the others.
 - Confirm whether Conchobhar or Crimson had any meaningful reaction to watching the fight.
 - Confirm whether the Day 2 victory affected influence with any lower-crew NPCs.
 - Confirm whether Mirei's conversation improved Tilly's attitude toward her.
+- Confirm what Harvus said before Maheem's surviving lines.
+- Confirm whether Maheem's admission changed Harvus' attitude toward him.
 - Confirm what specific property Sho was trying to recover from Grok.
 - Confirm whether Grok later accepted Sho's services or required a different trade.
 
@@ -331,6 +371,7 @@ Jape is part of the harassment group and is punished with the others.
 - Conchobhar and Crimson witnessed the fight but were not caught up in it.
 - Mirei and Tilly connected during work over the difference between wanting the sea and being taken into shipboard life by force.
 - Tilly's voluntary entry into the Wormwood and practical survival advice are established.
+- Maheem confirmed that Scourge framed Harvus as needing to be "tamed," sharpening Harvus' Scourge vendetta.
 - Grok learned quickly about the fight and recognized Sho's potential usefulness.
 - Sho's early attempt to bargain with Grok failed because she had no concrete value to trade.
 - Aretta, Fipps, Jape, and Syl were publicly punished for the failed attempt.
