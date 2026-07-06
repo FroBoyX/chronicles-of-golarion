@@ -51,9 +51,12 @@ This is a grounded reconstruction because:
 - Grok likes alcohol;
 - Rak became Kroop's cook's mate;
 - Rak did most of the cooking up until the Man's Promise;
-- and Rak could make alcohol, giving him something Grok concretely valued.
+- Rak could make alcohol, giving him something Grok concretely valued;
+- and the galley / quartermaster / alcohol triangle gave them repeated practical reasons to interact.
 
 The archive should treat the Rak/Grok relationship as developing through a repeated galley / quartermaster / alcohol loop, even though most of those small interactions are lost to time.
+
+Because Rak was doing most of the cooking for the ship, and because Ambrose and Grok's friendship already tied the galley to the quartermaster's sphere, Rak likely had many small undocumented opportunities to be useful, familiar, funny, and present before the later hookup / bunking thread.
 
 ## Campaign Significance
 
