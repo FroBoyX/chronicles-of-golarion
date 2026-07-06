@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, and Erastus 16 night healing
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, and Erastus 22-25 escalation summary
 - Scope: Book One continuity, current state, sheet evidence, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -141,6 +141,8 @@ Sho repeatedly resisted the moral logic of the Wormwood.
 
 She challenged excess violence, objected to unnecessary killing, and drew attention from Plugg and Scourge.
 
+By Erastus 22, Plugg had taken specific notice of Sho's defiance and began tracking who she interacted with.
+
 ### Rum Ration Refusal
 
 GM truth: Sho never drank her rum ration aboard the Wormwood.
@@ -187,11 +189,41 @@ She defeated him but refused to kill him.
 
 This established one of Sho's core Book One themes: strength under restraint.
 
+### Erastus 22 — Plugg Watches Sho
+
+On Erastus 22, Plugg took specific notice of Sho's defiance.
+
+He began tracking who the monk interacted with and made it his personal task to ensure anyone who had shown defiance was corrected.
+
+This is the current bridge between Sho's public resistance and the bilge setup the following day.
+
+### Erastus 23 — Bilges, Aretta, and Fipps
+
+On Erastus 23, Plugg assigned Sho to the bilges with Aretta Bansion and Fipps Chumlett.
+
+The working understanding is that Aretta and Fipps were placed there with orders to make sure Sho could not continue being an issue.
+
+The encounter turned violent.
+
+Aretta did not survive the ensuing fight.
+
+This is one of Sho's major moral burden points. Aretta died in ugly shipboard conditions after a setup designed to break or remove Sho.
+
 ### Aretta
 
 Sho's conflict with Aretta in the bilges ended with Aretta's death after slow or inadequate shipboard care.
 
 This is a moral burden and likely part of why Kahina's later challenge matters.
+
+The current reconstruction should treat Aretta's death as the result of Sho's defensive violence, Plugg/Scourge's hostile setup, and the Wormwood's delayed or inadequate care rather than as a clean execution by Sho.
+
+### Erastus 24 — Hot-Box and Interrupted Keelhauling
+
+On Erastus 24, Sho was in the hot-box and was to be keelhauled at Bloody Hour.
+
+In the late afternoon, the Man's Promise was sighted.
+
+Preparations for piracy interrupted the keelhaul trajectory.
 
 ### Giffer / Foul Play Suspicion
 
@@ -219,7 +251,13 @@ Crimson is not yet indexed in the archive and needs identification.
 
 ## Boarding the Man's Promise
 
-Sho participated in the boarding action.
+### Erastus 25 — Battle for the Man's Promise
+
+In the early morning of Erastus 25, the Wormwood overtook the Man's Promise.
+
+All hands, including Sho, took part in a bloody and violent battle for control of the ship.
+
+Sho participated despite the prior day's hot-box / planned keelhauling.
 
 She warned Harrigan when a sailor threatened him from behind, earning Harrigan's recognition and later reward.
 
@@ -391,6 +429,8 @@ Scourge repeatedly targeted Sho for defiance.
 
 On Erastus 16, he taunted her while she was tied to the mast, placing his whip under her chin and openly enjoying the prior punishment.
 
+The Erastus 23 bilge setup and Erastus 24 hot-box / keelhaul trajectory likely occurred with Scourge's participation or enforcement, though exact direct orders still need recovered evidence.
+
 ### Sandara Quinn
 
 On Erastus 16, Sandara healed or restored Sho after the reef task / mast punishment, reducing the fog in Sho's head.
@@ -435,6 +475,8 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 - Which punishment left Sho tied to the mast before the Erastus 16 reef task?
 - Did that punishment expose or threaten Sho's disguise?
 - What spell or healing effect lifted the fog in Sho's head on Erastus 16?
+- What exact public charge put Sho in the hot-box for the planned Erastus 24 keelhauling?
+- What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 23 bilge fight?
 - What did Sho suspect about Giffer's body?
 - Who is Crimson?
 - What did Sho need to discuss with Crimson?
