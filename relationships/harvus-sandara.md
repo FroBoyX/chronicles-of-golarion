@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft, expanded from Harvus light timeline evidence
+- Maturity: Draft, expanded from Harvus light timeline evidence and Day 3 dinner scene
 - Scope: Wormwood through Bonewrack rescue
 
 ## Summary
@@ -20,7 +20,19 @@ Sandara helped the PCs understand shipboard survival, Bloody Hour, and Grok.
 
 Harvus identified her as a healer and was immediately attracted to her.
 
-He later learned some of her history: Hell Harbor, poor family, streets, and life at sea.
+On Erastus 7 / Wormwood Day 3, Sandara invited Harvus to sit with her during dinner in the middle hold and asked whether he was adjusting to the ship.
+
+Harvus answered with courtly respect and asked to know more about her: where she was from and how she came to be aboard.
+
+Sandara hesitated, saying she did not like to go into it. Harvus said he would not push if it was sensitive.
+
+Because he respected that boundary, Sandara shared part of her history: she was raised in Hell Harbor, grew up mostly on the port streets because her parents were overworked, worked on the docks when she could, got into trouble, found taverns by nine, and was at sea by twelve.
+
+Harvus told her his heart was filled with joy at the chance to meet her, then left to rest his wing and kissed her hand.
+
+Sandara invited him to ask more later and checked whether resting the wing was helping.
+
+This is the first recovered extended Harvus/Sandara dinner conversation and establishes the courtly tone of Harvus' affection alongside Sandara's willingness to share more when not pressed.
 
 ## Comfort and Care
 
@@ -70,6 +82,8 @@ He is someone who went back into the dark for another person.
 
 Sandara's survival is therefore one of the clearest reasons Harvus can become legendary without becoming merely violent.
 
+The Day 3 dinner scene also shows that Harvus' affection was not only dramatic rescue energy. It began with patient curiosity, restraint around Sandara's boundaries, and concern for her story.
+
 ## Current State
 
 - Sandara is alive, rescued, and returning with Harvus.
@@ -86,3 +100,4 @@ Sandara's survival is therefore one of the clearest reasons Harvus can become le
 - Does Sandara want the rescue story told publicly?
 - Does Harvus accept public recognition if Sandara confirms it?
 - How does this relationship affect Sandara's stance on captaincy or crew legitimacy?
+- What aid, if any, was Harvus using for his wing during the Day 3 dinner scene?
