@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One location and social-state document
-- Maturity: Draft
+- Maturity: Draft, expanded with Erastus 17-25 gap dates
 - Scope: The Wormwood from press-ganging through capture of the Man's Promise
 
 ## Overview
@@ -173,25 +173,59 @@ This is one of the first major losses aboard the Wormwood and should not be trea
 
 ### Reef / Crab Mission
 
-The PCs are sent to collect crabs and face reefclaws.
+On Erastus 16, the PCs and Badger are sent to collect crabs and face reefclaws.
+
+Rak catches the notable reefclaw / dinner source and is rewarded by Harrigan, who orders Grok to return anything taken from Rak from ship stores.
 
 This scene builds competence and gives Harrigan or the officers reason to notice them.
 
-### Boarding Training
+### Erastus 17-18 Heatwave
 
-Riaris Krine trains the PCs in grappling and boarding.
+After the reef task, a heatwave hits the Wormwood and refuses to let up.
 
-This leads directly into the Man's Promise capture.
+The boiling sun adds environmental pressure after the storm and reef danger.
 
-### Bilge Murder Attempt / Aretta Death
+### Erastus 19 Boarding Drills
 
-Sho is assigned to the bilges with hostile crew and the confrontation leads to Aretta's death.
+When the weather lets up, Harrigan assigns Riaris Krine to put everyone through boarding drills in rotations.
+
+This begins the direct combat preparation that leads toward the Man's Promise.
+
+### Erastus 20-21 Normal Work Days
+
+The next two days are currently reconstructed as normal work days.
+
+No direct chat logs are currently recovered for these dates.
+
+### Erastus 22 Plugg Watches Sho
+
+Plugg takes notice of Sho's defiance and begins watching who she interacts with.
+
+He also takes it as his personal task to ensure defiance is corrected.
+
+### Erastus 23 Bilge Murder Attempt / Aretta Death
+
+On Erastus 23, Sho is assigned to the bilges with Aretta and Fipps.
+
+The working understanding is that they are there with orders to make sure she cannot continue being an issue.
+
+The confrontation leads to Aretta's death.
 
 This is a major escalation: a hostile lower-crew enemy dies because of PC conflict before the Man's Promise battle.
 
-### Sails on the Horizon
+### Erastus 24 Hot-Box and Sails on the Horizon
 
-The Wormwood sights the Man's Promise, ending the first act.
+Sho is in the hot-box to be keelhauled at Bloody Hour.
+
+In the late afternoon, the Man's Promise is sighted and the ship begins preparations for piracy.
+
+### Erastus 25 Battle for the Man's Promise
+
+In the early morning, the Wormwood overtakes the Man's Promise.
+
+All hands, including Sho, take part in a bloody and violent battle for control of the ship.
+
+This battle ends the Wormwood captivity act and creates the conditions for Plugg's prize-crew crisis.
 
 ## Relationship Development
 
@@ -203,9 +237,9 @@ This thread becomes central on Bonewrack Isle.
 
 ### Rak and Grok
 
-Rak and Grok hook up before the Man's Promise split.
+Rak and Grok first hook up on Erastus 16 after the reefclaw reward sends Rak to Grok's store for gear return.
 
-Rak begins bunking with her, and they later share a sentimental goodbye when he is transferred to the prize crew.
+Rak later begins bunking with her, and they share a sentimental goodbye when he is transferred to the prize crew.
 
 ### Sho and Harrigan / Peppery
 
@@ -257,14 +291,3 @@ Do not reduce the Wormwood to "the place where the PCs were press-ganged."
 The Wormwood is the pressure-cooker that made the later decisions meaningful.
 
 Without the Wormwood, the mutiny is only a fight.
-
-With the Wormwood, the mutiny becomes a response to lived oppression.
-
-## Open Questions
-
-- Which lower-crew NPCs were definitively transferred to the Man's Promise?
-- Which remained aboard the Wormwood?
-- Did Harrigan recognize the PCs as future problems before the Man's Promise split, or only as useful violent assets?
-- How widely known was Rak and Grok's relationship?
-- How much did Sandara understand about Harvus' vendetta against Scourge before Bonewrack?
-- What exact gear did each PC recover before the Man's Promise battle?
