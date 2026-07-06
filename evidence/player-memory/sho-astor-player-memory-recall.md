@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player memory evidence
-- Maturity: Raw recall with structured extraction
+- Maturity: Raw recall with structured extraction; updated with Man's Promise survivor-set identification
 - Source: Sho's player memory, relayed during archive reconstruction
 - Scope: Wormwood, Man's Promise assault, and current Man's Promise survivor guilt thread
 - Canon status: Memory evidence. Use to guide reconstruction, but cross-check against chat logs, AP scaffold, GM truth, and other player records.
@@ -17,6 +17,8 @@ Some names, timing, and identities may be misremembered. Do not promote a memory
 GM correction: Anji's character is **Mirei**. Sho's player remembered the name as possibly Talia, but the character identity is now resolved as Mirei.
 
 GM correction: the first-day Jakes Magpie objection likely resulted in a warning, not a whipping. Treat the first-day beat as Sho questioning or objecting and being warned. The whipping that made Sho cry out in pain should be placed later in reconstruction.
+
+GM identification: the "monk man" referenced by Sho is **Ebony Saable**, a Man's Promise rigger and one of the six tracked Man's Promise survivors.
 
 ## Raw Player Memory
 
@@ -118,6 +120,19 @@ GM correction: the first-day Jakes Magpie objection likely resulted in a warning
 - Sho believes this guilt/effort is why Man's Promise survivors may be about to let her out to help with the mutiny.
 - Agatha Dreamriver remains a strongly remembered emotional anchor/crush.
 
+### Tracked Man's Promise Survivors
+
+The six tracked Man's Promise survivors are now identified as:
+
+- Dahrehn Numus
+- Ebony Saable
+- Goyle Onórach
+- Kahina Bukekayo
+- Merchiel V'giatore
+- Nor'gal Daraa
+
+Ebony Saable resolves Sho's prior "monk man" reference.
+
 ## Placement Candidates
 
 | Memory | Candidate Placement | Confidence | Notes |
@@ -146,6 +161,8 @@ GM correction: the first-day Jakes Magpie objection likely resulted in a warning
 - Preserve Sho's distinction between player knowledge and character knowledge about Giffer.
 - Do not write Sho as knowing Rak killed Giffer unless later evidence establishes that she learned it.
 - Do not write Sho as drinking rum rations.
+- Use the six tracked Man's Promise survivors as named anchors for Sho's current guilt thread.
+- Use Ebony Saable when resolving Sho's "monk man" reference.
 - Use this memory to search for or request missing logs around:
   - the Jakes Magpie warning,
   - speaking up for Rak,
@@ -172,5 +189,5 @@ GM correction: the first-day Jakes Magpie objection likely resulted in a warning
 - Does Sho still have Harrigan's pendant/locket at the current relaunch point?
 - Which Man's Promise sailors surrendered under Sho's promise of safety?
 - Which of those sailors were killed by Rak or Harvus?
-- Did any Man's Promise survivors hear Sho promise safety?
+- Did any of the six tracked Man's Promise survivors hear Sho promise safety?
 - Do Kahina or other survivors know Sho tried to prevent slaughter?
