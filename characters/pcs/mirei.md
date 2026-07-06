@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with Day 2 performance evidence
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -109,6 +109,16 @@ Mirei became part of the Wormwood crew.
 
 Sandara Quinn recovered or returned Mirei's harp by convincing Cut-Throat Grok that it was cursed by the sea and had to be played regularly to protect the ship.
 
+### Erastus 6, 4712 AR / Wormwood Day 2
+
+During work, Mirei spoke with Tilly Brackett to make the labor pass faster. Mirei told Tilly that she had been admiring the water when she was struck on the back of the head and taken.
+
+That night, Mirei gave an early recovered performance for nearby crew. Harvus swooned and praised her talent, Rak called it "Nice shredding brah," and Badger Medlar complimented the performances and asked where Mirei had learned.
+
+Mirei said she had been picking music up her whole life, liked many kinds of music, and favored the harp.
+
+This performance is currently the first recovered performance after the harp's return, though not necessarily the first performance in absolute chronology.
+
 ### Wormwood Period
 
 Mirei performed aboard ship and attracted crew attention through music.
@@ -141,6 +151,8 @@ Currently with Harvus after the grindylow rescue.
 
 Harvus knows Mirei had been tasked with betrayal, but his immediate rage was tempered by the fact that she had recently helped preserve his life and rescue Sandara.
 
+Harvus praised Mirei's early Wormwood performance and openly swooned over her talent.
+
 ### Sandara Quinn
 
 Sandara helped Mirei recover her harp early aboard the Wormwood.
@@ -151,9 +163,17 @@ Mirei helped rescue Sandara from the grindylow caverns.
 
 Mirei was ordered by Plugg to act against Rak and the other PCs, but did not do so.
 
+Rak praised Mirei's early Wormwood performance in his own voice: "Nice shredding brah."
+
 ### Sho Astor
 
 Sho noticed Mirei becoming closed off and suspected Scourge or officer attention might be influencing her situation.
+
+### Badger Medlar
+
+Badger complimented Mirei's early Wormwood performances and asked where she learned.
+
+This may be an early seed of Badger recognizing Mirei's value as a performer rather than only as a new press-ganged hand.
 
 ## Open Threads
 
@@ -162,6 +182,7 @@ Sho noticed Mirei becoming closed off and suspected Scourge or officer attention
 - The consequences of Mirei's confession remain unresolved.
 - Her relationship to Plugg's attempted manipulation needs careful tracking.
 - Her role as a Sea Singer should be preserved in any future conversion.
+- Confirm whether the Day 2 performance was the first actual performance after the harp's return or simply the first recovered one.
 
 ## Evidence Notes
 
