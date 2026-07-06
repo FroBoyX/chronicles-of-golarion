@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, and Erastus 26 revel intervention
+- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, Erastus 26 revel intervention, and Man's Promise work-distance scene
 - Scope: Hostile lower-crew rigger, pirate custom witness, placement unresolved
 
 ## Overview
@@ -77,6 +77,20 @@ He then stated the rule that makes this scene important:
 
 This moment matters because Tam is not simply protecting Sho, Mirei, or the hostile crew. He is enforcing a pirate-custom boundary: the revel cannot become a private vendetta, and shipboard order takes precedence over unresolved grudges.
 
+### Man's Promise Work Distance
+
+During an unknown work day aboard the Man's Promise, Harvus attempted idle chit-chat with Tam and Crimson while they were working.
+
+Tam rejected the social opening:
+
+> "We are working, that should be enough. What do you want?"
+
+When Crimson said he did not want trouble because this was a new start and Harvus was not exactly popular, Tam kept the boundary civil but firm:
+
+> "Look, let's keep this as civil as possible... and not talk."
+
+This scene supports Tam as hostile or distant, but disciplined. He is willing to avoid open conflict by refusing conversation rather than escalating immediately.
+
 ### Man's Promise
 
 Tam likely transferred to the Man's Promise prize crew, but exact placement needs confirmation.
@@ -108,6 +122,12 @@ Tam intervened during a tense moment involving Sho after the Man's Promise battl
 This did not make him an ally, but it showed he was willing to regulate conflict through pirate custom.
 
 He physically threw Sho to the ground to end the confrontation, but also prevented Patch, Maheem, Jape, and others from turning the party into open violence.
+
+### Harvus G'ron
+
+During a Man's Promise work scene, Tam kept Harvus at a distance and refused idle conversation while working.
+
+This is not direct violence, but it shows Harvus' social unpopularity or risk status aboard the prize crew.
 
 ### Rak Wraithraiser / Wraithriser
 
@@ -159,3 +179,4 @@ Tam may:
 - Does Tam respect Harvus' rescue if he hears it?
 - Would Tam accept an election, duel, council, or only force?
 - Did Tam's Erastus 26 intervention create any lasting debt, resentment, or respect with Sho?
+- What exact day did the Man's Promise work-distance scene occur?
