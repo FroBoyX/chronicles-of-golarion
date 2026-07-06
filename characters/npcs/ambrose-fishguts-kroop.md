@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Seeded
+- Maturity: Seeded, expanded with Erastus 16 crab reef galley handoff
 - Scope: Book One major ally and ship's cook
 - Source basis: Recovered Adventure Path text, GM-provided campaign notes, campaign timeline, and player interaction context
 
@@ -103,6 +103,26 @@ Rak Wraithraiser was assigned as Kroop's cook's mate after the initial Wormwood 
 
 This made Kroop one of Rak's earliest daily contacts aboard ship.
 
+### Erastus 16 Crab Reef Handoff
+
+After the Erastus 16 crab reef task, the returning hands brought crabs and reefclaw meat to the galley.
+
+Mirei threw or shoved her crabs toward Kroop with little ceremony.
+
+Kroop recognized the reefclaws or dangerous reef creatures immediately:
+
+> "You ran into these bastards out there huh? Can be ruff in the reefs. Were they any trouble?"
+
+Mirei said they were nasty and tried to eat her legs. Rak claimed he had one-shot one of them.
+
+Later, when Caulky came to fetch whoever caught the big one, Kroop identified Rak as the source:
+
+> "Afraid it's true lass, it's my assistance."
+
+Kroop then told Caulky she had to take Rak with her and wished Rak fun.
+
+This scene reinforces Kroop's practical knowledge of sea food and reef dangers, and his role as Rak's everyday sponsor in the galley.
+
 ### Man's Promise Period
 
 Kroop was moved to the Man's Promise with the prize crew.
@@ -120,6 +140,8 @@ Rak is Kroop's cook's mate.
 This relationship is one of the clearest practical bridges between a PC and the lower workings of ship life.
 
 Kroop may protect Rak from mistakes or punishments when he can.
+
+On Erastus 16, Kroop confirmed Rak as his assistant and as the one who caught the big reefclaw / dinner source.
 
 ### Cut-Throat Grok
 
@@ -194,6 +216,7 @@ Kroop sometimes claims the bird talks to him.
 
 ## Open Questions
 
+- Did Kroop help cook the reefclaw for Harrigan, or only receive and process it?
 - How much has Kroop already told the PCs about Rickety's Squibs or Plugg's course?
 - Does Kroop know Sho is in the hot-box?
 - How sober is Kroop at the exact relaunch moment?
