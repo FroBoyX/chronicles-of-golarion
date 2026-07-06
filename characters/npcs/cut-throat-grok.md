@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Day 2 Rak brew scene, Day 3 Rak trust talk, Sho cloak attempts, and undocumented bonding note
+- Maturity: Draft, expanded with Day 2 Rak brew scene, Day 3 Rak trust talk, Sho cloak attempts, Sho replacement-shirt barter, and undocumented bonding note
 - Scope: Wormwood quartermaster, Kroop's closest friend, Rak relationship context, Sho item negotiation context
 
 ## Overview
@@ -104,6 +104,22 @@ Grok told her to find something to trade.
 Sho again left her services available for future trade.
 
 This scene confirms that Sho's target item was her cloak and that Grok remained consistent: apology and possible future usefulness were not enough without concrete trade value.
+
+### Sho's Replacement Shirt
+
+Sometime between Erastus 8 and Erastus 13, Sho returned to Grok again and asked whether she could get a deal on another shirt.
+
+Grok recognized the repeat visit immediately:
+
+> "You again."
+
+When Sho confirmed she had gold, Grok charged 10 for the shirt and explained the price bluntly:
+
+> "...I'll take 10 for this one... you ruin them twice."
+
+Sho accepted the point.
+
+This scene likely connects to one or more whipping / punishment scenes that damaged Sho's clothing, but the exact punishment link is not yet locked. It does establish that Grok had already seen Sho ruin shirts twice and that Grok continued to handle Sho's needs through concrete barter rather than sympathy alone.
 
 ### Early Rak Contact
 
@@ -215,6 +231,8 @@ Grok saw potential usefulness in Sho, but refused to trade for future value that
 
 On Day 3, Sho returned and specified that she wanted her cloak. Grok acknowledged Sho had taken a step in the right direction, but again insisted on concrete trade value.
 
+Later, Sho came back for another shirt after ruining shirts twice. Grok charged gold and handled it as practical barter, not charity.
+
 ### The PCs
 
 Grok can be a source of gear, barter, gossip, and risk.
@@ -252,6 +270,9 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 - What did Grok mean when she told Sho that this was a step in the right direction?
 - What insult had Sho left on Grok?
 - Did Sho later find something of value to trade for the cloak?
+- Which two shirt-ruining incidents was Grok referencing when Sho bought another shirt?
+- Did the shirt damage threaten or expose Sho's disguise?
+- Where did Sho get the gold for the replacement shirt?
 - How did Grok and Rak's friendship become flirtation or intimacy?
 - Was Rak/Grok public knowledge aboard the Wormwood?
 - Did Plugg, Scourge, or Harrigan know?
