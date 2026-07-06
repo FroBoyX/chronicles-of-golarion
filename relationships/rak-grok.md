@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: GM-confirmed seed, expanded with Day 2 brew scene, Day 3 trust talk, and undocumented bonding note
+- Maturity: GM-confirmed seed, expanded with Day 2 brew scene, Day 3 trust talk, Erastus 16 gear-return escalation, and undocumented bonding note
 - Scope: Wormwood period before capture of the Man's Promise and prize-crew split
 
 ## Summary
@@ -78,6 +78,34 @@ Grok admitted she had an in with most of the officers, but little sway. She poin
 
 This scene is important because it moves the relationship beyond alcohol and useful trade. Rak is asking Grok how to survive, and Grok is answering honestly enough to reveal anxiety, caution, and partial willingness to protect him.
 
+## Erastus 16 Gear Return and Sexual Escalation
+
+On **Erastus 16**, after Rak caught the big reefclaw / dinner source and Harrigan ordered Grok to return anything taken from Rak from ship stores, Rak met Grok at the quartermaster's store.
+
+Grok grinned and said she had always liked him.
+
+> "So you finally decided to stop fighting it huh?"
+
+Rak denied that he had stopped fighting anything, saying he had only seen delicious lobster, taken it for laughs, and received sweet goods for it.
+
+Grok told him he was getting stranger every day they talked, but was still cute.
+
+She opened the chest and asked which things were his.
+
+The exchange immediately turned flirtatious. Rak asked whether Grok was busy tonight. Grok asked what he had in mind. Rak asked whether she had ever played "slap and tickle."
+
+Grok had not heard of it, but asked whether he would teach her.
+
+Rak asked whether "he" would wake up, probably Kroop but not confirmed. Grok asked how intensive the game was.
+
+Rak said it was quite intensive.
+
+Grok cracked her knuckles and answered:
+
+> "Let's see what you got!"
+
+This is the clearest recovered scene connecting gear return, mutual flirtation, and the likely beginning or continuation of the Rak/Grok sexual relationship.
+
 ## Campaign Significance
 
 This changes Rak's Wormwood social position.
@@ -90,6 +118,8 @@ The brew scene also shows why Grok might become interested in Rak specifically: 
 
 The trust-talk scene shows why the relationship could become emotionally or practically meaningful: Rak was asking for survival guidance, and Grok answered with guarded real advice.
 
+The Erastus 16 scene shows the relationship becoming explicitly physical or nearly physical, with Grok's attraction stated directly enough to support the later bunking canon.
+
 The likely undocumented bonding time means the later hookup and bunking should not feel abrupt in reconstruction. The preserved evidence shows only the visible edge of a larger shipboard pattern.
 
 ## Timing
@@ -98,6 +128,7 @@ The likely undocumented bonding time means the later hookup and bunking should n
 - Earlier contact through the galley, Kroop, or Rak's cook's mate duties is likely but unrecovered.
 - Recurring undocumented bonding through cooking, alcohol, Ambrose, the galley, and quartermaster access is likely up until the Man's Promise.
 - First recovered serious trust conversation: Erastus 7 / Wormwood Day 3 night, when Rak asked Grok who he could trust and Grok advised him to avoid officers, watch Scourge, and make friends with newer crew or Ambrose.
+- Explicit recovered sexual setup: Erastus 16 night, during gear return after Harrigan's reefclaw reward.
 - Occurred before the capture of the Man's Promise.
 - Occurred before the prize crew was split from the Wormwood.
 - Occurred while Rak was still aboard the Wormwood.
@@ -135,6 +166,9 @@ The relationship can matter later if:
 
 ## Open Questions
 
+- Was the Erastus 16 "slap and tickle" scene the first Rak/Grok sexual encounter, or the first recovered explicit setup for an already-developing hookup?
+- Who was Rak worried might wake up during the Erastus 16 scene?
+- What exact gear did Grok return to Rak after Harrigan's order?
 - What earlier galley / Kroop / quartermaster contact occurred before the Erastus 6 brew scene?
 - What did Rak brew for Grok on Erastus 6?
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
