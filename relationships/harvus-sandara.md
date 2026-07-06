@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, and peridot necklace scene
+- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, peridot necklace scene, and post-Rosie rage scene
 - Scope: Wormwood through Bonewrack rescue
 
 ## Summary
@@ -54,9 +54,39 @@ This scene matters because it is a romantic escalation without consummation. San
 
 The peridot necklace may be the same necklace Harvus' light timeline says he recovered with his ring and Rosie's fiddle on note Day 7. If so, the best current date range narrows toward Erastus 11-13 rather than the full Erastus 9-13 range.
 
+## Rage After Rosie's Loss
+
+After Rosie's loss at sea, probably around Erastus 14 or 15, Harvus went to Sandara and asked for aid.
+
+He addressed her as "my queen." Sandara smiled shakily, motioned for him to sit, and asked what she could do for him.
+
+Harvus confessed that anger was swelling in his heart again.
+
+He tied the renewed rage to old family loss, Scourge rending his wing, Rosie's death the previous night, and the Wormwood itself.
+
+> "I fear being on this forsaken ship has reawaked it."
+
+Harvus also told Sandara that being with her eased his soul.
+
+Sandara placed a hand on his shoulder, asked whether the wing was any better, and did not tell him to discard the rage. Instead, she told him to keep it contained because they might need it.
+
+> "Keep it... we may have to use it."
+
+Sandara said things were getting worse aboard the Wormwood. She noted that Rosie had been new but had angered Scourge and Plugg quickly, and that while Sandara had been busy in the rigging during the storm, Rosie's going over might have been intentional.
+
+She told Harvus to keep his rage inside and his friends close.
+
+Harvus said Sandara was the vessel restraining his rage.
+
+Sandara accepted the responsibility in practical terms, saying she would try to see it put to good use when the time came, but asked him to call her Sandara rather than queen.
+
+This scene is important because Sandara does not function as simple comfort. She becomes both restraint and strategist: keep the rage, contain it, and use it when the shipboard situation requires it.
+
 ## Comfort and Care
 
 After Rosie's loss, Harvus sought solace with Sandara.
+
+The recovered post-Rosie scene clarifies the nature of that solace: Harvus feared his old rage had returned, and Sandara counseled containment rather than denial.
 
 After a dangerous reef encounter, Sandara healed Harvus.
 
@@ -108,6 +138,8 @@ The Day 3 dinner scene also shows that Harvus' affection was not only dramatic r
 
 The peridot necklace scene shows the same pattern under stronger romantic pressure: Harvus makes an intense offer, Sandara sets a boundary, and Harvus accepts the boundary.
 
+The post-Rosie scene shows why Sandara matters to Harvus' violence arc. She is not there to extinguish his rage; she helps him keep it from becoming uncontrolled until it can be used against the people actually responsible.
+
 ## Current State
 
 - Sandara is alive, rescued, and returning with Harvus.
@@ -123,6 +155,9 @@ The peridot necklace scene shows the same pattern under stronger romantic pressu
 - Did Sandara keep the peridot necklace through the Wormwood, Man's Promise, and Bonewrack sequences?
 - Is the peridot necklace the same necklace Harvus recovered with his ring and Rosie's fiddle?
 - Was the peridot scene before or after Harvus drank heavily with Sandara?
+- What did Sandara mean by "Not enough to matter tonight.... it will have to wait. This is becoming a problem"?
+- Was Rosie's going over truly intentional, or was Sandara voicing suspicion under pressure?
+- Did Sandara's suspicion about Rosie become part of later mutiny reasoning?
 - How conscious was Sandara during the actual Whale fight and ascent?
 - Does Sandara understand how close Harvus came to death?
 - Does Sandara want the rescue story told publicly?
