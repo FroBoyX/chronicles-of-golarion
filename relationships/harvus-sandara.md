@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, peridot necklace scene, and post-Rosie rage scene
+- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, peridot necklace scene, post-Rosie rage scene, and Erastus 16 healing / necklace beat
 - Scope: Wormwood through Bonewrack rescue
 
 ## Summary
@@ -82,11 +82,43 @@ Sandara accepted the responsibility in practical terms, saying she would try to 
 
 This scene is important because Sandara does not function as simple comfort. She becomes both restraint and strategist: keep the rage, contain it, and use it when the shipboard situation requires it.
 
+## Erastus 16 Reef Aftermath
+
+On the night of Erastus 16, after the reefclaw / crab task, Sandara found Harvus in pain and asked how the reef had gone.
+
+She had asked Scourge if she could go with the reef group, but Scourge refused.
+
+> "I asked that ass Scourge if I could come with... guess he still holds a grudge."
+
+Harvus told her Mirei was also hurt. Sandara decided to gather the wounded, saying Besmara's blessings would smile on them.
+
+Sandara then approached Mirei and Sho with Harvus. Mirei reported that a sea monster had gotten her leg. Sho had not realized Mirei had fought the reef creatures and apologized for not being there.
+
+Sandara concentrated, touched Sho and Harvus, and restored enough that Sho felt the fog in her head lessen.
+
+She reminded the group to save their strength and keep friends close.
+
+Harvus kissed her hand and noticed the necklace he had given her.
+
+Sandara smiled, then connected it to Rosie's absence.
+
+> "With Rosie gone, I... anyway. It's no problem."
+
+She said Harvus had told her to keep it safe.
+
+Mirei left awkwardly, and Sho left Harvus and Sandara to talk.
+
+Harvus then said he felt a sudden urge to sneak around the ship. Sandara told him good luck and not to get caught, then looked out to sea while touching her ebony idol.
+
+This scene confirms Sandara was wearing the necklace after Rosie's death and treated it as something she was keeping safe. It also shows her actively caring for Harvus and the others after Scourge blocked her from joining the reef task.
+
 ## Comfort and Care
 
 After Rosie's loss, Harvus sought solace with Sandara.
 
 The recovered post-Rosie scene clarifies the nature of that solace: Harvus feared his old rage had returned, and Sandara counseled containment rather than denial.
+
+After the Erastus 16 reef task, Sandara again functioned as a healer and organizer, gathering the injured and reminding them to keep friends close.
 
 After a dangerous reef encounter, Sandara healed Harvus.
 
@@ -140,6 +172,8 @@ The peridot necklace scene shows the same pattern under stronger romantic pressu
 
 The post-Rosie scene shows why Sandara matters to Harvus' violence arc. She is not there to extinguish his rage; she helps him keep it from becoming uncontrolled until it can be used against the people actually responsible.
 
+The Erastus 16 aftermath ties those threads together: Sandara is wearing his necklace, grieving Rosie, healing the wounded, and still encouraging caution rather than passivity.
+
 ## Current State
 
 - Sandara is alive, rescued, and returning with Harvus.
@@ -154,6 +188,8 @@ The post-Rosie scene shows why Sandara matters to Harvus' violence arc. She is n
 - Did Harvus return Sandara's holy symbol after the rescue?
 - Did Sandara keep the peridot necklace through the Wormwood, Man's Promise, and Bonewrack sequences?
 - Is the peridot necklace the same necklace Harvus recovered with his ring and Rosie's fiddle?
+- What is Sandara's ebony idol?
+- What did Harvus do while sneaking around after the Erastus 16 healing scene?
 - Was the peridot scene before or after Harvus drank heavily with Sandara?
 - What did Sandara mean by "Not enough to matter tonight.... it will have to wait. This is becoming a problem"?
 - Was Rosie's going over truly intentional, or was Sandara voicing suspicion under pressure?
