@@ -5,7 +5,7 @@
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
 - Scope: First full day aboard the Wormwood, from deck tests through first night rest
-- Source basis: GM prose entries, AP standard-day scaffold, AP weather scaffold, first-night Sandara/harp chat extract, existing character dossiers, and GM log note that Crimson volunteered to join the crew on Erastus 5
+- Source basis: GM prose entries, AP standard-day scaffold, AP weather scaffold, first-night Sandara/harp chat extract, existing character dossiers, GM log note that Crimson volunteered to join the crew on Erastus 5, and GM clarification that both Conchobhar and Crimson took part in the early trials
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -22,7 +22,9 @@ The first full day aboard the Wormwood began with possession.
 
 For the press-ganged new hands, the ship had them. Their belongings were gone. Their choices were narrower than they had been the night before. Above them stood officers who already understood the rules of the game and had no interest in explaining more than necessary.
 
-The five press-ganged newest members were brought onto the deck and tested.
+The five press-ganged newest members were brought onto the deck and tested: **Mirei**, **Harvus G'ron**, **Rak Wraithraiser**, **Sho Astor**, and **Conchobhar Turlach Shortstone**.
+
+**Crimson "Cog" Cogward** was also part of the early trials. His presence was different: Crimson had volunteered to join the Wormwood rather than being press-ganged.
 
 Some tests were public spectacle. Some were practical. Some were simply another way for **Mr. Plugg** to decide where each body would be most useful and least inconvenient.
 
@@ -30,7 +32,7 @@ By the end of the first tests, the Strix and the gnome had been marked for the r
 
 The next test was simpler.
 
-Plugg stopped in front of each press-ganged new hand, stared into their eyes for an uncomfortable moment, and asked whether they could cook.
+Plugg stopped in front of the trial group, stared into their eyes for an uncomfortable moment, and asked whether they could cook.
 
 Each answer was some form of no.
 
@@ -38,7 +40,7 @@ Plugg did not allow that to matter.
 
 The ship's cook, **Ambrose "Fishguts" Kroop**, had been drunk enough and unreliable enough that the officers' meals had suffered. Plugg wanted that corrected, and a cook's mate would correct it.
 
-His eyes passed over the human, the aasimar, and the suli.
+His eyes passed over the human, the aasimar, the suli, and the volunteer sailor.
 
 Then they settled on the nagaji.
 
@@ -56,8 +58,6 @@ The swabs would report to **Master Scourge**. The riggers would report to Plugg.
 
 That was the shape of authority on the Wormwood: decisions first, reasons afterward.
 
-The GM log also records **Crimson** joining the Wormwood on Erastus 5. Crimson was not one of the five press-ganged new hands. He volunteered to join the crew. His first scene, shipboard duty, and relationship to the others remain unresolved in the current reconstruction.
-
 ## Work
 
 The rest of the day was work.
@@ -65,6 +65,10 @@ The rest of the day was work.
 There was no gentle transition into shipboard life. The Wormwood taught through labor, and the new hands were expected to learn quickly.
 
 Riggers went up. Swabs worked where they were sent. Rak was put into the galley orbit of a drunk cook who might prove broken, useful, dangerous, kind, or all of those things depending on the hour.
+
+Conchobhar's rigger status is clear, but his specific early work scenes have largely been lost to time. After the first few days, he quickly faded into the background as an NPC.
+
+Crimson's volunteer status and participation in the early trials are clear, but his exact first assigned duty and first-night placement remain unresolved in the current reconstruction.
 
 The details of every failed knot, every shouted correction, and every ache of the first day have not survived cleanly in the logs.
 
@@ -218,7 +222,9 @@ Harvus had a name, a warning, and the possibility of care for his wing.
 
 Sho had already begun her quiet refusal of the Wormwood's rum discipline.
 
-Crimson's voluntary entry into the crew is known from the GM log, but his first-night placement is not yet reconstructed.
+Conchobhar had his rigger assignment, but little of his first-night behavior currently survives.
+
+Crimson's voluntary entry into the crew and participation in the early trials are known from the GM log and clarification, but his first-night placement is not yet reconstructed.
 
 The Wormwood had not become safer.
 
@@ -230,7 +236,8 @@ That was the first victory.
 
 - Day 1 weather was normal.
 - The canon number of press-ganged new hands is five: Mirei, Harvus, Rak, Sho, and Conchobhar.
-- Crimson is the sixth person in the Erastus 5 crew-intake note, but he volunteered to join the Wormwood rather than being press-ganged.
+- Conchobhar was press-ganged, took part in the trials, became a rigger, and quickly faded into the background as an NPC after the first few days.
+- Crimson is the sixth person in the Erastus 5 crew-intake note and took part in the early trials, but he volunteered to join the Wormwood rather than being press-ganged.
 - Plugg's tests assigned the first shipboard roles.
 - Harvus and Conchobhar were assigned as riggers.
 - Rak was assigned as Kroop's cook's mate.
@@ -249,7 +256,8 @@ That was the first victory.
 
 - Confirm the exact first test before the cook question.
 - Confirm which characters were assigned as swabs.
-- Confirm Crimson's first scene, shipboard duty, and relationship to the press-ganged new hands.
+- Confirm Crimson's exact trial actions, first assigned duty, and relationship to the press-ganged new hands.
+- Confirm whether Conchobhar had any memorable first-night actions before fading into the background.
 - Confirm whether the Sandara/Mirei/Harvus scene happened before or after rum ration.
 - Confirm whether Mirei played the harp that night.
 - Confirm whether Sandara's offer of a sling for Harvus became an actual item or treatment.
