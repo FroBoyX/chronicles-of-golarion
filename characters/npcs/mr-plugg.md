@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Seeded, expanded with storm-window Mirei performance order
+- Maturity: Seeded, expanded with storm-window Mirei performance order and Erastus 16 reef task
 - Scope: Book One primary antagonist
 - Source basis: Recovered Adventure Path text, GM-provided campaign facts, campaign timeline, player journals, and chat-log context
 
@@ -106,6 +106,10 @@ During the early Wormwood storm window, Mirei attempted to invite **Captain Harr
 
 This shows Plugg recognizing Mirei's performance as a tool for crew morale control before the later Man's Promise manipulation arc. It should not be written as Mirei intentionally seeking Plugg out; he intercepted or answered her attempt to reach Harrigan.
 
+On the morning of Erastus 16, after Ratline called land ho, Plugg summoned Harvus, Rak, Sho, and Mirei to deck, then ordered Scourge to fetch Badger as a fifth. Plugg stood with buckets at his feet and said the captain wanted crabs. He ordered the five to swim to the reef to fore and starboard, fill each bucket with crabs, and swim back.
+
+This scene is the direct setup for the reef / Clam AP encounter.
+
 ### Man's Promise Capture
 
 After the Wormwood captured the Man's Promise, Harrigan assigned Plugg to command the prize crew and sail the Man's Promise back toward Port Peril.
@@ -142,6 +146,8 @@ Scourge is Plugg's right-hand man and enforcer.
 
 Plugg gives direction and protection. Scourge carries out discipline and feeds hostility toward the PCs.
 
+On Erastus 16, Plugg ordered Scourge to fetch Badger for the reef task.
+
 ### Mirei
 
 Plugg treated Mirei as a prize and tried to turn her into an asset against the other PCs.
@@ -149,6 +155,8 @@ Plugg treated Mirei as a prize and tried to turn her into an asset against the o
 Before that later pressure, he had already seen or used Mirei's performances as a way to pacify crew morale during a storm.
 
 The storm-window scene began as Mirei attempting to invite Harrigan, not Plugg. Plugg intercepted or answered the door and converted the invitation into an order.
+
+On Erastus 16, Plugg assigned Mirei to the reef task with Harvus, Rak, Sho, and Badger.
 
 He gave her a privileged but dangerous position and expected betrayal as proof of loyalty.
 
@@ -158,17 +166,23 @@ Sho's defiance drew Plugg's attention.
 
 He tracked her interactions and ensured pressure was placed on anyone associated with defiance.
 
+On Erastus 16, Sho was released from being tied to the mast and then sent into the reef task.
+
 ### Harvus G'ron
 
 Harvus is a dangerous subordinate and a potential threat to Plugg's authority.
 
 Harvus' rescue of Sandara and return from the caves may undermine Plugg's control if revealed effectively.
 
+On Erastus 16, Plugg called Harvus out of the rigging for the reef task.
+
 ### Rak Wraithraiser
 
 Rak's violence, confidence, and practical competence make him useful but difficult to control.
 
 Plugg's ability to retain authority over Rak is uncertain.
+
+On Erastus 16, Rak was sent into the reef task with the others.
 
 ### Sandara Quinn
 
@@ -224,6 +238,8 @@ This should be used as cultural evidence for why the crew fears acting openly ag
 - Did Harrigan hear about Mirei's attempted invitation?
 - Why was Plugg the person answering the captain's door or command-space door?
 - Did Plugg attend or only order Mirei to perform below?
+- Did Harrigan truly want crabs on Erastus 16, or was Plugg using the request as cover for dangerous work?
+- Why did Plugg add Badger as the fifth reef-task member?
 - Does Plugg still believe he can restore control without open slaughter?
 - How much does he know about Sandara, Tilly, and Goyle being rescued?
 - How does he respond if Rak returns with Harvus and the rescued prisoners instead of supplies alone?
