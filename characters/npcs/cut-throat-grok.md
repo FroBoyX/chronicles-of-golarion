@@ -115,6 +115,8 @@ The supporting context is direct and practical: Grok and Ambrose were friends, A
 
 This likely created a repeated galley / quartermaster / alcohol loop where Rak could keep becoming useful and familiar to Grok even when the table did not preserve every interaction.
 
+Because Rak was responsible for most of the cooking through the Wormwood period, he would naturally keep passing through Ambrose's sphere. Since Ambrose and Grok were already bonded through friendship and alcohol, the archive should assume frequent small opportunities for Rak and Grok to interact unless later evidence contradicts that.
+
 ### Relationship With Rak
 
 Before the capture of the Man's Promise and the split of the crew, Rak and Grok hooked up.
