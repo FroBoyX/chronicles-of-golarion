@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, and first-night Plugg cabin coercion
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, and captain cabin blood evidence
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -175,7 +175,11 @@ Plugg singled her out and pressured her into a privileged but dangerous role, tr
 
 On the first recovered evening aboard the Man's Promise, Scourge ordered Mirei to report to the captain with her instrument. Rak had lent Mirei a fiddle during dinner so she could use it for the performance.
 
-Mirei performed for Plugg with the borrowed fiddle and rolled a 32. Plugg offered her a hammock in his cabin area, saying someone with her skill did not belong with the crew below.
+Mirei performed for Plugg with the borrowed fiddle and rolled a 32.
+
+The cabin still bore the violence of the boarding. The Man's Promise captain had been killed there, and blood was still splashed across the floor, desk, and walls when Mirei came to perform.
+
+Plugg offered her a hammock in his cabin area, saying someone with her skill did not belong with the crew below.
 
 Mirei accepted because it would be quieter.
 
@@ -275,6 +279,8 @@ Plugg recognized Mirei's performances as a way to pacify crew morale during the 
 
 On the first recovered night aboard the Man's Promise, Plugg converted Mirei's entertainment role into cabin isolation and control: performance, hammock placement, coercive search, seizure of a pouch, a promise of improved life, and strict rules against touching or speaking without permission.
 
+This occurred in the same cabin where the Man's Promise captain had been killed, with blood still visible across the floor, desk, and walls.
+
 This is the beginning of the direct Man's Promise manipulation arc that later leads to Plugg assigning Mirei to act against the PCs.
 
 ### Owlbear Hartshorn
@@ -302,6 +308,7 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 - Confirm what was in the pouch Plugg took from Mirei.
 - Confirm whether Mirei kept the potion through later Man's Promise / Bonewrack events.
 - Confirm what happened to the borrowed fiddle after Mirei's first Plugg performance.
+- Recover Mirei's direct words or reaction to the blood in the captain's cabin, if available.
 
 ## Evidence Notes
 
