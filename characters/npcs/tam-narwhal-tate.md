@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence
+- Maturity: Draft, expanded with Rak player-sheet evidence and Erastus 16 Mirei summons
 - Scope: Hostile lower-crew rigger, pirate custom witness, placement unresolved
 
 ## Overview
@@ -51,6 +51,16 @@ The Rak player-sheet note may indicate that, from Rak's perspective, Tam was les
 
 Tam served as a rigger aboard the Wormwood and belonged to the hostile social orbit around Scourge.
 
+On the morning of Erastus 16, Tam summoned Mirei to deck for Plugg's reef task.
+
+He told her:
+
+> "You're wanted on deck... that voice of yours doesn't get you out of everything."
+
+Then he clarified that Plugg wanted her and told her to go.
+
+This shows Tam participating in routine command pressure while also needling Mirei about her voice / performance value.
+
 ### Post-Man's Promise Revel
 
 During the revel after the Man's Promise capture, Tam intervened in a tense social moment and framed the situation through pirate custom: this was a party, not a fight, and at sea people do not hold grudges the same way they do on land.
@@ -75,6 +85,8 @@ This may place him in the hostile bloc.
 
 Tam judged Mirei's place aboard the ship harshly, telling her she lacked pirate character.
 
+On Erastus 16, he summoned Mirei to Plugg's reef task and remarked that her voice did not get her out of everything.
+
 This may become relevant if Mirei returns from Riptide Cove having helped rescue captives.
 
 ### Sho Astor
@@ -92,6 +104,8 @@ This may mean Rak did not see Tam as actively hostile despite Tam's Scourge asso
 ### Plugg
 
 Tam may follow Plugg if Plugg seems to embody command, but he may also recognize command failure if Plugg endangers ship survival.
+
+On Erastus 16, Tam acted as Plugg's messenger to Mirei.
 
 ## Current State
 
