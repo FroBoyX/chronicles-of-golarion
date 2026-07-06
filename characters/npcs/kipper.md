@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak rum-ration sighting fragment
+- Maturity: Draft, expanded with Rak rum-ration sighting and punishment-scene link
 - Scope: Wormwood gunner's mate, Plugg/Scourge bootlicker, transfer status unresolved
 
 ## Overview
@@ -47,7 +47,9 @@ Kipper served as gunner's mate and bootlicker for Plugg and Scourge.
 
 A recovered floating chat fragment has Rak saying that Kipper saw him get rid of rum and that Rak did not know what to do. Rak planned to ask Grok for help when he ran into her that night.
 
-This fragment is not yet final-dated, but it likely belongs to a night after dinner / rum ration. If connected to the later punishment scene, Kipper may be the witness who escalated Rak's rum disposal into officer discipline.
+This fragment is not final-dated, but it likely belongs to a night after dinner / rum ration. If connected to the recovered rum punishment scene, Kipper may be the witness who escalated Rak's rum disposal into officer discipline.
+
+The recovered punishment scene ends with Kipper ordering the rest of the crew below deck after Scourge punishes Rak and Sho. This reinforces Kipper's role as an officer-adjacent enforcer or assistant in that scene.
 
 ### Man's Promise Battle
 
@@ -81,6 +83,12 @@ Rak believed Kipper saw him get rid of rum and planned to ask Grok for help.
 
 This may place Kipper in a direct conflict or informant role against Rak.
 
+### Sho Astor
+
+Kipper was present at the end of the recovered rum punishment scene where Sho was punished after questioning Scourge and Plugg over Rak's double punishment.
+
+He ordered the remaining crew below deck afterward.
+
 ### PCs
 
 Kipper is not currently known as a PC ally.
@@ -92,7 +100,7 @@ Treat him as hostile or hostile-leaning until evidence says otherwise.
 - Location: Unresolved
 - Status: Presumed alive, injury state unconfirmed
 - Political state: Plugg/Scourge-aligned if present
-- Practical threat: Weapons, armory, explosives, and opportunistic violence
+- Practical threat: Weapons, armory, explosives, opportunistic violence, and possible informant behavior
 
 ## Campaign Function at Relaunch
 
