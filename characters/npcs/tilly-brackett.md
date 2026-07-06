@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log
-- Scope: Wormwood sailor, rescued captive, witness to Riptide Cove
+- Maturity: Draft, expanded with Day 2 work conversation and Arodus 5 split-scene log
+- Scope: Wormwood sailor, early Mirei contact, rescued captive, witness to Riptide Cove
 
 ## Overview
 
@@ -37,6 +37,30 @@ Tilly became one of the missing captives on Bonewrack Isle.
 Her apparent loss or capture helped make the island personal rather than only logistical.
 
 Her survival gives the returning Harvus group another witness and another life saved.
+
+## Early Wormwood
+
+### Joining the Wormwood
+
+Tilly joined the Wormwood herself rather than being press-ganged.
+
+She was found in Port Peril after beating up a few Wormwood swabs. Her account suggests the crew thought her guns were enough to replace the swabs she had broken.
+
+Tilly did not need this crew specifically. She wanted to go to sea and "add some salt to my boots."
+
+### Day 2 Work Talk with Mirei
+
+On Erastus 6 / Wormwood Day 2, Mirei spoke with Tilly during work to make the labor pass faster.
+
+Tilly was initially curt because she was trying to work, but she continued the conversation after Mirei explained herself.
+
+Tilly correctly identified Mirei as part of the new press-ganged group and asked how Mirei had been taken.
+
+Mirei told Tilly she had been admiring the water a few nights before, did not know who took her, and had been struck on the back of the head.
+
+Tilly advised Mirei to get used to shipboard life, keep her head down, and avoid drawing attention.
+
+Mirei admitted she had not succeeded at avoiding attention so far.
 
 ## Capture
 
@@ -102,7 +126,11 @@ This relationship should be treated as meaningful even if its exact nature remai
 
 ### Mirei
 
-Mirei helped make the rescue possible.
+Mirei first connected with Tilly during work on Wormwood Day 2 by talking to make the work go faster.
+
+Tilly and Mirei both wanted the sea, but Tilly chose shipboard danger while Mirei was taken into it by force.
+
+Mirei later helped make Tilly's rescue possible.
 
 Tilly was present when Mirei confessed that Plugg's side tasked her with killing the PCs to prove loyalty, and Tilly reacted with shock.
 
@@ -149,6 +177,8 @@ Her exact political stance should emerge from play and prior influence history.
 ## Open Questions
 
 - What was Tilly's attitude toward each PC before the Bonewrack rescue?
+- Did Mirei's Day 2 conversation improve Tilly's attitude toward her?
+- What roll produced Mirei's `15` in the Day 2 work conversation?
 - What is Tilly's exact relationship with Goyle beyond survival attachment?
 - Does Tilly still have Harvus' flail?
 - Does she remember the Whale clearly, or only fragments of the rescue?
