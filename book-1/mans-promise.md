@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, and recovered boarding-map casualty evidence
+- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, recovered boarding-map evidence, and corrected shipwide death-toll scope
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -58,9 +58,11 @@ The recovered map confirms that **Giffer Tibbs died below the port-side stairs**
 
 The recovered map also confirms that Rak's premature lifeboat release was on the starboard side and put a Man's Promise crew member into the water, with possible shark involvement still requiring final confirmation.
 
-The recovered map confirms **16 total deaths on the fight map**: 15 Man's Promise personnel and Giffer Tibbs.
+The recovered map confirms **16 visible / represented deaths on the fight map**: 15 Man's Promise-side figures and Giffer Tibbs. This is not the full shipwide death toll.
 
-The **captain of the Man's Promise died during the battle** and is part of the Man's Promise casualty record. The later Erastus 27 example victim was a weakened captured sailor, not the captain.
+Kahina Bukekayo's later statement that more than thirty people died is now treated as accurate survivor testimony. The archive still needs to canonize the Man's Promise starting crew count to derive the final total death toll.
+
+The **captain of the Man's Promise died in the captain's cabin** during the battle. Later physical evidence supports this: when Mirei entered the captured captain's cabin to perform for Plugg a few nights later, blood was still splashed across the floor, desk, and walls.
 
 After the ship was secured, Harrigan ordered rum, loot, celebration, and officers gathered. Habbly stitched Sho while reminding her she was still likely to go under the boat. Sandara collapsed from a serious wound after healing Harvus.
 
@@ -113,6 +115,8 @@ That evening, Scourge announced a stricter regime:
 The one exception was Mirei, who was ordered to report to the captain with her instrument.
 
 Rak lent Mirei a fiddle during dinner so she could perform for Plugg. Mirei played well enough to impress Plugg, who offered her a hammock in his cabin area. The offer was immediately entangled with coercion: Plugg performed a slow weapon check, pushed Mirei against the bulkhead, seized a pouch, allowed her to keep a potion, and promised her life would improve if she kept him entertained.
+
+The captured captain's cabin still carried the physical evidence of the captain's death: blood splashed across the floor, desk, and walls.
 
 Plugg then made the cabin rules explicit: Mirei was not to touch anything without permission, would play for him each night, and was not to speak to him or Owlbear unless spoken to.
 
@@ -246,7 +250,9 @@ The recovered fight map confirms Giffer Tibbs died below the port-side stairs.
 
 ### Captain's Cabin
 
-Claimed by Plugg.
+Claimed by Plugg after the capture.
+
+The Man's Promise captain was killed here during the boarding. Blood remained splashed across the floor, desk, and walls when Mirei later performed for Plugg.
 
 Mirei's first-night hammock is placed in or near this authority space after Plugg's coercive offer.
 
@@ -305,6 +311,7 @@ This has not yet become central in play but remains a future identity hook.
 - The crew may not accept any single leader automatically.
 - Former Man's Promise survivors have reason to hate both Plugg's tyranny and the PCs' role in the original boarding.
 - Mirei's prior placement in Plugg's cabin makes her both witness and target within Plugg's command space.
+- Kahina's death-toll accusation is accurate enough to treat as real survivor truth; the final exact count depends on the canon crew complement.
 
 ## Possible Outcomes
 
@@ -319,3 +326,9 @@ Possible states include:
 - The ship fractures into factions.
 - The ship is abandoned.
 - The ship remains damaged and unusable.
+
+## Open Checks
+
+- Canonize the starting crew count of the Man's Promise so the final death toll can be calculated.
+- Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map cabin death.
+- Recover Mirei's direct observation of the blood in the captain's cabin, if available.
