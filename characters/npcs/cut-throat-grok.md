@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Day 2 Rak brew scene and undocumented bonding note
+- Maturity: Draft, expanded with Day 2 Rak brew scene, Day 3 Rak trust talk, and undocumented bonding note
 - Scope: Wormwood quartermaster, Kroop's closest friend, Rak relationship context
 
 ## Overview
@@ -117,6 +117,24 @@ This likely created a repeated galley / quartermaster / alcohol loop where Rak c
 
 Because Rak was responsible for most of the cooking through the Wormwood period, he would naturally keep passing through Ambrose's sphere. Since Ambrose and Grok were already bonded through friendship and alcohol, the archive should assume frequent small opportunities for Rak and Grok to interact unless later evidence contradicts that.
 
+### Rak Trust Talk
+
+On Erastus 7 / Wormwood Day 3, Rak asked Grok who the bad crew members were and who he could trust or befriend.
+
+Grok joked first that all of them were bad, then became serious when Rak framed the question around trust and survival.
+
+Grok said she would not trust any of the lot, but that a sailor had to throw in their axe with somebody.
+
+She warned Rak to avoid most officers and said Scourge seemed to have it out for some of the new blood.
+
+Grok admitted she had an in with most officers but not much sway. She pointed to her neck scar and said that if the swabs who tried this could not kill her, she did not know who could.
+
+She told Rak she would try to help if people really tried something against him, and advised him to make friends with newer members of the crew or good old Ambrose.
+
+At the end of the exchange, she told Rak to get rest because she heard he was in the bilges tomorrow.
+
+This scene shows Grok offering guarded survival advice and limited protection without pretending that trust aboard the Wormwood is simple or safe.
+
 ### Relationship With Rak
 
 Before the capture of the Man's Promise and the split of the crew, Rak and Grok hooked up.
@@ -145,6 +163,8 @@ Their first recovered friendship-development beat is the Day 2 brew scene, where
 
 They likely had recurring undocumented bonding time afterward through cooking, alcohol, Ambrose, the galley, and quartermaster access.
 
+The Day 3 trust talk shows Rak coming to Grok for survival advice and Grok answering with guarded honesty.
+
 They later had a sexual or intimate relationship before the Man's Promise split, and Rak began bunking with her.
 
 This may have been casual, meaningful, opportunistic, or some mixture; Rak's player's understanding should be recovered if possible.
@@ -160,6 +180,8 @@ Kroop is Grok's closest friend aboard the Wormwood.
 She encourages his drinking, but their bond is genuine.
 
 Through Kroop and Rak, Grok forms part of the same support network.
+
+Grok specifically recommended Ambrose to Rak as someone to cultivate when Rak asked who he could trust or befriend.
 
 ### Sandara Quinn
 
@@ -205,6 +227,8 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 - What did Rak brew for Grok on Erastus 6?
 - Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
 - What recurring alcohol / cooking / galley interactions occurred but were not preserved?
+- Did Rak follow Grok's advice about befriending newer crew or Ambrose?
+- Did Grok name any specific newer crew in surrounding lost text?
 - How did Grok and Rak's friendship become flirtation or intimacy?
 - Was Rak/Grok public knowledge aboard the Wormwood?
 - Did Plugg, Scourge, or Harrigan know?
