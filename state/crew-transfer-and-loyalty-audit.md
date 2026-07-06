@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, expanded with Rak and Sho player-sheet evidence, corrected Man's Promise survivor math, and recovered tactical map casualty count
+- Maturity: Draft, expanded with Rak and Sho player-sheet evidence, corrected Man's Promise survivor math, recovered tactical map evidence, and corrected shipwide death-toll scope
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -61,25 +61,30 @@ Sho's notes record:
 
 The recovered tactical map confirms several boarding-battle facts:
 
-- 16 total deaths on the fight map.
-- 15 Man's Promise-side deaths.
-- Giffer Tibbs as the Wormwood-side death.
+- 16 deaths visible / represented on the fight map.
+- 15 Man's Promise-side visible / represented deaths.
+- Giffer Tibbs as the Wormwood-side visible / represented death.
 - Giffer died below the port-side stairs.
 - The PCs secured the aft deck / ship's wheel before moving toward the middle deck between lifeboats and the main mast.
 - Rak's premature lifeboat release was on the starboard side.
 - The lifeboat victim ended up in the water, with shark involvement possible but not fully confirmed.
 
-### GM Man's Promise Survivor Math
+This map count is not the complete shipwide death toll.
 
-The boarding battle left **15 captured Man's Promise survivors**.
+### GM Man's Promise Death-Toll Correction
 
-The recovered map confirms the complementary casualty side: **15 Man's Promise personnel died during the boarding battle**, including the Man's Promise captain and other named / unnamed casualties still being reconciled.
+Kahina Bukekayo's statement that more than thirty people died is accurate survivor testimony.
 
-The **captain of the Man's Promise died during the battle**.
+The archive only has map-visible deaths and captured survivor count. To get the final total death toll, the Man's Promise starting crew complement needs to be canonized.
 
-Captain Harrigan later made an example of a **weakened captured sailor** by throwing that sailor overboard to the sharks.
+Known math:
 
-That left **14 surviving captured Man's Promise crew**.
+- The recovered map confirms 16 map-visible / represented deaths: 15 Man's Promise-side figures and Giffer.
+- The boarding battle left **15 captured Man's Promise survivors**.
+- The Man's Promise captain was killed in the captain's cabin, supported by later blood evidence in the cabin.
+- The full shipwide death toll is more than thirty, per Kahina.
+- Captain Harrigan later made an example of a **weakened captured sailor** by throwing that sailor overboard to the sharks.
+- That left **14 surviving captured Man's Promise crew**.
 
 Of those fourteen, six named survivors were assigned to the skeleton crew on their own captured ship under Mr. Plugg:
 
@@ -141,15 +146,16 @@ The other eight survivors are acknowledged by the survivor math but are not curr
 
 | Character | Status | Notes |
 |---|---|---|
-| Fifteen Man's Promise personnel | Dead | Confirmed by recovered fight map as Man's Promise-side deaths during boarding. Includes the captain and likely includes Kor'al / Cor'Wal Daraa, pending exact token/name reconciliation. |
-| Man's Promise captain | Dead | Died during the Man's Promise boarding battle; counted within the fifteen Man's Promise-side deaths; not the post-battle example victim. |
+| Man's Promise shipwide dead | Dead | More than thirty deaths per Kahina's accurate survivor testimony. Exact total requires canon starting crew count minus survivors. |
+| Fifteen map-visible Man's Promise-side figures | Dead | Confirmed by recovered fight map as visible / represented Man's Promise-side deaths during boarding. This is not the full shipwide death toll. |
+| Man's Promise captain | Dead | Killed in the captain's cabin during the boarding; blood remained splashed across the floor, desk, and walls when Mirei later performed there for Plugg. |
 | Unnamed weakened captured sailor | Dead | Harrigan threw this sailor overboard to the sharks as an example on Erastus 27; this happened after the boarding battle and after the fifteen captured survivors were led out. |
 | Jakes Magpie | Dead | Keelhauled early aboard Wormwood. |
 | Rosie Cusswell | Dead / lost at sea | Lost during storm despite rescue efforts. |
 | Aretta Bansion | Dead | Died after conflict with Sho in the bilges. |
 | Giffer Tibbs | Dead | Wormwood-side casualty during Man's Promise boarding; recovered map confirms death below port-side stairs; Sho notes possible foul play with body and need reconstruction. |
 | Harmak Gruft | Dead | Body caged on Wormwood. |
-| Kor'al / Cor'Wal Daraa | Dead | Man's Promise sailor; brother of Nor'gal / Nor'Gal per Sho notes; likely counted among fifteen Man's Promise-side deaths. |
+| Kor'al / Cor'Wal Daraa | Dead | Man's Promise sailor; brother of Nor'gal / Nor'Gal per Sho notes; likely among shipwide dead, exact map representation unresolved. |
 
 ## Unresolved Placement / Status
 
@@ -246,6 +252,7 @@ Before running the return to the Man's Promise, determine or confirm:
 10. What Sho's Giffer-body suspicion refers to.
 11. Whether any of the eight unnamed survivors need to re-enter the record.
 12. Token-by-token identification from the recovered Man's Promise map for surrendered and injured figures.
+13. Canon starting crew count and final Man's Promise death toll.
 
 ## Design Note
 
@@ -257,6 +264,8 @@ If too many people die or leave, the ship may become a prize no one can actually
 
 ## Open Questions
 
+- Canonize the Man's Promise starting crew count and derive the full death toll.
+- Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map cabin death.
 - Resolve what happened to the eight Man's Promise survivors who were not part of the named skeleton-crew bloc.
 - Resolve the identity and fate of the Rahadoumi officer visible in the Erastus 27 chat.
 - Use the recovered Man's Promise map to identify every surrendered token and every injured Wormwood crew token by name.
