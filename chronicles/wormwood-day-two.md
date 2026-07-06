@@ -4,8 +4,8 @@
 
 - Type: Day-by-day narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, and Bloody Hour consequence
-- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Tilly/Mirei work chat extract, Maheem/Harvus rigging chat extract, Sho/Grok item chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
+- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, Rak/Grok brew scene, and Bloody Hour consequence
+- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Tilly/Mirei work chat extract, Maheem/Harvus rigging chat extract, Sho/Grok item chat extract, Rak/Grok brew chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -243,6 +243,36 @@ For Aretta especially, the punishment mattered.
 
 She had been beaten, distracted, rendered unconscious, and then punished for the failure. That was not the end of the conflict. It was the beginning of her revenge thread.
 
+## Rak and Grok Brew
+
+That night, **Rak Wraithraiser** returned to **Cut-Throat Grok**.
+
+Grok greeted him with the sort of smile that may not have been much of a smile at all.
+
+> "Well hello again, were you looking for something from the shop?"
+
+Rak had not come to buy something immediately. He had come to apologize.
+
+> "Nah brah, just wanted to apologize for bailing earlier. I meant to stop by but I lost track of time while cooking up the grub."
+
+Grok did not hold it against him. She remembered what mattered.
+
+> "No worries, I could open it up for you now if you'd like. You mentioned alcohol?"
+
+That was enough to bring Rak fully into his element.
+
+> "Heck yeah, I just need some ingredients to make the brew and my kit and I can brew up pretty much anything."
+
+Then, with the sort of flair that belonged partly to Rak and partly to the table around him, he declared:
+
+> "I put on my robe and wizard hat."
+
+Grok grinned.
+
+> "Lets see what you can brew!"
+
+The current reconstruction presumes that Grok furnished both Rak's alchemy kit and ingredients for brewing. This is the recovered beginning of their friendship: Rak offered Grok something concrete that she valued, and Grok opened the way for him to prove it.
+
 ## Character Beats
 
 ### Sho Astor
@@ -293,6 +323,8 @@ Rak was present in the aftermath and spoke to Scourge with characteristic casual
 
 His "Sup brah" and "As you command, brah" responses show Rak refusing to adopt the fear-language expected aboard the Wormwood.
 
+That night, Rak returned to Grok, apologized for missing her earlier, and offered to brew alcohol using ingredients and his kit. Grok appears to have furnished what he needed. This is the first recovered seed of Rak and Grok's friendship.
+
 ### Conchobhar Turlach Shortstone
 
 Conchobhar was part of the nearby crew watching the fight, but was not caught up in it.
@@ -310,6 +342,8 @@ He is listed as a swab, but his exact Day 2 task is unknown.
 Grok had already heard about the morning fight by the time Sho came to her.
 
 She considered Sho potentially useful but refused to trade property for uncertain future services. This establishes Grok as pragmatic rather than charitable.
+
+That night, Grok opened the possibility of shop access and brewing with Rak. Her interest in unusual drink becomes the first recovered path into her friendship with him.
 
 ### Aretta Bansion
 
@@ -347,8 +381,10 @@ Jape is part of the harassment group and is punished with the others.
 - The exact item or items Sho was trying to recover from Grok in this conversation.
 - Whether Sho had made an earlier rude comment to Grok and, if so, what it was.
 - Whether Sho faced consequences for slacking off or exploring to reach Grok.
+- What Rak brewed for Grok, and whether the brew succeeded mechanically.
+- Whether Grok returned Rak's alchemy kit permanently, loaned it, or supervised its use.
 - Whether there were additional Day 2 daytime social scenes before Bloody Hour.
-- Whether any night scenes on Erastus 6 can be confidently placed after this event.
+- Whether any other night scenes on Erastus 6 can be confidently placed after this event.
 
 ## Open Checks
 
@@ -362,6 +398,8 @@ Jape is part of the harassment group and is punished with the others.
 - Confirm whether Maheem's admission changed Harvus' attitude toward him.
 - Confirm what specific property Sho was trying to recover from Grok.
 - Confirm whether Grok later accepted Sho's services or required a different trade.
+- Confirm what Rak brewed and whether anyone else witnessed it.
+- Confirm how quickly the Rak/Grok friendship became flirtation or intimacy.
 
 ## Canon Consequences
 
@@ -374,6 +412,7 @@ Jape is part of the harassment group and is punished with the others.
 - Maheem confirmed that Scourge framed Harvus as needing to be "tamed," sharpening Harvus' Scourge vendetta.
 - Grok learned quickly about the fight and recognized Sho's potential usefulness.
 - Sho's early attempt to bargain with Grok failed because she had no concrete value to trade.
+- Rak's ability to brew alcohol became the first recovered seed of his friendship with Grok.
 - Aretta, Fipps, Jape, and Syl were publicly punished for the failed attempt.
 - Aretta's later revenge motive begins here.
 - The later bilges ambush against Sho should be treated as connected to Day 2 humiliation, not as an isolated incident.
