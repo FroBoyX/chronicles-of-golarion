@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with direct fiddle-return scene, storm rescue message fragments, and post-loss suspicion
+- Maturity: Draft, expanded with direct fiddle-return scene, storm rescue message fragments, Sho rescue perspective, and post-loss suspicion
 - Scope: Wormwood lower-crew ally, Harvus friendship, storm loss
 
 ## Overview
@@ -86,6 +86,10 @@ Mirei told Rosie to hold on, that they were trying to get her, and that they wou
 
 This proves there was an active rescue effort involving a rope and communication to Rosie, but it does not by itself reconstruct who threw the rope, whether Rosie got hold of it, or why the attempt failed.
 
+The Sho player confirms Sho also acted during Rosie's failed rescue. Sho did not know Rosie well, but saw someone in danger and acted by instinct. Sho's simple understanding was that a rope should do the trick.
+
+Sho probably blamed herself a little afterward, but not heavily, because she understood Rosie's loss as an unfortunate accident rather than one of the ship's deliberate cruelties.
+
 Her loss should remain a meaningful death in the Book One record.
 
 In a later conversation with Harvus, Sandara said Rosie was new but had angered Scourge and Plugg quickly. Sandara had been busy in the rigging during the storm, but said Rosie's going over might have been intentional.
@@ -106,9 +110,19 @@ Rosie's loss was one of the events Harvus later named when describing the renewe
 
 ### Mirei
 
-Mirei attempted to communicate with Rosie during the storm rescue attempt, telling her to hold on and instructing her to tie the rope to herself.
+Mirei attempted to communicate with Rosie during the storm rescue attempt, telling her to hold on and instructing her to tie a rope to herself.
 
 This gives Mirei a direct but failed rescue connection to Rosie's death.
+
+### Sho Astor
+
+Sho did not know Rosie well, but saw Rosie as someone who seemed all right compared with more surly crew.
+
+Sho's attempt to help Rosie was instinctive: someone was in danger, and Sho believed she could do something.
+
+The failed rescue did not make Sho more cautious. Given the same situation again, she would dive after someone every time.
+
+Rosie's death helped Sho start sorting the crew into those who were rotten and those who were good people trapped in a bad situation.
 
 ### Conchobhar Turlach Shortstone
 
@@ -140,6 +154,8 @@ For Harvus specifically, Rosie's death comes after he successfully restored some
 
 For Mirei, Rosie's death carries a different weight: she was actively trying to reach and instruct Rosie through magic, but the rescue failed.
 
+For Sho, Rosie's death reinforced that some people aboard the Wormwood were decent people trapped in a bad place. It also illustrates Sho's instinctive rescue pattern: she will act when someone is in danger even if the plan is thin.
+
 If the suspicion of intentionality is later confirmed, Rosie may become an early example of Plugg and Scourge using shipboard danger as cover for selective elimination.
 
 ## Open Questions
@@ -149,7 +165,8 @@ If the suspicion of intentionality is later confirmed, Rosie may become an early
 - Was Rosie's going overboard accidental, negligent, or intentional?
 - Did Rosie ever get hold of the rope during the rescue attempt?
 - Who controlled or threw the rope?
-- Did Sho dive after Rosie in this same sequence, as player memory suggests?
+- Did Sho physically dive after Rosie, as player memory suggests?
+- Was Sho tied to a rope when she acted?
 - What was the final reason the rescue failed?
 - Did Conchobhar meaningfully grieve her?
 - Did any crew member blame the officers, the storm, or the rescue failure?
