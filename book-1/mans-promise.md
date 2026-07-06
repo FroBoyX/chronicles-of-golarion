@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, and first-night command state
+- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, and recovered boarding-map casualty evidence
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -48,11 +48,19 @@ Mirei was badly wounded by arrows during the approach and did not board.
 
 Harvus and Giffer took arrows but made it across the lines.
 
+A recovered tactical map confirms that the PCs secured the aft deck and ship's wheel in the fog, then worked down toward the middle deck between the two lifeboats and near the main mast.
+
 Sho warned Harrigan of an attacker behind him and received direct acknowledgement after Harrigan killed the attacker.
 
 Rak's conduct during the boarding became a major moral thread: he killed a pleading or downed sailor, likely worsened Giffer's fatal state, and intimidated Nor'gal into surrender. Sho repeatedly tried to impose restraint and subdue rather than slaughter.
 
-The **captain of the Man's Promise died during the battle**. The later Erastus 27 example victim was a weakened captured sailor, not the captain.
+The recovered map confirms that **Giffer Tibbs died below the port-side stairs** during the fight.
+
+The recovered map also confirms that Rak's premature lifeboat release was on the starboard side and put a Man's Promise crew member into the water, with possible shark involvement still requiring final confirmation.
+
+The recovered map confirms **16 total deaths on the fight map**: 15 Man's Promise personnel and Giffer Tibbs.
+
+The **captain of the Man's Promise died during the battle** and is part of the Man's Promise casualty record. The later Erastus 27 example victim was a weakened captured sailor, not the captain.
 
 After the ship was secured, Harrigan ordered rum, loot, celebration, and officers gathered. Habbly stitched Sho while reminding her she was still likely to go under the boat. Sandara collapsed from a serious wound after healing Harvus.
 
@@ -60,7 +68,9 @@ This boarding is the violent birth of the Man's Promise political crisis.
 
 ## Prisoners and Split
 
-After the Erastus 26 revel wound down, fifteen captured survivors were led out.
+After the boarding battle, fifteen captured Man's Promise survivors remained.
+
+After the Erastus 26 revel wound down, those fifteen captured survivors were led out.
 
 Harrigan made an example of a weakened captured sailor by throwing that sailor overboard to the sharks. Fourteen captured survivors remained afterward.
 
@@ -215,6 +225,24 @@ Primary public space and likely site of confrontation, punishment, command annou
 ### Aft / Sterncastle
 
 Strategically important for command, ship's wheel, and prior boarding memory.
+
+The recovered fight map confirms the PCs secured the aft deck and ship's wheel during the boarding before pushing toward the middle deck.
+
+### Middle Deck / Main Mast
+
+The recovered fight map confirms the central fight shifted between the two lifeboats and near the main mast.
+
+This is the region tied to Sho's attempted command, surrender promises, Rak's violence, and the later surrender break.
+
+### Starboard Lifeboat
+
+The recovered fight map confirms Rak's premature lifeboat release occurred on the starboard side.
+
+A Man's Promise crew member ended up in the water and may have been swarmed by sharks.
+
+### Port-Side Stairs
+
+The recovered fight map confirms Giffer Tibbs died below the port-side stairs.
 
 ### Captain's Cabin
 
