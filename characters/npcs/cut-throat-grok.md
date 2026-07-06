@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Day 2 Rak brew scene, Day 3 Rak trust talk, and undocumented bonding note
-- Scope: Wormwood quartermaster, Kroop's closest friend, Rak relationship context
+- Maturity: Draft, expanded with Day 2 Rak brew scene, Day 3 Rak trust talk, Sho cloak attempts, and undocumented bonding note
+- Scope: Wormwood quartermaster, Kroop's closest friend, Rak relationship context, Sho item negotiation context
 
 ## Overview
 
@@ -86,6 +86,24 @@ Sho offered information and future services as muscle, citing the morning fight 
 Grok had already heard about the fight and recognized Sho might be useful, but refused to trade for uncertain future value.
 
 This establishes Grok as pragmatic rather than charitable: promises are not enough, even from someone capable.
+
+### Sho's Second Cloak Attempt
+
+On Erastus 7 / Wormwood Day 3, Sho tried again with Grok.
+
+Grok acknowledged that Sho had taken a step in the right direction, but immediately asked what Sho wanted.
+
+Sho said she only desired her cloak.
+
+Grok repeated the rule: bring something of value.
+
+Sho said she would work on it and explained that she did not want to leave an insult on Grok's person.
+
+Grok told her to find something to trade.
+
+Sho again left her services available for future trade.
+
+This scene confirms that Sho's target item was her cloak and that Grok remained consistent: apology and possible future usefulness were not enough without concrete trade value.
 
 ### Early Rak Contact
 
@@ -195,6 +213,8 @@ Sho tried to trade information and future muscle services to Grok on Day 2.
 
 Grok saw potential usefulness in Sho, but refused to trade for future value that might never materialize.
 
+On Day 3, Sho returned and specified that she wanted her cloak. Grok acknowledged Sho had taken a step in the right direction, but again insisted on concrete trade value.
+
 ### The PCs
 
 Grok can be a source of gear, barter, gossip, and risk.
@@ -229,6 +249,9 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 - What recurring alcohol / cooking / galley interactions occurred but were not preserved?
 - Did Rak follow Grok's advice about befriending newer crew or Ambrose?
 - Did Grok name any specific newer crew in surrounding lost text?
+- What did Grok mean when she told Sho that this was a step in the right direction?
+- What insult had Sho left on Grok?
+- Did Sho later find something of value to trade for the cloak?
 - How did Grok and Rak's friendship become flirtation or intimacy?
 - Was Rak/Grok public knowledge aboard the Wormwood?
 - Did Plugg, Scourge, or Harrigan know?
