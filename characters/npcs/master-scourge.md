@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rosie loss suspicion and Erastus 16 mast / reef summons
+- Maturity: Draft, expanded with Rosie loss suspicion, Erastus 16 mast / reef summons, and Erastus 27 first mate speech
 - Scope: Book One emotional antagonist and disciplinary threat
 - Source basis: Recovered Adventure Path material, GM-provided campaign facts, chat logs, and player journals
 
@@ -112,9 +112,15 @@ Sandara said she was busy in the rigging during the storm, but Rosie's going ove
 
 This is an unresolved suspicion, not confirmed fact. It matters because it shows Sandara already considering that Scourge and Plugg might use shipboard danger as cover for eliminating troublesome crew.
 
-### Man's Promise
+### Man's Promise Appointment
 
 After the capture of the Man's Promise, Scourge transferred with Plugg's prize crew and continued in a more openly hostile role.
+
+On Erastus 27, Plugg publicly named Scourge first mate aboard the Man's Promise.
+
+During Plugg's first command speech, Scourge whispered something to Plugg that made them both laugh, then turned to the crew with a cold glare. He said the Wormwood had been easy on them, but because the Man's Promise had only a skeleton crew, any lapse in discipline would be dealt with quickly and forcefully.
+
+> "I will be watching."
 
 With Harrigan distant, Plugg and Scourge became more direct in their intent to eliminate troublesome PCs.
 
@@ -138,6 +144,8 @@ He can influence Plugg, but he is not the architect of every Plugg decision. Chr
 
 On Erastus 16, he fetched Badger when Plugg ordered it.
 
+On Erastus 27, he accepted or performed the role of first mate in Plugg's first public command structure aboard the Man's Promise.
+
 ### Harvus G'ron
 
 Scourge is Harvus' personal enemy.
@@ -147,6 +155,8 @@ He caused or contributed directly to Harvus' damaged wing and forced service.
 This relationship is vengeance-shaped and tied to Calistria.
 
 Rosie's loss and Sandara's suspicion of intentionality further fed Harvus' renewed rage against the Wormwood's cruelty.
+
+On Erastus 27, Scourge ordered Harvus to report to the deck of the Man's Promise in less than ten minutes.
 
 ### Sandara Quinn
 
