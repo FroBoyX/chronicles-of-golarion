@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, expanded with Rak and Sho player-sheet evidence plus Ebony Saable survivor confirmation
+- Maturity: Draft, expanded with Rak and Sho player-sheet evidence plus confirmed Man's Promise survivor set
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -57,11 +57,18 @@ Sho's notes record:
 - Nor'Gal and dead brother Cor'Wal name evidence,
 - and Goyle as former quartermaster of the Man's Promise.
 
-### GM Survivor Confirmation
+### GM Survivor Set Confirmation
 
-Ebony Saable is confirmed as one of the six tracked Man's Promise survivors.
+The six tracked Man's Promise survivors are fixed as:
 
-He is also identified as the "monk man" referenced by Sho.
+- Dahrehn Numus
+- Ebony Saable
+- Goyle Onórach
+- Kahina Bukekayo
+- Merchiel V'giatore
+- Nor'gal Daraa
+
+Ebony Saable is also identified as the "monk man" referenced by Sho.
 
 ## Known Current PCs
 
@@ -80,13 +87,16 @@ He is also identified as the "monk man" referenced by Sho.
 | Master Scourge | Man's Promise / command structure | Alive | Plugg's enforcer. |
 | Sandara Quinn | Bonewrack, Harvus group | Alive | Rescued; likely anti-Plugg; helpful from Rak sheet. |
 | Tilly Brackett | Bonewrack, Harvus group | Alive | Rescued; likely witness to rescue; helpful from Rak sheet. |
-| Goyle Onórach | Bonewrack, Harvus group | Alive | Witness against Plugg; former Man's Promise quartermaster per Sho sheet. |
+| Goyle Onórach | Bonewrack, Harvus group | Alive / tracked Man's Promise survivor | Witness against Plugg; former Man's Promise quartermaster per Sho sheet; one of the six tracked survivors. |
 | Shivikah | Bonewrack, Rak group | Alive | Hostile/unfriendly but possibly movable; helped Rak in frog fight. |
 | Slippery Syl Lonegan | Bonewrack, Rak group | Alive | Hostile, violent, opportunistic; unfriendly from Rak sheet; on Sho watch list. |
 | Jaundiced Jape | Bonewrack, Rak group | Alive | Hostile, silent threat; on Sho watch list. |
 | Fipps Chumlett | Bonewrack beach | Presumed alive | Hostile; left at Coconut Beach by Syl because ship was expected there; on Sho watch list. |
-| Kahina Bukekayo | Man's Promise | Alive | Man's Promise survivor; Sho's current moral interrogator. |
-| Ebony Saable | Man's Promise | Alive | Confirmed as one of the six tracked Man's Promise survivors; rigger; identified as Sho's referenced "monk man." |
+| Kahina Bukekayo | Man's Promise | Alive / tracked Man's Promise survivor | Rigger; Sho's current moral interrogator; one of the six tracked survivors. |
+| Dahrehn Numus | Man's Promise survivor context | Alive / tracked Man's Promise survivor | Swab; previously wealthy trader; exact physical position needs confirmation. |
+| Ebony Saable | Man's Promise survivor context | Alive / tracked Man's Promise survivor | Rigger; identified as Sho's referenced "monk man"; exact physical position needs confirmation. |
+| Merchiel V'giatore | Man's Promise survivor context | Alive / tracked Man's Promise survivor | Rigger; exact physical position needs confirmation. |
+| Nor'gal Daraa | Man's Promise survivor context | Alive / tracked Man's Promise survivor | Swab; revenge thread for dead brother Kor'al / Cor'Wal; exact physical position needs confirmation. |
 | Ambrose Kroop | Man's Promise | Alive | Practical ally; likely anti-Plugg but survival-minded; helpful from Rak sheet. |
 | Owlbear Hartshorn | Man's Promise | Presumed alive | Plugg-controlled unless prior friendship changes him. |
 
@@ -125,11 +135,8 @@ He is also identified as the "monk man" referenced by Sho.
 | Tam "Narwhal" Tate | Man's Promise likely | Rak sheet lists indifferent maybe/not sure. |
 | Kipper | Unknown | Burned in battle; transfer status needs confirmation. |
 | Patch Patchsalt | Unknown | Rak sheet lists indifferent; placement and true loyalty need confirmation. |
-| Nor'gal / Nor'Gal Daraa | Man's Promise survivor / unknown | Brother of Kor'al / Cor'Wal; possible revenge thread; named in Sho notes. |
 | Crimson | Unknown | Sho notes say she has something to discuss with Crimson; identity unresolved. |
-| Dahrehn Numus | Man's Promise survivor / unknown | Status and role need confirmation. |
-| Merchiel V'giatore | Man's Promise survivor / unknown | Status and role need confirmation. |
-| Melina Drakesworn | Man's Promise survivor / unknown | Status and role need confirmation. |
+| Melina Drakesworn | Unknown | Status and role need confirmation; no longer part of the six tracked Man's Promise survivor set unless later evidence says otherwise. |
 
 ## Faction Buckets
 
@@ -165,15 +172,18 @@ Likely or player-evidenced:
 
 ### Man's Promise Survivor Bloc
 
-Likely includes:
+Confirmed tracked survivor set:
 
+- Dahrehn Numus
+- Ebony Saable
+- Goyle Onórach
 - Kahina Bukekayo
-- Ebony Saable, confirmed as one of the six tracked survivors
-- Goyle Onórach, former quartermaster if Sho sheet is confirmed
-- Nor'gal / Nor'Gal Daraa if alive
-- other surviving Man's Promise sailors
+- Merchiel V'giatore
+- Nor'gal Daraa
 
 This bloc may oppose Plugg while still distrusting the PCs.
+
+The survivor bloc should not be treated as monolithic. Goyle has been rescued and may oppose Plugg from an honor / testimony position; Kahina is testing Sho aboard the ship; Nor'gal may prioritize revenge for his brother; Dahrehn, Ebony, and Merchiel need stance reconstruction.
 
 ### Uncommitted / Survival Bloc
 
@@ -214,7 +224,7 @@ If too many people die or leave, the ship may become a prize no one can actually
 - Identify Crimson and resolve what Sho needs to discuss with them.
 - Resolve Kipper and Patch placement.
 - Reconcile Patch baseline hostility with Rak sheet's indifferent note.
-- Name the other five tracked Man's Promise survivors alongside Ebony Saable.
+- Confirm which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard at the cold open.
 - Confirm Goyle's former quartermaster status.
 - Resolve Nor'Gal / Nor'gal and Cor'Wal / Kor'al spellings.
 - Confirm whether Owlbear is befriended by Sho or another PC.
