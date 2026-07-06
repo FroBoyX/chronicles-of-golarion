@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, and Man's Promise work-distance scene
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, and first-night Plugg cabin coercion
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -173,7 +173,19 @@ After the capture of the Man's Promise, Mirei was aboard the prize crew.
 
 Plugg singled her out and pressured her into a privileged but dangerous role, treating her as useful leverage and assigning her to spy on or betray the other PCs.
 
-During an unknown Man's Promise work day, Mirei tried to make friendly conversation with Crimson Cogward while working, saying it made the work go by faster and that this was a new start.
+On the first recovered evening aboard the Man's Promise, Scourge ordered Mirei to report to the captain with her instrument. Rak had lent Mirei a fiddle during dinner so she could use it for the performance.
+
+Mirei performed for Plugg with the borrowed fiddle and rolled a 32. Plugg offered her a hammock in his cabin area, saying someone with her skill did not belong with the crew below.
+
+Mirei accepted because it would be quieter.
+
+The offer became coercive immediately. Plugg required a weapon check, pushed Mirei against the bulkhead, ordered her to stand still, searched her slowly, took a pouch, allowed her to keep a potion, and whispered that if she kept him entertained, her life would improve.
+
+When Mirei told Scourge that Plugg wanted him to bring a hammock to the cabin, Scourge answered, "So you agreed." Mirei clarified that the only thing she agreed to was having a hammock up there.
+
+Upon returning to Plugg's cabin, Mirei was told not to touch anything without permission, to play for Plugg each night, and not to speak to Plugg or Owlbear unless spoken to.
+
+During an unknown later Man's Promise work day, Mirei tried to make friendly conversation with Crimson Cogward while working, saying it made the work go by faster and that this was a new start.
 
 Crimson told her she was not worth the risk. When Mirei suggested he might feel that way because Sho was outspoken, Crimson called Sho stupid and clarified that he had nothing against Mirei, but did not want anything to do with her.
 
@@ -217,6 +229,8 @@ Mirei was ordered by Plugg to act against Rak and the other PCs, but did not do 
 
 Rak praised Mirei's early Wormwood performance in his own voice: "Nice shredding brah."
 
+Rak lent Mirei a fiddle during the first recovered evening aboard the Man's Promise so she could perform for Plugg after her normal instrument went missing.
+
 ### Sho Astor
 
 Mirei was the first recovered character to notice that Sho's presentation was not what it appeared to be.
@@ -259,7 +273,15 @@ Plugg intercepted or answered Mirei's attempt to invite Harrigan and turned the 
 
 Plugg recognized Mirei's performances as a way to pacify crew morale during the storm window.
 
-This does not yet equal the later Man's Promise betrayal assignment, but it is early evidence that Plugg saw Mirei's social usefulness.
+On the first recovered night aboard the Man's Promise, Plugg converted Mirei's entertainment role into cabin isolation and control: performance, hammock placement, coercive search, seizure of a pouch, a promise of improved life, and strict rules against touching or speaking without permission.
+
+This is the beginning of the direct Man's Promise manipulation arc that later leads to Plugg assigning Mirei to act against the PCs.
+
+### Owlbear Hartshorn
+
+Owlbear acted as Plugg's door guard when Mirei came to the cabin.
+
+Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 
 ## Open Threads
 
@@ -277,6 +299,9 @@ This does not yet equal the later Man's Promise betrayal assignment, but it is e
 - Confirm whether Rosie ever got hold of the rope Mirei referenced.
 - Confirm the severity and healing state of Mirei's Erastus 16 reef-leg injury.
 - Confirm the exact day of Mirei's Man's Promise work conversation with Crimson.
+- Confirm what was in the pouch Plugg took from Mirei.
+- Confirm whether Mirei kept the potion through later Man's Promise / Bonewrack events.
+- Confirm what happened to the borrowed fiddle after Mirei's first Plugg performance.
 
 ## Evidence Notes
 
