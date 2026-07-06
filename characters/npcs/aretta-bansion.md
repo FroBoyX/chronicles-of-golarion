@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Obsidian Portal evidence extract
+- Maturity: Draft, expanded with Obsidian Portal evidence extract and Erastus 23 placement
 - Scope: Hostile Wormwood sailor, Harvus press-ganging participant, Day 2 hostile-crew punishment, Sho bilge-death thread
 
 ## Overview
@@ -12,7 +12,7 @@ Aretta Bansion was a hostile Wormwood sailor and bad-tempered ex-harlot with big
 
 She matters because Harvus recognized her on waking aboard the Wormwood and because she was part of the chain of violence that brought him there.
 
-She later died after conflict with Sho in the bilges.
+She later died after conflict with Sho in the bilges on Erastus 23.
 
 ## Identity
 
@@ -21,6 +21,7 @@ She later died after conflict with Sho in the bilges.
 - Baseline role: Wormwood swab
 - Baseline alignment: Neutral Evil
 - Current status: Dead
+- Death placement: Erastus 23, 4712 AR, after bilge fight with Sho
 - Obsidian Portal tags: Dead, Swab, The Wormwood
 
 ## Baseline Adventure Path Role
@@ -70,15 +71,19 @@ This fills the Day 2 Bloody Hour beat: Syl, Jape, Aretta, and Fipps were punishe
 
 The punishment further fueled Aretta's need for revenge.
 
-### Bilge Conflict and Death
+### Erastus 23 Bilge Conflict and Death
 
-A few days later, Fipps and Aretta were assigned bilge duty with Sho.
+On Erastus 23, Plugg assigned Sho to the bilges with Aretta and Fipps.
 
-They brandished weapons and attacked the unsuspecting monk.
+The working understanding is that Aretta and Fipps were placed there with orders to make sure Sho could not continue being an issue.
+
+The encounter turned violent.
 
 Sho, not knowing her own strength, beat Aretta within an inch of her life.
 
 Aretta died soon after from complications because medical attention was slow to come.
+
+This places Aretta's death on Erastus 23, after the log gap days and before the Man's Promise sighting.
 
 ## Relationships
 
@@ -108,7 +113,7 @@ Aretta belonged to the early hostile lower-crew harassment group alongside Fipps
 
 Her death may affect their later hostility toward Sho and the PCs.
 
-Fipps in particular was present for both the Day 2 hostile-crew message and the later bilge attack.
+Fipps in particular was present for both the Day 2 hostile-crew message and the Erastus 23 bilge attack.
 
 ## Campaign Function
 
@@ -121,7 +126,7 @@ Her arc now has a clearer escalation:
 1. press-gang participant,
 2. hostile crew/goon,
 3. punished after a failed intimidation job,
-4. revenge-driven bilge attacker,
+4. revenge-driven or officer-directed bilge attacker,
 5. death by complications after Sho's defensive beating and delayed care.
 
 ## Open Questions
@@ -130,4 +135,4 @@ Her arc now has a clearer escalation:
 - Does Fipps hold Aretta's death against Sho personally?
 - Did Scourge use Aretta's death as propaganda against the PCs?
 - Does Sho speak of Aretta when Kahina challenges her remorse?
-- Was the later bilge attack explicitly ordered by Plugg/Scourge, or did Fipps and Aretta act from revenge with tacit approval?
+- Was the Erastus 23 bilge attack explicitly ordered by Plugg/Scourge, or did Fipps and Aretta act from revenge with tacit approval?
