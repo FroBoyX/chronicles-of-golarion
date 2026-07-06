@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Day 2 Rak brew scene, Day 3 Rak trust talk, Sho cloak attempts, Sho replacement-shirt barter, Erastus 16 Rak gear return, and undocumented bonding note
+- Maturity: Draft, expanded with Sho item negotiations, Rak brew / trust / first hook-up, and Erastus 27 separation
 - Scope: Wormwood quartermaster, Kroop's closest friend, Rak relationship context, Sho item negotiation context
 
 ## Overview
@@ -21,7 +21,8 @@ In Chronicles of Golarion, she also became personally important through her rela
 - Baseline alignment: Neutral
 - Role: Quartermaster of the Wormwood
 - Close friend: Ambrose "Fishguts" Kroop
-- Campaign relationship: Hooked up with Rak Wraithraiser before the capture of the Man's Promise; Rak began bunking with her
+- Campaign relationship: First hooked up with Rak Wraithraiser on Erastus 16; Rak later began bunking with her
+- Current location: Wormwood
 
 ## Appearance and Bearing
 
@@ -149,27 +150,19 @@ The supporting context is direct and practical: Grok and Ambrose were friends, A
 
 This likely created a repeated galley / quartermaster / alcohol loop where Rak could keep becoming useful and familiar to Grok even when the table did not preserve every interaction.
 
-Because Rak was responsible for most of the cooking through the Wormwood period, he would naturally keep passing through Ambrose's sphere. Since Ambrose and Grok were already bonded through friendship and alcohol, the archive should assume frequent small opportunities for Rak and Grok to interact unless later evidence contradicts that.
-
 ### Rak Trust Talk
 
 On Erastus 7 / Wormwood Day 3, Rak asked Grok who the bad crew members were and who he could trust or befriend.
 
 Grok joked first that all of them were bad, then became serious when Rak framed the question around trust and survival.
 
-Grok said she would not trust any of the lot, but that a sailor had to throw in their axe with somebody.
-
 She warned Rak to avoid most officers and said Scourge seemed to have it out for some of the new blood.
 
-Grok admitted she had an in with most officers but not much sway. She pointed to her neck scar and said that if the swabs who tried this could not kill her, she did not know who could.
-
-She told Rak she would try to help if people really tried something against him, and advised him to make friends with newer members of the crew or good old Ambrose.
-
-At the end of the exchange, she told Rak to get rest because she heard he was in the bilges tomorrow.
+Grok admitted she had an in with most officers but not much sway. She told Rak she would try to help if people really tried something against him, and advised him to make friends with newer members of the crew or good old Ambrose.
 
 This scene shows Grok offering guarded survival advice and limited protection without pretending that trust aboard the Wormwood is simple or safe.
 
-### Erastus 16 Gear Return and Night Escalation
+### Erastus 16 Gear Return and First Hook-Up
 
 After Rak caught the big reefclaw / dinner source on Erastus 16, Harrigan instructed Grok to give Rak anything taken from him from ship stores.
 
@@ -189,11 +182,11 @@ Grok had not heard of it, but asked if he would teach her. After Rak warned the 
 
 > "Let's see what you got!"
 
-This is the clearest recovered transition from flirtation and practical gear access into overt sexual setup. It may be the first actual sexual encounter, or only the first recovered explicit setup; confirm with Rak's player if needed.
+The user confirmed this was Rak and Grok's first hook-up.
 
 ### Relationship With Rak
 
-Before the capture of the Man's Promise and the split of the crew, Rak and Grok hooked up.
+After the Erastus 16 first hook-up, Rak and Grok's relationship continued before the Man's Promise split.
 
 Rak began bunking with her.
 
@@ -201,11 +194,15 @@ This is campaign canon and changes Rak's social position aboard the Wormwood.
 
 ### Crew Split
 
-When Rak was transferred to the Man's Promise prize crew, Grok remained aboard the Wormwood.
+When Rak was transferred to the Man's Promise prize crew on Erastus 27, Grok remained aboard the Wormwood.
 
-Grok knew Rak was being transferred.
+Rak asked whether Grok was coming too. Grok held back tears, shook her head, and said she had a present for him before he left.
 
-They shared a sentimental goodbye before the ships separated.
+Grok smiled and told Rak they would be okay and that she would see him again.
+
+Rak said he would make sure of it and went with her.
+
+The present itself remains unrecovered.
 
 If Grok's story continues along the published Adventure Path's later direction, this goodbye may become a grim plot point rather than only a romantic or sentimental beat.
 
@@ -221,15 +218,13 @@ They likely had recurring undocumented bonding time afterward through cooking, a
 
 The Day 3 trust talk shows Rak coming to Grok for survival advice and Grok answering with guarded honesty.
 
-On Erastus 16, Grok began returning Rak's confiscated belongings on Harrigan's order and the scene escalated into explicit sexual flirtation.
+On Erastus 16, Grok began returning Rak's confiscated belongings on Harrigan's order and the scene became their first hook-up.
 
-They later had a sexual or intimate relationship before the Man's Promise split, and Rak began bunking with her.
+Rak later began bunking with her.
 
-This may have been casual, meaningful, opportunistic, or some mixture; Rak's player's understanding should be recovered if possible.
+On Erastus 27, Grok remained behind on the Wormwood while Rak was sent to the Man's Promise; she held back tears and had a present for him before he left.
 
 The relationship matters because it gives Rak a tie back to the Wormwood and to one of its most practically useful officers.
-
-Their goodbye before the Man's Promise split was sentimental, and Grok was aware of Rak's departure.
 
 ### Ambrose "Fishguts" Kroop
 
@@ -240,8 +235,6 @@ She encourages his drinking, but their bond is genuine.
 Through Kroop and Rak, Grok forms part of the same support network.
 
 Grok specifically recommended Ambrose to Rak as someone to cultivate when Rak asked who he could trust or befriend.
-
-Rak's Erastus 16 question about whether "he" would wake up during the proposed game likely refers to Kroop, but this is not fully confirmed.
 
 ### Sandara Quinn
 
@@ -271,7 +264,7 @@ She is not automatically altruistic, but she can be generous or dangerous depend
 - Status: Alive
 - Role: Quartermaster
 - Immediate campaign absence: Not aboard the Man's Promise at the current fork state
-- Relevant emotional state: parted sentimentally from Rak before the split
+- Relevant emotional state: parted sentimentally from Rak before the split; had a present for him before he left
 
 ## Campaign Function After Relaunch
 
@@ -287,8 +280,8 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 
 ## Open Questions
 
+- What present did Grok give Rak before he left for the Man's Promise?
 - What exact gear did Grok return to Rak after Harrigan's Erastus 16 order?
-- Was the Erastus 16 "slap and tickle" setup the first Rak/Grok sexual encounter, or only the first recovered explicit setup?
 - Who was Rak worried might wake up during the Erastus 16 scene?
 - What earlier galley / Kroop / quartermaster contact occurred before the Erastus 6 brew scene?
 - What did Rak brew for Grok on Erastus 6?
@@ -302,10 +295,8 @@ If her later published-path fate is used, the Rak relationship makes that outcom
 - Which two shirt-ruining incidents was Grok referencing when Sho bought another shirt?
 - Did the shirt damage threaten or expose Sho's disguise?
 - Where did Sho get the gold for the replacement shirt?
-- How did Grok and Rak's friendship become flirtation or intimacy?
 - Was Rak/Grok public knowledge aboard the Wormwood?
 - Did Plugg, Scourge, or Harrigan know?
-- Did Grok give Rak a parting gift before the Man's Promise split, or was the goodbye sentimental without a material token?
 - Does Rak intend to see her again?
 - How would Grok react if she learns Rak helped take the Man's Promise or abandoned it?
 - Does Grok remain loyal to Harrigan, or only to her own survival and chosen people?
