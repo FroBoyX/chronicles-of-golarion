@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, and captain cabin blood evidence
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, and Erastus 29 Plugg duties escalation
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -197,6 +197,30 @@ Mirei accepted the boundary.
 
 This shows that Mirei's attempt at normal friendly crew work met the social danger created by association with the PCs and Sho's defiance.
 
+### Erastus 29 — Course Change and Plugg's Duties
+
+On Erastus 29, Tilly warned Mirei that some crew were worried Plugg might be taking the Man's Promise for himself because Sandara had said the ship changed course the previous night.
+
+Tilly asked where Mirei had been the night before. Mirei explained that she had to entertain Plugg, had borrowed a fiddle because her harp had gone missing, and had agreed to bunk up near him because it seemed quieter and because she did not want to anger him after already spending enough time on the mast.
+
+Tilly reacted sharply to the agreement, then shifted into practical thinking. She asked whether Plugg trusted Mirei and whether Mirei could get him to trust her. Mirei thought she could, if her playing remained good enough.
+
+Mirei then asked Tilly to keep an eye out for her harp, which had gone missing before she left the other ship.
+
+Later that morning, Kroop told Mirei the captain wanted her to bring him his food. Mirei's face dropped. Sho noticed and asked whether everything was all right. Mirei waved it off, then whispered to Sho as she passed:
+
+> "We will talk soon. Don't worry about me right now."
+
+Plugg's cabin door was locked. Scourge opened it. When Mirei entered, Plugg quickly folded a chart, then ordered her to bring the food over.
+
+Plugg ordered Mirei to taste both dishes. After she did, he told her this was now part of her duties.
+
+When Scourge called Mirei "wench," Mirei objected. Plugg stopped Scourge, said Mirei deserved respect, then struck Mirei and corrected the term to "Captain's wench," grabbing her chin and saying she had not earned that right.
+
+Plugg then ordered her to leave and return to sing in twenty minutes, warning her not to be late.
+
+This scene marks a further escalation: Mirei is not only entertainment and cabin presence. She is now food-taster, possible observer of hidden chart activity, and a target of direct physical humiliation inside Plugg's command space.
+
 ### Bonewrack Isle
 
 Mirei helped the party survive several island hazards.
@@ -227,6 +251,8 @@ Mirei helped rescue Sandara from the grindylow caverns.
 
 On Erastus 16, Sandara checked on Mirei after the reef creature injured Mirei's leg.
 
+Sandara's Erastus 29 course-change warning reached Mirei indirectly through Tilly.
+
 ### Rak Wraithraiser
 
 Mirei was ordered by Plugg to act against Rak and the other PCs, but did not do so.
@@ -244,6 +270,20 @@ On Day 3, Mirei noticed something was wrong through deception context. By the fo
 Sho noticed Mirei becoming closed off later and suspected Scourge or officer attention might be influencing her situation.
 
 On Erastus 16, Sho apologized when she realized Mirei had fought reef creatures and been hurt.
+
+On Erastus 29, Sho noticed Mirei's distress when Kroop handed her Plugg's food. Sho asked whether everything was all right and told Mirei to tell her when it was not. Mirei whispered that they would talk soon and told Sho not to worry about her right then.
+
+### Tilly Brackett
+
+Mirei first connected with Tilly during work on Wormwood Day 2 by talking to make the work go faster.
+
+Tilly and Mirei both wanted the sea, but Tilly chose shipboard danger while Mirei was taken into it by force.
+
+Mirei later helped make Tilly's rescue possible.
+
+Tilly was present when Mirei confessed that Plugg's side tasked her with killing the PCs to prove loyalty, and Tilly reacted with shock.
+
+On Erastus 29, Tilly warned Mirei about the course-change concern and asked whether Mirei could get Plugg to trust her. Tilly also agreed to keep watch for Mirei's missing harp.
 
 ### Rosie Cusswell
 
@@ -281,6 +321,8 @@ On the first recovered night aboard the Man's Promise, Plugg converted Mirei's e
 
 This occurred in the same cabin where the Man's Promise captain had been killed, with blood still visible across the floor, desk, and walls.
 
+On Erastus 29, Plugg added food-tasting to Mirei's duties, concealed a chart when she entered, and punished her for objecting to being called wench by striking her and reframing the insult as "Captain's wench."
+
 This is the beginning of the direct Man's Promise manipulation arc that later leads to Plugg assigning Mirei to act against the PCs.
 
 ### Owlbear Hartshorn
@@ -309,6 +351,9 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 - Confirm whether Mirei kept the potion through later Man's Promise / Bonewrack events.
 - Confirm what happened to the borrowed fiddle after Mirei's first Plugg performance.
 - Recover Mirei's direct words or reaction to the blood in the captain's cabin, if available.
+- Confirm whether Mirei saw enough of Plugg's folded chart on Erastus 29 to infer the course change.
+- Confirm whether food-tasting remained one of Mirei's duties after Erastus 29.
+- Confirm who took Mirei's harp and whether it is still aboard the Man's Promise.
 
 ## Evidence Notes
 
