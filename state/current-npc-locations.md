@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Draft, expanded with Arodus 5 split-scene evidence and clarified Man's Promise survivor math
+- Maturity: Draft, expanded with Arodus 5 split-scene evidence and corrected Man's Promise survivor math
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 
 ## Purpose
@@ -52,13 +52,17 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 
 ## Man's Promise — Survivor Count Context
 
-The attack on the Man's Promise left **15 survivors**.
+The attack on the Man's Promise left **15 captured survivors**.
 
-Captain Harrigan immediately made an example of the only surviving Rahadoumi officer by throwing her overboard to the sharks.
+The **captain of the Man's Promise died during the battle**.
 
-That left **14 surviving non-officer Man's Promise crew**.
+Captain Harrigan immediately made an example of a **weakened captured sailor** by throwing that sailor overboard to the sharks.
 
-Of those fourteen, the archive currently tracks **six named survivors assigned to Plugg's skeleton crew** on their own captured ship. The other eight non-officer survivors are acknowledged by the count but are not currently named or tracked as relaunch actors.
+That left **14 surviving captured Man's Promise crew**.
+
+Of those fourteen, the archive currently tracks **six named survivors assigned to Plugg's skeleton crew** on their own captured ship. The other eight survivors are acknowledged by the count but are not currently named or tracked as relaunch actors.
+
+A Rahadoumi officer is visible in the Erastus 27 chat after the weakened sailor is thrown overboard. That officer's identity and later fate remain unresolved.
 
 ## Man's Promise — Named Skeleton-Crew Survivor Bloc
 
@@ -93,7 +97,8 @@ The six named skeleton-crew survivors are fixed as:
 | Badger Medlar | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood; warmed somewhat to Harvus and Mirei; Rak sheet lists helpful. |
 | Maheem | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood. |
 | Tam "Narwhal" Tate | NPC, presumed alive | Status and location need confirmation. |
-| Eight unnamed Man's Promise survivors | NPCs, unresolved | Non-officer survivors left alive after Harrigan killed the officer; not part of the six named skeleton-crew bloc currently tracked. |
+| Eight unnamed Man's Promise survivors | NPCs, unresolved | Survivors left alive after Harrigan killed the weakened sailor; not part of the six named skeleton-crew bloc currently tracked. |
+| Rahadoumi officer from Erastus 27 chat | NPC, unresolved | Present after Harrigan's example execution; identity and later fate unresolved. |
 
 ## Wormwood — Not Currently Present
 
@@ -112,7 +117,8 @@ The six named skeleton-crew survivors are fixed as:
 
 | Character | Status | Notes |
 |---|---|---|
-| Unnamed surviving Rahadoumi officer | Dead | Only surviving Rahadoumi officer after the attack; Harrigan threw her overboard to the sharks as an example. |
+| Man's Promise captain | Dead | Died during the Man's Promise boarding battle; not the post-battle example victim. |
+| Unnamed weakened captured sailor | Dead | Harrigan threw this sailor overboard to the sharks as an example on Erastus 27. |
 | Rosie Cusswell | Dead / lost at sea | Lost during Wormwood storm despite rescue attempts; Harvus had recovered her fiddle and befriended her. |
 | Aretta Bansion | Dead | Died after conflict with Sho in the bilges; Harvus recognized her from press-gang context. |
 | Giffer Tibbs | Dead | Killed during Man's Promise boarding sequence. |
@@ -134,6 +140,7 @@ The six named skeleton-crew survivors are fixed as:
 - Which Wormwood NPCs are definitively aboard the Man's Promise?
 - Where is Owlbear physically at the cold open?
 - Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard the Man's Promise at the cold open?
-- What happened to the other eight non-officer Man's Promise survivors?
+- What happened to the other eight Man's Promise survivors?
+- Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
 - What is each named skeleton-crew survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle?
 - Does the ship actually reach Coconut Beach before or after the fork collision resolves?
