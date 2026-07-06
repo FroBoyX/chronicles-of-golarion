@@ -4,7 +4,7 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers, recovered tactical map evidence
+- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers, recovered tactical map evidence, and GM death-toll correction
 - Corrected date: Erastus 25, 4712 AR
 - Original chat header: Sunday, Erastus 26th, 4691 - Day 21
 - Spoiler scope: Player-safe as historical reconstruction
@@ -26,7 +26,9 @@ The map confirms that Giffer Tibbs died below the stairs on the port side.
 
 The map confirms Rak's premature lifeboat release was on the starboard side. A Man's Promise crew member in or around that boat ended up in the water, with possible shark involvement still requiring final confirmation.
 
-The map confirms 16 total deaths on the fight map: 15 Man's Promise personnel and Giffer Tibbs. This supersedes broader casualty uncertainty while preserving Kahina's later "more than thirty" line as direct survivor dialogue / grievance rather than current casualty math.
+The map confirms 16 deaths visible / represented on the fight map: 15 Man's Promise-side figures and Giffer Tibbs. This is not the full shipwide death toll. Kahina Bukekayo's later statement that more than thirty people died is now treated as accurate survivor testimony, pending final crew-count canonization.
+
+The Man's Promise captain was killed in the captain's cabin. This is supported by later physical evidence: when Mirei entered the captured captain's cabin to perform for Plugg a few nights later, blood was still splashed across the floor, desk, and walls.
 
 ## Narrative Log
 
@@ -94,7 +96,9 @@ Sho tried to give the officer an honorable target.
 
 Eventually the battle broke. Riaris called for prisoners to be rounded up. Patch forced or helped force surrender in the fog. Harrigan declared the ship secured, ordered rum, loot, celebration, and sent Scourge to gather the officers.
 
-The recovered map confirms the battle left 16 dead on the fight map: 15 from the Man's Promise side and Giffer from the Wormwood side.
+The recovered map confirms 16 visible or represented deaths on the fight map: 15 from the Man's Promise side and Giffer from the Wormwood side. This should not be treated as the full shipwide death toll. Kahina's later "more than thirty" line is accurate, and final death toll needs the canon crew count.
+
+The Man's Promise captain was killed in the captain's cabin. The blood remained visible days later when Plugg used that cabin as his claimed authority space.
 
 The victory did not mean the violence ended cleanly.
 
@@ -158,7 +162,9 @@ The battle also changed Sho's understanding of command. If she is going to take 
 - Sho believed surrender should have ended the need for further bloodshed.
 - The recovered map confirms Rak's premature lifeboat release was on the starboard side and put a crew member into the water.
 - Sho's player memory links Harvus to striking someone after Sho promised safety, worsening her command-failure guilt.
-- The recovered map confirms 16 total deaths on the fight map: 15 Man's Promise personnel and Giffer Tibbs.
+- The recovered map confirms 16 map-visible / represented deaths: 15 Man's Promise-side figures and Giffer Tibbs.
+- The full Man's Promise death toll is higher than the visible map count; Kahina's "more than thirty" line is accurate.
+- The Man's Promise captain was killed in the captain's cabin; blood was still splashed across the floor, desk, and walls when Mirei performed for Plugg a few nights later.
 - Nor'gal appears in the battle and is intimidated into surrender by Rak.
 - The officer / commander defended Nor'gal and refused to surrender because of the slaughter she had witnessed.
 - Patch helped force surrender in the fog.
@@ -175,6 +181,8 @@ The battle also changed Sho's understanding of command. If she is going to take 
 
 - Should the old `Day 21` label be ignored with the old date/year, or preserved as a separate relative-day artifact?
 - Was the log one continuous sequence, or does the night hot-box scene occur after a time jump from battle/cleanup?
+- Canonize the starting crew count of the Man's Promise and derive final shipwide deaths.
+- Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map / cabin death.
 - What exactly killed Giffer: arrows, melee, Rak's action, delayed care, or another cause?
 - Did the starboard lifeboat victim die by crash, drowning, shark swarm, or later injury?
 - Is Ko'ral / Cor'Wal / Kor'al the same killed brother referenced in Sho notes?
@@ -189,3 +197,4 @@ The battle also changed Sho's understanding of command. If she is going to take 
 - What was Sandara's exact wound and recovery state after collapse?
 - Which wounded crew received aid after Harvus gathered them?
 - Use a token key to identify every surrendered Man's Promise figure and every injured Wormwood figure from the recovered map.
+- Recover or reconstruct Mirei's observation of blood across the captain's cabin floor, desk, and walls.
