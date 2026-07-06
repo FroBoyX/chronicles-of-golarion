@@ -4,8 +4,8 @@
 
 - Type: Day-by-day narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Sho/Grok item conversation, and Bloody Hour consequence
-- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Sho/Grok item chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
+- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Mirei/Tilly work conversation, Sho/Grok item conversation, and Bloody Hour consequence
+- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Tilly/Mirei work chat extract, Sho/Grok item chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -119,6 +119,54 @@ The role categories are known or strongly inferred:
 
 These are educated reconstruction categories, not confirmed task results.
 
+## Tilly and Mirei During Work
+
+During the workday, **Mirei** tried to make the labor pass more easily by talking.
+
+**Tilly Brackett** was not immediately welcoming.
+
+> "I'm trying to work here, what do you want?"
+
+Mirei asked how long Tilly had been with the ship.
+
+Tilly answered only that it had been a while, and asked why Mirei wanted to know.
+
+> "Trying to make the work go faster. Talking helps."
+
+Something in Mirei's approach worked well enough that Tilly kept talking.
+
+Tilly recognized Mirei as part of the new group and understood that she had been press-ganged.
+
+> "So you were press ganged... how did they get you?"
+
+Mirei answered with the shape of her own capture.
+
+> "I was admiring the water a few nights ago... Don't really know who, but someone hit me on the back of my head"
+
+Tilly's path to the Wormwood had been different.
+
+> "I actually joined myself, they found me in port peril and ended up beating up a few swabs from the crew. They thought my guns where enough to replace those I broke..."
+
+Mirei asked whether Tilly had wanted this crew specifically, or just wanted to go out on the sea.
+
+Tilly had wanted the sea more than the Wormwood.
+
+> "It didn't have to be this crew. I was looking to add some salt to my boots."
+
+Mirei understood that part.
+
+> "I was looking to get myself out on the sea as well, just not like this."
+
+Tilly gave the practical advice of someone who already understood the ship better than Mirei did.
+
+> "You'll get use to it. Just keep your head down and don't draw attention."
+
+Mirei knew she had not managed that.
+
+> "I'll try not to. Succeeded to not so far."
+
+The conversation matters because Tilly and Mirei both wanted the sea, but reached it by different routes. Tilly had chosen danger and shipboard life. Mirei had been taken into it.
+
 ## Sho and Grok
 
 At some point after the morning fight, likely during the workday while Sho was slacking off and exploring, **Sho Astor** found her way to **Cut-Throat Grok**.
@@ -183,7 +231,17 @@ This becomes part of the chain that later leads Aretta and Fipps into the bilges
 
 Mirei distracted Aretta during the fight.
 
-This is an early example of Mirei acting in support of the new hands during direct shipboard danger.
+During work, she spoke with Tilly to make the labor pass faster. She told Tilly that she had been admiring the water when she was struck on the back of the head and taken.
+
+This is an early example of Mirei acting in support of the new hands during direct shipboard danger, then trying to build survivable social contact through conversation.
+
+### Tilly Brackett
+
+Tilly was working when Mirei approached her.
+
+She was curt at first, but talked with Mirei after Mirei explained that talking made the work go faster. Tilly revealed that she joined the Wormwood herself after beating up a few swabs in Port Peril, and that she wanted sea life more than this crew specifically.
+
+Tilly advised Mirei to keep her head down and avoid attention.
 
 ### Harvus G'ron
 
@@ -246,6 +304,8 @@ Jape is part of the harassment group and is punished with the others.
 - Which characters directly fought Jape and Syl.
 - Who specifically knocked out Fipps after he drew the dagger.
 - The exact daily task assignments for each new hand on Day 2.
+- The exact task Mirei and Tilly were performing while talking.
+- What roll produced Mirei's `15`, and whether it was influence, Diplomacy, work, or something else.
 - The exact item or items Sho was trying to recover from Grok in this conversation.
 - Whether Sho had made an earlier rude comment to Grok and, if so, what it was.
 - Whether Sho faced consequences for slacking off or exploring to reach Grok.
@@ -259,6 +319,7 @@ Jape is part of the harassment group and is punished with the others.
 - Confirm whether any of the watching sailors reacted meaningfully to the new hands winning the fight.
 - Confirm whether Conchobhar or Crimson had any meaningful reaction to watching the fight.
 - Confirm whether the Day 2 victory affected influence with any lower-crew NPCs.
+- Confirm whether Mirei's conversation improved Tilly's attitude toward her.
 - Confirm what specific property Sho was trying to recover from Grok.
 - Confirm whether Grok later accepted Sho's services or required a different trade.
 
@@ -268,6 +329,8 @@ Jape is part of the harassment group and is punished with the others.
 - The new hands resisted the first organized crew harassment attempt.
 - Fipps escalated by drawing a dagger when cornered, but was knocked out before he could use it.
 - Conchobhar and Crimson witnessed the fight but were not caught up in it.
+- Mirei and Tilly connected during work over the difference between wanting the sea and being taken into shipboard life by force.
+- Tilly's voluntary entry into the Wormwood and practical survival advice are established.
 - Grok learned quickly about the fight and recognized Sho's potential usefulness.
 - Sho's early attempt to bargain with Grok failed because she had no concrete value to trade.
 - Aretta, Fipps, Jape, and Syl were publicly punished for the failed attempt.
