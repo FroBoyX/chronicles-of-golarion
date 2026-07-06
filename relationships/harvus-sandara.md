@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, peridot necklace scene, post-Rosie rage scene, and Erastus 16 healing / necklace beat
+- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, peridot necklace scene, post-Rosie rage scene, Erastus 16 healing / necklace beat, and Erastus 29 course-change warning
 - Scope: Wormwood through Bonewrack rescue
 
 ## Summary
@@ -13,6 +13,8 @@ Harvus G'ron and Sandara Quinn form one of the central emotional relationships o
 The relationship begins aboard the Wormwood through Sandara's early aid, Harvus' attraction and courtly reverence, and shared shipboard vulnerability.
 
 It becomes defining on Bonewrack Isle when Harvus returns to Riptide Cove to rescue Sandara.
+
+Before that rescue, Sandara also warned Harvus that the Man's Promise had changed course away from Port Peril, showing that she was actively reading the ship's political danger rather than only reacting to it.
 
 ## Early Wormwood
 
@@ -112,6 +114,24 @@ Harvus then said he felt a sudden urge to sneak around the ship. Sandara told hi
 
 This scene confirms Sandara was wearing the necklace after Rosie's death and treated it as something she was keeping safe. It also shows her actively caring for Harvus and the others after Scourge blocked her from joining the reef task.
 
+## Erastus 29 Course Warning
+
+On Erastus 29, Sandara stopped Harvus while he passed and asked what had happened the previous night.
+
+Harvus thought she meant night crew.
+
+Sandara corrected him:
+
+> "No... the change of course."
+
+She told him the Man's Promise was not headed the right direction for Port Peril and admitted it might be nothing, though she looked rattled.
+
+> "Keep your eye out."
+
+Harvus had no answer but said he would keep on his toes and bid her a good day in his usual courtly style.
+
+This scene is important because Sandara identifies the course change before Plugg's betrayal is fully exposed. It also shows the Harvus/Sandara relationship functioning as a trust channel for dangerous shipboard information.
+
 ## Comfort and Care
 
 After Rosie's loss, Harvus sought solace with Sandara.
@@ -135,6 +155,8 @@ Harvus' notes later record a kiss or smooch with Sandara during the Man's Promis
 This confirms the relationship had moved into explicitly romantic territory before Bonewrack.
 
 The peridot necklace promise helps bridge the early courtly desire and the later Man's Promise kiss: Sandara deferred the kiss until they survived the Wormwood, rather than shutting the door.
+
+The Erastus 29 course warning shows Sandara trusting Harvus with early suspicion about Plugg's course change.
 
 ## Bonewrack
 
@@ -174,6 +196,8 @@ The post-Rosie scene shows why Sandara matters to Harvus' violence arc. She is n
 
 The Erastus 16 aftermath ties those threads together: Sandara is wearing his necklace, grieving Rosie, healing the wounded, and still encouraging caution rather than passivity.
 
+The Erastus 29 course warning adds another function: Sandara is a political reader and warning voice, and Harvus is someone she trusts enough to alert.
+
 ## Current State
 
 - Sandara is alive, rescued, and returning with Harvus.
@@ -194,6 +218,7 @@ The Erastus 16 aftermath ties those threads together: Sandara is wearing his nec
 - What did Sandara mean by "Not enough to matter tonight.... it will have to wait. This is becoming a problem"?
 - Was Rosie's going over truly intentional, or was Sandara voicing suspicion under pressure?
 - Did Sandara's suspicion about Rosie become part of later mutiny reasoning?
+- Did Sandara later learn what Harvus did with her Erastus 29 course warning?
 - How conscious was Sandara during the actual Whale fight and ascent?
 - Does Sandara understand how close Harvus came to death?
 - Does Sandara want the rescue story told publicly?
