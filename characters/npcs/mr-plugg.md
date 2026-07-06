@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Seeded, expanded with storm-window Mirei performance order, Erastus 16 reef task, Erastus 27 first Man's Promise command speech, and first-night Mirei cabin coercion
+- Maturity: Seeded, expanded with storm-window Mirei performance order, Erastus 16 reef task, Erastus 27 first Man's Promise command speech, first-night Mirei cabin coercion, and captain-cabin blood evidence
 - Scope: Book One primary antagonist
 - Source basis: Recovered Adventure Path text, GM-provided campaign facts, campaign timeline, player journals, and chat-log context
 
@@ -136,6 +136,8 @@ This speech establishes Plugg's first public model of command on the Man's Promi
 
 On the first recovered night aboard the Man's Promise, Scourge ordered Mirei to report to the captain's cabin with her instrument.
 
+The room was still marked by the boarding. The Man's Promise captain had been killed in that cabin, and blood remained splashed across the floor, desk, and walls.
+
 Mirei performed for Plugg with a borrowed fiddle and rolled a 32. Plugg was pleased and offered her a hammock in the cabin area, saying someone with her skill did not belong with the "skum below."
 
 When Mirei accepted because it would be quieter, Plugg's face went cold. He required a weapon check, asked if she trusted her captain, then pushed her against the bulkhead, turned her around, and ordered her to stand still.
@@ -146,7 +148,7 @@ The search was slow and coercive. Plugg took a pouch from her, allowed her to ke
 
 After Mirei returned with the hammock, Plugg gave strict rules: she could set up where ordered, touch nothing without permission, play for him each night, and not speak to him or Owlbear unless spoken to.
 
-This is a major escalation in Plugg's control of Mirei. It begins as privileged placement, but functions as isolation, surveillance, coercion, and possession.
+This is a major escalation in Plugg's control of Mirei. It begins as privileged placement, but functions as isolation, surveillance, coercion, and possession. The bloodied cabin makes that offer more openly threatening: Plugg's claimed private authority space is also the visible site of the former captain's death.
 
 ### Course Change
 
@@ -206,7 +208,7 @@ On Erastus 16, Plugg assigned Mirei to the reef task with Harvus, Rak, Sho, and 
 
 On Erastus 27, Plugg ordered Mirei to report to the Man's Promise as personal entertainment to keep morale up.
 
-On the first night, Plugg converted that entertainment role into cabin isolation: performance, a hammock near him, a coercive search, seizure of a pouch, strict speech rules, and a promise that her life would improve if she kept him entertained.
+On the first night, Plugg converted that entertainment role into cabin isolation: performance in the bloodied captain's cabin, a hammock near him, a coercive search, seizure of a pouch, strict speech rules, and a promise that her life would improve if she kept him entertained.
 
 He gave her a privileged but dangerous position and expected betrayal as proof of loyalty.
 
