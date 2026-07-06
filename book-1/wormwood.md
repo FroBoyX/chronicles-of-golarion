@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One location and social-state document
-- Maturity: Draft, expanded with Erastus 17-25 gap dates
+- Maturity: Draft, expanded with Erastus 17-25 gap dates and Sho keelhaul interruption
 - Scope: The Wormwood from press-ganging through capture of the Man's Promise
 
 ## Overview
@@ -215,15 +215,17 @@ This is a major escalation: a hostile lower-crew enemy dies because of PC confli
 
 ### Erastus 24 Hot-Box and Sails on the Horizon
 
-Sho is in the hot-box to be keelhauled at Bloody Hour.
+Sho is put in the hot-box under the charge of killing Aretta and is to be keelhauled at Bloody Hour.
 
-In the late afternoon, the Man's Promise is sighted and the ship begins preparations for piracy.
+In the late afternoon, the Man's Promise is sighted and the ship begins preparations for piracy. The keelhauling is not carried out.
 
 ### Erastus 25 Battle for the Man's Promise
 
 In the early morning, the Wormwood overtakes the Man's Promise.
 
-All hands, including Sho, take part in a bloody and violent battle for control of the ship.
+Sho is released because of her combat prowess and given the opportunity to lead a strike team.
+
+All hands take part in a bloody and violent battle for control of the ship.
 
 This battle ends the Wormwood captivity act and creates the conditions for Plugg's prize-crew crisis.
 
