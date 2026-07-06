@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Sho PCGen evidence and survivor-set confirmation
+- Maturity: Draft, expanded with Sho PCGen evidence, survivor-set confirmation, and first-night Rak confrontation
 - Scope: Man's Promise swab, tracked survivor, revenge thread
 
 ## Overview
@@ -65,6 +65,20 @@ Sho's PCGen notes say:
 
 Nor'gal may therefore have reason to hate Harvus, Rak, or the party broadly.
 
+## First Man's Promise Night
+
+Early in the departure of the Man's Promise, Rak tried to talk to Nor'gal and Merchiel V'giatore.
+
+Nor'gal was visibly shaking with anger and told Rak:
+
+> "Get out... before I take you out."
+
+When Rak warned that the crew would need friends to survive because the captain and officers were not kind men, Nor'gal rejected the warning as Rak left:
+
+> "You say that, but he gave us a chance at life... all I saw you give is death."
+
+This is a defining survivor-politics beat. Nor'gal may later oppose Plugg, but Rak is not a trusted rescuer to him. Rak is one of the people who brought death to the Man's Promise.
+
 ## Survivor Set
 
 Nor'gal is one of the six tracked Man's Promise survivors:
@@ -89,6 +103,14 @@ Sho's notes directly identify the dead man as the brother.
 Rak may have intimidated Nor'gal into surrender.
 
 This could produce fear, humiliation, hatred, or reluctant respect.
+
+The first-night departure scene shows active anger rather than reluctant alliance. Nor'gal sees Rak as someone who gave death, not friendship.
+
+### Merchiel V'giatore
+
+Merchiel held Nor'gal back during the first-night confrontation with Rak and said it was not worth it.
+
+This suggests Merchiel may be a restraining practical voice around Nor'gal, at least in that moment.
 
 ### Harvus G'ron
 
@@ -118,7 +140,7 @@ If Goyle was the former Man's Promise quartermaster, Nor'gal may also recognize 
 
 - Location: Man's Promise survivor context; exact physical position pending confirmation
 - Status: Alive / tracked survivor
-- Political state: likely Man's Promise survivor grievance
+- Political state: active Man's Promise survivor grievance
 - Immediate relevance: potential anti-PC thread within anti-Plugg politics
 
 ## Campaign Function at Relaunch
@@ -149,3 +171,4 @@ Nor'gal may:
 - Does he know Goyle survived?
 - Would he cooperate with Sho through Kahina?
 - Would he accept any PC-led command?
+- Did Nor'gal mean Harrigan personally gave the survivors a chance at life, or Plugg as current captain, or both through the transfer order?
