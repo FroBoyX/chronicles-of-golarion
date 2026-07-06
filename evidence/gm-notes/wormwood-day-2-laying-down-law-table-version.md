@@ -23,6 +23,7 @@ During the fight:
 - **Aretta Bansion** took several blows from **Harvus G'ron**.
 - **Mirei** distracted Aretta.
 - **Sho Astor** ultimately rendered Aretta unconscious.
+- **Fipps Chumlett** drew a dagger when he felt cornered as the last person still standing, with Harvus and Sho there, but he was knocked out before he could use it.
 - The whole harassment group ended up unconscious:
   - Jaundiced Jape
   - Slippery Syl Lonegan
@@ -32,6 +33,10 @@ During the fight:
 Because the harassers were late to duty, they were whipped at Bloody Hour.
 
 This humiliation further fueled Aretta's need for revenge and points toward the later bilges attack involving Aretta and Fipps.
+
+## Spectators
+
+**Conchobhar Turlach Shortstone** and **Crimson "Cog" Cogward** were part of the nearby crew watching the fight, but were not caught up in the altercation.
 
 ## Character Descriptors Preserved for Reconstruction
 
@@ -44,14 +49,24 @@ This humiliation further fueled Aretta's need for revenge and points toward the 
 
 - Treat Scourge as the instigator behind the harassment.
 - Treat Syl as the apparent field leader of the harassment group.
-- Do not frame the fight as a lethal knife fight unless later direct chat shows weapon escalation.
+- Treat the fight as beginning as a nonlethal harassment / fistfight.
+- Fipps escalated by drawing a dagger only when cornered as the last standing attacker, but was knocked out before he could use it.
 - Treat the harassers, not the new hands, as the ones punished at Bloody Hour in the table version.
 - Use this scene as the beginning of Aretta's revenge thread.
+- Treat Conchobhar and Crimson as watchers, not participants, unless later direct evidence says otherwise.
+
+## Assignment Notes
+
+- Exact Day 2 work assignments are not currently preserved.
+- Harvus and Conchobhar are known riggers.
+- Rak is known cook's mate.
+- Sho and Mirei are likely swabs unless later evidence contradicts this.
+- Crimson is listed as a swab, but his exact Day 2 task is not preserved.
+- For day-by-day reconstruction, use the known AP task lists as educated possibilities, not confirmed task assignments.
 
 ## Open Checks
 
-- Did all four harassers become unconscious during the fight, or did some recover enough to reach deck late?
-- Did Fipps draw a dagger in the table version?
-- Which new hands directly fought which harassers besides the known Aretta sequence?
-- Did Conchobhar or Crimson participate in this fight, witness it, or remain outside the scene?
+- Which new hands directly fought Jape and Syl?
+- Who knocked out Fipps after he drew the dagger?
 - Did Scourge privately react to the harassers' failure beyond the deck exchange?
+- Did Conchobhar or Crimson react meaningfully to watching the fight?
