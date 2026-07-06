@@ -4,8 +4,8 @@
 
 - Type: Day-by-day narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, and Bloody Hour consequence
-- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
+- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Sho/Grok item conversation, and Bloody Hour consequence
+- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Sho/Grok item chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -119,6 +119,38 @@ The role categories are known or strongly inferred:
 
 These are educated reconstruction categories, not confirmed task results.
 
+## Sho and Grok
+
+At some point after the morning fight, likely during the workday while Sho was slacking off and exploring, **Sho Astor** found her way to **Cut-Throat Grok**.
+
+Sho was trying to recover what was hers.
+
+She did not come with coin or goods. She came with information and an offer of future usefulness.
+
+> "Perhaps, but the information acts as a guarantee that Ill be muscle for you in the future"
+
+Sho pointed to the morning's violence as proof that the offer meant something.
+
+> "I was able to knock out three of the four people who stood in our way this morning"
+
+Grok had already heard about the fight.
+
+> "Muscle huh? Why would I need that from a monk who doesn't know how to mind his toung and seems to want to get punished for fighting... I heard about that fight... four bodies out for a full day... you could be useful if you don't get yourself killed... have anything of VALUE to offer?"
+
+Sho answered with what she had.
+
+> "Just my information and my services. Though you do have my apologies if I have made rude comments towards you, and you can be assured I wont be killed."
+
+Grok did not dismiss Sho completely. She saw potential value there. But the Wormwood's quartermaster did not trade property for promises.
+
+> "You should mind your mouth next time.... sorry, can't trade for something that may or may not have value monk. You'll have to come back when I need that, or you have something else."
+
+Sho accepted the answer.
+
+> "Very well. I suppose it will take time to get back what is mine."
+
+The scene matters because Sho's ability had already become shipboard gossip. Grok saw that Sho could be useful, but not useful enough to buy back stolen property with future services alone.
+
 ## Bloody Hour
 
 At Bloody Hour, the failure of Scourge's message came due.
@@ -142,6 +174,8 @@ She had been beaten, distracted, rendered unconscious, and then punished for the
 Sho rendered Aretta unconscious in the fight belowdecks.
 
 She also gave Scourge the practical report that the harassers were unconscious downstairs.
+
+Later that day, Sho approached Grok to try to recover what was hers, offering information and future service as muscle rather than coin or goods. Grok recognized Sho's potential usefulness, but refused to trade for uncertain future value.
 
 This becomes part of the chain that later leads Aretta and Fipps into the bilges attack against Sho. Sho's Day 2 success therefore becomes one of the reasons she is later targeted.
 
@@ -177,6 +211,12 @@ Crimson was part of the nearby crew watching the fight, but was not caught up in
 
 He is listed as a swab, but his exact Day 2 task is unknown.
 
+### Cut-Throat Grok
+
+Grok had already heard about the morning fight by the time Sho came to her.
+
+She considered Sho potentially useful but refused to trade property for uncertain future services. This establishes Grok as pragmatic rather than charitable.
+
 ### Aretta Bansion
 
 Aretta is beaten, distracted, knocked unconscious, and then whipped for lateness.
@@ -206,6 +246,9 @@ Jape is part of the harassment group and is punished with the others.
 - Which characters directly fought Jape and Syl.
 - Who specifically knocked out Fipps after he drew the dagger.
 - The exact daily task assignments for each new hand on Day 2.
+- The exact item or items Sho was trying to recover from Grok in this conversation.
+- Whether Sho had made an earlier rude comment to Grok and, if so, what it was.
+- Whether Sho faced consequences for slacking off or exploring to reach Grok.
 - Whether there were additional Day 2 daytime social scenes before Bloody Hour.
 - Whether any night scenes on Erastus 6 can be confidently placed after this event.
 
@@ -216,6 +259,8 @@ Jape is part of the harassment group and is punished with the others.
 - Confirm whether any of the watching sailors reacted meaningfully to the new hands winning the fight.
 - Confirm whether Conchobhar or Crimson had any meaningful reaction to watching the fight.
 - Confirm whether the Day 2 victory affected influence with any lower-crew NPCs.
+- Confirm what specific property Sho was trying to recover from Grok.
+- Confirm whether Grok later accepted Sho's services or required a different trade.
 
 ## Canon Consequences
 
@@ -223,6 +268,8 @@ Jape is part of the harassment group and is punished with the others.
 - The new hands resisted the first organized crew harassment attempt.
 - Fipps escalated by drawing a dagger when cornered, but was knocked out before he could use it.
 - Conchobhar and Crimson witnessed the fight but were not caught up in it.
+- Grok learned quickly about the fight and recognized Sho's potential usefulness.
+- Sho's early attempt to bargain with Grok failed because she had no concrete value to trade.
 - Aretta, Fipps, Jape, and Syl were publicly punished for the failed attempt.
 - Aretta's later revenge motive begins here.
 - The later bilges ambush against Sho should be treated as connected to Day 2 humiliation, not as an isolated incident.
