@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, and Rosie rescue messages
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, and Erastus 16 reef injury
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -149,6 +149,16 @@ She also instructed Rosie to tie the rope to herself, including telling Rosie to
 
 These fragments prove Mirei was actively trying to guide Rosie during the rescue attempt. They do not by themselves reconstruct who controlled the rope, whether Rosie got hold of it, or why the rescue ultimately failed.
 
+### Erastus 16 Reef Injury
+
+On Erastus 16, Mirei was part of the reefclaw / crab task group with Harvus, Rak, Sho, and Badger.
+
+After the task, Mirei told Sandara and Sho that a monster in the sea got her leg. She described the creatures as weird lobster-eel things.
+
+Sho had not realized Mirei had fought them and apologized for not being there.
+
+Sandara checked on Mirei after healing or restoring Sho and Harvus.
+
 ### Wormwood Period
 
 Mirei performed aboard ship and attracted crew attention through music.
@@ -191,6 +201,8 @@ Sandara helped Mirei recover her harp early aboard the Wormwood.
 
 Mirei helped rescue Sandara from the grindylow caverns.
 
+On Erastus 16, Sandara checked on Mirei after the reef creature injured Mirei's leg.
+
 ### Rak Wraithraiser
 
 Mirei was ordered by Plugg to act against Rak and the other PCs, but did not do so.
@@ -205,6 +217,8 @@ On Day 3, Mirei noticed something was wrong through deception context. By the fo
 
 Sho noticed Mirei becoming closed off later and suspected Scourge or officer attention might be influencing her situation.
 
+On Erastus 16, Sho apologized when she realized Mirei had fought reef creatures and been hurt.
+
 ### Rosie Cusswell
 
 Mirei tried to communicate with Rosie during the storm rescue attempt, telling her to hold on and instructing her to tie a rope to herself.
@@ -216,6 +230,8 @@ The rescue failed, but the recovered evidence shows Mirei was actively trying to
 Badger complimented Mirei's early Wormwood performances and asked where she learned.
 
 This may be an early seed of Badger recognizing Mirei's value as a performer rather than only as a new press-ganged hand.
+
+Badger was part of the Erastus 16 reef task with Mirei.
 
 ### Captain Barnabas Harrigan
 
@@ -245,6 +261,7 @@ This does not yet equal the later Man's Promise betrayal assignment, but it is e
 - Confirm whether the floating 34 performance belongs to the same night as the storm-window Plugg order.
 - Confirm whether Mirei used the message cantrip during Rosie's storm rescue attempt.
 - Confirm whether Rosie ever got hold of the rope Mirei referenced.
+- Confirm the severity and healing state of Mirei's Erastus 16 reef-leg injury.
 
 ## Evidence Notes
 
