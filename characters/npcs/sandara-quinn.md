@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Harvus light timeline evidence, Day 3 dinner scene, peridot necklace promise, and post-Rosie counsel scene
+- Maturity: Draft, expanded with Harvus light timeline evidence, Day 3 dinner scene, peridot necklace promise, post-Rosie counsel scene, and Erastus 16 reef aftermath
 - Scope: Major ally, Besmaran priestess, emotional center of Book One
 - Source basis: Recovered Adventure Path material, Obsidian material, player journals, chat logs, GM clarification, Harvus light timeline notes, and direct table scene evidence
 
@@ -171,6 +171,30 @@ When Harvus called her the vessel restraining his rage, Sandara said she would t
 
 This scene shows Sandara as both comfort and strategic restraint. She is not trying to make Harvus harmless. She is trying to keep him alive and useful until the right time.
 
+### Erastus 16 Reef Aftermath
+
+On the night of Erastus 16, after the reefclaw / crab task, Sandara asked Harvus how the reef had gone.
+
+She had asked Scourge if she could come with the group, but he refused. Sandara believed he still held a grudge.
+
+Harvus approached her in visible pain and told her Mirei was also hurt.
+
+Sandara decided to gather the wounded and called on Besmara's blessing.
+
+She approached Mirei and Sho with Harvus. Mirei said a monster in the sea had gotten her leg. Sho had not realized Mirei fought the reef monsters and apologized for not being there.
+
+Sandara concentrated, touched Sho and Harvus, and healed or restored them enough that Sho felt the fog in her head lessen.
+
+Sandara asked Mirei how she felt afterward and repeated the lesson to save their strength and keep friends close.
+
+Harvus kissed her hand and noticed that she was wearing the necklace he had given her.
+
+Sandara connected the necklace to Rosie's absence and said she was keeping it safe.
+
+After Mirei and Sho left to give them privacy, Harvus said he felt a sudden urge to sneak around the ship. Sandara told him good luck and not to get caught, then looked out to sea touching her ebony idol.
+
+This scene confirms Sandara wore the necklace after Rosie's death and treated it as something she was safeguarding.
+
 ### Relationship With Harvus
 
 Harvus quickly admired Sandara, often addressing her with courtly reverence.
@@ -190,6 +214,8 @@ The Erastus 7 dinner scene is an early direct example of this tone: Harvus is co
 The peridot necklace scene is a later early-Wormwood escalation: Harvus presses his romantic feeling more explicitly, and Sandara answers with warmth, humor, and a deferred promise rather than immediate acceptance.
 
 The post-Rosie rage scene clarifies that Sandara also became a restraint on Harvus' rage, but not by denying it. She told him to keep it controlled because there may be a time to use it.
+
+The Erastus 16 scene confirms she wore his necklace after Rosie's loss and continued caring for him and his companions under Scourge's pressure.
 
 ### Man's Promise and Bonewrack
 
@@ -227,7 +253,7 @@ This relationship has romantic and mythic weight in the campaign.
 
 Sandara has shown warmth and trust toward him, and the rescue should deepen that bond unless play complicates it.
 
-Their relationship already included comfort, drinking, healing, care after injury, a courtly Day 3 dinner conversation, the peridot necklace promise, post-Rosie rage counsel, and a kiss before the rescue.
+Their relationship already included comfort, drinking, healing, care after injury, a courtly Day 3 dinner conversation, the peridot necklace promise, post-Rosie rage counsel, Erastus 16 healing / necklace beat, and a kiss before the rescue.
 
 ### Mirei
 
@@ -236,6 +262,8 @@ Sandara helped Mirei recover her harp aboard the Wormwood.
 Mirei helped rescue Sandara from Riptide Cove.
 
 This reciprocal aid matters for Mirei's trust position after her Plugg assignment is revealed.
+
+On Erastus 16, Sandara came to check on Mirei after Mirei's leg was injured by a reef creature.
 
 ### Rak Wraithraiser
 
@@ -253,6 +281,8 @@ Sho has treated Sandara as someone worth protecting, but is currently separated 
 
 Sandara does not yet know Sho's current hot-box situation unless told.
 
+On Erastus 16, Sandara healed or restored Sho enough that Sho felt the fog in her head lift.
+
 ### Master Scourge
 
 Sandara rejected and humiliated Scourge before the campaign began.
@@ -260,6 +290,8 @@ Sandara rejected and humiliated Scourge before the campaign began.
 His hostility toward her and those close to her is personal.
 
 Sandara later warned Harvus that she and Scourge did not see eye to eye and that Rosie's going overboard may have been intentional after Rosie angered Scourge and Plugg.
+
+On Erastus 16, Scourge refused Sandara permission to accompany the reef group.
 
 ### Ambrose Kroop
 
@@ -305,7 +337,15 @@ Harvus gave Sandara a peridot necklace during the early Wormwood period as a tok
 
 Sandara accepted it into her keeping and deferred a kiss / personal thanks until they got off the Wormwood.
 
+On Erastus 16, after Rosie's loss, Harvus noticed Sandara wearing the necklace. Sandara said she was keeping it safe.
+
 Confirm whether this is the same necklace Harvus recovered with his ring and Rosie's fiddle, and whether Sandara still had it after the Wormwood and Man's Promise sequences.
+
+### Ebony Idol
+
+On Erastus 16, after healing the others and sending Harvus off not to get caught sneaking around, Sandara looked out to sea while touching an ebony idol.
+
+The idol's identity and significance need confirmation.
 
 ## Campaign Function at Relaunch
 
@@ -321,6 +361,9 @@ She can interpret pirate custom, Besmara's code, and the moral difference betwee
 - Confirm whether Harvus returned Sandara's holy symbol after the rescue.
 - Confirm whether Sandara still has the peridot necklace.
 - Confirm whether the peridot necklace is the same necklace Harvus recovered with his ring and Rosie's fiddle.
+- What is Sandara's ebony idol?
+- What spell or healing effect did Sandara use on Erastus 16?
+- Did Sandara heal Mirei directly or only assess her after healing Sho and Harvus?
 - What did Sandara mean by "Not enough to matter tonight.... it will have to wait. This is becoming a problem"?
 - Was Rosie's going over truly intentional, or was Sandara voicing suspicion under pressure?
 - What is her exact physical condition at the fork?
