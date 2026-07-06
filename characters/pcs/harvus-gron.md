@@ -3,13 +3,13 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Harvus light timeline notes
+- Maturity: Draft, expanded with Harvus light timeline notes and Rosie fiddle-return scene
 - Scope: Book One continuity, current state, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
 ## Overview
 
-Harvus G'ron is a wing-damaged avian PC whose Book One arc runs through humiliation, vengeance, devotion, shipboard social survival, and rescue.
+Harvus G'ron is a wing-damaged avian PC whose Book One arc runs through humiliation, vengeance, devotion, shipboard social survival, grief, and rescue.
 
 He begins as a press-ganged victim of Scourge's cruelty and develops into the central figure of the Rescue of Sandara.
 
@@ -135,7 +135,17 @@ He traded a mace for a flail.
 
 Harvus recovered Rosie's fiddle, along with his own ring and necklace.
 
-By his note sequence, he made friends with Rosie shortly afterward.
+A direct recovered scene shows Harvus returning the fiddle during leisure time before Rosie's storm loss.
+
+Rosie invited him to drink from an unidentified draft she had taken after beating someone in a game. She was tipsy, profane, and lonely beneath the bravado, admitting that it gets lonely being short and cursing all the time.
+
+Harvus drank, then told Rosie he had something for her from Grok and handed over the fiddle.
+
+Rosie was overwhelmed, tackled him in gratitude, played the fiddle, pounced him again, apologized briefly, then told him to get over it and punched his shoulder.
+
+Harvus' damaged wing was jostled by the tackle, making the wing an active social-scene vulnerability as well as an injury.
+
+By his note sequence, Harvus made friends with Rosie shortly afterward.
 
 Rosie's later loss during the storm is therefore personally meaningful for Harvus.
 
@@ -301,7 +311,9 @@ Confirm whether the necklace is the same one later given to Sandara.
 
 ### Rosie's Fiddle
 
-Harvus recovered Rosie's fiddle and became her friend.
+Harvus recovered Rosie's fiddle and returned it to her before her storm loss.
+
+What happened to the fiddle after Rosie was lost is unresolved.
 
 ### Flail
 
@@ -367,7 +379,9 @@ Harvus may not yet know she is locked in the hot-box again at the current relaun
 
 ### Rosie Cusswell
 
-Harvus recovered Rosie's fiddle and became her friend.
+Harvus recovered Rosie's fiddle and returned it to her.
+
+The recovered return scene shows Rosie responding with intense, chaotic gratitude and immediately playing the fiddle again.
 
 Her loss at sea is one of Harvus' important early grief beats.
 
@@ -441,5 +455,7 @@ His presence can still affect legitimacy because he has done something the crew 
 - Does Tilly still have Harvus' flail?
 - Did Sandara's holy symbol return to her after the rescue?
 - What is the current condition of Harvus' wing?
+- What happened to Rosie's fiddle after her loss at sea?
+- Did Rosie's death affect Harvus' later refusal to abandon Sandara?
 - How does Harvus react if the crew discusses captaincy?
 - Did Ratline, Conchobhar, Badger, and Samms become mechanically friendly/helpful or only socially warmer?
