@@ -3,14 +3,16 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Draft, expanded with Arodus 5 split-scene evidence, corrected Man's Promise survivor math, and corrected non-skeleton survivor transfer placement
+- Maturity: Draft, corrected with Erastus 27 ship-split model and Arodus 5 Man's Promise / Bonewrack actor pool
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 
 ## Purpose
 
-This file tracks where important NPCs are at the relaunch point.
+This file tracks where important PCs and NPCs are at the relaunch point.
 
-It should be updated when player confirmation resolves open reconstruction issues.
+It should be updated when player confirmation or newly ingested chat evidence resolves open reconstruction issues.
+
+Use `state/mans-promise-crew-viability-reference.md` for the corrected Erastus 27 split model, the Man's Promise skeleton-crew roster audit frame, and the current ship-crew viability reference.
 
 ## Date
 
@@ -18,11 +20,26 @@ Arodus 5, 4712 AR.
 
 Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 
+## Corrected Erastus 27 Split Constraint
+
+The Wormwood and the Man's Promise separated on Erastus 27 after Harrigan promoted Mr. Plugg to captain of the Man's Promise and assigned him a skeleton crew.
+
+The post-battle captured Man's Promise survivor math remains:
+
+- 15 captured survivors after the boarding.
+- 1 weakened captured sailor executed by Harrigan as an example.
+- 14 captured Man's Promise survivors left alive afterward.
+
+Of those fourteen:
+
+- Six named survivors were assigned to Plugg's Man's Promise skeleton crew: Dahrehn Numus, Ebony Saable, Goyle Onórach, Kahina Bukekayo, Merchiel V'giatore, and Nor'gal Daraa.
+- The other eight surviving captured Man's Promise crew went with the Wormwood. Their names and later Wormwood-side fates remain unresolved, but they are not Arodus 5 Man's Promise / Bonewrack actors.
+
 ## Bonewrack Isle — Returning From Riptide Cove
 
 | Character | Status | Notes |
 |---|---|---|
-| Harvus G'ron | PC, alive | Returning from rescue; killed the Whale with Rak's spear; carrying Sandara. |
+| Harvus G'ron | PC, alive | Returning from rescue; killed the Whale with Rak's spear; carrying or escorting Sandara. |
 | Mirei | PC, alive | Accompanied Harvus; confessed she was tasked with killing the PCs but did not. |
 | Sandara Quinn | NPC, alive | Rescued; took the worst of captivity; likely still has Besmara's tricorne, pending player confirmation. |
 | Tilly Brackett | NPC, alive | Rescued; weak but walking; says Goyle helped her through the last day. |
@@ -34,14 +51,14 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 |---|---|---|
 | Rak Wraithraiser | PC, alive | Guiding hostile/semi-hostile party; bloodied in frog fight; hears something ahead at cold open. |
 | Shivikah | NPC, alive | With Rak's group; helped Rak in frog fight; looked nervous during Syl/Rak confrontation. |
-| Slippery Syl Lonegan | NPC, alive | Assigned supply-party leader; needs Rak alive; left Fipps at Coconut Beach. |
+| Slippery Syl Lonegan | NPC, alive | Assigned supply-party leader; Plugg-appointed boatswain; needs Rak alive; left Fipps at Coconut Beach. |
 | Jaundiced Jape | NPC, alive | With Rak's group; struggled in water but landed frog kill; silent hostile pressure. |
 
 ## Bonewrack Isle — Coconut Beach / South Beach Rendezvous
 
 | Character | Status | Notes |
 |---|---|---|
-| Fipps Chumlett | NPC, presumed alive | Ordered by Syl to stay at Coconut Beach because the ship was expected to meet the supply party there. |
+| Fipps Chumlett | NPC, presumed alive | Ordered by Syl to stay at Coconut Beach because the ship was expected to meet the supply party there. Post-Erastus 27 Man's Promise-side evidence is locked. |
 
 ## Man's Promise — Prisoner Front
 
@@ -50,34 +67,18 @@ Latest working fork beat: approximately 2:28pm, when Rak hears something ahead.
 | Sho Astor | PC, alive | Still believed locked in the hot-box. Accepted Kahina's life-for-life test. |
 | Kahina Bukekayo | NPC, alive / named Man's Promise skeleton-crew survivor | Rigger; issued Sho a life-for-life test: their lives or Sho's. One of the six named Man's Promise survivors assigned to Plugg's skeleton crew. |
 
-## Man's Promise — Survivor Count Context
-
-The attack on the Man's Promise left **15 captured survivors**.
-
-The **captain of the Man's Promise died during the battle**.
-
-Captain Harrigan immediately made an example of a **weakened captured sailor** by throwing that sailor overboard to the sharks.
-
-That left **14 surviving captured Man's Promise crew**.
-
-Of those fourteen, the archive currently tracks **six named survivors assigned to Plugg's skeleton crew** on their own captured ship.
-
-The other eight surviving captured Man's Promise sailors were **not** part of Plugg's skeleton crew at the relaunch point. Current GM correction places them with the **Wormwood** after the Erastus 27 ship split; their names, later duties, and future relevance remain unresolved.
-
-A Rahadoumi officer is visible in the Erastus 27 chat after the weakened sailor is thrown overboard. That officer's identity and later fate remain unresolved.
-
 ## Man's Promise — Named Skeleton-Crew Survivor Bloc
 
 The six named skeleton-crew survivors are fixed as:
 
-| Character | Role | Status | Notes |
+| Character | Role | Current Arodus 5 State | Notes |
 |---|---|---|---|
-| Dahrehn Numus | Swab | Alive / named skeleton-crew survivor | Previously wealthy trader who had been on the Man's Promise. Exact physical position at cold open needs confirmation. |
-| Ebony Saable | Rigger | Alive / named skeleton-crew survivor | Identified as Sho's referenced "monk man"; short, dark, bald, leanly muscled, mostly silent. Exact physical position needs confirmation. |
-| Goyle Onórach | Swab | Alive / named skeleton-crew survivor | Currently off-ship with Harvus, Mirei, Sandara, and Tilly after escaping Riptide Cove. |
-| Kahina Bukekayo | Rigger | Alive / named skeleton-crew survivor | A tall slender warrior; aboard the Man's Promise and currently testing Sho. |
-| Merchiel V'giatore | Rigger | Alive / named skeleton-crew survivor | Last known vessel: The Man's Promise. Last known position: rigger. Exact physical position needs confirmation. |
-| Nor'gal Daraa | Swab | Alive / named skeleton-crew survivor | Soldier hell-bent on revenge for the loss of his brother. Exact physical position needs confirmation. |
+| Dahrehn Numus | Swab | Likely Man's Promise; exact physical position unresolved | Previously wealthy trader who had been on the Man's Promise. |
+| Ebony Saable | Rigger | Likely Man's Promise; exact physical position unresolved | Identified as Sho's referenced "monk man" and Fipps' "dark one" assignment target; short, dark, bald, leanly muscled, mostly silent. |
+| Goyle Onórach | Swab | Bonewrack, Harvus group | Former quartermaster context; rescued from Riptide Cove. |
+| Kahina Bukekayo | Rigger | Man's Promise, Sho front | Tall slender warrior; aboard the Man's Promise and currently testing Sho. |
+| Merchiel V'giatore | Rigger | Likely Man's Promise; exact physical position unresolved | Restrained Nor'gal during Rak's first departure confrontation. |
+| Nor'gal Daraa | Swab | Likely Man's Promise; exact physical position unresolved | Soldier hell-bent on revenge for the loss of his brother Kor'al / Cor'Wal. |
 
 ## Man's Promise — Command Threat
 
@@ -85,35 +86,36 @@ The six named skeleton-crew survivors are fixed as:
 |---|---|---|
 | Mr. Plugg | NPC, alive | Claims captaincy of the Man's Promise; expected to ambush troublesome PCs. |
 | Master Scourge | NPC, alive | Plugg's enforcer and first mate; ordered supply team not to stop at caverns. |
-| Owlbear Hartshorn | NPC, presumed alive | Likely aboard under Plugg's control unless prior friendship redirected him. Exact position needs confirmation. |
+| Owlbear Hartshorn | NPC, presumed alive | Post-Erastus 27 evidence places him as Plugg's cabin / door guard. Likely aboard under Plugg's control unless prior friendship redirected him. Exact cold-open position needs confirmation. |
 
-## Man's Promise — Practical Survival Network
+## Man's Promise — Practical Survival / Crew Viability Network
 
 | Character | Status | Notes |
 |---|---|---|
-| Ambrose "Fishguts" Kroop | NPC, alive | Cook; likely aboard. Knows or suspected Plugg's course change. |
-| Conchobhar Turlach Shortstone | NPC, presumed alive | Prize crew status needs precise confirmation; Harvus strongly influenced him. |
-| Jack Scrimshaw | NPC, presumed alive | Status and location need confirmation. |
-| Ratline Rattsberger | NPC, presumed alive | Status and location need confirmation; Harvus influenced him. |
-| Barefoot Samms Toppin | NPC, presumed alive | Status and location need confirmation; Harvus influenced her to friendly. |
-| Badger Medlar | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood; warmed somewhat to Harvus and Mirei; Rak sheet lists helpful. |
+| Ambrose "Fishguts" Kroop | NPC, alive | Cook; locked Man's Promise transfer. Knows or suspects Plugg's course change. |
+| Crimson Cogward | NPC, presumed alive | Post-Erastus 27 Man's Promise-side evidence locked; exact Arodus 5 position unresolved. |
+| Ratline Rattsberger | NPC, presumed alive | Post-Erastus 27 Man's Promise-side evidence locked; Harvus influenced him; Sho wanted to discuss something with him. Exact Arodus 5 position unresolved. |
+| Barefoot Samms Toppin | NPC, presumed alive | Strong Man's Promise course-change warning evidence; Harvus-friendly; placement treated as likely Man's Promise pending raw-source reconciliation. |
+| Tam "Narwhal" Tate | NPC, presumed alive | Post-Erastus 27 Man's Promise-side evidence locked; challenged Mirei's authority. Exact Arodus 5 position unresolved. |
+| Badger Medlar | NPC, unresolved / likely Man's Promise | Low-placement dinner fragment suggests Man's Promise-side social context; Rak sheet lists helpful; exact placement still needs confirmation. |
+| Jack Scrimshaw | NPC, unresolved | Possible post-Erastus 27 fragment, but displaced-fragment risk remains; do not lock without stronger evidence. |
+| Conchobhar Turlach Shortstone | NPC, unresolved | Prize crew status needs precise confirmation; Harvus strongly influenced him. |
 | Maheem | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood. |
-| Tam "Narwhal" Tate | NPC, presumed alive | Status and location need confirmation. |
-| Rahadoumi officer from Erastus 27 chat | NPC, unresolved | Present after Harrigan's example execution; identity and later fate unresolved. |
+| Kipper | NPC, unresolved | Status after Man's Promise battle and transfer needs confirmation. |
+| Patch Patchsalt | NPC, unresolved | Status after Man's Promise battle and transfer needs confirmation. |
 
 ## Wormwood — Not Currently Present
 
 | Character | Status | Notes |
 |---|---|---|
 | Barnabas Harrigan | NPC, alive | Captain of the Wormwood; future strategic threat. |
-| Cut-Throat Grok | NPC, alive | Remained aboard Wormwood; parted sentimentally from Rak. |
+| Cut-Throat Grok | NPC, alive | Confirmed remained aboard Wormwood; parted sentimentally from Rak. |
 | Peppery Longfarthing | NPC, presumed alive | Likely Wormwood-side; exact current placement should be confirmed. |
 | Riaris Krine | NPC, presumed alive | Likely Wormwood-side. |
 | Habbly Quarne | NPC, presumed alive | Likely Wormwood-side. |
-| Kipper | NPC, unresolved | Status after Man's Promise battle and transfer needs confirmation. |
-| Patch Patchsalt | NPC, unresolved | Status after Man's Promise battle and transfer needs confirmation. |
 | Caulky Tarroon | NPC, presumed alive | Likely Wormwood-side. |
-| Eight unnamed Man's Promise survivors | NPCs, Wormwood-side after Erastus 27 split | Alive after Harrigan's example execution but not part of Plugg's Man's Promise skeleton crew. Identities, later duties, and future relevance remain unresolved. |
+| Eight unnamed Man's Promise survivors | NPCs, Wormwood-side | The other eight captured Man's Promise survivors went with the Wormwood after the Erastus 27 split. Their names and later Wormwood-side fates remain unresolved. |
+| Rahadoumi officer from Erastus 27 chat | NPC, unresolved / likely Wormwood-side if among the eight | Present after Harrigan's example execution; identity and later fate unresolved. |
 
 ## Dead or Lost Before Relaunch
 
@@ -126,7 +128,7 @@ The six named skeleton-crew survivors are fixed as:
 | Giffer Tibbs | Dead | Killed during Man's Promise boarding sequence. |
 | Jakes Magpie | Dead | Keelhauled aboard Wormwood. |
 | Harmak Gruft | Dead | Body in cage on Wormwood. |
-| Kor'al Daraa | Dead | Man's Promise sailor killed during boarding; brother Nor'gal is one of the six named skeleton-crew survivors. Spelling may reconcile with Cor'Wal. |
+| Kor'al Daraa / Cor'Wal Daraa | Dead | Man's Promise sailor killed during boarding; brother Nor'gal is one of the six named skeleton-crew survivors. Spelling needs reconciliation. |
 
 ## Non-Humanoid / Monster State
 
@@ -139,10 +141,13 @@ The six named skeleton-crew survivors are fixed as:
 ## Open Reconstruction Questions
 
 - Is Sho visibly on deck in the hot-box, or covered/guarded in a way that changes approach options?
-- Which Wormwood NPCs are definitively aboard the Man's Promise?
+- Who is guarding Sho at the exact moment play resumes?
+- Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard the Man's Promise at the cold open, and where?
 - Where is Owlbear physically at the cold open?
-- Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard the Man's Promise at the cold open?
-- Who were the eight Wormwood-side Man's Promise survivors, and what became of them after the Erastus 27 ship split?
+- Which Wormwood NPCs are definitively aboard the Man's Promise beyond the locked post-Erastus 27 evidence set?
+- Resolve Maheem, Patch, Kipper, Conchobhar, Badger, and Jack placement.
+- What are the names and later Wormwood-side fates of the other eight Man's Promise survivors who went with the Wormwood?
 - Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
 - What is each named skeleton-crew survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle?
 - Does the ship actually reach Coconut Beach before or after the fork collision resolves?
+- Can the Man's Promise be crewed after a mutiny under the Crew 20 effective-operations reference?
