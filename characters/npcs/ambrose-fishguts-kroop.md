@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Seeded, expanded with Erastus 16 crab reef galley handoff and Erastus 29 cook-cabin offer
+- Maturity: Seeded, expanded with Erastus 16 crab reef galley handoff, Erastus 29 cook-cabin offer, and Rickety's Squibs warning
 - Scope: Book One major ally and ship's cook
 - Source basis: Recovered Adventure Path text, GM-provided campaign notes, campaign timeline, and player interaction context
 
@@ -143,11 +143,31 @@ He took a swig of rum, offered the bottle, and said he wanted to talk to Rak abo
 
 Kroop told Rak he could put his things in there now and that Kroop would finish cooking.
 
-This scene is important because Kroop is quietly creating a more private, safer space for Rak aboard the Man's Promise. It suggests deliberate trust and possibly preparation for a sensitive conversation about Plugg, the course, or mutiny.
+This scene is important because Kroop is quietly creating a more private, safer space for Rak aboard the Man's Promise. It suggests deliberate trust and preparation for a sensitive conversation about Plugg, the course, or mutiny.
 
 The same morning, Kroop handed Mirei Plugg's food and told her the captain wanted her to bring it. When Mirei's face dropped, Kroop said he assumed it was worth whatever Plugg had offered her and told her to go.
 
 This shows Kroop was aware of the danger or compromise around Mirei's new position, even if he did not intervene directly.
+
+### Erastus 29 Rickety's Squibs Warning
+
+Later in the galley after dinner, Kroop called Rak in for the private talk. He began to tell Rak to close the door, then saw Sandara and sighed with relief before inviting her in too.
+
+Kroop said he had served on the Wormwood for a long time and that Harrigan was dangerous, but Plugg was different:
+
+> "Plugg.... that pup isn't worth his salt, more of a lap-dog with insecure delusions of grandure."
+
+Kroop said he would not necessarily expect Plugg to follow orders now that they were out of Harrigan's earshot and eyesight.
+
+When Sandara said she had calculated that the ship was certainly going east, Kroop paused and said, "Damn."
+
+Rak asked what was to the east. Kroop asked whether Rak wanted the good version or the more likely version, then gave the likely answer:
+
+> "We are most likely headed to Rickety Squibs..."
+
+Kroop explained that Rickety's Squibs was west of Bloodcove and even more notorious. He described it as an isolated dry dock where old Rickety Hake refits ships into squibs, changing rigging, shape, and features until the ship is unrecognizable.
+
+This is a major practical-information beat: Kroop identifies the likely destination and explains what Plugg would gain by going there.
 
 ## Relationships
 
@@ -161,7 +181,7 @@ Kroop may protect Rak from mistakes or punishments when he can.
 
 On Erastus 16, Kroop confirmed Rak as his assistant and as the one who caught the big reefclaw / dinner source.
 
-On Erastus 29, Kroop offered Rak the second hammock in the cook's cabin and said the walls there did not listen. He wanted to talk to Rak that night.
+On Erastus 29, Kroop offered Rak the second hammock in the cook's cabin and said the walls there did not listen. He then warned Rak and Sandara that Plugg might be heading to Rickety's Squibs.
 
 ### Cut-Throat Grok
 
@@ -174,6 +194,8 @@ She encourages his taste for rum, but their friendship is genuine and important.
 Kroop and Sandara both function as potential voices of reason and mutiny-sympathetic allies.
 
 Both understand that open action too early can get people killed.
+
+On Erastus 29, Kroop was relieved to include Sandara in the private galley conversation and trusted her enough to discuss Plugg's likely betrayal and Rickety's Squibs.
 
 ### Mirei
 
@@ -193,6 +215,8 @@ Plugg is part of the oppressive officer structure Kroop wants to escape.
 
 Kroop is likely to oppose Plugg if he believes the PCs have a real chance.
 
+By Erastus 29, Kroop no longer trusts Plugg to follow Harrigan's orders and considers him an insecure lap-dog rather than a real captain.
+
 ## Knowledge and Usefulness
 
 Kroop knows the Shackles well.
@@ -205,7 +229,8 @@ He can provide:
 - shipboard routine,
 - food and supply sense,
 - contacts and rumor context,
-- and practical advice about mutiny risk.
+- practical advice about mutiny risk,
+- and specific knowledge of Rickety's Squibs / ship squibbing.
 
 He is not a commander, but he is one of the most useful surviving adults in the room if the Man's Promise loses its officers.
 
@@ -243,10 +268,9 @@ Kroop sometimes claims the bird talks to him.
 ## Open Questions
 
 - Did Kroop help cook the reefclaw for Harrigan, or only receive and process it?
-- How much has Kroop already told the PCs about Rickety's Squibs or Plugg's course?
+- How much has Kroop already told the PCs about Rickety's Squibs or Plugg's course beyond the Erastus 29 galley conversation?
 - Does Kroop know Sho is in the hot-box?
 - How sober is Kroop at the exact relaunch moment?
 - What supplies, rum, and food remain under his practical influence?
 - Does Black-Hearted Bezebel remain with him on the Man's Promise?
-- What did Kroop want to discuss with Rak on Erastus 29?
 - Did Rak move into the cook's cabin?
