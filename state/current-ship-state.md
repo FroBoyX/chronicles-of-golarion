@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state operating document
-- Maturity: Draft, expanded with Arodus 5 split-scene evidence
+- Maturity: Draft, expanded with Arodus 5 split-scene evidence, active-year correction, and non-skeleton survivor transfer placement
 - Scope: Wormwood and Man's Promise at the relaunch point
 
 ## Purpose
@@ -145,8 +145,11 @@ Likely or confirmed Wormwood-side figures include:
 - Riaris Krine
 - Habbly Quarne
 - Caulky Tarroon
+- eight unnamed Man's Promise survivors who were not part of Plugg's skeleton crew after the Erastus 27 split
 
 Some placements remain unresolved and should be confirmed against logs.
+
+The eight Wormwood-side Man's Promise survivors have broad placement resolved but individual identities, duties, and later relevance unresolved.
 
 ### Strategic Relevance
 
@@ -200,3 +203,4 @@ This is a pressure tool, not a railroad.
 - How visible is Sho's imprisonment from the main deck?
 - What ship's boats are available and who controls them?
 - Does the ship arrive at Coconut Beach before or after the fork collision resolves?
+- Who were the eight Wormwood-side Man's Promise survivors, and did any later become relevant?
