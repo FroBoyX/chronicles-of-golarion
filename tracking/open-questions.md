@@ -97,13 +97,12 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Sandara's tricorne / rescued belongings.
 - Rosie's fiddle and its status after her death.
 
-### Timeline / Year Cleanup
-
-- Current GM correction says opening year is 4712 AR.
-- Some older current-state docs may still preserve 4691 AR.
-- Audit active chronology docs and correct only where they conflict with the locked 4712 timeline.
-
 ## Resolved Questions
+
+### Active Relaunch Year Cleanup
+
+- Resolved for active relaunch-facing files: the current campaign frame now uses **Arodus 5, 4712 AR** in `README.md`, `chronology/current-state.md`, `state/current-ship-state.md`, and `chronicles/the-fork.md`.
+- Remaining 4691 references in handoffs or queue records should be treated as cleanup-history references unless a later search finds an active date assertion.
 
 ### Ebony Saable Identity
 
