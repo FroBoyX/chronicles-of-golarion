@@ -105,12 +105,34 @@ Key adopted workflow:
 - Generated images are not canon by themselves. They become visual canon only after GM sign-off or explicit approval.
 - The image-output index records planned, briefed, draft, working-anchor, approved, variant, rejected, and superseded assets.
 
+## PF2e Conversion Workflow Pass-Off
+
+The PF1 to PF2e Conversion Audit workflow has a dedicated method file and tracking index:
+
+- `design/pf2e-conversion-method.md`
+- `handoffs/pf2e-conversion-handoff.md`
+- `tracking/pf2e-conversion-index.md`
+- `conversions/pf2e/`
+
+Chronicle Master should treat `design/pf2e-conversion-method.md` as the current control document for conversion audits and possible relaunch mechanics.
+
+Key adopted workflow:
+
+- PF2e conversion is a **relaunch mechanics layer**, not a rewrite of campaign history.
+- PF1 sheets, rolls, encounters, and outcomes remain historical evidence.
+- Conversion should rebuild by concept, table identity, current story state, and future play needs rather than converting numbers one-for-one.
+- PC conversions require player review and GM approval before becoming relaunch mechanics.
+- Specific PF2e rules recommendations should check current primary rules sources and record the source basis.
+- Conversion outputs live under `conversions/pf2e/pcs/`, `conversions/pf2e/npcs/`, `conversions/pf2e/encounters/`, `conversions/pf2e/items/`, and `conversions/pf2e/ships/`.
+- The conversion index tracks not-started, draft, candidate, review-needed, approved, rejected, and superseded conversion targets.
+
 Chronicle Master routing note:
 
 - Use Narrative Output / Reconstruction for player-facing or readable prose once evidence is already preserved.
 - Use Visual Output / Art Direction for visual briefs, image prompts, art continuity, and battle-map prompts once the relevant facts are stable enough.
+- Use PF1 to PF2e Conversion Audit for mechanics conversion, PC/NPC rebuild candidates, encounter conversion, item conversion, and ship/naval subsystem options.
 - Use evidence-intake chats first when the source material has not yet been preserved.
-- Use NPC & Crew State Audit before visualizing current-state tableaux if positions, loyalties, or survival states are unresolved.
+- Use NPC & Crew State Audit before visualizing or converting current-state tableaux if positions, loyalties, or survival states are unresolved.
 - Use Chronicle Master only for priority, canon, scope, routing, and final sign-off decisions.
 
 ## Language Rules
@@ -134,6 +156,7 @@ Use these handoffs to start focused chats:
 | NPC & Crew State Audit | `handoffs/npc-crew-state-handoff.md` | NPC dossiers, locations, survivor lists, loyalty, who can sail. |
 | Narrative Reconstruction | `handoffs/narrative-reconstruction-handoff.md` | Polished chapters and aligned Ship's Log / Write-Up / Chat Scene outputs after evidence has been preserved. |
 | Visual Output / Art Direction | `handoffs/visual-output-handoff.md` | Character art, location art, battle maps, visual briefs, asset tracking, and style continuity. |
+| PF1 to PF2e Conversion Audit | `handoffs/pf2e-conversion-handoff.md` | Conversion audits for PCs, NPCs, encounters, items, ships, and possible relaunch mechanics. |
 
 ## Tracking Files
 
@@ -144,6 +167,7 @@ Use these to keep chats from bloating:
 - `tracking/evidence-ingestion-queue.md` — raw or pending evidence not fully integrated.
 - `tracking/open-questions.md` — cross-cutting unresolved questions.
 - `tracking/image-output-index.md` — visual asset status, anchors, variants, and remake/patch policy.
+- `tracking/pf2e-conversion-index.md` — PF2e conversion target status, candidates, approvals, rejected paths, and risks.
 
 ## Current Core State
 
@@ -197,8 +221,10 @@ Read these when beginning a major new chat:
 - `design/narrative-output-method.md`
 - `design/visual-output-method.md`
 - `design/visual-style-guide.md`
+- `design/pf2e-conversion-method.md`
 - `source-spines/README.md`
 - `tracking/image-output-index.md`
+- `tracking/pf2e-conversion-index.md`
 - `chronology/current-state.md`
 - `chronology/arodus-5-split-scenes.md`
 - `chronology/open-threads.md`
@@ -216,5 +242,5 @@ Read these when beginning a major new chat:
 Use this to start a new master/router chat:
 
 ```text
-You are the Chronicle Master / Router for FroBoyX/chronicles-of-golarion. Read `handoffs/chronicle-master-handoff.md`, `tracking/current-task-board.md`, `tracking/chat-map.md`, `tracking/open-questions.md`, `design/narrative-output-method.md`, and `design/visual-output-method.md`. Keep this chat focused on priorities, canon decisions, scope, and routing. Do not ingest large raw evidence here unless asked.
+You are the Chronicle Master / Router for FroBoyX/chronicles-of-golarion. Read `handoffs/chronicle-master-handoff.md`, `tracking/current-task-board.md`, `tracking/chat-map.md`, `tracking/open-questions.md`, `design/narrative-output-method.md`, `design/visual-output-method.md`, and `design/pf2e-conversion-method.md`. Keep this chat focused on priorities, canon decisions, scope, and routing. Do not ingest large raw evidence here unless asked.
 ```
