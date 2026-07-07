@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence
+- Maturity: Draft, expanded with Rak player-sheet evidence and Erastus 30 Mistress Mirei exchange placement
 - Scope: Lower-crew sailor, placement and loyalty unresolved
 
 ## Overview
@@ -44,11 +44,23 @@ The Rak sheet's uncertain friendly note makes him worth checking before the rela
 
 ## Known Campaign Context
 
-Jack may have been present during the Wormwood social phase and possibly during the Man's Promise transfer.
-
-His exact current placement must be confirmed.
+Jack may have been present during the Wormwood social phase and likely transferred to the Man's Promise, though exact current placement must still be confirmed through storm / island tracing.
 
 Rak's Foundry notes list Jack as "Friendly?" rather than definitively friendly.
+
+## Man's Promise
+
+### Erastus 30 — Mistress Mirei / Tam Exchange
+
+When Mirei approached Tam "Narwhal" Tate below decks as **Mistress Mirei**, she addressed Tam and another nearby sailor as "you two."
+
+GM clarification now identifies that second sailor as **Jack Scrimshaw**.
+
+Jack's recovered direct contribution in the raw exchange is minimal or displaced-looking:
+
+> "Yes?"
+
+This anchors Jack near Tam during the below-decks reaction to Plugg's imposed Mistress role for Mirei. It does not by itself resolve Jack's loyalty, attitude toward Mirei, or current cold-open placement.
 
 ## Relationships
 
@@ -57,6 +69,18 @@ Rak's Foundry notes list Jack as "Friendly?" rather than definitively friendly.
 Rak's sheet marks Jack as friendly with uncertainty.
 
 This may represent a partial influence state, player memory, or genuine but unconfirmed relationship.
+
+### Mirei
+
+Jack was present with Tam when Mirei attempted to speak with them as Mistress Mirei.
+
+His attitude toward her imposed station remains unresolved; Tam did the speaking in the recovered exchange.
+
+### Tam "Narwhal" Tate
+
+Jack was near Tam during the Mistress Mirei exchange.
+
+This does not prove a strong relationship, but it places Jack in Tam's immediate social orbit for that scene.
 
 ### PCs
 
@@ -76,7 +100,7 @@ Jack's choices may follow the visible majority of the lower crew unless a strong
 
 ## Current State
 
-- Location: Likely Man's Promise, pending confirmation
+- Location: Likely Man's Promise, pending storm / island log tracing
 - Status: Presumed alive
 - Political state: Unknown, but Rak sheet suggests possible friendly status
 - Practical value: Sailor and possible witness
@@ -93,7 +117,7 @@ If his friendly status is confirmed, he may be a quiet but meaningful support po
 
 ## Open Questions
 
-- Is Jack definitely aboard the Man's Promise?
+- Is Jack definitely aboard the Man's Promise at the current cold open?
 - Does the formal influence tracker confirm friendly status?
 - What is his current attitude toward each PC?
 - Did he witness Sho's imprisonment?
