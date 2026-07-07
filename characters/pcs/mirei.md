@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, and Erastus 29 Plugg duties escalation
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, and Erastus 29 entertainer agreement
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -13,7 +13,7 @@ Mirei is an aasimar Sea Singer bard from the River Kingdoms, devoted to Desna.
 
 She has silver hair, emerald eyes, and a notably graceful or otherworldly appearance.
 
-Her personal premise is player-led: she came to Port Peril seeking her destiny and a deeper understanding of herself.
+Her personal premise is player-led: she came to Port Peril seeking destiny and a deeper understanding of herself.
 
 ## Current Campaign Status
 
@@ -219,7 +219,29 @@ When Scourge called Mirei "wench," Mirei objected. Plugg stopped Scourge, said M
 
 Plugg then ordered her to leave and return to sing in twenty minutes, warning her not to be late.
 
-This scene marks a further escalation: Mirei is not only entertainment and cabin presence. She is now food-taster, possible observer of hidden chart activity, and a target of direct physical humiliation inside Plugg's command space.
+That night, Mirei returned. Scourge greeted her as "Captain's wench" and walked out.
+
+Plugg asked what the night's entertainment would be. Mirei chose the fiddle again. Plugg accepted and told her to prepare a song for the next day. When she asked what kind of song, he said they would cross that bridge **if** it came.
+
+After judging the performance good but not as good as the previous day, Plugg returned to the "unpleasant" wench business.
+
+He told Mirei that if she agreed to be his entertainer, she would stay there, stop working as a swab, and be treated with the respect of an officer on the Man's Promise.
+
+Mirei said she would not mind still helping around the ship because she feared respect without labor would be sarcastic and fake. She also said she liked entertaining.
+
+Plugg said she would earn respect with her voice and presence, not labor. He said he would raise her in station along with himself as "a lady of a pirate lord," but she would have to sing his deeds. His voice went cold and he demanded an answer.
+
+Mirei agreed.
+
+Plugg then said only he would call her wench, and that everyone else would need a name for her. She was to choose that name by morning.
+
+He said the former captain of the ship had been a woman and that her clothing and belongings were now Mirei's. He demanded obedience and promised respect if Mirei did his bidding.
+
+He also threatened that if Mirei did anything wrong, he would give her to Scourge to do with as he pleased. Until then, she had Plugg's protection.
+
+Mirei confirmed that this was very clear. Plugg expected her new name in the morning and ordered her to bed.
+
+This scene marks a further escalation: Mirei is not only entertainment and cabin presence. She is now food-taster, possible observer of hidden chart activity, coerced officer-adjacent entertainer, renamed symbol, and conditional protected possession inside Plugg's command space.
 
 ### Bonewrack Isle
 
@@ -323,6 +345,8 @@ This occurred in the same cabin where the Man's Promise captain had been killed,
 
 On Erastus 29, Plugg added food-tasting to Mirei's duties, concealed a chart when she entered, and punished her for objecting to being called wench by striking her and reframing the insult as "Captain's wench."
 
+That night, he pressured her to agree to become his entertainer, promised officer-like respect, required a new name by morning, gave her the dead female captain's clothing and belongings, and threatened to give her to Scourge if she disobeyed.
+
 This is the beginning of the direct Man's Promise manipulation arc that later leads to Plugg assigning Mirei to act against the PCs.
 
 ### Owlbear Hartshorn
@@ -354,6 +378,9 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 - Confirm whether Mirei saw enough of Plugg's folded chart on Erastus 29 to infer the course change.
 - Confirm whether food-tasting remained one of Mirei's duties after Erastus 29.
 - Confirm who took Mirei's harp and whether it is still aboard the Man's Promise.
+- Confirm what new name Mirei chose or was expected to choose by morning.
+- Confirm whether Mirei wore or used the former captain's clothing or belongings.
+- Confirm what song Plugg expected her to prepare for the next day.
 
 ## Evidence Notes
 
