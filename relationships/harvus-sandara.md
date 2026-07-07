@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, peridot necklace scene, post-Rosie rage scene, Erastus 16 healing / necklace beat, and Erastus 29 course-change warning
+- Maturity: Draft, expanded from Harvus light timeline evidence, Day 3 dinner scene, peridot necklace scene, post-Rosie rage scene, Erastus 16 healing / necklace beat, Erastus 29 course-change warning, and low-confidence Erastus 29 dinner fragment
 - Scope: Wormwood through Bonewrack rescue
 
 ## Summary
@@ -132,6 +132,26 @@ Harvus had no answer but said he would keep on his toes and bid her a good day i
 
 This scene is important because Sandara identifies the course change before Plugg's betrayal is fully exposed. It also shows the Harvus/Sandara relationship functioning as a trust channel for dangerous shipboard information.
 
+## Erastus 29 Dinner Fragment
+
+A low-confidence dinner fragment appears to belong near Erastus 29.
+
+Badger questioned whether Sandara actually trusted Harvus, saying he did not seem worth the trouble.
+
+Sandara defended him:
+
+> "See, he isn't so bad once you get to know him."
+
+Harvus joked that Sandara spoke the truth.
+
+Sandara clarified that she meant Harvus:
+
+> "Harvus, of course. Sure, he just acts the pirate part. After the fight yesterday he wouldn't leave my side."
+
+Harvus blushed and chuckled.
+
+This fragment shows Sandara defending Harvus' character to another sailor and openly pointing to his care for her after the previous day's fight.
+
 ## Comfort and Care
 
 After Rosie's loss, Harvus sought solace with Sandara.
@@ -157,6 +177,8 @@ This confirms the relationship had moved into explicitly romantic territory befo
 The peridot necklace promise helps bridge the early courtly desire and the later Man's Promise kiss: Sandara deferred the kiss until they survived the Wormwood, rather than shutting the door.
 
 The Erastus 29 course warning shows Sandara trusting Harvus with early suspicion about Plugg's course change.
+
+The Erastus 29 dinner fragment shows Sandara defending Harvus in front of Badger rather than treating him as only a private attachment.
 
 ## Bonewrack
 
@@ -198,6 +220,8 @@ The Erastus 16 aftermath ties those threads together: Sandara is wearing his nec
 
 The Erastus 29 course warning adds another function: Sandara is a political reader and warning voice, and Harvus is someone she trusts enough to alert.
 
+The dinner fragment adds that Sandara is willing to defend Harvus' character before skeptical crew.
+
 ## Current State
 
 - Sandara is alive, rescued, and returning with Harvus.
@@ -219,6 +243,7 @@ The Erastus 29 course warning adds another function: Sandara is a political read
 - Was Rosie's going over truly intentional, or was Sandara voicing suspicion under pressure?
 - Did Sandara's suspicion about Rosie become part of later mutiny reasoning?
 - Did Sandara later learn what Harvus did with her Erastus 29 course warning?
+- Confirm whether the Erastus 29 dinner fragment belongs to Erastus 29 and what "the fight yesterday" refers to.
 - How conscious was Sandara during the actual Whale fight and ascent?
 - Does Sandara understand how close Harvus came to death?
 - Does Sandara want the rescue story told publicly?
