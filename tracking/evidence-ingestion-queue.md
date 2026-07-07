@@ -81,24 +81,44 @@ When a scene is completed, mark it as completed and list the evidence file plus 
   - Who is guarding Sho?
   - Who supports Kahina's life-for-life test?
 
-### Year consistency cleanup
+## Completed Recently
 
-- Source type: cross-repo cleanup
-- Date candidate: global
-- Placement confidence: current GM truth says 4712 opening year
-- Destination evidence file: none
-- Integration targets:
+### Man's Promise Erastus 29-30 Mistress / Dinner / Syl Threat
+
+- Evidence files:
+  - `evidence/chat-logs/mans-promise-erastus-29-30-nightshift-mistress-and-dinner.md`
+  - `evidence/chat-logs/mans-promise-erastus-30-nightshift-syl-mirei-threat.md`
+  - `evidence/gm-notes/mistress-and-dinner-clarifications.md`
+- Integrated into:
+  - `chronicles/mans-promise-erastus-30-mistress-mirei.md`
+  - `relationships/mirei-plugg.md`
+  - `characters/npcs/slippery-syl-lonegan.md`
+  - `characters/npcs/tam-narwhal-tate.md`
+  - `characters/npcs/ebony-saable.md`
+  - `characters/npcs/fipps-chumlett.md`
+  - `characters/npcs/jaundiced-jape.md`
+  - `characters/npcs/goyle-onorach.md`
+- Status: Raw evidence already preserved; this pass verified integration and corrected Fipps' Ebony reference from likely to GM-confirmed.
+- Open checks:
+  - Whether Harvus attempted the Sandara-requested quarters investigation before the storm interrupted the night.
+  - Whether Sho was ever involved in Sandara's backup "rough way" idea.
+  - What Plugg and Scourge did with Syl's report about Mirei's handling of Tam and Sho.
+  - Whether Syl's knife wound on Mirei left visible evidence or required treatment.
+  - Whether Mirei ever ate the third plate Plugg said would wait.
+  - Who was the second sailor with Tam when Mirei approached "you two."
+
+### Active relaunch year cleanup
+
+- Evidence source: GM correction preserved in `handoffs/chronicle-master-handoff.md`
+- Integrated into:
+  - `README.md`
   - `chronology/current-state.md`
-  - `state/current-npc-locations.md`
   - `state/current-ship-state.md`
   - `chronicles/the-fork.md`
-  - any files still preserving 4691 incorrectly
-- Status: Pending audit.
+  - `tracking/open-questions.md`
+- Status: Completed for active relaunch-facing files.
 - Open checks:
-  - Identify whether 4691 is still present as active chronology or only legacy text.
-  - Correct only if it conflicts with the GM-locked 4712 timeline.
-
-## Completed Recently
+  - Future searches may still find 4691 in handoffs or queue-history text; treat those as cleanup-history references unless they assert an active current date.
 
 ### Mirei Day 2 first recovered performance
 
