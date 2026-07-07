@@ -28,6 +28,7 @@ PF2e conversion status does not change campaign canon. It only tracks possible o
 
 | Target ID | Type | Subject | PF1 Source Basis | Conversion Brief | Status | Owner / Review | Notes |
 |---|---|---|---|---|---|---|---|
+| pf2e-conversion-principles | Conversion policy | System-first conversion / non-negotiable combat intent | GM current confirmation; PF2e conversion method | `conversions/pf2e/conversion-principles.md` | Draft audit | GM | Use PF2e-native rules first while preserving GM combat intent around facing, guard, active defense, tactical survival, block, parry, and riposte. |
 | sho-astor-pc-pilot | PC | Sho Astor | `characters/pcs/sho-astor.md`; player-sheet evidence as needed | `conversions/pf2e/pcs/sho-astor.md` | Not started | GM + Sho player | Recommended first PC pilot. |
 | rak-wraithraiser-pc-pilot | PC | Rak Wraithraiser | `characters/pcs/rak-wraithraiser.md`; player-sheet evidence as needed | `conversions/pf2e/pcs/rak-wraithraiser.md` | Not started | GM + Rak player | Recommended hard-case PC pilot. |
 | harvus-gron-pc | PC | Harvus G'ron | `characters/pcs/harvus-gron.md`; Harvus player notes as needed | `conversions/pf2e/pcs/harvus-gron.md` | Not started | GM + Harvus player | Wing damage, avian identity, rage/revenge, rescue legend. |
@@ -49,6 +50,7 @@ PF2e conversion status does not change campaign canon. It only tracks possible o
 - Do not convert PF1 numbers directly.
 - Do not let PF2e conversion imply that historical PF1 outcomes should change.
 - Conversion can be adopted, deferred, or rejected after pilot testing.
+- Use PF2e-native rules first while the GM is still building PF2e fluency, except where GM combat-design intent must be preserved and carefully fitted into PF2e.
 - Tactical facing is a draft homebrew subsystem candidate. It should be tested in a contained PF2e pilot before campaign-wide adoption.
 - Active Defense is a draft homebrew subsystem candidate. It should be tested only after baseline PF2e and the Facing Variant are stable enough to evaluate cleanly.
 - Affliction templates are draft conversion templates. They should be used to build a few sample diseases and poisons before any campaign-wide adoption.
