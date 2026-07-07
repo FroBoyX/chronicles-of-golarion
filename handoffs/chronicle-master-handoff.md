@@ -12,7 +12,7 @@
 
 This file lets new chats resume the archive without requiring the entire prior conversation.
 
-The repository should be treated as the durable memory. Chats should stay narrow and write back to the repo whenever they establish facts, preserve evidence, or resolve questions.
+The repository should be treated as the durable memory. Chats should stay narrow and write back to the repo whenever they establish facts, preserve evidence, resolve questions, or create approved process scaffolding.
 
 ## Core Campaign Context
 
@@ -60,7 +60,7 @@ When the user provides a scene chunk:
 
 ## Narrative Output Workflow Pass-Off
 
-The Narrative Output / Reconstruction workflow now has a dedicated method file:
+The Narrative Output / Reconstruction workflow has a dedicated method file:
 
 - `design/narrative-output-method.md`
 
@@ -80,10 +80,37 @@ Key adopted workflow:
 - Narrative time skips, scene jumps, and context bridges are allowed to avoid unnecessary backfill, but cannot hide unresolved canon problems or invent exact dialogue.
 - Dialogue expansion / in-character embellishment is opt-in only. It should be opened only when the GM explicitly requests it, and candidate dialogue must not be presented as recovered chat or canon unless approved.
 
+## Visual Output Workflow Pass-Off
+
+The Visual Output / Art Direction workflow has a dedicated method file and style seed:
+
+- `design/visual-output-method.md`
+- `design/visual-style-guide.md`
+- `handoffs/visual-output-handoff.md`
+- `tracking/image-output-index.md`
+
+Chronicle Master should treat `design/visual-output-method.md` as the current control document for character art, location art, battle maps, visual briefs, and asset-index discipline.
+
+Key adopted workflow:
+
+- Visual output has three production streams:
+  1. **Character Art** — portraits, full-body references, crew portraits, expression/action/outfit/state variants.
+  2. **Location Art** — establishing shots, interiors, ship spaces, island vistas, and scene backdrops.
+  3. **Battle Maps** — top-down tactical maps, player-safe maps, GM annotated variants, grid/no-grid variants.
+- Visual output should create or identify a visual brief before major image generation.
+- Visual briefs live under `visual-briefs/characters/`, `visual-briefs/locations/`, and `visual-briefs/maps/`.
+- Approved or working anchor assets should guide later variants.
+- Character and location illustration can prioritize mood and identity; battle maps are truth-first and must preserve tactical geometry.
+- Existing Pathfinder/Golarion/Skull & Shackles/Paizo images may be used for setting cues, material culture, palette, silhouette families, and mood, but not as direct-copy targets.
+- Generated images are not canon by themselves. They become visual canon only after GM sign-off or explicit approval.
+- The image-output index records planned, briefed, draft, working-anchor, approved, variant, rejected, and superseded assets.
+
 Chronicle Master routing note:
 
 - Use Narrative Output / Reconstruction for player-facing or readable prose once evidence is already preserved.
+- Use Visual Output / Art Direction for visual briefs, image prompts, art continuity, and battle-map prompts once the relevant facts are stable enough.
 - Use evidence-intake chats first when the source material has not yet been preserved.
+- Use NPC & Crew State Audit before visualizing current-state tableaux if positions, loyalties, or survival states are unresolved.
 - Use Chronicle Master only for priority, canon, scope, routing, and final sign-off decisions.
 
 ## Language Rules
@@ -100,12 +127,13 @@ Use these handoffs to start focused chats:
 
 | Chat | Handoff | Purpose |
 |---|---|---|
-| Chronicle Master / Router | `handoffs/chronicle-master-handoff.md` | Direction, priority, and final canon decisions only. |
+| Chronicle Master / Router | `handoffs/chronicle-master-handoff.md` | Direction, priority, canon, scope, and final decisions only. |
 | Wormwood Evidence Intake | `handoffs/wormwood-evidence-handoff.md` | Erastus 4-24 Wormwood evidence, day docs, lower-crew scenes. |
 | Man's Promise / Bonewrack Evidence Intake | `handoffs/mans-promise-bonewrack-handoff.md` | Boarding, prize crew, Bonewrack, current fork, hot-box, mutiny setup. |
 | PC Dossiers / Player Packets | `handoffs/pc-dossiers-player-packets-handoff.md` | PC facts, player-safe questions, cold-open packets. |
 | NPC & Crew State Audit | `handoffs/npc-crew-state-handoff.md` | NPC dossiers, locations, survivor lists, loyalty, who can sail. |
 | Narrative Reconstruction | `handoffs/narrative-reconstruction-handoff.md` | Polished chapters and aligned Ship's Log / Write-Up / Chat Scene outputs after evidence has been preserved. |
+| Visual Output / Art Direction | `handoffs/visual-output-handoff.md` | Character art, location art, battle maps, visual briefs, asset tracking, and style continuity. |
 
 ## Tracking Files
 
@@ -115,6 +143,7 @@ Use these to keep chats from bloating:
 - `tracking/current-task-board.md` — active and next tasks.
 - `tracking/evidence-ingestion-queue.md` — raw or pending evidence not fully integrated.
 - `tracking/open-questions.md` — cross-cutting unresolved questions.
+- `tracking/image-output-index.md` — visual asset status, anchors, variants, and remake/patch policy.
 
 ## Current Core State
 
@@ -166,7 +195,10 @@ Read these when beginning a major new chat:
 - `CANON.md`
 - `design/chronicle-method.md`
 - `design/narrative-output-method.md`
+- `design/visual-output-method.md`
+- `design/visual-style-guide.md`
 - `source-spines/README.md`
+- `tracking/image-output-index.md`
 - `chronology/current-state.md`
 - `chronology/arodus-5-split-scenes.md`
 - `chronology/open-threads.md`
@@ -184,5 +216,5 @@ Read these when beginning a major new chat:
 Use this to start a new master/router chat:
 
 ```text
-You are the Chronicle Master / Router for FroBoyX/chronicles-of-golarion. Read `handoffs/chronicle-master-handoff.md`, `tracking/current-task-board.md`, `tracking/chat-map.md`, `tracking/open-questions.md`, and `design/narrative-output-method.md`. Keep this chat focused on priorities, canon decisions, scope, and routing. Do not ingest large raw evidence here unless asked.
+You are the Chronicle Master / Router for FroBoyX/chronicles-of-golarion. Read `handoffs/chronicle-master-handoff.md`, `tracking/current-task-board.md`, `tracking/chat-map.md`, `tracking/open-questions.md`, `design/narrative-output-method.md`, and `design/visual-output-method.md`. Keep this chat focused on priorities, canon decisions, scope, and routing. Do not ingest large raw evidence here unless asked.
 ```
