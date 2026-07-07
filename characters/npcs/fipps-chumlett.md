@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log and first-night Man's Promise nightshift authority
+- Maturity: Draft, expanded with Arodus 5 split-scene log, first-night Man's Promise nightshift authority, and Erastus 29 nightshift repairs order
 - Scope: Hostile lower-crew NPC, current beach-side loose end
 
 ## Overview
@@ -61,6 +61,22 @@ Fipps growled and then gave direct work assignments. He ordered Sho and Goyle be
 
 This shows Fipps briefly holding delegated nightshift authority under Syl, placing him directly over Sho and Goyle in the burned-hold cleanup.
 
+### Erastus 29 Nightshift
+
+At the start of Erastus 29 nightshift, Fipps again issued direct assignments.
+
+He sent Harvus to the mainsail with "the dark one," likely Ebony Saable, then ordered Sho to repairs with an insulting "Monkey."
+
+Sho clenched her fist but obeyed.
+
+This reinforces Fipps' delegated nightshift authority and his continued habit of using insults while assigning labor.
+
+Later, he called for the next shift while Mirei was speaking with Tam:
+
+> "You two, five, get up here!"
+
+The exact addressees need confirmation.
+
 ### Man's Promise and Bonewrack
 
 Fipps transferred into the Man's Promise pressure environment.
@@ -111,6 +127,8 @@ Fipps was part of the hostile pressure environment around Sho.
 
 On the first Man's Promise nightshift, Fipps had delegated authority over Sho and ordered her below with Goyle to clean the burned hold.
 
+On Erastus 29 nightshift, he insulted Sho as "Monkey" and assigned her to repairs. Sho clenched her fist but obeyed.
+
 If he participated directly in prior violence or intimidation against her, that should be recorded.
 
 ### Goyle Onórach
@@ -118,6 +136,10 @@ If he participated directly in prior violence or intimidation against her, that 
 On the first Man's Promise nightshift, Fipps ordered Goyle and Sho below to clean the burned hold.
 
 This placed Fipps over a former Man's Promise quartermaster, reinforcing the indignity of Plugg's reduced command order.
+
+### Harvus G'ron
+
+On Erastus 29 nightshift, Fipps assigned Harvus to the mainsail with "the dark one."
 
 ### Aretta Bansion
 
@@ -161,4 +183,5 @@ Do not assume his loyalty is strong if Plugg's position weakens.
 - Does he know the rescue party succeeded?
 - Would he run to Plugg, Scourge, or Syl if threatened?
 - Does Aretta's death make him personally hostile to Sho?
-- Did Fipps use nightshift authority to target Sho beyond assigning her and Goyle to the burned hold?
+- Did Fipps use nightshift authority to target Sho beyond assigning her and Goyle to the burned hold / repairs?
+- Who exactly was Fipps calling when he said "You two, five, get up here"?
