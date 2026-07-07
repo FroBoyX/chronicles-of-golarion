@@ -76,6 +76,7 @@ You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golari
 - `characters/npcs/dahrehn-numus.md`
 - `characters/npcs/merchiel-vgiatore.md`
 - `characters/npcs/norgal-daraa.md`
+- `characters/npcs/jack-scrimshaw.md`
 - `characters/npcs/mr-plugg.md`
 - `characters/npcs/master-scourge.md`
 - `characters/npcs/sandara-quinn.md`
@@ -123,7 +124,7 @@ Current routing:
 - Plugg / Syl report follow-up: trace post-storm logs; GM memory says this comes up there.
 - Syl's knife wound on Mirei: player interpretation question after giving Mirei's player a narrative version of the exchange.
 - Mirei eating the waiting third plate: likely no if it would have had to happen before the storm, but trace logs before locking.
-- Second sailor with Tam: probably Jake / Jack, but keep probable until direct log text confirms.
+- Jack Scrimshaw is locked as the second sailor with Tam when Mirei addressed "you two."
 
 ## Current Relaunch State
 
