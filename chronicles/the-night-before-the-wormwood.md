@@ -1,259 +1,236 @@
-# The Night Before the Wormwood
+# Erastus 4: The Last Rites of the Press-Ganged
 
 ## Document Status
 
-- Type: Narrative adventure log
-- Maturity: Canon-candidate reconstruction, revised from GM-written campaign prose
+- Type: Narrative Write-Up
+- Maturity: Canon-candidate / GM-approved embellished narrative
 - Scope: Port Peril press-ganging and immediate transition to the Wormwood
-- Source basis: GM-written 2015/2018 Obsidian Portal prose for the press-ganging, PC sheet hooks, existing character dossiers, campaign reconstruction notes, and published AP-era dating convention
-- Note: This is narrative reconstruction, not an evidence artifact. It may become canon unless corrected by GM/player pushback.
-- Date decision: Use **4712 AR** for the opening year. Keep **Erastus 4** from the old GM prose as the campaign's opening date unless later contradicted.
+- Source spine: `source-spines/wormwood-erastus-4-press-ganging.md`
+- Source basis: Original GM prose, approved Harvus narrative basis, GM-approved edited embellished narrative, existing character dossiers, and campaign reconstruction notes
+- Spoiler scope: Player-safe
+- Canon status: GM-approved as coherent; pending future player correction if needed
 
-## Adventure Log — The Last Rites of the Press-Ganged
+## Date
 
-**Erastus 4, 4712 AR — Port Peril**  
-**The Formidably Maid**
+**Erastus 4, 4712 AR**  
+**Port Peril / The Formidably Maid**
 
-For different reasons, **Harvus G'ron**, **Mirei**, **Sho Astor**, **Rak Wraithraiser**, and **Conchobhar Turlach Shortstone** all passed through the same ugly net in Port Peril.
+> Note: the old GM post preserved for this event uses the older header **Erastus 4th, 4701**. Current archive synthesis uses the GM-corrected date **Erastus 4, 4712 AR**.
 
-Most of them found themselves at the **Formidably Maid**, a tavern notorious as a pirate hangout near the docks.
+## Narrative Log
 
-To them, it was a tavern.
+Port Peril did not need the dark to become dangerous.
 
-To the crew of the **Wormwood**, it was a hunting ground.
+By day, the city was already loud enough, hungry enough, and cruel enough to swallow the unwary. By night, it only stopped pretending. Lanterns burned in crooked windows. Dockside voices bled together with the slap of harbor water and the creak of ships turning at their moorings. The smell of rum, fish, sweat, tar, perfume, and old blood moved through the streets as if it owned them.
 
-Several of Harrigan's sailors had come ashore to scout for bodies they could force into service. They watched the room, weighed the patrons, and waited for drink, pride, loneliness, or bad luck to make the work easier.
+The Formidably Maid stood near enough to the docks to know what kind of customers it served. Pirates drank there. Sailors lied there. Thieves listened there. Deals were made over cups no one should have trusted, and the staff knew better than to ask too many questions when a patron left on someone else’s shoulder.
 
-By dawn, the Wormwood would have new hands.
+That night, the Wormwood was hunting.
 
-None of them signed on.
+Her crew did not come in one mass. They spread through the tavern like bad weather. Master Scourge watched from where he could see the room. Kipper wore another face and another story. Patch Patchsalt drifted near doors and side passages. Shivikah waited for the kind of signal that meant work. Slippery Syl Lonegan kept to the edges. Tam “Narwhal” Tate, Maheem, Jaundiced Jape, and Aretta Bansion moved in and out of the noise, visible only when one knew what to look for.
 
-## The Fate of Sho Astor
+They were not looking for heroes.
 
-Sho Astor had not come looking for a ship.
+They were looking for bodies.
 
-She had come looking for information.
+Harvus remembered Port Peril as work, sweat, noise, and the kind of city where nobody looked twice unless they wanted something.
 
-There were ruins in the Shackles, old ones, tied to the cyclops empire of **Ghol-Gan**. A contact was supposed to have something worth seeing: a map, a lead, a way farther down the road she had chosen when she left Jalmeray behind.
+That night, the Formidably Maid was supposed to be a drink after the day was done. Nothing noble. Nothing fated. Just a place to sit, drink, and be left alone.
 
-The contact was waiting at the Formidably Maid.
+Rak Wraithraiser had come for something more deliberate. He wanted a pirate crew. He wanted fortune, or at least the beginning of it, and a place like the Formidably Maid seemed like the right kind of net to cast. He did not yet know that he was the one being netted.
 
-Or seemed to be.
+Sho Astor came for information.
 
-In truth, the man was **Kipper**, disguised well enough to play the part and patient enough to let the trap close at tavern speed. The drink did the work before Sho could. Whatever map she expected, whatever answer she had come to buy, never reached her hands.
+Her contact had promised a lead: ruins in the Shackles, the kind of old stone and older secrets that mattered to her. The man waiting for her seemed like the sort of person who knew how to survive Port Peril. He had the right look, the right caution, the right sense of having something worth selling.
 
-She was drugged.
+He was Kipper in disguise.
 
-Once she was unconscious, her possessions were stripped from her. The old ruins, the map, the promise of discovery — all of it was cut away in the same practical motion as belt, pouch, and gear.
+Mirei had not been in Port Peril long. She was not there because of a job, a contact, or a clear plan. The city had pulled at her, and beneath the roar of taverns and dockside vice she could still feel the sea calling. She kept her distance from the louder establishments, passing instead along the edges of the dockside streets where warehouses leaned close together and narrow alleys carried the scent of salt and tar. Her path toward the water led her through the alley behind the Formidably Maid.
 
-Sho Astor was carried from the Formidably Maid to the hold of the Wormwood.
+Conchobhar Turlach Shortstone was there too, not at the center of anyone’s night, but impossible not to notice if one’s eye was trained for useful strangeness. A gnome with enough confidence to look comfortable among pirates and enough agility in his movements to interest the wrong men, he became one more name in Scourge’s count before he ever knew there was a list.
 
-Her expedition had begun.
+Crimson Cogward was the exception.
 
-Just not the one she had chosen.
+He did not need a sap, a drugged cup, a room upstairs, or a dark corner. Somewhere in the night’s work, while others were being marked and taken, Crimson chose the thing the others were about to lose: he volunteered. Whether that made him wiser, more desperate, or merely luckier than the rest would be a question for later. For the purposes of the Wormwood, it made him crew.
 
-## The Fate of Mirei
+Sho’s contact let the conversation unfold long enough to feel real.
 
-Mirei had not been in Port Peril long, but she felt drawn to it.
+The false lead was bait, but good bait. Kipper knew better than to rush it. The topic of ruins drew Sho in, and the tavern did the rest: noise to cover the small sounds, crowding to make proximity ordinary, drink to make suspicion seem rude. Whatever caution Sho brought with her, the trap had been laid for that caution too.
 
-She could not have said why with certainty. Only that this was where she needed to be.
+The drug did its work.
 
-The Formidably Maid was near the docks, close enough to the sea that even inside the noise of the tavern the night seemed to hum beyond the walls. Mirei stopped for a few drinks before heading back into the open air, following the dockside road toward the bay.
+Sho’s awareness narrowed, then slipped. The Formidably Maid blurred around her: lamplight, a table edge, the shadow of the man who was not who he claimed to be. By the time her body failed her, Kipper had already won.
 
-It was a dark night, but not a dead one. A thin crescent moon hung above the water, and its reflection cut pale across the glassy stillness of the harbor.
+Her possessions were stripped first. Not with the chaos of a common robbery, but with the practiced order of a crew that knew where valuables went and which officers expected their shares. Then Sho was taken out of the tavern by the service paths, handled like a drunken patron who had overestimated her cup rather than like a woman being stolen from the city.
 
-Mirei did not know she had been followed.
+A little later, Mirei passed near the tavern’s side ways without understanding what she was seeing.
 
-She did not suspect danger.
+Someone limp was being moved toward the docks, half-covered, carried with enough purpose to discourage questions. Port Peril taught people not to stare. Mirei’s attention was already turning elsewhere, toward the dark shape of the bay and the moonlight lying thin across still water. The song of the sea was stronger than the warning in the street.
 
-She was too deep in the ever-present song of the sea.
+She left the Formidably Maid behind and followed that call.
 
-Behind her, **Slippery Syl Lonegan** slipped from shadow to shadow. Syl had tailed her from the Formidably Maid, closing the distance one stretch of darkness at a time.
+It was a fairly dark night, but a thin crescent moon reflected off the glassy bay. The water was calm enough to seem impossible after the noise of the tavern. Mirei stood near the dockside road, alone with the harbor, unaware that she had been followed from the inn.
 
-A good hit with a sap ended the song.
+She had passed close enough to Sho’s taking to be noticed, even if she had not understood what she saw. That alone might have been enough to mark her. But there was more: the way she moved, the way she lingered near the water, the lack of companions or caution. To the Wormwood’s hunters, she was both a possible witness and a prize in her own right.
 
-Mirei fell unconscious near the water.
+Syl Lonegan moved from shadow to shadow behind her.
 
-Syl smiled to herself when she realized how close her quarry had wandered to the Wormwood. A small stroke of luck, and less work for her.
+Syl was patient. She did not need to hurry. Mirei was looking outward, listening inward, engrossed in the ever-present song of the sea. The danger did not announce itself until it was already close enough to strike.
 
-Before dragging Mirei away, Syl searched the body for anything valuable that **Grok** or **Scourge** might not expect to come from the soon-to-be crew member. Coin, trinkets, anything easily taken before the official taking began.
+The sap landed cleanly.
 
-Then Syl dragged Mirei across the dock and into the hold of the Wormwood.
+Mirei fell.
 
-When Mirei woke, her harp was gone.
+Syl smiled to herself when she saw how far her quarry had wandered toward the Wormwood. That was luck, and luck meant less work. She searched Mirei quickly for anything worth taking before Grok, Scourge, or anyone else could lay claim to it. Then she dragged the unconscious woman toward the ship.
 
-For Mirei, that was not only property.
+Near the dock, Tam “Narwhal” Tate took over the rougher part of the work.
 
-It was identity.
+He hauled Mirei the rest of the way, handling her like cargo as they moved toward the Wormwood. Syl had stalked and struck her; Tam made sure she reached the ship. Between them, Mirei was carried aboard and taken below, still unconscious, before she ever knew its name.
 
-## The Fate of Rak Wraithraiser
+Inside the Formidably Maid, Rak found Melina Drakesworn.
 
-Rak Wraithraiser came to the Formidably Maid specifically to find his fortune with a pirate crew.
+The tavern had offered him an impressive array of distractions, and he took them as signs of good fortune. Boisterous women, beautiful patrons, strong drink, the smell of bodies and salt and spilled rum. Rak had come looking for a pirate crew and found, first, appetite.
 
-He wanted the sea.
+Melina was particularly pretty, and Rak fell in with her gladly.
 
-He wanted a chance.
+Master Scourge watched.
 
-He wanted the kind of future that suited a man with pirate blood and Besmara's name on his tongue.
+He already knew Melina’s part in nights like this. She liked her fun, but her past had taught her caution. Pirates had a way of coming back for more than she intended to give. Her arrangement with certain crews solved that problem neatly. She enjoyed the man, and when she was done, he disappeared out to sea on someone else’s ship.
 
-Before he had a chance to find a crew of promise, however, the tavern found other ways to occupy his attention. There were boisterous, busty wenches, beautiful patrons, and enough drink to turn judgment into confidence.
+Rak drank deep of her company and of what seemed to be a sea of libations.
 
-Rak's eyes ultimately landed on **Melina Drakesworn**.
+When Melina led him upstairs, Scourge grinned.
 
-From across the room, **Master Scourge** watched.
+But not immediately. He let the moment breathe, watching, waiting, to know their mark when the time was right. Then he signaled Patch and Shivikah.
 
-Rak seduced the particularly pretty half-elf and drank deep of both her and what seemed to be a sea of libations. Scourge knew the rhythm of such things, and more importantly, he knew Melina.
+Below, the tavern shifted.
 
-He had an arrangement with Ms. Drakesworn.
+Harvus became the loud problem when the men came over.
 
-She liked her fun, but her past was full of pirates who came back for more than she intended. To avoid unwanted returns from her marks, she had prearranged with several crews that once she had her way with a man, the man could be taken against his will out to sea on an outbound ship.
+They called him **“the hawk that can talk.”** They had that look: men who wanted a fight but wanted to pretend someone else had started it. Harvus knew the shape of it. He had seen that hatred before. Strix, beast, bird, monster—whatever word they used, it meant the same thing when the fists came out.
 
-Scourge grinned when Rak and Melina went upstairs.
+So Harvus answered in the language they had chosen.
 
-Then he signaled **Patch Patchsalt** and **Shivikah** to collect the prize.
+The first man swung wide, sloppy with drink or arrogance. Harvus slipped it and drove an elbow into his ribs hard enough to fold him. Another came in low; Harvus caught him by the collar and slammed him into the edge of a table. Wood cracked. Someone shouted. A third tried to grab his wing.
 
-It was quick work.
+That was a mistake.
 
-They found Rak in the bed he had just thrashed, beat him senseless, bagged the body, and dragged him out the back.
+Harvus turned, drove a knee up, and sent him sprawling.
 
-Rak had come to Port Peril looking for a pirate crew.
+It should have ended there.
 
-He found one.
+But something was wrong.
 
-## The Fate of Conchobhar
+His balance slipped a half-step behind where it should have been. The room tilted, just slightly, like the deck of a ship in a swell that was not there. His hands felt slower than his thoughts. When he struck, it landed, but not as cleanly, not as sharply. The edges of the room blurred, lanternlight smearing into streaks when he turned his head.
 
-Conchobhar Turlach Shortstone had the bad fortune to be exactly the sort of man the Wormwood could use and the worse fortune to be exactly the sort of man who could be made to miss the danger until it was too late.
+He tasted something bitter at the back of his throat.
 
-A handsome gnome with a honeyed tongue, a foppish hat, an eyepatch, a silk shirt, and a cane, Conchobhar looked like someone playing at piracy. He was theatrical, self-involved, charming, and convinced enough of his own performance that attention could easily be mistaken for safety.
+The drink.
 
-He had been drinking with Wormwood hands.
+Scourge watched the realization work its way into the fight. That was what he had wanted. The men had not been sent to beat Harvus. They had been sent to measure him. Scourge needed to know how many bodies it would take to bring down the Strix once the drug had softened him.
 
-Perhaps he thought he had found an audience. Perhaps he thought he had found company. Perhaps he simply enjoyed being admired.
+Harvus pushed through it anyway.
 
-Whatever he thought, he failed to notice the cosh before it was too late.
+Another man came at him with a chair. Harvus caught it, wrenched it aside, and drove his shoulder into the man’s chest hard enough to send both of them crashing into another table. Tankards spilled. Someone screamed. The tavern keeper started shouting for them to take it outside or take it somewhere else entirely.
 
-By the time the others opened their eyes aboard ship, Conchobhar had barely been aboard longer than they had.
+Harvus stood.
 
-He was not proof that press-ganged people naturally stand together.
+The others did not.
 
-He was proof that the Wormwood collected all kinds.
+The tavern keeper yelled because Harvus was the only conscious member of the exchange left to yell at. Harvus endured the lecture, then set the drink aside without finishing it, no longer caring what was in it.
 
-## The Fate of Harvus G'ron
+Scourge lingered longer than he needed to, not out of courtesy but because he was enjoying the spectacle below. He let the fight run its course, watched the drug take hold, watched Harvus prove exactly how much trouble he would be. Only when the moment had given him everything he wanted did he turn his attention elsewhere, and in doing so, he gave Melina the same time he might have called a courtesy—though it had never truly been meant as one.
 
-Harvus G'ron had been working in Port Peril for some time. He came to the Formidably Maid to enjoy a drink after his work day.
+The work upstairs was quick. Rak was beaten senseless in the same bed he had just thrashed, bagged, and hauled out the back. Whatever pirate crew he had meant to choose, the Wormwood chose first.
 
-It was not long before a group of ruffians came over to bother "the hawk that can talk."
+Conchobhar’s taking was quieter, but not unrelated.
 
-They had a bone to pick with the Strix and would not be dissuaded from their course. They thought they could gang up on him.
+He had not needed much encouragement to make himself known. The Formidably Maid rewarded a quick tongue until it did not. A smaller figure could vanish in a crowd, but Conchobhar was not vanishing. He was seen. He was measured. He was marked as someone nimble enough for the rigging and foolish enough, or unlucky enough, to be in the right tavern on the wrong night.
 
-From nearby, **Master Scourge** grinned as he watched the conflict escalate.
+Tam noticed him early. Others confirmed the usefulness of the catch.
 
-He had put the men up to it.
+When the fight broke out, Conchobhar lingered near its edge, watching, weighing, perhaps thinking himself clever for staying just outside the worst of it. But noise draws attention, and attention draws danger. When he slipped away from the part of the room where Harvus had made himself the center of things, he stepped out of the chaos that hid him and into the quieter spaces where the Wormwood’s crew preferred to work.
 
-Scourge needed to gauge how many of his own people would be required to take the Strix down. Someone in town had tipped him off that Harvus might make a good crewman if his spirit could be broken — someone who had not taken kindly to the beatings the "hawk" had handed out in his years working in Port Peril.
+He left the loudest part of the room with the loose confidence of someone who thought he was following opportunity, not walking into it.
 
-It did not take much effort for Harvus to best the three men sent to goad him.
+The blow came out of the tavern’s main light, close enough that the noise still swallowed the sound.
 
-A table and two chairs were casualties of the exchange.
+He was not the night’s hardest prize. He was not the most dangerous. That made him easier.
 
-The manager of the Formidably Maid was not pleased.
+By the time the others were being dragged or carried toward the Wormwood, Conchobhar was already another small, unconscious body in the count.
 
-He gave the Strix, the only conscious member of the exchange, a piece of his mind. That lecture gave Scourge enough time to get his own people into position.
+By then, Scourge had already moved the next pieces into place.
 
-Quick orders put **Tam "Narwhal" Tate**, **Maheem**, and **Jaundiced Jape** outside to wait for Harvus as he left the inn. Scourge whispered the rest of his plan to **Aretta Bansion** while they continued watching Harvus from the corner where they had been orchestrating the collection of new crew.
+Tam, Maheem, and Jaundiced Jape went outside ahead of him. Aretta stayed close enough to Scourge to hear the plan. The Formidably Maid kept roaring behind them, full of drinking, laughing, and the last minutes of other people’s freedom.
 
-When the manager finally finished his lecture, Harvus finished his drink and left the inn.
+Harvus stepped out into the Port Peril night.
 
-Scourge was not far behind.
+The street was darker than it should have been.
 
-A block down the road, Harvus was confronted by the group Scourge had sent ahead. They had picked the darkest street corner in the area.
+More men waited.
 
-They still had a fight on their hands.
+Not the same fools from inside. These were placed better, ready for him, watching the angles. Harvus knew then that the tavern fight had not been the end of it. Maybe it had never been the real fight at all.
 
-Harvus had no intention of being taken by yet another set of brigands. The riled Strix looked ready to hand out another harsh beating.
+He stepped forward and the ground shifted under him again.
 
-That, too, was part of the plan.
+Not the street.
 
-The ambush held his attention.
+Him.
 
-The commotion gave Aretta her opening.
+His vision narrowed at the edges. His heartbeat felt too loud, too slow. His limbs answered him, but not quickly enough. The drug was settling in, dragging at him, turning strength into something heavy and delayed.
 
-She rushed in and struck Harvus across the head with a small club.
+He was ready to hurt them anyway.
 
-The "hawk" went down.
+Then Aretta came from behind.
 
-## Five Suckers for the Crew
+A club struck his head, and the street went out from under him.
 
-Scourge was pleased with the night's work.
+After that, the memory breaks.
 
-Five suckers for the crew.
+Pain came back before sight did. His body knew something had been done to it before his mind could name what. His wing was wrong. Not bruised. Not merely sore. Wrong in a way that turned every movement into proof that someone had touched the part of him that made him himself.
 
-The Wormwood would be setting sail under cover of night in about two hours. By then, the Formidably Maid would have broken furniture, missing patrons, and every reason to pretend that was simply the way of Port Peril.
+Scourge had waited until Harvus was down.
 
-Before Harvus was carried off, Scourge kicked the unconscious Strix hard in the stomach to see how unconscious he truly was.
+He kicked the Strix hard in the stomach to test how deeply unconscious he was. Then he knelt, found the left wing, and took it in both hands. The twist was deliberate. Not a battlefield accident. Not a tavern injury. A choice.
 
-Then he knelt beside Harvus' prone form.
+Scourge stood back to admire his work.
 
-Carefully, almost clinically, Scourge moved his hand down Harvus' back until he found the wing.
+Satisfied, he signaled the others.
 
-He grasped the left wing of the "hawk" in his hands and gave it a sickening twist.
+By the time the Wormwood prepared to slip away under cover of night, Scourge’s count was full.
 
-Then he stood back to admire his handiwork.
+Sho had been lured by a false contact and drugged.
 
-Satisfied that the injury would be enough to keep Harvus from becoming a major issue, Scourge signaled the others on.
+Mirei had followed the sea and been taken beside it.
 
-The new hands were whisked away to the Wormwood.
+Rak had found the kind of bed and company that Port Peril promised, only to be beaten in it and bagged for the hold.
 
-## The Morning After
+Conchobhar had vanished with less spectacle, marked useful and taken before he could become a problem.
 
-The first truth was pain.
+Harvus had cost them more work, more bodies, and more planning, and so Scourge had made the taking crueler.
 
-The second was motion.
+Crimson had walked a different road and joined by choice.
 
-The third was that the ship was already at sea.
+The others were carried, dragged, bagged, or broken aboard.
 
-They woke stripped of belongings, drugged, bruised, and trapped in the belly of a vessel that smelled of sweat, pitch, old rum, and old blood.
+And with little fanfare, the Wormwood slipped out of the port.
 
-Above them waited Captain Harrigan's ship.
+## What This Establishes
 
-The **Wormwood** did not ask whether they wished to serve.
+- Corrected date: **Erastus 4, 4712 AR**.
+- The Formidably Maid and nearby dockside streets are the main stage for the press-ganging.
+- The Wormwood crew are actively hunting bodies for the ship.
+- Sho is lured by Kipper in disguise, drugged, stripped, and taken to the Wormwood.
+- Mirei passes close enough to Sho's removal to see something she does not understand, then is followed by Syl, sapped near the water, searched, and carried/dragged toward the Wormwood with Tam helping get her aboard.
+- Rak is set up through Melina Drakesworn and collected by Patch and Shivikah after Scourge's signal.
+- Harvus is baited by Scourge's arranged tavern fight, drugged, ambushed by Tam/Maheem/Jape with Aretta's strike, and deliberately wing-injured by Scourge after he is down.
+- Conchobhar is press-ganged more quietly amid the night's work.
+- Crimson volunteers and is not press-ganged.
+- The Wormwood leaves Port Peril under cover of night.
 
-It had already decided.
+## Open Checks
 
-Harrigan was distant, almost mythic, the sort of captain too high above them to challenge and too dangerous to ignore.
-
-Mr. Plugg was nearer.
-
-Master Scourge was nearer still.
-
-And Scourge had already left his mark.
-
-## What Was Taken
-
-Sho lost her map and the clean line toward discovery.
-
-Mirei lost her harp and the quiet certainty of the sea's song.
-
-Rak lost the illusion that pirate legend would welcome him on his own terms.
-
-Conchobhar lost whatever stage he thought he had chosen for himself.
-
-Harvus lost the safety of his own body.
-
-None of them became friends that day.
-
-None of them became allies that day.
-
-They became new hands aboard the Wormwood.
-
-That was enough.
-
-## Revision Notes
-
-- This version replaces the earlier loose reconstruction with direct adaptation of GM-written Obsidian Portal prose for the four primary press-ganged PCs and an integrated Conchobhar capture beat.
-- Harvus' section remains the most direct paraphrase because the old prose is detailed and already dramatically complete.
-- Sho's section preserves Kipper's disguise and the Ghol-Gan map hook.
-- Mirei's section preserves the moonlit bay, Syl's tailing, the sap attack, and the theft before delivery to the Wormwood.
-- Rak's section preserves Melina Drakesworn's arrangement, Scourge's observation, and Patch/Shivikah collecting him.
-- Conchobhar's section is included by GM direction and drawn from the existing dossier: drinking with Wormwood crew, theatrical self-presentation, and failing to notice the cosh.
-- The opening year is set to 4712 AR to align the campaign with the published-era baseline for Skull & Shackles; Erastus 4 remains from the old GM prose.
+- Confirm whether Conchobhar's exact collector should remain unspecified or be assigned later.
+- Confirm whether Mirei's near-observation of Sho's removal should remain locked as written.
+- Confirm whether Harvus later learning Maheem's `tamed` wording should appear in a later Harvus/Scourge discovery rather than this Erastus 4 narrative.
+- Confirm whether an Erastus 4 Ship's Log should be created or whether this target remains narrative-only.
