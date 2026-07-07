@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log, Sho PCGen evidence, survivor-set confirmation, first-night quartermaster confirmation, and Erastus 29 interrupted Sho conversation
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Sho PCGen evidence, survivor-set confirmation, first-night quartermaster confirmation, Erastus 29 interrupted Sho conversation, and clarified later grindylow capture via Plugg's Tidal Cutlass
 - Scope: Man's Promise survivor, rescued captive, anti-Plugg witness
 
 ## Overview
@@ -12,7 +12,7 @@ Goyle Onórach is one of the six tracked Man's Promise survivors and a Man's Pro
 
 His survival matters because he is not only another rescued prisoner. He is a witness.
 
-He can testify to Plugg's dishonor, Plugg's use of the tidewater cutlass, and the plan to eliminate troublesome PCs.
+He can testify to Plugg's dishonor, Plugg's use of the Tidal Cutlass, and the plan to eliminate troublesome PCs.
 
 Sho's PCGen notes state that Goyle used to be quartermaster of the Man's Promise. A later first-night chat confirms Goyle identifying himself to Sho as the ship's quartermaster.
 
@@ -92,17 +92,30 @@ Goyle accepted:
 
 This preserves a second attempted Sho / Goyle contact and shows why it did not develop: hostile surveillance shut the conversation down.
 
-## Capture
+## Storm / Island Separation Context
 
-Goyle was captured after a later grindylow attack during the Bonewrack repair period.
+Goyle was **not** one of the two sailors taken during the Erastus 31 storm attack.
 
-He was grappling with a grindylow when Mr. Plugg used his tidewater cutlass to push both Goyle and the grindylow overboard.
+GM short-form chronology locks the Erastus 31 storm-abduction victims as:
+
+- Tilly Brackett
+- Sandara Quinn
+
+Goyle's capture happened later, during the island period while the PCs were away from the Man's Promise.
+
+## Later Capture
+
+During a subsequent grindylow attack on the Man's Promise, Goyle was fighting one of the boarders.
+
+Mr. Plugg used his **Tidal Cutlass** to wash Goyle and the boarder overboard.
 
 Goyle describes Plugg blasting them off the ship with the sword.
 
 He calls Plugg a cowardly bastard, no pirate captain, and a man without honor.
 
 This was framed or could be framed as battlefield confusion, but Goyle understands it as betrayal and dishonor.
+
+This means Harvus and Mirei later know about the Tidal Cutlass' ability through Goyle's account after the rescue.
 
 ## Riptide Cove
 
@@ -154,6 +167,8 @@ Goyle was present when Mirei confessed she had been tasked to kill the PCs and r
 
 His immediate assessment is that this makes her as good as dead if Plugg's faction remains in power.
 
+Mirei also hears or learns Goyle's account of Plugg using the Tidal Cutlass to wash him overboard.
+
 ### Sandara Quinn
 
 Goyle was rescued alongside Sandara.
@@ -172,7 +187,7 @@ Their relationship should be treated as meaningful, though exact nature remains 
 
 Goyle has direct cause to accuse Plugg of dishonorable or attempted murder.
 
-Plugg's use of the tidewater cutlass to push him overboard is a critical event.
+Plugg's use of the Tidal Cutlass to push him overboard is a critical event.
 
 ### Master Scourge
 
@@ -249,3 +264,4 @@ Goyle may support:
 - How does Goyle relate to Dahrehn, Ebony, Merchiel, and Nor'gal?
 - Did Sho and Goyle ever complete the conversation Jape interrupted?
 - Was Jape supervising Sho and Goyle, or simply near enough to make conversation unsafe?
+- Should older references to a tidewater cutlass be normalized to **Tidal Cutlass**?
