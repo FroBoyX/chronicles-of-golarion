@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak Foundry sheet evidence, and Erastus 16 reefclaw reward
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak Foundry sheet evidence, Erastus 16 reefclaw reward, and GM resolution of Rak's role in Giffer Tibbs' death
 - Scope: Book One continuity, current state, mechanics snapshot, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -185,9 +185,17 @@ Rak fought during the boarding of the Man's Promise.
 
 He displayed practical lethality but also created moral concern, especially for Sho, by killing or brutalizing enemies who may have been downed, pleading, or no longer immediate threats.
 
+GM resolution establishes that Giffer Tibbs was mechanically unconscious but stable after going down from arrow and melee injuries. Sho stabilized or otherwise solved Giffer's immediate dying condition, then left her to keep trying to restrain Rak and Harvus elsewhere in the battle.
+
+While moving through the fog, Rak intentionally stomped or trampled Giffer in an attempt to kill her. This destabilized her and ultimately caused her death. Giffer was the only Wormwood-side casualty in the capture of the Man's Promise.
+
+No character directly saw Rak stomp Giffer with intention. What others could observe was that Giffer had been notably trampled. Preserve this knowledge split: GM truth establishes Rak's culpability, but Sho and other characters do not automatically know it.
+
 This creates one of Rak's core tensions:
 
 > Useful pirate competence versus uncontrolled or excessive violence.
+
+It also locks Giffer's death as a major hidden violence point that may matter if exposed later.
 
 ## Bonewrack History
 
@@ -258,8 +266,6 @@ This establishes Rak as not simply obedient under Syl's threat.
 At Coconut Beach, Rak pointed out the coconut trees in a tour-guide voice.
 
 Syl ordered Fipps to stay there because the ship should be meeting them soon.
-
-Rak, Syl, Shivikah, and Jape pushed on.
 
 At the final cold-open beat, Rak hears something ahead.
 
@@ -373,6 +379,16 @@ She is also disturbed by his violence.
 This relationship may become one of the key tests of whether the PCs actually become a party.
 
 Rak knows Sho was beaten unconscious and removed after the beach confrontation, but not that she has made a life-for-life bargain with Kahina.
+
+After the Man's Promise battle, Sho does not trust Rak. Her distrust is justified by what she saw of his violence, even though she does not know the full GM truth of Giffer's death.
+
+If Sho later learns Rak intentionally stomped Giffer while Giffer was stable and helpless, the Sho player states it would become another reason Sho believes she may need to take Rak down in the future.
+
+### Giffer Tibbs
+
+GM truth establishes that Rak intentionally stomped or trampled Giffer while she was unconscious but stable, destabilizing her and causing her death.
+
+No character directly saw Rak's intent. This is hidden culpability unless later exposed by testimony, magic, confession, or reconstructed evidence.
 
 ### Harvus G'ron
 
@@ -518,15 +534,5 @@ For future 5e or system conversion, preserve:
 - Which items did Rak actually recover after Harrigan ordered Grok to return anything taken from him?
 - Does Rak know or care that his spear killed the Whale?
 - Is the +1 returning spear lost forever?
-- Does Rak want repayment, apology, story credit, or all three?
-- Does Rak still possess the Candle of Truth?
-- What do the Pages of Notes from the Bonewrack stronghold say?
-- Is the fiddle in Rak's inventory Rosie's fiddle?
-- Does Rak want to return to Grok?
-- Does Rak see himself as captain material, crew muscle, cook, pirate prince, or something else?
-- Can Sho trust Rak after the Man's Promise violence?
-- Does Rak consider the PCs his crew, temporary allies, or convenient companions?
-- How does Rak react to Harvus' rescue legend?
-- Does Rak's pirate lineage matter to the crew after the island?
-- How does Rak handle Syl if the fork reveals rescued witnesses?
-- Why is Maheem on Rak's kill-if-a-moment-arises list?
+- Does Rak ever acknowledge Giffer's death or his role in it?
+- Does any later testimony, magic, confession, or evidence expose Rak's intent toward Giffer?
