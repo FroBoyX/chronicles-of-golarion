@@ -27,10 +27,10 @@ Every major visual asset should have a row here once it is drafted, approved, re
 
 | Asset ID | Stream | Subject | Asset Type | Brief Path | Asset Path / Link | Anchor Asset | Status | Spoiler Scope | Revision Policy | Notes |
 |---|---|---|---|---|---|---|---|---|---|---|
-| sho-hotbox-portrait-v1 | Character Art | Sho Astor | Portrait | visual-briefs/characters/sho-astor.md |  |  | Planned | Player-safe if cropped/context-controlled | No remake without GM request | Suggested pilot. |
-| harvus-post-riptide-portrait-v1 | Character Art | Harvus G'ron | Portrait | visual-briefs/characters/harvus-gron.md |  |  | Planned | Player-safe after rescue reveal | No remake without GM request | Suggested pilot. |
-| wormwood-exterior-v1 | Location Art | Wormwood | Establishing shot | visual-briefs/locations/wormwood.md |  |  | Planned | Player-safe | No remake without GM request | Suggested pilot. |
-| mans-promise-deck-map-v1 | Battle Map | Man's Promise deck | Battle map | visual-briefs/maps/mans-promise-deck.md |  |  | Planned | GM-only until player-safe variant exists | No remake without GM request | Suggested pilot; use recovered map notes first. |
+| sho-hotbox-portrait-v1 | Character Art | Sho Astor | Portrait | visual-briefs/characters/sho-astor.md |  |  | Briefed | Player-safe if cropped/context-controlled | No remake without GM request | Suggested pilot; prompt drafted in visual brief. |
+| harvus-post-riptide-portrait-v1 | Character Art | Harvus G'ron | Portrait | visual-briefs/characters/harvus-gron.md |  |  | Briefed | Player-safe after rescue reveal | No remake without GM request | Suggested pilot; prompt drafted in visual brief. |
+| wormwood-exterior-v1 | Location Art | Wormwood | Establishing shot | visual-briefs/locations/wormwood.md |  |  | Briefed | Player-safe | No remake without GM request | Suggested pilot; prompt drafted in visual brief. |
+| mans-promise-deck-map-v1 | Battle Map | Man's Promise deck | Battle map | visual-briefs/maps/mans-promise-deck.md |  |  | Briefed | GM-only until player-safe variant exists | No remake without GM request | Suggested pilot; truth-first prompt drafted; use recovered map notes and preferably original screenshot before final map generation. |
 
 ## Use Rules
 
