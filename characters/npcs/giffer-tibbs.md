@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, updated with GM resolution of death mechanism, Sho investigation clarification, and burial/evidence status
+- Maturity: Draft, updated with GM resolution of death mechanism, Sho investigation clarification, burial/evidence status, and future exposure condition
 - Scope: Wormwood crew casualty, Mirei performance connection, Man's Promise battle death, Sho command-guilt thread, Rak culpability / character-knowledge split
 - Source basis: Recovered chat summaries, current Man's Promise battle reconstruction, Sho notes, recovered tactical map evidence, Sho player-memory evidence, and GM resolution in `evidence/gm-notes/giffer-tibbs-death-gm-resolution.md`
 
@@ -17,6 +17,8 @@ Giffer was the only Wormwood-side casualty in the capture of the Man's Promise.
 
 Afterward, Sho attempted to investigate Giffer's death but reached no actionable conclusion that would allow Sho to act on player knowledge. Giffer received a pirate burial during the revel, closing ordinary body-based investigation.
 
+No magical, supernatural, or truth-compelled exposure of Rak's action has happened yet. It remains possible while the party has access to or possession of the Man's Promise, or through future magic/truth elements that compel or elicit Rak's admission.
+
 ## Identity
 
 - Name: Giffer Tibbs
@@ -27,7 +29,7 @@ Afterward, Sho attempted to investigate Giffer's death but reached no actionable
 - Death location evidence: Below the port-side stairs on the Man's Promise tactical map
 - Death mechanism: Destabilized by Rak intentionally stomping / trampling her while she was unconscious but stable; died from that destabilization after prior arrow and melee injuries
 - Witness status: No one directly saw Rak stomp her with intention; the observable evidence was that Giffer was notably trampled
-- Body / evidence status: Given a pirate burial during the revel; remaining proof route is magic or equivalent supernatural reconstruction of what occurred on the Man's Promise
+- Body / evidence status: Given a pirate burial during the revel; remaining proof routes are magic or equivalent supernatural reconstruction of what occurred on the Man's Promise, or magic/truth effects that make Rak admit what happened
 
 ## Campaign Role
 
@@ -59,7 +61,7 @@ While moving through the fog, Rak intentionally stomped or trampled Giffer while
 
 The recovered tactical map confirms her death location during the Man's Promise fight: below the stairs on the port side.
 
-### Investigation and Burial
+### Investigation, Burial, and Future Exposure
 
 Sho attempted to investigate Giffer's death after the battle, but came to no actionable conclusion that would allow her to act on player knowledge of Rak's culpability.
 
@@ -67,7 +69,9 @@ Rak has not admitted to killing Giffer.
 
 Giffer was given a pirate burial during the revel. Because the body is gone, ordinary physical investigation is no longer a viable proof route.
 
-At this point, the remaining route to prove Rak's intent is magic or equivalent supernatural evidence that shows what occurred on the Man's Promise.
+At this point, the remaining routes to prove Rak's intent are magic or equivalent supernatural evidence that shows what occurred on the Man's Promise, or magic/truth elements that make Rak admit what happened.
+
+No such exposure has happened yet. It remains possible while the party has access to or possession of the Man's Promise.
 
 ### Death / Foul Play Resolution
 
@@ -124,4 +128,4 @@ For Rak specifically, Giffer's death is now a locked example of intentional hidd
 
 - Was anyone besides Sho aware that she attempted to investigate Giffer's death?
 - Did Mirei know Giffer had died before or after Giffer's pirate burial?
-- Does any later magic, testimony, confession, or equivalent evidence expose Rak's intent?
+- Does any later magic, testimony, confession, truth effect, or equivalent evidence expose Rak's intent?
