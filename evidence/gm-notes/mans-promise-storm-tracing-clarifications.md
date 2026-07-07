@@ -19,14 +19,16 @@
 - The Plugg / Syl report thread does come up post-storm in the logs. Do not treat it as permanently unresolved; trace the post-storm material.
 - Syl's knife wound on Mirei is a Mirei player question because the game glossed over it. Mirei's player will need a narrative version of the exchange before deciding how visible, painful, treated, or emotionally meaningful the wound was.
 - Mirei likely did not eat Plugg's waiting third plate if the opportunity would have had to happen before the storm.
-- The second sailor with Tam when Mirei approached "you two" was probably Jake / Jack, but this should remain probable until direct log text confirms the addressee.
+- The second sailor with Tam when Mirei approached "you two" is now GM-confirmed as **Jack Scrimshaw**.
+- The GM has the next logs ready, and the current tracing point is immediately before the storm sequence.
+- Mirei's player will be asked about the wound after receiving the narrative version of the exchange.
 
 ## Reconstruction Rules
 
 - Keep current physical positions unresolved until storm and island logs are traced.
 - Prefer log tracing before sending player questions for storm actions.
 - Use player questions only where log tracing fails or where emotional interpretation is needed.
-- Mark Jake / Jack as probable, not locked, until confirmed in source text.
+- Treat Jack Scrimshaw as locked as the second sailor in Tam's Erastus 30 below-decks exchange.
 - Do not invent the consequence of Syl's knife wound. Present Mirei's player with the exchange and ask how it registered for her.
 
 ## Follow-Up Targets
@@ -44,5 +46,4 @@
 - Which log files contain the post-storm Plugg / Syl report follow-up?
 - Does the storm log resolve Harvus' actions before the abductions became clear?
 - Does the storm or post-storm log resolve whether Sho was used for Sandara's backup idea?
-- Does direct text confirm Jake / Jack as Tam's second nearby sailor?
 - Does Mirei's player want Syl's knife wound to matter physically, emotionally, both, or not much because the table glossed over it?
