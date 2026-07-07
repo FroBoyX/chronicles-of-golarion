@@ -27,9 +27,9 @@ It is intended to answer:
 
 - System of origin: Pathfinder
 - Future system: D&D 5e, exact edition or hybrid undecided
-- Campaign year: 4691 AR
+- Campaign year: 4712 AR
 - Relaunch model: cold open or brief recap directly into the paused Book 1 finale sequence
-- Current continuity endpoint: Arodus 5, 4691 AR, split between Bonewrack Isle and the Man's Promise
+- Current continuity endpoint: Arodus 5, 4712 AR, split between Bonewrack Isle and the Man's Promise
 
 ## Canon Authority
 
