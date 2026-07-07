@@ -58,6 +58,34 @@ When the user provides a scene chunk:
 4. Add open checks for anything unresolved.
 5. Report created/updated paths and commits.
 
+## Narrative Output Workflow Pass-Off
+
+The Narrative Output / Reconstruction workflow now has a dedicated method file:
+
+- `design/narrative-output-method.md`
+
+Chronicle Master should treat that file as the current control document for polished narrative output.
+
+Key adopted workflow:
+
+- Narrative output can produce three sibling forms for the same day/event:
+  1. **Ship's Log** — terse in-world ship record.
+  2. **Narrative Write-Up** — clear paraphrased chronicle prose.
+  3. **Narrative Chat Scene** — longer immersive reconstruction using recovered direct quotes where available.
+- Before drafting any sibling output, the Narrative Output chat must create or identify a shared source spine.
+- The sibling outputs derive from the source spine, not from each other.
+- Dedicated source spines live under `source-spines/` when an existing chronology/day/event file does not already contain the required source-spine fields.
+- Source spines track source index, timeline beats, quote ledger, character knowledge boundaries, locked facts, open checks, and sibling-output alignment.
+- AP scaffold and GM-provided campaign encounter data may be used for encounter structure, environmental context, hazards, travel pressure, enemy placement, and connective tissue, but cannot overwrite recovered table evidence or GM-locked outcomes.
+- Narrative time skips, scene jumps, and context bridges are allowed to avoid unnecessary backfill, but cannot hide unresolved canon problems or invent exact dialogue.
+- Dialogue expansion / in-character embellishment is opt-in only. It should be opened only when the GM explicitly requests it, and candidate dialogue must not be presented as recovered chat or canon unless approved.
+
+Chronicle Master routing note:
+
+- Use Narrative Output / Reconstruction for player-facing or readable prose once evidence is already preserved.
+- Use evidence-intake chats first when the source material has not yet been preserved.
+- Use Chronicle Master only for priority, canon, scope, routing, and final sign-off decisions.
+
 ## Language Rules
 
 - Do not write early Wormwood as a normal adventuring party. Use **new hands**, **press-ganged crew**, **crew**, or character names.
@@ -77,7 +105,7 @@ Use these handoffs to start focused chats:
 | Man's Promise / Bonewrack Evidence Intake | `handoffs/mans-promise-bonewrack-handoff.md` | Boarding, prize crew, Bonewrack, current fork, hot-box, mutiny setup. |
 | PC Dossiers / Player Packets | `handoffs/pc-dossiers-player-packets-handoff.md` | PC facts, player-safe questions, cold-open packets. |
 | NPC & Crew State Audit | `handoffs/npc-crew-state-handoff.md` | NPC dossiers, locations, survivor lists, loyalty, who can sail. |
-| Narrative Reconstruction | `handoffs/narrative-reconstruction-handoff.md` | Polished chapters after evidence has been preserved. |
+| Narrative Reconstruction | `handoffs/narrative-reconstruction-handoff.md` | Polished chapters and aligned Ship's Log / Write-Up / Chat Scene outputs after evidence has been preserved. |
 
 ## Tracking Files
 
@@ -137,6 +165,8 @@ Read these when beginning a major new chat:
 
 - `CANON.md`
 - `design/chronicle-method.md`
+- `design/narrative-output-method.md`
+- `source-spines/README.md`
 - `chronology/current-state.md`
 - `chronology/arodus-5-split-scenes.md`
 - `chronology/open-threads.md`
@@ -154,5 +184,5 @@ Read these when beginning a major new chat:
 Use this to start a new master/router chat:
 
 ```text
-You are the Chronicle Master / Router for FroBoyX/chronicles-of-golarion. Read `handoffs/chronicle-master-handoff.md`, `tracking/current-task-board.md`, `tracking/chat-map.md`, and `tracking/open-questions.md`. Keep this chat focused on priorities, canon decisions, and routing. Do not ingest large raw evidence here unless asked.
+You are the Chronicle Master / Router for FroBoyX/chronicles-of-golarion. Read `handoffs/chronicle-master-handoff.md`, `tracking/current-task-board.md`, `tracking/chat-map.md`, `tracking/open-questions.md`, and `design/narrative-output-method.md`. Keep this chat focused on priorities, canon decisions, scope, and routing. Do not ingest large raw evidence here unless asked.
 ```
