@@ -36,6 +36,7 @@ PF2e conversion status does not change campaign canon. It only tracks possible o
 | mans-promise-deck-fight | Encounter | Man's Promise deck fight | `chronicles/battle-of-the-mans-promise.md`; map notes; evidence files | `conversions/pf2e/encounters/mans-promise-deck-fight.md` | Not started | GM | Use only if replay/reference conversion is needed. |
 | riptide-cove-cauldron | Encounter | Riptide Cove / Cauldron | Rescue evidence and Bonewrack files | `conversions/pf2e/encounters/riptide-cove-cauldron.md` | Not started | GM | Defer until rescue facts are stable. |
 | current-ship-state | Ship / subsystem | Man's Promise and Wormwood state | `state/current-ship-state.md`; Book 1 ship docs | `conversions/pf2e/ships/current-ship-state.md` | Not started | GM | Decide whether full ship subsystem is needed. |
+| facing-variant-subsystem | Campaign subsystem | Tactical facing / active arc / rear-arc off-guard | GM homebrew rule; PF2e off-guard, flanking, reach, and Reactive Strike rules | `conversions/pf2e/subsystems/facing-variant.md` | Draft audit | GM | Preserves GM's non-omnidirectional threat preference for PF2e pilot testing; not approved relaunch mechanics yet. |
 
 ## Notes
 
@@ -43,3 +44,4 @@ PF2e conversion status does not change campaign canon. It only tracks possible o
 - Do not convert PF1 numbers directly.
 - Do not let PF2e conversion imply that historical PF1 outcomes should change.
 - Conversion can be adopted, deferred, or rejected after pilot testing.
+- Tactical facing is a draft homebrew subsystem candidate. It should be tested in a contained PF2e pilot before campaign-wide adoption.
