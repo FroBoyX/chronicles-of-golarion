@@ -16,7 +16,7 @@ This is not a full open-question index. Use `tracking/open-questions.md` for unr
 
 | Priority | Workstream | Chat Split | Status | Notes |
 |---:|---|---|---|---|
-| 1 | Stabilize chat split / handoffs | Chronicle Master | Active | Initial handoff files created under `handoffs/` and `tracking/`. |
+| 1 | Stabilize chat split / handoffs | Chronicle Master | Active | Handoff files and tracking files exist; visual output lane added. |
 | 2 | Continue evidence intake from user-provided logs | Relevant evidence chat | Ongoing | Preserve raw logs first, then integrate. |
 | 3 | Current cold-open state | Man's Promise / Bonewrack + NPC audit | Ongoing | Keep locations, loyalties, and survivor positions current. |
 | 4 | Player-safe cold-open packets | PC Dossiers / Player Packets | Pending | Likely needed for Harvus, Rak, Sho, Mirei. |
@@ -26,6 +26,7 @@ This is not a full open-question index. Use `tracking/open-questions.md` for unr
 | 8 | Mirei / Plugg manipulation thread | Man's Promise + PC Dossiers | Ongoing | Keep wording careful and evidence-bound. |
 | 9 | Rak / Grok relationship and galley loop | Wormwood + PC Dossiers | Ongoing | First recovered friendship beat is Day 2 brew, not necessarily first contact. |
 | 10 | Narrative chapter polish | Narrative Reconstruction | Deferred | Do after evidence is stable. |
+| 11 | Visual output pipeline | Visual Output / Art Direction | Scaffolded | Method, style seed, handoff, brief folders, art folder, and image index created. Start with briefs before generating art. |
 
 ## Recently Completed / Established
 
@@ -37,6 +38,7 @@ This is not a full open-question index. Use `tracking/open-questions.md` for unr
 - Mirei Day 2 first recovered performance integrated.
 - Rak/Grok galley and alcohol bonding loop strengthened.
 - Harvus/Rosie fiddle and post-Rosie rage evidence preserved and integrated.
+- Visual Output / Art Direction lane scaffolded with `design/visual-output-method.md`, `design/visual-style-guide.md`, `handoffs/visual-output-handoff.md`, `visual-briefs/`, `art/`, and `tracking/image-output-index.md`.
 
 ## Next Good Tasks
 
@@ -64,6 +66,14 @@ Create or verify concise dossiers for all six named survivors and ensure `state/
 ### Good task for Narrative Reconstruction
 
 After current fork facts stabilize, write a readable `chronicles/the-mutiny-choice.md` draft only if the GM wants a narrative prep document.
+
+### Good task for Visual Output / Art Direction
+
+Create the first visual brief before generating art. Recommended pilots:
+
+- Character: Sho hot-box portrait, Harvus post-Riptide rescue portrait, Sandara crew portrait, or Kahina survivor portrait.
+- Location: Wormwood exterior, Man's Promise occupied deck, Bonewrack jungle approach, or Riptide Cove / Cauldron mood image.
+- Battle map: Man's Promise deck map or Riptide Cove / Cauldron map.
 
 ## Parking Lot
 
