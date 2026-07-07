@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player memory evidence
-- Maturity: Raw answer batch with conservative extraction; updated with later GM resolution note
+- Maturity: Raw answer batch with conservative extraction; updated with later GM resolution and investigation / burial clarification
 - Source: Sho player answer relayed during character discovery / archive reconstruction
 - Scope: Giffer Tibbs, Man's Promise assault, Sho command guilt, Rak player/character knowledge split
 - Canon status: Player memory / Sho-character truth, with later GM resolution promoted separately in `evidence/gm-notes/giffer-tibbs-death-gm-resolution.md`
@@ -18,6 +18,7 @@ Important split:
 - Later GM resolution confirms Rak intentionally stomped / trampled Giffer while she was unconscious but stable, destabilizing her and causing her death.
 - Sho the character did **not** have evidence proving Rak's role.
 - Sho knew Giffer had been stabilized the last time Sho saw her, then later found or learned that Giffer had died without an obvious cause.
+- Sho attempted to investigate, but reached no actionable conclusion that would let her act on player knowledge.
 
 ## Later GM Resolution
 
@@ -31,6 +32,17 @@ GM resolution after this player-answer batch establishes:
 - No character directly saw Rak stomp Giffer with intention; what could be noticed was that Giffer was notably trampled.
 
 This confirms the player-memory suspicion at the GM-truth level while preserving that Sho did not know the proof in character.
+
+## Later GM Clarification — Investigation / Burial
+
+GM clarification further establishes:
+
+- Sho attempted to investigate Giffer's death.
+- Sho reached no actionable conclusion that would allow her to act on player knowledge of Rak's culpability.
+- Rak has not admitted to killing Giffer.
+- Giffer was given a pirate burial during the revel.
+- Because the body is gone, ordinary body-based investigation is closed.
+- The remaining proof route is magic or equivalent supernatural evidence showing what occurred on the Man's Promise, or a later confession.
 
 ## Raw Player Answers
 
@@ -82,25 +94,27 @@ This confirms the player-memory suspicion at the GM-truth level while preserving
 - Rak intentionally stomped / trampled stable, unconscious Giffer in the fog, destabilizing her and causing her death.
 - Sho's stabilization of Giffer is confirmed by GM resolution.
 - No character directly saw Rak's intent.
+- Sho investigated but found no actionable proof.
+- Rak has not admitted to killing Giffer.
+- Giffer was given a pirate burial during the revel.
 
 ### Sho-character truth
 
 - Sho did not know Rak killed Giffer.
 - Sho knew only that Giffer had been stable when last seen and dead later.
 - Sho suspected foul play, but did not have proof or a specific culprit.
+- Sho attempted to investigate, but reached no actionable conclusion.
 - Sho's guilt around Giffer is tied to command responsibility, attempted stabilization, lack of justice, and uncertainty.
 
 ### Remaining GM / reconstruction needs
 
-- Who noticed Giffer was notably trampled.
-- Whether Sho personally saw the trampled condition or learned of it secondhand.
-- Whether any later testimony, magic, confession, or evidence exposes Rak's role in character.
+- Whether any later magic, supernatural reconstruction, testimony, confession, or equivalent evidence exposes Rak's role in character.
 
 ## File Update Targets
 
 - `characters/pcs/sho-astor.md` — update Giffer / foul-play and Rak relationship notes with the stable-last-seen / no-proof distinction and later GM resolution.
-- `characters/npcs/giffer-tibbs.md` — updated with Sho's view of Giffer as victim, stabilization, death mechanism, and Rak knowledge split.
-- `chronicles/battle-of-the-mans-promise.md` — updated with GM-resolved Giffer death mechanism.
-- `characters/pcs/rak-wraithraiser.md` — updated with GM truth of Rak's action and hidden culpability.
-- `tracking/open-questions.md` — updated to move death mechanism into resolved questions and retain only exposure / notice questions.
+- `characters/npcs/giffer-tibbs.md` — updated with Sho's view of Giffer as victim, stabilization, death mechanism, Rak knowledge split, investigation, and burial/evidence status.
+- `chronicles/battle-of-the-mans-promise.md` — updated with GM-resolved Giffer death mechanism, Sho's inconclusive investigation, and pirate burial.
+- `characters/pcs/rak-wraithraiser.md` — updated with GM truth of Rak's action and hidden culpability; still needs minor cleanup to mark non-admission as resolved if desired.
+- `tracking/open-questions.md` — updated to move death mechanism, Sho investigation, Rak non-admission, and burial into resolved questions.
 - `questions/sho-player-narrative-beats-iterated.md` — mark the Giffer batch answered if maintaining answered-question status later.
