@@ -42,6 +42,7 @@ You are the PC Dossiers / Player Packets archivist for FroBoyX/chronicles-of-gol
 
 ### Player / Sheet Evidence
 
+- `evidence/player-memory/harvus-player-memory-recall.md`
 - `evidence/player-memory/sho-astor-player-memory-recall.md`
 - `evidence/player-notes/harvus-light-timeline.md`
 - `evidence/player-sheets/rak-wraithraiser-pcgen-pdf.md`
