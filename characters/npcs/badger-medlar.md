@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Mirei performance scene, Harvus light timeline, Rak player-sheet evidence, and Erastus 16 reef task
+- Maturity: Draft, expanded with Mirei performance scene, Harvus light timeline, Rak player-sheet evidence, Erastus 16 reef task, and low-confidence Erastus 29 dinner fragment
 - Scope: Lower-crew NPC, placement unresolved after Wormwood, possible social ally
 
 ## Overview
@@ -18,6 +18,8 @@ Harvus' light timeline records that he socialized with Badger aboard the new boa
 
 Rak's player sheet lists Badger as a helpful NPC.
 
+A low-confidence Erastus 29 dinner fragment places Badger in conversation with Harvus and Sandara, questioning whether Sandara actually trusts Harvus.
+
 ## Identity
 
 - Name: Badger Medlar
@@ -27,7 +29,7 @@ Rak's player sheet lists Badger as a helpful NPC.
 - Current location: Unresolved — Man's Promise or Wormwood after the crew split
 - Current status: Presumed alive
 - Known Mirei interaction: Complimented Mirei's early Wormwood performances
-- Known Harvus interaction: Socialized with him aboard the Man's Promise; warmed somewhat by his note
+- Known Harvus interaction: Socialized with him aboard the Man's Promise; warmed somewhat by his note; skeptical dinner fragment with Sandara
 - Known Rak evidence: Listed as helpful in Rak's Foundry sheet notes
 - Known AP task evidence: Added by Plugg to the Erastus 16 crab reef task group
 
@@ -75,6 +77,24 @@ Harvus' light timeline records that after transfer to the new boat, he socialize
 
 This is not by itself a confirmed friendly/helpful state, but it is evidence that Badger warmed socially to Harvus.
 
+### Erastus 29 Dinner Fragment
+
+A low-confidence dinner fragment appears to place Badger in conversation with Sandara and Harvus around Erastus 29.
+
+Sandara says:
+
+> "See, he isn't so bad once you get to know him."
+
+Badger replies:
+
+> "I guess. You actually trust him, he doesn't seem worth the trouble."
+
+Harvus jokingly says Sandara speaks the truth, and Sandara clarifies that she means Harvus:
+
+> "Harvus, of course. Sure, he just acts the pirate part. After the fight yesterday he wouldn't leave my side."
+
+This shows Badger as skeptical of Harvus, but engaged enough in the conversation to question Sandara rather than simply reject him. Sandara's defense of Harvus may have contributed to Badger warming toward him, but that remains unconfirmed.
+
 ### Rak Sheet Evidence
 
 Rak's Foundry notes list Badger under Helpful NPCs.
@@ -107,7 +127,15 @@ Badger socialized with Harvus aboard the Man's Promise and may have warmed to hi
 
 Harvus and Badger were both assigned to the Erastus 16 reef task.
 
+The low-confidence dinner fragment shows Badger asking Sandara whether she actually trusts Harvus and saying he does not seem worth the trouble. Sandara defended him by saying he only acts the pirate part and would not leave her side after the previous day's fight.
+
 This could matter if she is aboard when Harvus returns with rescued captives.
+
+### Sandara Quinn
+
+Badger asked Sandara whether she trusted Harvus in the low-confidence dinner fragment.
+
+This suggests Badger saw Sandara as someone whose judgment about Harvus mattered.
 
 ### Rak Wraithraiser / Wraithriser
 
@@ -152,6 +180,8 @@ Rak's helpful listing may make her one of the most important attitude confirmati
 
 Mirei's performance may matter if Badger is a lower-crew witness to Mirei being more than Plugg's later tool.
 
+The dinner fragment can help explain a shift from skepticism toward Harvus to possible warmth, if confirmed in placement.
+
 ## Open Questions
 
 - Is Badger aboard the Man's Promise or the Wormwood?
@@ -161,6 +191,9 @@ Mirei's performance may matter if Badger is a lower-crew witness to Mirei being 
 - What is her exact attitude toward Mirei after the Day 2 performance?
 - What is her exact attitude toward Harvus?
 - What is her exact attitude toward Rak?
+- Does the Erastus 29 dinner fragment belong to Erastus 29?
+- What fight was Sandara referring to as "the fight yesterday"?
+- Did Sandara's defense of Harvus affect Badger's trust or attitude?
 - Did she witness Mirei's treatment by Plugg?
 - Does she know Sandara survived?
 - Would she fight, hide, abstain, or shift sides in a mutiny?
