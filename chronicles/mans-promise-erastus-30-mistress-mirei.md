@@ -4,9 +4,9 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Source basis: Direct chat logs with GM scene framing
+- Source basis: Direct chat logs with GM scene framing and GM clarifications
 - Date candidates: Erastus 29 night and Erastus 30
-- Spoiler scope: Player-safe / character-limited for Plugg-Mirei coercion and Sandara's infiltration plan
+- Spoiler scope: Player-safe / character-limited for Plugg-Mirei coercion, Sandara's infiltration plan, and Syl's threat
 - Canon status: Becomes canon after GM/player sign-off and final date confirmation
 
 ## Narrative Log
@@ -17,7 +17,7 @@ He called Harvus first.
 
 > "Bird man."
 
-Harvus answered, and Fipps sent him to the mainsail with "the dark one." Then Fipps turned to Sho.
+Harvus answered, and Fipps sent him to the mainsail with "the dark one" — a shot at Ebony Saable. Then Fipps turned to Sho.
 
 > "Monkey.... repairs."
 
@@ -29,7 +29,7 @@ While they worked, Sho tried to reach across the silence toward Goyle.
 
 > "So.... Goyle was it?"
 
-Goyle answered, but Jaundiced Jape glared over silently. That was enough to end the moment.
+Goyle answered, but Jaundiced Jape was in the rigging with them and glared over silently. That was enough to end the moment.
 
 Sho looked toward Jape, sighed, and let the conversation drop.
 
@@ -197,6 +197,8 @@ Then he made it personal.
 
 > "I personally put you on the Wormwood 'Mistress'... with all 'due' respect, don't make promises you can't keep."
 
+Tam did not mean that he rendered Mirei unconscious. He meant he physically deposited her unconscious body on the Wormwood after she was taken.
+
 Tam told her she could report him to Plugg if she wanted. It would only prove cowardice and inability. He had worked on the Wormwood for years; she was a green swab, or shark bait.
 
 > "Quit while you're ahead."
@@ -213,10 +215,81 @@ Mirei did not take Tam's bait.
 
 Then she left.
 
+Mirei kept that promise. She did not report the exchange to Plugg.
+
+That did not keep the exchange hidden.
+
+As Mirei made her way upward, Tam called after her from below:
+
+> "As long as we are being frank. Good evening mistress."
+
+On deck, Fipps called the night shift into the rigging. The wind was picking up.
+
+> "The winds picking up... I'll need you all in the rigging."
+
+On the stairs, Slippery Syl Lonegan stopped Mirei.
+
+> "Wait..."
+
+A knife poked into Mirei's back.
+
+Syl whispered spitefully that she did not know what Mirei had said to Plugg, but Mirei did not look or sound like a pirate mistress. Then she threatened the one thing that made Mirei useful.
+
+> "I wonder what you'd sound like if I cut your vocal folds out... you would probably whimper about the same."
+
+Plugg had told Syl to see how Mirei handled herself. From Syl's vantage, Mirei had not.
+
+Syl also noticed the whispers with Sho.
+
+> "...and what buisness did you have with the monk... whispers... Scourge is going to have a field day with you."
+
+Mirei answered that the captain told her to talk to the crew and see how things were going. That was all the business she had with Sho. She had spoken to more than Sho.
+
+Syl corrected the task.
+
+> "The Captain told you to find out 'where' people stand... and he told me to find observe you."
+
+Syl was not impressed.
+
+Mirei held the line: she had done nothing but what Plugg asked.
+
+Syl threatened that tonight would likely be Mirei's last.
+
+> "I don't know your game but tonight will be the last of it."
+
+Mirei said there was no game.
+
+Syl spat and dug the knife in until it drew blood.
+
+Mirei pushed back.
+
+> "If I was lying then why would the captain be trusting me with what he has so far. Back off, I have other matters to attend to."
+
+Syl stepped back and reassessed her.
+
+> "Watchs that, the Captains bitch actually has some fire..."
+
+There was, Syl said, a spark of life behind the farce. In the cabin, Mirei had been civil, docile, and without a tongue to match her voice. Now she was trying to bark.
+
+Syl answered with her own creed.
+
+> "I don't bark with words, I bark wih knives... and I don't fetch bones, I MAKE them."
+
+Then she moved past Mirei on the stairs.
+
+> "Me and Scourge will see you in the morning."
+
+She spat again.
+
+> "Mistress...."
+
+Mirei had refused to snitch. Syl had done the observing for Plugg anyway.
+
 ## What This Establishes
 
-- Erastus 29 nightshift: Fipps assigns Harvus to the mainsail with "the dark one" and Sho to repairs.
-- Sho tries to talk to Goyle during work, but Jaundiced Jape's silent glare makes her stop.
+- Erastus 29 nightshift: Fipps assigns Harvus to the mainsail with Ebony Saable and Sho to repairs.
+- Fipps' "the dark one" was a shot at Ebony.
+- Sho tries to talk to Goyle during work, but Jaundiced Jape is in the rigging with them and silently shuts the conversation down.
 - Goyle accepts postponing the conversation.
 - Erastus 30 morning: Sandara asks Harvus whether he noticed anything, tells him to keep watching, and promises to keep him posted.
 - Mirei chooses **Mistress Mirei** as the name Plugg demanded.
@@ -236,16 +309,24 @@ Then she left.
 - Tam frames Mirei as out of place, too green, and lacking pirate character.
 - Tam tells Mirei to go back to her gilded cage.
 - Tam says he personally put Mirei on the Wormwood and warns her not to make promises she cannot keep.
+- Tam physically deposited unconscious Mirei on the Wormwood, but was not the one who rendered her unconscious.
 - Mirei refuses to report Tam to Plugg and says she does not plan on being a snitch.
+- Mirei does not report the exchange to Plugg; Syl does.
+- Syl was assigned by Plugg to observe how Mirei handled herself.
+- Syl threatens Mirei with a knife, specifically threatening to cut out her vocal folds.
+- Syl suspects Mirei's whispers with Sho and says Scourge will have a field day with her.
+- Syl digs the knife in enough to draw blood.
+- Mirei pushes back, and Syl recognizes "some fire" behind the Mistress farce.
+- Syl says she and Scourge will see Mirei in the morning.
 
 ## Open Checks
 
-- Is "the dark one" Ebony Saable?
-- Was Jaundiced Jape supervising Sho and Goyle, or simply close enough to intimidate conversation?
 - What repairs were Sho and Goyle performing?
 - Did Harvus attempt the infiltration, and if so, what happened?
 - Did Mirei eventually eat the waiting third plate?
 - Who was the second person Tam was with?
 - Does Jack Scrimshaw's "Yes?" belong to this same below-decks exchange or a displaced fragment?
-- Did Tam's claim that he personally put Mirei on the Wormwood mean he was directly involved in her press-ganging?
-- Did Mirei report anything to Plugg after this crew-gauging attempt?
+- Did Sandara's "use Sho the rough way" thought remain between Sandara and Harvus, or was it ever raised with Sho?
+- What did Plugg do with Syl's report?
+- Did Syl's knife wound leave visible evidence or require treatment?
+- Did Mirei tell anyone about Syl threatening her?
