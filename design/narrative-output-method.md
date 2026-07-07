@@ -135,6 +135,14 @@ Rules:
 
 Purpose: a terse, in-world record of ship movement, command decisions, weather, discipline, watches, encounters, casualties, and major crew state.
 
+Voice / hand:
+
+- Ship's Logs are **end-of-day official shipboard duty-log entries** compiled from watch/officer reports.
+- They are **not** Captain Harrigan's personal diary and not a real-time deck-watch transcript.
+- The default hand is an unnamed shipboard log-keeper / duty officer writing under the authority of the ship's command structure.
+- On the Wormwood, this means the log reflects the administrative hand of the ship under Harrigan's command and, for daily crew discipline and assignments, under Mr. Plugg's practical authority.
+- Use `ship-logs/README.md` as the style authority for ship-log voice.
+
 Rules:
 
 - Use the source spine's locked and high-confidence facts.
@@ -142,6 +150,7 @@ Rules:
 - Avoid interiority unless the log-writer would plausibly record it.
 - Do not reveal hidden PC knowledge.
 - Do not include uncertain reconstruction unless marked as rumor, report, or unresolved.
+- Remember that the Ship's Log is an in-world official record, not omniscient truth; it may euphemize or flatten events from the command perspective.
 
 ### Narrative Write-Up
 
