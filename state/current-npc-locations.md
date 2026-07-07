@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Draft, corrected with Erastus 27 ship-split model and Arodus 5 Man's Promise / Bonewrack actor pool
+- Maturity: Draft, corrected with Erastus 27 ship-split model, Badger / Jack aboard Man's Promise, Maheem / Kipper / Patch believed Wormwood-side, and Arodus 5 Man's Promise / Bonewrack actor pool
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 
 ## Purpose
@@ -12,7 +12,7 @@ This file tracks where important PCs and NPCs are at the relaunch point.
 
 It should be updated when player confirmation or newly ingested chat evidence resolves open reconstruction issues.
 
-Use `state/mans-promise-crew-viability-reference.md` for the corrected Erastus 27 split model, the Man's Promise skeleton-crew roster audit frame, and the current ship-crew viability reference.
+Use `state/mans-promise-crew-viability-reference.md` and `state/wormwood-original-crew-ledger.md` for the corrected Erastus 27 split model, the Man's Promise skeleton-crew roster audit frame, and the current ship-crew viability reference.
 
 ## Date
 
@@ -34,6 +34,12 @@ Of those fourteen:
 
 - Six named survivors were assigned to Plugg's Man's Promise skeleton crew: Dahrehn Numus, Ebony Saable, Goyle Onórach, Kahina Bukekayo, Merchiel V'giatore, and Nor'gal Daraa.
 - The other eight surviving captured Man's Promise crew went with the Wormwood. Their names and later Wormwood-side fates remain unresolved, but they are not Arodus 5 Man's Promise / Bonewrack actors.
+
+Current Wormwood-origin split corrections:
+
+- Badger Medlar and Jack Scrimshaw are aboard the Man's Promise.
+- Maheem, Kipper, and Patch Patchsalt are believed Wormwood-side.
+- Conchobhar Turlach Shortstone remains unresolved.
 
 ## Bonewrack Isle — Returning From Riptide Cove
 
@@ -97,12 +103,9 @@ The six named skeleton-crew survivors are fixed as:
 | Ratline Rattsberger | NPC, presumed alive | Post-Erastus 27 Man's Promise-side evidence locked; Harvus influenced him; Sho wanted to discuss something with him. Exact Arodus 5 position unresolved. |
 | Barefoot Samms Toppin | NPC, presumed alive | Strong Man's Promise course-change warning evidence; Harvus-friendly; placement treated as likely Man's Promise pending raw-source reconciliation. |
 | Tam "Narwhal" Tate | NPC, presumed alive | Post-Erastus 27 Man's Promise-side evidence locked; challenged Mirei's authority. Exact Arodus 5 position unresolved. |
-| Badger Medlar | NPC, unresolved / likely Man's Promise | Low-placement dinner fragment suggests Man's Promise-side social context; Rak sheet lists helpful; exact placement still needs confirmation. |
-| Jack Scrimshaw | NPC, unresolved | Possible post-Erastus 27 fragment, but displaced-fragment risk remains; do not lock without stronger evidence. |
+| Badger Medlar | NPC, presumed alive | GM-corrected aboard Man's Promise; exact Arodus 5 position unresolved. |
+| Jack Scrimshaw | NPC, presumed alive | GM-corrected aboard Man's Promise; exact Arodus 5 position unresolved. |
 | Conchobhar Turlach Shortstone | NPC, unresolved | Prize crew status needs precise confirmation; Harvus strongly influenced him. |
-| Maheem | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood. |
-| Kipper | NPC, unresolved | Status after Man's Promise battle and transfer needs confirmation. |
-| Patch Patchsalt | NPC, unresolved | Status after Man's Promise battle and transfer needs confirmation. |
 
 ## Wormwood — Not Currently Present
 
@@ -114,6 +117,9 @@ The six named skeleton-crew survivors are fixed as:
 | Riaris Krine | NPC, presumed alive | Likely Wormwood-side. |
 | Habbly Quarne | NPC, presumed alive | Likely Wormwood-side. |
 | Caulky Tarroon | NPC, presumed alive | Likely Wormwood-side. |
+| Maheem | NPC, presumed alive | Believed Wormwood-side by current GM correction. |
+| Kipper | NPC, presumed alive | Believed Wormwood-side by current GM correction. |
+| Patch Patchsalt | NPC, presumed alive | Believed Wormwood-side by current GM correction. |
 | Eight unnamed Man's Promise survivors | NPCs, Wormwood-side | The other eight captured Man's Promise survivors went with the Wormwood after the Erastus 27 split. Their names and later Wormwood-side fates remain unresolved. |
 | Rahadoumi officer from Erastus 27 chat | NPC, unresolved / likely Wormwood-side if among the eight | Present after Harrigan's example execution; identity and later fate unresolved. |
 
@@ -121,13 +127,13 @@ The six named skeleton-crew survivors are fixed as:
 
 | Character | Status | Notes |
 |---|---|---|
+| Harmak Gruft | Dead before start | Body in cage on Wormwood; named state item but not counted in living first-day crew. |
 | Man's Promise captain | Dead | Died during the Man's Promise boarding battle; not the post-battle example victim. |
 | Unnamed weakened captured sailor | Dead | Harrigan threw this sailor overboard to the sharks as an example on Erastus 27. |
 | Rosie Cusswell | Dead / lost at sea | Lost during Wormwood storm despite rescue attempts; Harvus had recovered her fiddle and befriended her. |
 | Aretta Bansion | Dead | Died after conflict with Sho in the bilges; Harvus recognized her from press-gang context. |
 | Giffer Tibbs | Dead | Killed during Man's Promise boarding sequence. |
 | Jakes Magpie | Dead | Keelhauled aboard Wormwood. |
-| Harmak Gruft | Dead | Body in cage on Wormwood. |
 | Kor'al Daraa / Cor'Wal Daraa | Dead | Man's Promise sailor killed during boarding; brother Nor'gal is one of the six named skeleton-crew survivors. Spelling needs reconciliation. |
 
 ## Non-Humanoid / Monster State
@@ -144,8 +150,9 @@ The six named skeleton-crew survivors are fixed as:
 - Who is guarding Sho at the exact moment play resumes?
 - Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard the Man's Promise at the cold open, and where?
 - Where is Owlbear physically at the cold open?
-- Which Wormwood NPCs are definitively aboard the Man's Promise beyond the locked post-Erastus 27 evidence set?
-- Resolve Maheem, Patch, Kipper, Conchobhar, Badger, and Jack placement.
+- Confirm Conchobhar placement: Man's Promise or Wormwood?
+- Confirm whether Maheem, Kipper, and Patch should be locked Wormwood-side or remain strong GM belief.
+- Confirm exact Arodus 5 positions for Badger and Jack aboard the Man's Promise.
 - What are the names and later Wormwood-side fates of the other eight Man's Promise survivors who went with the Wormwood?
 - Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
 - What is each named skeleton-crew survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle?
