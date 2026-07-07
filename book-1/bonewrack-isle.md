@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One location and relaunch state document
-- Maturity: Draft
+- Maturity: Draft, expanded with Erastus 31 storm transition and corrected Fipps beach assignment
 - Scope: Bonewrack Isle as published, modified, and played
 
 ## Overview
@@ -17,6 +17,10 @@ It becomes the stage for the first true fracture of the future crew.
 ## Published Baseline
 
 The Man's Promise runs aground on the coral reefs surrounding Bonewrack Isle after a storm.
+
+The storm strikes during the early hours of the fourth day of the prize voyage, drives the ship off course, forces all hands into emergency rigging and deck work, and brings the Man's Promise toward the reefs and islets around Bonewrack Isle by dawn.
+
+In the published scaffold, grindylows use the storm and poor visibility to board the ship, take sailors, and then attack more openly.
 
 The island contains:
 
@@ -34,6 +38,8 @@ The published adventure expects the PCs to gather supplies, rescue Sandara and a
 ## Campaign Version
 
 The campaign version adds additional consequence and specificity.
+
+The current reconstruction maps the storm to early **Erastus 31**, during night shift. This interrupts the unresolved Erastus 30 shipboard threads: Harvus' possible infiltration, the possible Sho backup plan, Mirei's return report to Plugg, and Plugg's immediate response to Syl's report.
 
 The missing captives are:
 
@@ -55,7 +61,7 @@ The original landing area and a key return point.
 
 Scourge's shore party later operated here while searching for supplies.
 
-Fipps Chumlett is currently at the beach. The exact reason he remained there is unclear and remains a reconstruction question.
+Fipps Chumlett is currently at the beach because Slippery Syl ordered him to stay there when the supply party reached Coconut Beach and expected the ship to meet the team there.
 
 #### The Mire
 
@@ -79,7 +85,7 @@ The party discovered coconut palms and giant crab hazards.
 
 Coconuts became a meaningful supply objective.
 
-Fipps' current beach position may be connected to this supply route, but the reason is not yet confirmed.
+Fipps' current beach position is tied to Syl's order to wait for the expected ship rendezvous.
 
 #### The Fields
 
@@ -165,13 +171,15 @@ Moving through the island:
 - Slippery Syl Lonegan
 - Jaundiced Jape
 
-Fipps Chumlett is at the beach, not with this moving group. The exact reason is unclear.
+Fipps Chumlett is at the beach, not with this moving group. Syl left him there because the ship was expected to meet the supply party at the beach.
 
 This group is under hostile command dynamics. Rak is guide, asset, and potential target rather than trusted leader.
 
 ### Fipps at the Beach
 
 Fipps is currently separated from Rak's moving group and located at the beach.
+
+His position is deliberate: Syl ordered him to wait there as the likely ship rendezvous contact or guard.
 
 This may become relevant if the beach becomes a message, fallback, or conflict point before the full return to the Man's Promise.
 
@@ -224,7 +232,8 @@ The Queen's retreat means the island's monster threat has not fully ended. It ha
 - Does the Harvus group meet Rak's party peacefully, by ambush, or through tense recognition?
 - How do Slippery Syl and Jaundiced Jape respond to rescued witnesses?
 - Does Shivikah shift position after seeing the rescue group?
-- Why is Fipps at the beach, and what condition is he in?
+- What condition is Fipps in at the beach?
+- Does Fipps have access to a signal, boat, or way to warn the ship?
 - How much food and water does the island party actually recover before returning?
 - Does anyone investigate the Infernus before leaving?
 - Does anyone attempt to claim or protect the spring?
