@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log
+- Maturity: Draft, expanded with Arodus 5 split-scene log and Erastus 29 silent nightshift surveillance
 - Scope: Hostile lower-crew NPC, current Bonewrack fork participant
 
 ## Overview
@@ -53,6 +53,10 @@ Harvus recognized him on waking aboard the Wormwood, tying Jape to the press-gan
 
 Jape transferred to the Man's Promise prize crew and remained in the hostile bloc.
 
+On Erastus 29 nightshift, Jape silently glared at Sho and Goyle when Sho tried to speak with Goyle during repairs. Sho saw the glare and stopped the conversation, saying it would have to be another time.
+
+This is a good example of Jape's scene function: he can shut down dangerous conversation without needing to say anything.
+
 ### Bonewrack Supply Party
 
 Jape is currently part of the island supply party moving with Rak, Shivikah, and Syl.
@@ -84,6 +88,18 @@ His apparent disinterest during Syl and Rak's confrontation should not be mistak
 ### Shivikah
 
 Shivikah and Jape are both hostile or unfriendly lower-crew presences, but Shivikah may be more situationally flexible.
+
+### Sho Astor
+
+Jape's silent glare on Erastus 29 prevented Sho from speaking further with Goyle during nightshift repairs.
+
+This makes Jape part of the surveillance pressure around Sho, even when he is not actively attacking her.
+
+### Goyle Onórach
+
+Jape's silent presence interrupted a possible Sho / Goyle conversation.
+
+Whether he was intentionally supervising Goyle, watching Sho, or simply hostile to both remains open.
 
 ### Plugg and Scourge
 
@@ -125,6 +141,7 @@ Do not assume his hostility is ideological; it may be practical, greedy, or surv
 - What is Jape's exact physical condition after the island hazards?
 - Does Jape know Sho is imprisoned?
 - Does Jape know Goyle survived?
+- Was Jape intentionally supervising Sho and Goyle during Erastus 29 repairs, or simply present and hostile?
 - How does Jape communicate under pressure?
 - Would he kill a rescued captive to preserve Plugg's position?
 - Would he flee if Syl falls?
