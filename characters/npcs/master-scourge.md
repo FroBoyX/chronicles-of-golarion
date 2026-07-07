@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rosie loss suspicion, Erastus 16 mast / reef summons, Erastus 27 first mate speech, and first-night Man's Promise discipline rules
+- Maturity: Draft, expanded with Rosie loss suspicion, Erastus 16 mast / reef summons, Erastus 27 first mate speech, first-night Man's Promise discipline rules, and Erastus 29 Mirei threat role
 - Scope: Book One emotional antagonist and disciplinary threat
 - Source basis: Recovered Adventure Path material, GM-provided campaign facts, chat logs, and player journals
 
@@ -144,6 +144,24 @@ Mirei clarified that the only thing she agreed to was having a hammock up there.
 
 This shows Scourge reinforcing the danger around Plugg's possessive treatment of Mirei, even when Plugg is the primary manipulator.
 
+### Erastus 29 Mirei Threat Role
+
+On Erastus 29, Scourge was present in the locked captain's cabin when Mirei delivered Plugg's food.
+
+He smiled and called her wench after Plugg made her taste the food.
+
+When Mirei objected, Plugg stopped Scourge, then struck Mirei and corrected the title to "Captain's wench." Scourge sat again, smiling or scowling.
+
+That night, Scourge opened the door when Mirei returned and greeted her as:
+
+> "Welcome back, 'Captains' wench."
+
+He then walked out, leaving her with Plugg.
+
+Later in the same scene, Plugg made Scourge part of the explicit threat structure: if Mirei did anything wrong, Plugg would give her to Scourge to do with as he pleased.
+
+This makes Scourge more than background intimidation. He is the punishment Plugg names when defining Mirei's new protected but controlled station.
+
 ### Bonewrack Isle
 
 Scourge confronted Rak and Sho when they returned from the island without Harvus and Mirei.
@@ -167,6 +185,8 @@ On Erastus 16, he fetched Badger when Plugg ordered it.
 On Erastus 27, he accepted or performed the role of first mate in Plugg's first public command structure aboard the Man's Promise.
 
 On the first Man's Promise night, he announced the new discipline rules and enforced Mirei's movement into Plugg's cabin orbit.
+
+On Erastus 29, Plugg explicitly used Scourge as the threatened consequence if Mirei disobeyed.
 
 ### Harvus G'ron
 
@@ -209,6 +229,8 @@ Scourge is not the primary manipulator of Mirei; that was Plugg.
 However, Scourge watched, threatened, and reinforced the danger around her compromised position.
 
 On the first Man's Promise night, he ordered her to entertain Plugg, then later interpreted her cabin hammock as agreement to something more than she stated.
+
+On Erastus 29, Scourge repeatedly used the "Captain's wench" framing, and Plugg explicitly threatened to give Mirei to Scourge if she disobeyed.
 
 ### Rak Wraithraiser
 
@@ -260,6 +282,7 @@ If he dies, survives, flees, or is captured, each outcome should create differen
 - If intentional, did Scourge directly cause it, signal it, or merely benefit from it?
 - What did Scourge mutter after Mirei told him Plugg wanted a hammock brought up?
 - What did Scourge think Mirei had agreed to?
+- Did Scourge remain nearby after opening the door for Mirei on Erastus 29, or did he leave entirely?
 - Does Scourge know Sandara, Tilly, and Goyle survived?
 - Does he know Mirei confessed?
 - Does he try to use Sho as leverage?
