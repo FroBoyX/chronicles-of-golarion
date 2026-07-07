@@ -81,6 +81,23 @@ When a scene is completed, mark it as completed and list the evidence file plus 
   - Who is guarding Sho?
   - Who supports Kahina's life-for-life test?
 
+### Eight Wormwood-side Man's Promise survivors
+
+- Source type: GM truth / survivor transfer correction
+- Date candidate: Erastus 27 ship split and later Wormwood-side continuity
+- Placement confidence: broad placement high; individual identities unresolved
+- Destination evidence file: `evidence/gm-notes/mans-promise-survivor-set.md`
+- Integration targets:
+  - `state/current-npc-locations.md`
+  - `state/crew-transfer-and-loyalty-audit.md`
+  - `tracking/open-questions.md`
+  - future Wormwood-side survivor notes if identities are recovered
+- Status: Broad placement integrated; identities and later Wormwood-side duties pending.
+- Open checks:
+  - Who were the eight non-skeleton Man's Promise survivors?
+  - What duties or status did they hold aboard the Wormwood after the Erastus 27 ship split?
+  - Did any later re-enter the record or remain narratively untracked?
+
 ## Completed Recently
 
 ### Man's Promise Erastus 29-30 Mistress / Dinner / Syl Threat
