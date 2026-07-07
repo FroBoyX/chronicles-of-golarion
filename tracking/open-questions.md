@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index, corrected with Erastus 27 ship-split model, Giffer Tibbs death / burial resolution, and Jack Scrimshaw's Tam-exchange placement
+- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, and Jack Scrimshaw's Tam-exchange placement
 - Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
@@ -28,11 +28,14 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 
 ### Storm / Island Log Tracing
 
-- Finish tracing the Man's Promise logs through the Erastus 30-31 storm, Bonewrack landing, island split, and Arodus 5 cold-open setup.
+- Finish tracing the Man's Promise logs through the Erastus 30-31 storm, Arodus 1 shipwreck / landing, island split, later Goyle capture, and Arodus 5 cold-open setup.
 - What does Harvus do during the storm before the abductions become clear? Trace logs first; if unresolved, ask Harvus' player.
 - Does Sho ever become involved in Sandara's backup idea of getting information the rough way? Trace logs first; if unresolved, ask Sho's player.
 - Where does the post-storm Plugg / Syl report follow-up occur, and what does it establish?
 - Does the log confirm whether Mirei had any opportunity to eat Plugg's waiting third plate before the storm? GM memory: if it would have happened before the storm, most likely not.
+- Trace the Arodus 1 water-loss / repair-estimate / island-team assignment scene.
+- Trace the later grindylow boarding that leads to Goyle's capture.
+- Confirm whether older references to tidewater cutlass should be normalized to **Tidal Cutlass**.
 
 ### Crew / Ship Viability
 
@@ -81,7 +84,7 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Does Harvus know the full scope of Plugg's manipulation of Mirei?
 - How does Harvus process Mirei's confession immediately after the Riptide Cove rescue?
 - How explicitly should the Rak spear debt be handled after Harvus killed the Whale with Rak's spear?
-- If log tracing does not resolve Harvus' storm actions, ask Harvus' player what he remembers doing during the storm before Sandara, Tilly, and Goyle's abductions became clear.
+- If log tracing does not resolve Harvus' storm actions, ask Harvus' player what he remembers doing during the storm before Sandara and Tilly's abductions became clear.
 
 ### Mirei
 
@@ -112,6 +115,7 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Rak's spear used by Harvus to kill the Whale.
 - Sandara's tricorne / rescued belongings.
 - Rosie's fiddle and its status after her death.
+- Tidal Cutlass naming and ability record.
 
 ### Timeline / Year Cleanup
 
@@ -120,6 +124,19 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Audit active chronology docs and correct only where they conflict with the locked 4712 timeline.
 
 ## Resolved Questions
+
+### Erastus 31 Storm Abduction Victims
+
+- Resolved by GM short-form chronology: the two sailors taken during the Erastus 31 storm attack were **Tilly Brackett** and **Sandara Quinn**.
+- Resolved by GM clarification: this follows the AP storm structure almost beat-for-beat; Tilly and Sandara are taken first, then the grindylows attack openly.
+- State impact: Goyle Onórach should not be merged into the initial storm abduction.
+
+### Goyle Onórach Capture Structure
+
+- Resolved by GM clarification: Goyle was captured later, during a subsequent grindylow attack on the Man's Promise while the PCs were away on Bonewrack Isle.
+- Resolved by GM clarification: Goyle was fighting one of the boarders when Plugg washed him overboard with an attack from the **Tidal Cutlass**.
+- State impact: Harvus and Mirei know about the Tidal Cutlass' ability from Goyle's account after his rescue.
+- Still unresolved: exact raw-log placement and whether older references should be normalized from tidewater cutlass to Tidal Cutlass.
 
 ### Jack Scrimshaw in Tam / Mistress Mirei Exchange
 
