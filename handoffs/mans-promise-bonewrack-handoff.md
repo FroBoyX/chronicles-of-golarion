@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Focused chat handoff
-- Maturity: Working control document, corrected with Erastus 27 ship-split model
+- Maturity: Working control document, corrected with Erastus 27 ship-split model and storm-tracing routing
 - Scope: Man's Promise boarding, prize-crew period, Bonewrack Isle, current fork, hot-box, survivor politics, mutiny setup
 
 ## Chat Purpose
@@ -25,7 +25,7 @@ This includes:
 ## New Chat Starter Prompt
 
 ```text
-You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golarion. Read `handoffs/mans-promise-bonewrack-handoff.md`, `handoffs/chronicle-master-handoff.md`, `state/current-npc-locations.md`, `state/mans-promise-crew-viability-reference.md`, `state/current-ship-state.md`, `state/crew-transfer-and-loyalty-audit.md`, `chronology/arodus-5-split-scenes.md`, and `tracking/open-questions.md`. Preserve raw evidence first, then integrate into Man's Promise, Bonewrack, survivor, NPC, and current-state docs.
+You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golarion. Read `handoffs/mans-promise-bonewrack-handoff.md`, `handoffs/chronicle-master-handoff.md`, `state/current-npc-locations.md`, `state/mans-promise-crew-viability-reference.md`, `state/current-ship-state.md`, `state/crew-transfer-and-loyalty-audit.md`, `chronology/arodus-5-split-scenes.md`, `tracking/open-questions.md`, and `tracking/evidence-ingestion-queue.md`. Preserve raw evidence first, then integrate into Man's Promise, Bonewrack, survivor, NPC, and current-state docs. Finish tracing the Man's Promise logs through the storm and island sequence before resolving exact cold-open positions.
 ```
 
 ## Primary Source / Destination Files
@@ -43,6 +43,7 @@ You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golari
 - `evidence/gm-notes/mans-promise-captain-death-correction.md`
 - `evidence/gm-notes/mistress-and-dinner-clarifications.md`
 - `evidence/gm-notes/mans-promise-erastus-31-storm-interruption.md`
+- `evidence/gm-notes/mans-promise-storm-tracing-clarifications.md`
 - `evidence/ap/mans-promise-whispers-storm-and-bonewrack-summary.md`
 
 ### Chronicles / State
@@ -109,6 +110,21 @@ Of those fourteen, the archive currently tracks **six named survivors assigned t
 
 The other eight surviving captured Man's Promise crew went with the Wormwood after the Erastus 27 split. Their names and later Wormwood-side fates remain unresolved, but they are not Arodus 5 Man's Promise / Bonewrack actors.
 
+## Storm and Island Tracing Priority
+
+Exact cold-open positions for Dahrehn, Ebony, Merchiel, Nor'gal, Kahina, and other Man's Promise-side crew remain open until the logs are traced through the storm, Bonewrack landing, island split, and return setup.
+
+Do not resolve these positions from survivor-set membership alone.
+
+Current routing:
+
+- Harvus' storm actions: trace logs first; if unresolved, ask Harvus' player.
+- Sho's possible role in Sandara's backup "rough way" information plan: trace logs first; if unresolved, ask Sho's player.
+- Plugg / Syl report follow-up: trace post-storm logs; GM memory says this comes up there.
+- Syl's knife wound on Mirei: player interpretation question after giving Mirei's player a narrative version of the exchange.
+- Mirei eating the waiting third plate: likely no if it would have had to happen before the storm, but trace logs before locking.
+- Second sailor with Tam: probably Jake / Jack, but keep probable until direct log text confirms.
+
 ## Current Relaunch State
 
 ### Harvus Group
@@ -140,7 +156,7 @@ They are moving through the island. Rak is guiding a hostile or semi-hostile gro
 - Kahina Bukekayo has confronted her with a life-for-life test.
 - Plugg and Scourge remain the immediate command threat.
 - Owlbear is likely aboard unless friendship evidence redirects him.
-- Dahrehn, Ebony, Merchiel, and Nor'gal are likely aboard unless later evidence places them elsewhere; exact cold-open positions remain unresolved.
+- Dahrehn, Ebony, Merchiel, Nor'gal, Kahina, and other Man's Promise-side actors require full storm / island log tracing before exact cold-open positions are locked.
 
 ## Crew Viability Reference
 
@@ -179,6 +195,7 @@ Harvus and Mirei helped rescue Sandara, Tilly, and Goyle from Riptide Cove. Goyl
 - What exact object did Harrigan give Sho, and does she still have it?
 - What does Sho's "monk man" reference say about Ebony beyond identification?
 - Which of the six named survivors are physically on deck, below, guarding Sho, or with Plugg at cold open?
+- Who else is physically aboard the Man's Promise at cold open?
 - Who among the survivor bloc supports Kahina's test?
 - Whether Owlbear is controllable by Plugg or moved by Sho's mercy.
 - Whether Fipps reaches the ship before the fork collision resolves.
