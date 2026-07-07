@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log, first-night Man's Promise nightshift authority, and Erastus 29 nightshift repairs order
+- Maturity: Draft, expanded with Arodus 5 split-scene log, first-night Man's Promise nightshift authority, Erastus 29 nightshift repairs order, and GM-confirmed Ebony assignment
 - Scope: Hostile lower-crew NPC, current beach-side loose end
 
 ## Overview
@@ -65,7 +65,7 @@ This shows Fipps briefly holding delegated nightshift authority under Syl, placi
 
 At the start of Erastus 29 nightshift, Fipps again issued direct assignments.
 
-He sent Harvus to the mainsail with "the dark one," likely Ebony Saable, then ordered Sho to repairs with an insulting "Monkey."
+He sent Harvus to the mainsail with "the dark one," which later GM clarification confirms was a shot at Ebony Saable. He then ordered Sho to repairs with an insulting "Monkey."
 
 Sho clenched her fist but obeyed.
 
@@ -139,7 +139,7 @@ This placed Fipps over a former Man's Promise quartermaster, reinforcing the ind
 
 ### Harvus G'ron
 
-On Erastus 29 nightshift, Fipps assigned Harvus to the mainsail with "the dark one."
+On Erastus 29 nightshift, Fipps assigned Harvus to the mainsail with Ebony Saable, using "the dark one" as the insult for Ebony.
 
 ### Aretta Bansion
 
