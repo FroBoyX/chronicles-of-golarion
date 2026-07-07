@@ -19,11 +19,21 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 ### Current Cold Open
 
 - Is Sho visibly on deck in the hot-box, or covered/guarded in a way that changes approach options?
-- Where are Dahrehn, Ebony, Merchiel, and Nor'gal physically at the cold open?
+- Where are Dahrehn, Ebony, Merchiel, Nor'gal, and Kahina physically at the cold open? Keep unresolved until storm / island logs are traced.
+- Who else is physically aboard the Man's Promise at the cold open? Keep unresolved until storm / island logs are traced.
 - Who is guarding Sho at the exact moment play resumes?
 - Who among the Man's Promise survivors supports Kahina's life-for-life test?
 - Does the Man's Promise reach Coconut Beach before or after the fork collision resolves?
 - Where is Owlbear physically at the cold open?
+
+### Storm / Island Log Tracing
+
+- Finish tracing the Man's Promise logs through the Erastus 30-31 storm, Bonewrack landing, island split, and Arodus 5 cold-open setup.
+- What does Harvus do during the storm before the abductions become clear? Trace logs first; if unresolved, ask Harvus' player.
+- Does Sho ever become involved in Sandara's backup idea of getting information the rough way? Trace logs first; if unresolved, ask Sho's player.
+- Where does the post-storm Plugg / Syl report follow-up occur, and what does it establish?
+- Does the log confirm whether Mirei had any opportunity to eat Plugg's waiting third plate before the storm? GM memory: if it would have happened before the storm, most likely not.
+- Does direct text confirm Jake / Jack as the second sailor with Tam when Mirei addressed "you two"? GM memory says this was probably Jake / Jack.
 
 ### Crew / Ship Viability
 
@@ -63,6 +73,7 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Does Sho still have the Harrigan object at the hot-box point?
 - What did Sho recover from Grok, and what remains on the ship?
 - What was the exact content of Sho's "monk man" reference now identified as Ebony Saable?
+- If log tracing does not resolve Sandara's backup "rough way" idea, ask Sho whether she remembers being approached or used for that.
 
 ### Harvus G'ron
 
@@ -72,6 +83,7 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Does Harvus know the full scope of Plugg's manipulation of Mirei?
 - How does Harvus process Mirei's confession immediately after the Riptide Cove rescue?
 - How explicitly should the Rak spear debt be handled after Harvus killed the Whale with Rak's spear?
+- If log tracing does not resolve Harvus' storm actions, ask Harvus' player what he remembers doing during the storm before Sandara, Tilly, and Goyle's abductions became clear.
 
 ### Mirei
 
@@ -80,6 +92,7 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - How much did Mirei understand Plugg's pressure as privilege, coercion, fear, survival, or contamination?
 - Did Mirei avoid Sho because Sho was too likely to act before Mirei was ready?
 - How should Mirei's player packet frame confession aftermath without over-explaining other PCs' private knowledge?
+- After providing a narrative version of Syl's knife threat, ask Mirei's player whether the wound mattered physically, emotionally, both, or was mostly swallowed by the storm because the table glossed over it.
 
 ### Rak Wraithraiser
 
