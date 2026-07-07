@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: Narrative reconstruction
-- Maturity: Draft / canon-candidate, updated with GM resolution of Giffer Tibbs' death mechanism
-- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers, recovered tactical map evidence, GM death-toll correction, and GM Giffer death resolution
+- Maturity: Draft / canon-candidate, updated with GM resolution of Giffer Tibbs' death mechanism and later investigation / burial clarification
+- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers, recovered tactical map evidence, GM death-toll correction, GM Giffer death resolution, and GM clarification on Sho's inconclusive investigation / pirate burial
 - Corrected date: Erastus 25, 4712 AR
 - Original chat header: Sunday, Erastus 26th, 4691 - Day 21
 - Spoiler scope: Player-safe as historical reconstruction, except hidden Rak culpability should remain character-knowledge gated
@@ -41,6 +41,10 @@ Sho stabilized or otherwise solved Giffer's immediate dying condition, then left
 While moving through the fog, Rak intentionally stomped or trampled Giffer while she was mechanically unconscious but stable. The action destabilized her and ultimately caused her death.
 
 No character directly saw Rak stomp her with intention. The observable aftermath was that Giffer had been notably trampled.
+
+Sho later attempted to investigate Giffer's death, but reached no actionable conclusion that would allow her to act on player knowledge. Rak has not admitted to the killing.
+
+Giffer received a pirate burial during the revel. After that burial, ordinary body-based investigation is closed; the remaining proof route is magic or equivalent supernatural evidence showing what occurred on the Man's Promise, or a later confession.
 
 This distinction must be preserved: **GM truth establishes Rak's culpability, but Sho and other characters do not automatically know it.**
 
@@ -140,6 +144,8 @@ Patch offered to shut Sho's mouth for Peppery, but Peppery stopped her.
 
 Sho remained alive, stitched, and marked for punishment.
 
+During the revel, Giffer was given a pirate burial. This ended ordinary body-based investigation of her wounds or trampling.
+
 ## Sho's Later Perspective
 
 Sho's later player answers clarify how she understood the strike-team role and why the battle became one of her largest guilt sources.
@@ -154,6 +160,8 @@ From Sho's perspective, that promise failed catastrophically because the people 
 - Sho demanded that a crew member put down their weapon and promised safety, only for Harvus to strike another crew member with a flail who was not even looking to attack.
 
 Giffer's death is a parallel but distinct command-guilt wound. Giffer was on the Wormwood side, under Sho's command, and had been stabilized by Sho before Sho moved on. Sho did not know Rak's intent, but she knew or could know that Giffer had been stable and later died after being notably trampled.
+
+Sho attempted to investigate Giffer's death, but came to no actionable conclusion that would allow her to act on player knowledge. Because Giffer was buried during the revel, any later proof would need to come from magic or equivalent supernatural reconstruction of what happened on the Man's Promise, or from Rak's confession.
 
 The exact lifeboat victim identity and final death / injury mechanism remain open, but the character truth is clear: Sho felt responsible for atrocities she could not stop.
 
@@ -174,6 +182,10 @@ The battle also changed Sho's understanding of command. If she is going to take 
 - Sho stabilized or otherwise solved Giffer's immediate dying condition.
 - Rak intentionally stomped or trampled stable, unconscious Giffer while moving through the fog, destabilizing her and causing her death.
 - No character directly saw Rak's intention; the observable aftermath was that Giffer had been notably trampled.
+- Sho attempted to investigate Giffer's death, but reached no actionable conclusion proving Rak's culpability.
+- Rak has not admitted to killing Giffer.
+- Giffer was given a pirate burial during the revel.
+- After the burial, ordinary physical proof is gone; later proof would need magic, equivalent supernatural reconstruction, or confession.
 - Giffer was the only Wormwood-side casualty in the capture of the Man's Promise.
 - The recovered tactical map confirms the PCs secured the aft deck and ship's wheel before pushing toward the middle deck between the lifeboats and main mast.
 - Sho warned Harrigan and received a nod of recognition after he killed the attacker.
@@ -203,7 +215,7 @@ The battle also changed Sho's understanding of command. If she is going to take 
 - Was the log one continuous sequence, or does the night hot-box scene occur after a time jump from battle/cleanup?
 - Canonize the starting crew count of the Man's Promise and derive final shipwide deaths.
 - Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map / cabin death.
-- Who noticed Giffer had been notably trampled, and what was reported to Sho or others?
+- Does later magic, equivalent supernatural reconstruction, or confession expose Rak's intent in character?
 - Did the starboard lifeboat victim die by crash, drowning, shark swarm, or later injury?
 - Is Ko'ral / Cor'Wal / Kor'al the same killed brother referenced in Sho notes?
 - Is Nor'gal definitively the sailor Rak intimidated into surrender?
