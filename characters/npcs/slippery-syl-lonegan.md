@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak player-sheet evidence, Erastus 27 boatswain appointment, and first-night nightwatch assignment
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak player-sheet evidence, Erastus 27 boatswain appointment, first-night nightwatch assignment, and Erastus 30 observation of Mistress Mirei
 - Scope: Hostile Wormwood pirate, Man's Promise pressure point, current fork threat
 
 ## Overview
@@ -87,9 +87,41 @@ Syl then assigned Harvus to the rigging with Ebony and assigned Sho and Goyle as
 
 This scene shows Syl immediately translating her new boatswain authority into delegated night labor, surveillance, and intimidation.
 
-### Man's Promise
+### Erastus 30 Observation of Mistress Mirei
 
-Syl threatened Mirei with a knife and observed her in connection with Plugg's attempt to use Mirei as a spy or compromised figure.
+On Erastus 30, Plugg ordered Mirei to move through the crew as **Mistress Mirei**, gauge where people stood, and report back. Plugg also told Syl to observe how Mirei handled herself.
+
+After Mirei refused to report Tam's disrespectful challenge to Plugg, Syl intercepted Mirei on the stairs up from below deck.
+
+Syl pressed a knife into Mirei's back and said she did not know what Mirei had said to Plugg, but Mirei did not look or sound like a pirate mistress.
+
+She threatened Mirei's voice directly:
+
+> "I wonder what you'd sound like if I cut your vocal folds out... you would probably whimper about the same."
+
+Syl said Plugg had told her to see how Mirei handled herself, and from Syl's vantage, Mirei had not.
+
+She also noticed Mirei whispering with Sho and said Scourge would have a field day with her.
+
+When Mirei insisted she had only done what the captain asked, Syl said Plugg had told Mirei to find out **where** people stood and had told Syl to observe her.
+
+Syl was not impressed. She threatened that the night would likely be Mirei's last, then spat and dug the knife in until it drew blood.
+
+Mirei pushed back, saying that if she were lying, the captain would not be trusting her with what he had so far, and told Syl to back off.
+
+Syl stepped back and reassessed her:
+
+> "Watchs that, the Captains bitch actually has some fire..."
+
+She said there was a spark of life behind the farce. In the cabin, Mirei had looked civil, docile, and without a tongue to match her voice; now she acted like she could bark.
+
+Syl answered with her own creed:
+
+> "I don't bark with words, I bark wih knives... and I don't fetch bones, I MAKE them."
+
+Syl then said she and Scourge would see Mirei in the morning.
+
+This scene proves Syl was the one who reported or escalated Mirei's handling of the Tam exchange to Plugg's side, not Mirei herself. It also shows Syl testing whether there is actual pirate fire beneath Plugg's imposed Mistress persona.
 
 ### Scourge's Supply Order
 
@@ -154,6 +186,8 @@ Syl threatened Mirei with a knife during the Man's Promise phase.
 
 She saw Mirei as weak, interesting, or compromised, and recognized that there was at least some fire behind Mirei's fear.
 
+On Erastus 30, Syl was tasked by Plugg to observe how Mirei handled herself as Mistress. She judged Mirei's crew interaction harshly, suspected her whispers with Sho, wounded her with a knife, and threatened that Scourge would have a field day with her.
+
 If Syl sees Mirei returning alive with rescued captives, that may alter her assumptions.
 
 ## Relationship With Plugg and Scourge
@@ -161,6 +195,8 @@ If Syl sees Mirei returning alive with rescued captives, that may alter her assu
 Syl is aligned with Plugg and Scourge's hostile camp, but her loyalty should not be assumed to be principled.
 
 Plugg publicly elevated her as boatswain and ordered the crew to obey her as they would obey him.
+
+On Erastus 30, Plugg used Syl as an observer of Mirei's loyalty / performance. Syl appears willing to report to or escalate through Plugg and Scourge when Mirei does not behave as expected.
 
 She follows Scourge's supply order but interprets it through tactical survival.
 
@@ -223,6 +259,8 @@ She is violent and unstable, but can still be tactically self-preserving.
 - What is Syl's exact current physical condition after the frog fight and forced march?
 - Does she know Sho is locked up?
 - Does she know Goyle survived?
+- What did Syl report to Plugg after observing Mirei?
+- Did Syl's knife wound leave visible evidence on Mirei?
 - Would she try to kill Goyle before he can speak?
 - Is she more loyal to Plugg, Scourge, herself, or violence?
 - Does she prioritize completing Scourge's supply order or preserving Plugg's political position?
