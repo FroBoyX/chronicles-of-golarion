@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, Erastus 26 revel intervention, Man's Promise work-distance scene, and Erastus 30 challenge to Mistress Mirei
+- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, Erastus 26 revel intervention, Man's Promise work-distance scene, Erastus 30 challenge to Mistress Mirei, and GM clarification on Mirei's press-ganging handling
 - Scope: Hostile lower-crew rigger, pirate custom witness, placement unresolved
 
 ## Overview
@@ -50,6 +50,8 @@ The Rak player-sheet note may indicate that, from Rak's perspective, Tam was les
 ### Wormwood
 
 Tam served as a rigger aboard the Wormwood and belonged to the hostile social orbit around Scourge.
+
+Tam physically deposited the unconscious Mirei on the Wormwood during the original press-ganging aftermath. GM clarification says he was not the person who rendered Mirei unconscious.
 
 On the morning of Erastus 16, Tam summoned Mirei to deck for Plugg's reef task.
 
@@ -121,6 +123,8 @@ Tam then made the exchange personal:
 
 > "I personally put you on the Wormwood 'Mistress'... with all 'due' respect, don't make promises you can't keep."
 
+GM clarification confirms this means Tam physically deposited the unconscious Mirei aboard the Wormwood, not that he knocked her unconscious.
+
 He told Mirei she could report him to Plugg, but that doing so would prove cowardice and inability. He said he had worked on the Wormwood for years and she was still a green swab or shark bait.
 
 Mirei refused to report him, saying she did not plan on being a snitch, then left.
@@ -138,6 +142,8 @@ This may place him in the hostile bloc.
 ### Mirei
 
 Tam judged Mirei's place aboard the ship harshly, telling her she lacked pirate character.
+
+Tam physically deposited unconscious Mirei aboard the Wormwood after her abduction, but did not render her unconscious.
 
 On Erastus 16, he summoned Mirei to Plugg's reef task and remarked that her voice did not get her out of everything.
 
@@ -212,7 +218,6 @@ Tam may:
 - What does Tam think of Plugg as captain?
 - Does Tam know Sho is locked up?
 - Does Tam know Mirei was ordered to betray the PCs?
-- Did Tam's claim that he personally put Mirei on the Wormwood mean he was directly involved in her press-ganging?
 - Who was the second crew member present when Mirei approached Tam on Erastus 30?
 - Does Tam respect Harvus' rescue if he hears it?
 - Would Tam accept an election, duel, council, or only force?
