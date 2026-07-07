@@ -89,7 +89,7 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Did Ambrose know about Rak and Grok before the Man's Promise split?
 - How does Rak feel about Harvus losing the spear used to kill the Whale?
 - Which player-sheet attitude notes reflect actual influence state versus Rak/player impression?
-- Does any later magic, equivalent supernatural reconstruction, testimony, or confession expose Rak's intent toward Giffer?
+- Does any later magic, equivalent supernatural reconstruction, testimony, confession, truth effect, or equivalent evidence expose Rak's intent toward Giffer? No such exposure has happened yet; ship-access-based proof remains possible while the party has access to or possession of the Man's Promise.
 
 ### Items
 
@@ -131,7 +131,8 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Resolved by GM clarification: Sho attempted to investigate Giffer's death but reached no actionable conclusion that would allow her to act on player knowledge.
 - Resolved by GM clarification: Rak has not admitted to killing Giffer.
 - Resolved by GM clarification: Giffer was given a pirate burial during the revel.
-- State impact: ordinary body-based investigation is closed; later proof would require magic, equivalent supernatural reconstruction of what occurred on the Man's Promise, or confession.
+- State impact: ordinary body-based investigation is closed; later proof would require magic, equivalent supernatural reconstruction of what occurred on the Man's Promise, magic/truth elements that make Rak admit it, or confession.
+- State impact: no such exposure has happened yet; it remains possible while the party has access to or possession of the Man's Promise, or if future magic/truth pressure elicits Rak's admission.
 
 ### Mirei Day 2 Performance
 
