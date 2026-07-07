@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log, Sho PCGen evidence, survivor-set confirmation, and first-night quartermaster confirmation
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Sho PCGen evidence, survivor-set confirmation, first-night quartermaster confirmation, and Erastus 29 interrupted Sho conversation
 - Scope: Man's Promise survivor, rescued captive, anti-Plugg witness
 
 ## Overview
@@ -75,6 +75,22 @@ Goyle attempted something between a snarl and a smile through fresh battle scars
 Fipps then ordered the two of them below to clean the hold from the fire.
 
 This gives Sho and Goyle an early direct work contact before Goyle's later capture and rescue.
+
+## Erastus 29 Nightshift
+
+On Erastus 29 nightshift, Sho and Goyle were again near enough to speak while doing repairs.
+
+Sho tried to start a conversation:
+
+> "So.... Goyle was it?"
+
+Goyle answered, but Jaundiced Jape glared silently at them. Sho looked toward Jape, sighed, and said another time.
+
+Goyle accepted:
+
+> "As you wish."
+
+This preserves a second attempted Sho / Goyle contact and shows why it did not develop: hostile surveillance shut the conversation down.
 
 ## Capture
 
@@ -170,6 +186,14 @@ Sho may therefore view Goyle as more than a generic Man's Promise survivor.
 
 During the first night under Plugg, Sho trusted Goyle's direction when Fipps sent the two of them below to clean the burned hold.
 
+On Erastus 29 nightshift, Sho again tried to speak with Goyle, but Jaundiced Jape's glare made her defer the conversation.
+
+### Jaundiced Jape
+
+Jape's silent glare during the Erastus 29 nightshift stopped Sho and Goyle from speaking more openly.
+
+This may indicate Jape was supervising, listening, or simply near enough to make candid conversation unsafe.
+
 ### Man's Promise Survivors
 
 Goyle is one of the six tracked Man's Promise survivors.
@@ -223,4 +247,5 @@ Goyle may support:
 - Would Goyle serve under a PC captain?
 - Would Goyle support Kahina if she makes a claim or demand on behalf of Man's Promise survivors?
 - How does Goyle relate to Dahrehn, Ebony, Merchiel, and Nor'gal?
-- Did Sho and Goyle have any additional conversation while cleaning the burned hold?
+- Did Sho and Goyle ever complete the conversation Jape interrupted?
+- Was Jape supervising Sho and Goyle, or simply near enough to make conversation unsafe?
