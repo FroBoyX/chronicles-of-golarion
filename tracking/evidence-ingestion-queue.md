@@ -28,6 +28,30 @@ When a scene is completed, mark it as completed and list the evidence file plus 
 
 ## Active / Watch Items
 
+### Man's Promise storm and island log tracing
+
+- Source type: pending chat-log tracing, supported by GM clarification
+- Date candidate: Erastus 30 night into Erastus 31 storm; Bonewrack landing and island split through Arodus 5 cold open
+- Placement confidence: unresolved until logs are fully traced
+- Destination evidence files:
+  - `evidence/gm-notes/mans-promise-storm-tracing-clarifications.md`
+  - future storm / island chat-log extracts as recovered
+- Integration targets:
+  - `state/current-npc-locations.md`
+  - `state/current-ship-state.md`
+  - `state/crew-transfer-and-loyalty-audit.md`
+  - `chronology/arodus-5-split-scenes.md`
+  - `chronicles/the-fork.md`
+  - relevant PC/NPC dossiers
+- Status: Active next tracing task.
+- Open checks:
+  - Trace who is physically aboard the Man's Promise through storm and island events, including Dahrehn, Ebony, Merchiel, Nor'gal, Kahina, and any other relevant crew.
+  - Trace Plugg / Syl report follow-up in post-storm logs; GM memory says it comes up there.
+  - Trace Harvus' storm actions before routing to player memory. If unresolved, ask Harvus' player.
+  - Trace whether Sho was involved in Sandara's backup "rough way" idea. If unresolved, route to Sho's player.
+  - Trace whether Jake / Jack is confirmed as the second sailor with Tam when Mirei addressed "you two."
+  - Do not infer cold-open positions from survivor-set membership alone.
+
 ### Harvus-side recent update and questions
 
 - Source type: already preserved chat evidence / recent repo updates
@@ -67,19 +91,20 @@ When a scene is completed, mark it as completed and list the evidence file plus 
 
 ### Man's Promise named survivor physical positions
 
-- Source type: GM truth / state reconstruction
+- Source type: GM truth / state reconstruction / pending storm-island log tracing
 - Date candidate: Current cold open, Arodus 5
 - Placement confidence: survivor set fixed; physical positions unresolved
-- Destination evidence file: existing survivor-set docs
+- Destination evidence file: existing survivor-set docs plus future storm / island traces
 - Integration targets:
   - `state/current-npc-locations.md`
   - `state/crew-transfer-and-loyalty-audit.md`
   - six survivor NPC dossiers
-- Status: Pending.
+- Status: Pending log tracing.
 - Open checks:
-  - Dahrehn, Ebony, Merchiel, Nor'gal physical positions.
-  - Who is guarding Sho?
-  - Who supports Kahina's life-for-life test?
+  - Dahrehn, Ebony, Merchiel, Nor'gal, and Kahina physical positions.
+  - Who else is physically aboard the Man's Promise at the cold open.
+  - Who is guarding Sho.
+  - Who supports Kahina's life-for-life test.
 
 ### Eight Wormwood-side Man's Promise survivors
 
@@ -106,6 +131,7 @@ When a scene is completed, mark it as completed and list the evidence file plus 
   - `evidence/chat-logs/mans-promise-erastus-29-30-nightshift-mistress-and-dinner.md`
   - `evidence/chat-logs/mans-promise-erastus-30-nightshift-syl-mirei-threat.md`
   - `evidence/gm-notes/mistress-and-dinner-clarifications.md`
+  - `evidence/gm-notes/mans-promise-storm-tracing-clarifications.md`
 - Integrated into:
   - `chronicles/mans-promise-erastus-30-mistress-mirei.md`
   - `relationships/mirei-plugg.md`
@@ -115,14 +141,14 @@ When a scene is completed, mark it as completed and list the evidence file plus 
   - `characters/npcs/fipps-chumlett.md`
   - `characters/npcs/jaundiced-jape.md`
   - `characters/npcs/goyle-onorach.md`
-- Status: Raw evidence already preserved; this pass verified integration and corrected Fipps' Ebony reference from likely to GM-confirmed.
+- Status: Raw evidence already preserved; this pass verified integration and corrected routing for remaining checks.
 - Open checks:
-  - Whether Harvus attempted the Sandara-requested quarters investigation before the storm interrupted the night.
-  - Whether Sho was ever involved in Sandara's backup "rough way" idea.
-  - What Plugg and Scourge did with Syl's report about Mirei's handling of Tam and Sho.
-  - Whether Syl's knife wound on Mirei left visible evidence or required treatment.
-  - Whether Mirei ever ate the third plate Plugg said would wait.
-  - Who was the second sailor with Tam when Mirei approached "you two."
+  - Harvus storm actions: trace logs first; ask Harvus' player if logs do not resolve it.
+  - Sho's possible involvement in Sandara's backup "rough way" idea: trace logs first; ask Sho's player if logs do not resolve it.
+  - Plugg / Syl report follow-up: trace post-storm logs; GM memory says this comes up there.
+  - Syl's knife wound on Mirei: ask Mirei's player after providing a narrative version of the exchange, because the table glossed over it.
+  - Mirei likely did not eat the third plate if that would have had to occur before the storm.
+  - Second sailor with Tam was probably Jake / Jack, pending direct log confirmation.
 
 ### Active relaunch year cleanup
 
