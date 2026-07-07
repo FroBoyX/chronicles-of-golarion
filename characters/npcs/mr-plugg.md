@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Seeded, expanded with storm-window Mirei performance order, Erastus 16 reef task, Erastus 27 first Man's Promise command speech, first-night Mirei cabin coercion, and captain-cabin blood evidence
+- Maturity: Seeded, expanded with storm-window Mirei performance order, Erastus 16 reef task, Erastus 27 first Man's Promise command speech, first-night Mirei cabin coercion, captain-cabin blood evidence, and Erastus 29 Mirei entertainer agreement
 - Scope: Book One primary antagonist
 - Source basis: Recovered Adventure Path text, GM-provided campaign facts, campaign timeline, player journals, and chat-log context
 
@@ -158,6 +158,34 @@ Multiple characters came to suspect that Plugg intended to betray Harrigan and t
 
 This makes the Erastus 27 Port Peril statement important: it is either the public order Plugg later abandons or an early lie.
 
+On Erastus 29, Sandara and Tilly already knew the course had changed, and Plugg quickly folded a chart when Mirei entered the locked cabin with food.
+
+### Erastus 29 Mirei Duties and Agreement
+
+On Erastus 29, Plugg expanded Mirei's duties.
+
+When Mirei brought his food, Plugg quickly folded a chart, ordered her to bring the food over, then required her to taste both dishes. After she did, he declared food-tasting part of her duties.
+
+When Scourge called Mirei "wench" and Mirei objected, Plugg stopped Scourge as if defending her respect, then struck Mirei and corrected the term to "Captain's wench."
+
+Later that night, Mirei returned to entertain him. Scourge opened the door, greeted her as "Captain's wench," and walked out.
+
+Plugg accepted another fiddle performance and told her to prepare a song for the next day. When Mirei asked what kind of song, Plugg answered that they would cross that bridge **if** it came.
+
+After the performance, Plugg returned to the "unpleasant" wench business.
+
+He said that if Mirei agreed to be his entertainer, she would stay there, no longer work as a swab, and be treated with the respect of an officer on the Man's Promise.
+
+Mirei said she would not mind still helping around the ship because she feared respect without work would be sarcastic and fake. Plugg rejected labor as the source of her new respect. He told her she would earn respect through voice and presence, that he would raise her in station with him as a lady of a pirate lord, and that she must sing his deeds.
+
+When his voice went cold and he demanded an answer, Mirei agreed.
+
+Plugg then set the terms: only he would call her wench; everyone else would need a name for her, which she had to choose by morning; the dead female captain's clothing and belongings were now hers; obedience was mandatory; if she did his bidding, she would earn respect; and if she did anything wrong, he would give her to Scourge to do with as he pleased.
+
+Until then, Plugg said, she had his protection.
+
+This is Plugg's clearest recovered attempt to turn Mirei into a renamed, officer-adjacent, protected possession and public singer of his future legend.
+
 ### Bonewrack Isle
 
 During the storm and grounding at Bonewrack Isle, Plugg's leadership became harsher and more unstable.
@@ -184,11 +212,13 @@ Scourge is Plugg's right-hand man and enforcer.
 
 Plugg gives direction and protection. Scourge carries out discipline and feeds hostility toward the PCs.
 
-On Erastus 16, Plugg ordered Scourge to fetch Badger for the reef task.
+On Erastus 16, he fetched Badger when Plugg ordered it.
 
-On Erastus 27, Plugg publicly named Scourge first mate aboard the Man's Promise.
+On Erastus 27, he accepted or performed the role of first mate in Plugg's first public command structure aboard the Man's Promise.
 
 On the first recovered Man's Promise night, Scourge delivered Mirei to Plugg's authority and later brought a hammock to the cabin after Plugg demanded she sleep there.
+
+On Erastus 29, Plugg explicitly threatened that if Mirei did anything wrong, he would give her to Scourge to do with as Scourge pleased.
 
 ### Slippery Syl Lonegan
 
@@ -209,6 +239,8 @@ On Erastus 16, Plugg assigned Mirei to the reef task with Harvus, Rak, Sho, and 
 On Erastus 27, Plugg ordered Mirei to report to the Man's Promise as personal entertainment to keep morale up.
 
 On the first night, Plugg converted that entertainment role into cabin isolation: performance in the bloodied captain's cabin, a hammock near him, a coercive search, seizure of a pouch, strict speech rules, and a promise that her life would improve if she kept him entertained.
+
+On Erastus 29, he escalated again: food-tasting duty, a hidden chart, a title correction into "Captain's wench," a demanded entertainer agreement, a new name by morning, the dead captain's clothing and belongings, and a direct threat to hand her to Scourge if she disobeyed.
 
 He gave her a privileged but dangerous position and expected betrayal as proof of loyalty.
 
@@ -299,6 +331,9 @@ This should be used as cultural evidence for why the crew fears acting openly ag
 - Did Plugg's Erastus 27 Port Peril order come directly from Harrigan, or was Plugg already lying?
 - What was in the pouch Plugg took from Mirei?
 - Did Mirei keep the potion through the later Bonewrack crisis?
+- What new name did Mirei choose or was expected to choose by morning?
+- Did Mirei wear or use the former captain's clothing or belongings?
+- What song did Plugg expect Mirei to prepare for the next day?
 - Did Owlbear understand Mirei's cabin role as guarding, imprisonment, privilege, or only Plugg's order?
 - Does Plugg still believe he can restore control without open slaughter?
 - How much does he know about Sandara, Tilly, and Goyle being rescued?
