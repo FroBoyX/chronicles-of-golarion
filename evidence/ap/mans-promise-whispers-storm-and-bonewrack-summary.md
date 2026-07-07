@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Adventure Path scaffold summary
-- Maturity: Reference scaffold, expanded from GM-provided AP excerpt
+- Maturity: Reference scaffold, expanded from GM-provided AP excerpt and table-specific storm mapping
 - Scope: Man's Promise voyage day 2 whispers, evening Rickety's Squibs clue, day 4 storm, grindylow boarding, day 5 shipwreck, and Bonewrack approach
 - Spoiler scope: GM-facing / reconstruction-facing
 - Canon status: Scaffold only; campaign table events override where recovered logs differ
@@ -69,14 +69,19 @@ If the PCs search for clues, a DC 15 Perception check or DC 20 Survival check ca
 The current table reconstruction maps this scaffold to:
 
 - Erastus 29: course-change warning, crew whispers, and Kroop identifying Rickety's Squibs.
-- Erastus 30: Plugg's Mistress Mirei surveillance experiment and Sandara's attempt to obtain more proof of destination.
-- Early Erastus 31: storm hits during night shift, interrupting unresolved information-gathering and pushing the ship toward Bonewrack.
-- Bonewrack aftermath: campaign version already uses Sandara, Tilly, and Goyle as key captured / rescued figures.
+- Erastus 30: a harsh but normal day of sailing, including Plugg's Mistress Mirei surveillance experiment and Sandara's attempt to obtain more proof of destination.
+- Erastus 31: a large sudden storm blasts the Man's Promise, forces all hands to keep the ship afloat, tosses the ship in the waves, and drives it southwest off course.
+- Erastus 31 storm attack: the GM followed the AP almost beat-for-beat; Tilly Brackett and Sandara Quinn are the two sailors taken first, then the grindylows attack openly.
+- Arodus 1: the Man's Promise is blown onto a reef on the shore of an unknown island.
+- Arodus 1 assessment: the fresh water is gone and the ship will take two days to repair.
+- Arodus 1 late evening: a team is sent onto the island to search for food and water.
+- Arodus 1 night: after making camp, the island team is attacked by ghouls.
+- Later island period: Goyle Onórach is captured in a separate subsequent grindylow attack aboard the Man's Promise while the PCs are away on the island. Plugg washes him overboard with the Tidal Cutlass while Goyle is fighting a boarder.
 
 ## Use Rules
 
 - Use this scaffold to explain pacing and pressure.
 - Do not use it to overwrite recovered table scenes.
-- Do not assume all published kidnappings, victims, or encounters match exactly.
-- Treat AP Sandara + one friendly NPC capture as baseline only; the table version appears to involve Sandara, Tilly, and Goyle.
+- Treat Sandara Quinn and Tilly Brackett as the table's Erastus 31 storm-abduction victims.
+- Do not merge Goyle Onórach into the initial storm abduction; his capture is a later living-world event while the PCs are away from the ship.
 - Use the AP storm conditions, reef damage, and repair pressure as context when interpreting logs, but extract table facts only from actual logs or GM corrections.
