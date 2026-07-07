@@ -3,14 +3,14 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, corrected with Erastus 27 ship-split model, post-Erastus 27 Man's Promise evidence, and Crew 20 ship-viability reference
+- Maturity: Draft, corrected with Erastus 27 ship-split model, post-Erastus 27 Man's Promise evidence, Badger / Jack aboard Man's Promise, Maheem / Kipper / Patch believed Wormwood-side, and Crew 20 ship-viability reference
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
 
 This document tracks who moved from the Wormwood to the Man's Promise, who remained behind, who is dead, whose placement remains unresolved, and whether the Man's Promise can still be crewed after a mutiny or faction split.
 
-Use `state/mans-promise-crew-viability-reference.md` as the compact reference for the corrected split model and crew-viability frame.
+Use `state/mans-promise-crew-viability-reference.md` and `state/wormwood-original-crew-ledger.md` as the compact references for the corrected split model and crew-viability frame.
 
 ## Core Problem
 
@@ -52,6 +52,13 @@ Correct sequence:
 6. The Wormwood and the Man's Promise separated.
 7. Six named Man's Promise survivors were assigned to Plugg's skeleton crew.
 8. The other eight surviving captured Man's Promise crew went with the Wormwood.
+
+## Current GM Split Correction
+
+- Badger Medlar is aboard the Man's Promise.
+- Jack Scrimshaw is aboard the Man's Promise. Treat the GM shorthand "Jake" as Jack Scrimshaw, not Jakes Magpie, because Jakes Magpie is dead.
+- Maheem, Kipper, and Patch Patchsalt are believed still aboard the Wormwood.
+- Conchobhar Turlach Shortstone remains unresolved.
 
 ## Evidence Layers
 
@@ -157,6 +164,8 @@ Known math:
 | Kahina Bukekayo | Man's Promise | Alive / named skeleton-crew survivor | Rigger; Sho's current moral interrogator; one of six named survivors assigned to Plugg's skeleton crew. |
 | Ambrose Kroop | Man's Promise likely | Alive | Locked transfer; cook; practical ally; likely anti-Plugg but survival-minded; helpful from Rak sheet. |
 | Owlbear Hartshorn | Man's Promise likely | Presumed alive | Post-split evidence places him as Plugg's door / cabin guard; Plugg-controlled unless prior friendship changes him. |
+| Badger Medlar | Man's Promise likely | Presumed alive | GM-corrected aboard; exact Arodus 5 position unresolved. |
+| Jack Scrimshaw | Man's Promise likely | Presumed alive | GM-corrected aboard; exact Arodus 5 position unresolved. |
 
 ## Named Man's Promise Survivor Bloc
 
@@ -196,14 +205,11 @@ The Rahadoumi officer visible in the Erastus 27 chat may or may not be one of th
 | Ratline Rattsberger | Locked post-split evidence aboard | Exact position unresolved | Present during Syl's first-night attention call; Harvus influenced him; Sho wanted to discuss something with him. |
 | Tam "Narwhal" Tate | Locked post-split evidence aboard | Exact position unresolved | Challenged Mirei's Mistress role; not cleanly Plugg-loyal. |
 | Barefoot Samms Toppin | Strong Man's Promise course-change evidence | Likely Man's Promise | Harvus-friendly; trusted Harvus and Sandara enough to discuss Plugg's course change and solid allies. |
-| Badger Medlar | Probable / low-placement evidence | Likely Man's Promise, not locked | Dinner fragment with Harvus/Sandara; Rak sheet lists helpful. |
-| Jack Scrimshaw | Weak / possible displaced fragment | Unresolved | Do not lock without stronger evidence. |
+| Badger Medlar | GM-corrected aboard | Exact position unresolved | Rak sheet lists helpful. |
+| Jack Scrimshaw | GM-corrected aboard | Exact position unresolved | Rak sheet lists friendly? |
 | Conchobhar Turlach Shortstone | Harvus influence evidence, placement unresolved | Unresolved | Harvus strongly influenced him; exact transfer status needs confirmation. |
-| Maheem / Muheem | Conflicting placement evidence | Unresolved | Rak has kill-if-a-moment-arises; Sho marked him for caution. |
-| Kipper | Unknown | Unresolved | Burned in battle; transfer status needs confirmation. |
-| Patch Patchsalt | Unknown | Unresolved | Rak sheet lists indifferent; placement and true loyalty need confirmation. |
 
-## Known Wormwood-Side NPCs
+## Known / Believed Wormwood-Side NPCs
 
 | Character | Current Location | Status | Notes |
 |---|---|---|---|
@@ -213,12 +219,16 @@ The Rahadoumi officer visible in the Erastus 27 chat may or may not be one of th
 | Riaris Krine | Wormwood likely | Presumed alive | Placement should be confirmed. |
 | Habbly Quarne | Wormwood likely | Presumed alive | Placement should be confirmed. |
 | Caulky Tarroon | Wormwood likely | Presumed alive | Placement should be confirmed. |
+| Maheem / Muheem | Wormwood likely | Presumed alive | Believed Wormwood-side; Rak has kill-if-a-moment-arises; Sho marked him for caution. |
+| Kipper | Wormwood likely | Presumed alive | Believed Wormwood-side. |
+| Patch Patchsalt | Wormwood likely | Presumed alive | Believed Wormwood-side; Rak sheet lists indifferent; true attitude still needs confirmation. |
 | Other eight captured Man's Promise survivors | Wormwood | Unknown names / presumed alive at split | Went with the Wormwood after Erastus 27; later fates unresolved. |
 
 ## Dead / Lost / Removed
 
 | Character | Status | Notes |
 |---|---|---|
+| Harmak Gruft | Dead before start | Body in cage on Wormwood; named state item but not living first-day crew. |
 | Man's Promise shipwide dead | Dead | More than thirty deaths per Kahina's accurate survivor testimony. Exact total requires canon starting crew count minus survivors. |
 | Fifteen map-visible Man's Promise-side figures | Dead | Confirmed by recovered fight map as visible / represented Man's Promise-side deaths during boarding. This is not the full shipwide death toll. |
 | Man's Promise captain | Dead | Killed in the captain's cabin during the boarding; blood remained splashed across the floor, desk, and walls when Mirei later performed there for Plugg. |
@@ -227,7 +237,6 @@ The Rahadoumi officer visible in the Erastus 27 chat may or may not be one of th
 | Rosie Cusswell | Dead / lost at sea | Lost during storm despite rescue efforts. |
 | Aretta Bansion | Dead | Died after conflict with Sho in the bilges. |
 | Giffer Tibbs | Dead | Wormwood-side casualty during Man's Promise boarding; recovered map confirms death below port-side stairs; Sho notes possible foul play with body and need reconstruction. |
-| Harmak Gruft | Dead | Body caged on Wormwood. |
 | Kor'al / Cor'Wal Daraa | Dead | Man's Promise sailor; brother of Nor'gal / Nor'Gal per Sho notes; likely among shipwide dead, exact map representation unresolved. |
 
 ## Faction Buckets
@@ -243,12 +252,8 @@ Likely:
 - Slippery Syl Lonegan
 - Jaundiced Jape
 - Fipps Chumlett
-- possibly Maheem, if Man's Promise-side
-- possibly Kipper, if present and capable
 - potentially Owlbear if not redirected by prior friendship
 - any hostile Wormwood sailors whose survival depends on Plugg
-
-Patch Patchsalt is officer-adjacent in baseline assumptions, but Rak's sheet lists Patch as indifferent. This conflict needs resolution.
 
 ### PC / Ally Leaning
 
@@ -258,12 +263,12 @@ Likely or player-evidenced:
 - Ambrose Kroop
 - Tilly Brackett
 - Barefoot Samms Toppin, pending final placement confidence
-- Badger Medlar, pending placement confirmation
+- Badger Medlar
+- Jack Scrimshaw, pending stance confirmation
 - Ratline Rattsberger, pending stance confirmation
 - Conchobhar, pending placement confirmation
 - Goyle Onórach, conditionally and potentially with quartermaster weight
 - possibly Owlbear if befriended
-- possibly Jack Scrimshaw, per Rak sheet friendly? note
 
 ### Man's Promise Survivor Bloc
 
@@ -302,6 +307,18 @@ Before running the return to the Man's Promise, determine or confirm:
 12. Token-by-token identification from the recovered Man's Promise map for surrendered and injured figures.
 13. Canon starting crew count and final Man's Promise death toll.
 
+## Count Snapshot
+
+| Step | Count |
+|---|---:|
+| Locked / strong Wormwood-origin Man's Promise transfers | 20 |
+| Six named captured Man's Promise survivors assigned to Plugg | +6 |
+| Man's Promise storm-onset count, current working count | **26** |
+| Add Conchobhar if confirmed Man's Promise-side | +1 |
+| Man's Promise storm-onset count with Conchobhar | **27** |
+| Wormwood after split, current working count | **18** |
+| Wormwood after split if Conchobhar is Man's Promise-side | **17** |
+
 ## Open Questions
 
 - Canonize the Man's Promise starting crew count and derive the full death toll.
@@ -309,14 +326,10 @@ Before running the return to the Man's Promise, determine or confirm:
 - Identify the eight Man's Promise survivors who went Wormwood-side and resolve their later fate.
 - Resolve the identity and fate of the Rahadoumi officer visible in the Erastus 27 chat.
 - Use the recovered Man's Promise map to identify every surrendered token and every injured Wormwood crew token by name.
-- Resolve Badger placement and confirm why Rak's sheet lists her helpful.
-- Resolve Maheem placement and why Rak wants to kill him if a moment arises.
-- Resolve Sho's Maheem/Muheem, Fipps, Jaundiced, and Slippery watch-list context.
-- Resolve Samms, Jack, Ratline, Conchobhar, and Tam exact Arodus 5 positions.
+- Confirm Conchobhar placement after the Erastus 27 split.
+- Confirm whether Maheem, Kipper, and Patch being Wormwood-side should be locked as canon or left as strong GM belief.
+- Confirm exact Arodus 5 positions for Badger and Jack aboard the Man's Promise.
 - Resolve what Sho needs to discuss with Ratline.
-- Resolve Kipper and Patch placement.
-- Reconcile Patch baseline hostility with Rak sheet's indifferent note.
-- Confirm which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard at the cold open.
 - Resolve Nor'Gal / Nor'gal and Cor'Wal / Kor'al spellings.
 - Confirm whether Owlbear is befriended by Sho or another PC.
 - Confirm exact hostile/friendly/helpful attitudes from the old influence tracker if available.
