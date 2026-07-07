@@ -5,6 +5,7 @@
 - Type: Ship's Log
 - Maturity: Draft / canon-candidate
 - Source spine: `source-spines/wormwood-erastus-5-first-day.md`
+- Log voice: End-of-day official shipboard duty log, compiled from watch/officer reports under Wormwood command authority; see `ship-logs/README.md`
 - Scope: First day aboard the Wormwood
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
