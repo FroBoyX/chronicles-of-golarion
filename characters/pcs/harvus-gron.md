@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Harvus light timeline notes, Rosie fiddle-return scene, and post-Rosie rage confession
+- Maturity: Draft, expanded with Harvus light timeline notes, Rosie fiddle-return scene, post-Rosie rage confession, and Sho player-memory perspective on Harvus' rage
 - Scope: Book One continuity, current state, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -204,11 +204,19 @@ Harvus later learned from Sho that Scourge had tried to have her killed and that
 
 Harvus' notes record that the thought of this villainy made his blood boil and that he would see Scourge's blood spilled.
 
+Sho's player-memory perspective clarifies that this reaction alarmed Sho rather than reassuring her. She was not expecting such a reaction from someone who had willingly killed others, especially not in relation to defending her honor.
+
 ## Man's Promise and Bonewrack
 
 ### Boarding the Man's Promise
 
 Harvus boarded the Man's Promise, was shot repeatedly, killed multiple defenders, and noted that Sho was bothered by the amount or nature of the killing.
+
+From Sho's player-memory perspective, Sho had seen Harvus before the assault as a kindred spirit: someone who could fight back against the cruelty of their situation and might be trusted to help. After the assault, she severely doubted whether he could control his rage when it mattered.
+
+Sho experienced Harvus' violence differently from Rak's. Rak's violence felt like malice to Sho; Harvus' felt like anger lashing out at any perceived threat. Even with that distinction, Sho felt powerless to stop both and hated both in the moment.
+
+Sho thinks Harvus may have understood afterward why surrendered enemies mattered, but was too prideful to admit it. This is Sho's interpretation, not confirmed Harvus interiority.
 
 After the ship was taken, Harvus spent needed time aiding Sandara's recovery.
 
@@ -373,6 +381,8 @@ After Rosie's loss, Harvus explicitly named Scourge rending his wing and Rosie's
 
 Harvus' own notes state that after hearing Sho had been boxed and Scourge had tried to have her killed, Harvus wanted Scourge's blood spilled.
 
+Sho's player-memory perspective marks that response as alarming to Sho, not purely protective, because she had already seen Harvus willingly kill others during the Man's Promise battle.
+
 Harvus' revenge remains unresolved.
 
 ### Rak Wraithraiser
@@ -394,6 +404,14 @@ Her choice to support him during the rescue matters, especially because she had 
 ### Sho Astor
 
 Sho is a comrade from the Wormwood and Man's Promise, but she is currently separated aboard the Man's Promise.
+
+Before the Man's Promise assault, Sho saw Harvus as a kindred spirit: someone who could fight back against the cruelty of their situation and might be trusted to help if the situation arose.
+
+After the Man's Promise assault, Sho severely doubted whether Harvus could control his rage when it mattered. She distinguishes his violence from Rak's: Rak's felt like malice to her, while Harvus' felt like anger lashing out at any perceived threat. Both still made her feel powerless, and she hated both in that moment.
+
+Sho hopes Harvus' rage can be directed toward noble goals. From her perspective, Harvus is angry mostly about the right things, but he needs to direct that anger at those who deserve it and avoid collateral damage.
+
+For Sho to fully trust Harvus, she would need him to admit that his anger has hurt or killed people who did not deserve it and vow to try to do better.
 
 Harvus learned earlier that Sho had been boxed by Scourge and reacted with intense rage.
 
@@ -482,3 +500,5 @@ His presence can still affect legitimacy because he has done something the crew 
 - Did Rosie's death affect Harvus' later refusal to abandon Sandara?
 - How does Harvus react if the crew discusses captaincy?
 - Did Ratline, Conchobhar, Badger, and Samms become mechanically friendly/helpful or only socially warmer?
+- Does Harvus acknowledge that his anger hurt or killed people who did not deserve it?
+- Does Harvus vow to direct his rage more carefully, or does Sho's distrust persist?
