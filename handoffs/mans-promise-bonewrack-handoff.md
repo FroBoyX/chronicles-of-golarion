@@ -102,7 +102,7 @@ Of those fourteen, the archive currently tracks **six named survivors assigned t
 - Merchiel V'giatore — rigger; restrained Nor'gal in first-night Rak confrontation
 - Nor'gal Daraa — swab; revenge thread for dead brother Kor'al / Cor'Wal
 
-The other eight surviving captured sailors are count-acknowledged but not currently named relaunch actors.
+The other eight surviving captured sailors are count-acknowledged but **not** part of Plugg's Man's Promise skeleton crew. Current GM correction places them with the **Wormwood** after the Erastus 27 ship split. Their identities, duties, and later relevance remain unresolved.
 
 ## Current Relaunch State
 
@@ -167,7 +167,7 @@ Harvus and Mirei helped rescue Sandara, Tilly, and Goyle from Riptide Cove. Goyl
 - Whether Owlbear is controllable by Plugg or moved by Sho's mercy.
 - Whether Fipps reaches the ship before the fork collision resolves.
 - Whether the Man's Promise can be sailed after a mutiny given casualties and loyalties.
-- Exact year cleanup for Arodus 5 docs if any still preserve 4691 after 4712 correction.
+- Exact identities and later Wormwood-side duties of the eight non-skeleton Man's Promise survivors.
 
 ## Output Style
 
