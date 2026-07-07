@@ -224,13 +224,11 @@ And with little fanfare, the Wormwood slipped out of the port.
 - Mirei passes close enough to Sho's removal to see something she does not understand, then is followed by Syl, sapped near the water, searched, and carried/dragged toward the Wormwood with Tam helping get her aboard.
 - Rak is set up through Melina Drakesworn and collected by Patch and Shivikah after Scourge's signal.
 - Harvus is baited by Scourge's arranged tavern fight, drugged, ambushed by Tam/Maheem/Jape with Aretta's strike, and deliberately wing-injured by Scourge after he is down.
-- Conchobhar is press-ganged more quietly amid the night's work.
+- Maheem's later `tamed` wording and Harvus' emotional reaction to it are preserved for a later revelation.
+- Conchobhar is press-ganged more quietly amid the night's work; his exact assailant remains unspecified.
 - Crimson volunteers and is not press-ganged.
 - The Wormwood leaves Port Peril under cover of night.
 
 ## Open Checks
 
-- Confirm whether Conchobhar's exact collector should remain unspecified or be assigned later.
-- Confirm whether Mirei's near-observation of Sho's removal should remain locked as written.
-- Confirm whether Harvus later learning Maheem's `tamed` wording should appear in a later Harvus/Scourge discovery rather than this Erastus 4 narrative.
-- Confirm whether an Erastus 4 Ship's Log should be created or whether this target remains narrative-only.
+- Confirm whether an Erastus 4 Narrative Chat Scene is needed later.
