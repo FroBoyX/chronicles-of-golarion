@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, recovered boarding-map evidence, corrected shipwide death-toll scope, and Erastus 29 course-change evidence
+- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, recovered boarding-map evidence, corrected shipwide death-toll scope, Erastus 29 course-change evidence, and Rickety's Squibs course-whisper evidence
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -136,6 +136,22 @@ Plugg's conduct later that morning strengthens the course-change evidence. When 
 
 This is the clearest recovered evidence that the course change had become visible to attentive crew before the storm / Bonewrack crisis fully exposed Plugg's intentions.
 
+## Erastus 29 Course Whispers and Rickety's Squibs
+
+The same day, the course-change concern spread into quiet crew whispers.
+
+Samms Toppin woke Harvus privately and asked whether Sandara had talked to him. Samms said Sandara believed the Man's Promise was going east, and guessed they might be heading toward Bloodcove. Harvus whispered that Plugg and Scourge were probably up to something.
+
+Samms explicitly trusted Harvus and Sandara and wanted to see if they could get a few more solid allies. She also warned that many people hated Sho / "that monk," making Sho's reputation part of the ship's political danger.
+
+Later in the galley after dinner, Kroop called Rak for a private talk and included Sandara when she arrived. Kroop said Plugg was not worth his salt and should not be expected to follow orders now that Harrigan was out of sight.
+
+Sandara had been calculating the course change all day and confirmed they were certainly going east. She said there were many whispers in the crew, but that the talk was dangerous and they needed more information first.
+
+Kroop identified the likely destination as **Rickety's Squibs**, west of Bloodcove. He explained that Rickety Hake could refit a ship into a squib by changing its rigging, shape, and features until it was unrecognizable.
+
+Sandara concluded that if Plugg was heading there, he had truly betrayed Barnabas Harrigan. She told Rak and Kroop to keep the information between them and trust no one.
+
 ## Erastus 29 Mirei Duties Escalation
 
 The same morning, Plugg added food-tasting to Mirei's duties. He ordered her to taste both dishes before he ate and then said this was now part of her duties.
@@ -145,6 +161,8 @@ When Scourge called Mirei "wench," Mirei objected. Plugg stopped Scourge, appear
 Plugg then ordered Mirei to leave and return to sing in twenty minutes, warning her not to be late.
 
 This scene shows Plugg escalating from private possession and performance to service, testing, humiliation, and controlled access to his chart / command space.
+
+That night, Plugg pressured Mirei to formally agree to be his entertainer. He promised officer-like respect, relief from swab work, and protection, but demanded a new name by morning, gave her the dead female captain's clothing and belongings, and threatened to give her to Scourge if she disobeyed.
 
 ## Campaign State
 
@@ -165,6 +183,10 @@ The Man's Promise is no longer headed toward Port Peril by Erastus 29.
 Sandara notices the course change and warns Harvus.
 
 Tilly knows some crew are worried Plugg may be taking the Man's Promise for himself.
+
+Samms privately warns Harvus that the ship is going east and that they need solid allies.
+
+Kroop identifies Rickety's Squibs as the likely destination and explains the squibbing of a ship as changing its rigging, shape, and features until it becomes unrecognizable.
 
 Plugg is seen quickly folding a chart in the locked captain's cabin when Mirei brings him food.
 
@@ -300,6 +322,8 @@ Important for private conversation, food, morale, and practical crew survival.
 
 On Erastus 29, Kroop offered Rak the second hammock in the cook's cabin, saying it offered more privacy and that the walls did not listen.
 
+Later that day, Kroop used the galley as the private space where Rak and Sandara learned the likely Rickety's Squibs destination.
+
 ### Crew Berths
 
 Where informal politics, whispers, and fear spread.
@@ -355,6 +379,7 @@ On Erastus 29, Mirei asked Tilly to watch for it, hoping someone aboard the Man'
 - Mirei's prior placement in Plugg's cabin makes her both witness and target within Plugg's command space.
 - Kahina's death-toll accusation is accurate enough to treat as real survivor truth; the final exact count depends on the canon crew complement.
 - The Erastus 29 course-change warning means some crew already suspected Plugg before Bonewrack made his betrayal obvious.
+- Kroop, Sandara, Samms, Rak, and Harvus are all connected to early anti-Plugg information channels before the open crisis.
 
 ## Possible Outcomes
 
@@ -377,5 +402,6 @@ Possible states include:
 - Recover Mirei's direct observation of the blood in the captain's cabin, if available.
 - Confirm whether the Erastus 29 date is fully locked.
 - Confirm whether Mirei saw enough of Plugg's chart to infer the course change.
-- Confirm what Kroop wanted to discuss with Rak that night.
 - Confirm who took Mirei's harp and whether it is still aboard the Man's Promise.
+- Confirm whether Samms' "that monk" is Sho and whether Samms knows Sho's current hot-box status.
+- Confirm whether Rak moved into Kroop's cook-cabin hammock before or after the Rickety's Squibs conversation.
