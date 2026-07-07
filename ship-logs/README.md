@@ -2,15 +2,37 @@
 
 ## Voice / Hand
 
-Wormwood Ship's Logs are written as **end-of-day official shipboard duty-log entries** compiled from watch/officer reports.
+Ship's Logs are written as **end-of-day official shipboard duty-log entries** compiled from watch/officer reports.
 
-They are **not** Captain Harrigan's personal diary and not a real-time deck-watch transcript.
+They are **not** a captain's personal diary and not a real-time deck-watch transcript.
 
 Default hand:
 
 - An unnamed shipboard log-keeper / duty officer working under the authority of the ship's command structure.
-- On the Wormwood, this means the log reflects the administrative hand of the ship under Harrigan's command and, for daily crew discipline and assignments, under Mr. Plugg's practical authority.
+- The log's wording should reflect the ship's current command authority, but not necessarily the literal handwriting or private voice of the captain.
 - The voice should feel like a terse operational record rather than literary narration.
+
+## Wormwood Voice
+
+On the Wormwood, the log reflects the administrative hand of the ship under **Captain Barnabas Harrigan's** command and, for daily crew discipline and assignments, under **Mr. Plugg's** practical authority.
+
+It should not read as Harrigan's personal thoughts or Plugg's private diary.
+
+## Man's Promise Voice
+
+After Plugg is made captain of the **Man's Promise**, the ship-log convention continues, but the command authority changes.
+
+Man's Promise logs should be treated as official end-of-day ship records compiled by an unnamed duty hand / log-keeper under **Captain Plugg's** authority, with **Master Scourge** as the major enforcement presence when applicable.
+
+This means:
+
+- the log may become smaller, rougher, and more exposed to Plugg's command priorities than the Wormwood log;
+- it still should not be written as Plugg's private internal monologue;
+- it may flatten coercion, fear, dissent, or incompetence into official phrasing;
+- it should record visible decisions, punishments, course changes, crew condition, and operational problems;
+- it should not know private PC motives, hidden survivor politics, or Plugg's thoughts unless those are visible or formally acted on.
+
+If command of the Man's Promise changes again, future logs should change command authority accordingly while keeping the same official-log form.
 
 ## Voice Rules
 
@@ -22,8 +44,8 @@ Use:
 
 Avoid:
 
-- Harrigan's personal thoughts or theatrical voice;
-- Plugg's private motives unless they were formally recorded or visible as action;
+- captain's personal thoughts or theatrical voice;
+- private motives unless they were formally recorded or visible as action;
 - player-facing emotional interiority;
 - exact dialogue unless a log would plausibly preserve it as an order, rule, or formal command;
 - hidden PC knowledge;
