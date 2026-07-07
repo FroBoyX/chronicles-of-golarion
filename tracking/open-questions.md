@@ -3,14 +3,16 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index
-- Scope: unresolved reconstruction questions that cross chats or files
+- Maturity: Working index, corrected with Erastus 27 ship-split model
+- Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
 
 This file does not replace local Open Questions sections in individual docs.
 
 Use it for cross-cutting questions that affect current relaunch, player packets, or multiple dossiers.
+
+For the corrected Man's Promise / Wormwood split and crew-viability reference, use `state/mans-promise-crew-viability-reference.md`.
 
 ## Current Relaunch Questions
 
@@ -28,8 +30,22 @@ Use it for cross-cutting questions that affect current relaunch, player packets,
 - Who can actually sail the Man's Promise after a mutiny?
 - Which riggers remain alive, capable, and willing?
 - Which swabs remain alive, capable, and willing?
+- Can the Man's Promise meet or approximate the PF1 sailing ship **Crew 20** effective-operations reference after casualties, abductions, faction refusal, and possible mutiny?
 - Would the crew accept Sho, Harvus, Rak, Mirei, Goyle, Sandara, or another figure as a command solution?
 - Which sailors would flee, abstain, or submit to whoever wins?
+
+### Erastus 27 Ship Split / Skeleton Crew
+
+- Which Wormwood crew were transferred to the Man's Promise skeleton crew beyond the locked evidence set?
+- Which post-Erastus 27 scenes prove each transferred Wormwood sailor's Man's Promise-side status?
+- Maheem: Man's Promise or Wormwood at relaunch?
+- Patch Patchsalt placement and true attitude.
+- Kipper placement and status after battle.
+- Conchobhar Turlach Shortstone placement.
+- Badger Medlar: confirm Man's Promise placement or downgrade to low-confidence social fragment only.
+- Jack Scrimshaw: confirm whether his Erastus 29–30 line is anchored or displaced.
+- What are the names and later Wormwood-side fates of the other eight captured Man's Promise survivors who went with the Wormwood?
+- Who was the Rahadoumi officer visible in the Erastus 27 chat, and was that officer one of the eight who went with the Wormwood?
 
 ### Man's Promise Survivors
 
@@ -38,7 +54,6 @@ Use it for cross-cutting questions that affect current relaunch, player packets,
 - Did Ebony Saable witness Sho's attempted mercy or the later slaughter?
 - What is Ebony's exact relationship to Sho beyond the "monk man" identification?
 - How does Nor'gal's revenge thread interact with Sho's guilt and Kor'al / Cor'Wal's death?
-- Who were the eight non-skeleton Man's Promise survivors who went with the Wormwood, and what later status or duties did they have there?
 
 ### Sho Astor
 
@@ -76,16 +91,6 @@ Use it for cross-cutting questions that affect current relaunch, player packets,
 - How does Rak feel about Harvus losing the spear used to kill the Whale?
 - Which player-sheet attitude notes reflect actual influence state versus Rak/player impression?
 
-### NPC Placement / Loyalty
-
-- Badger Medlar: Man's Promise or Wormwood at relaunch?
-- Maheem: Man's Promise or Wormwood at relaunch?
-- Patch Patchsalt placement and true attitude.
-- Kipper placement and status after battle.
-- Tam Tate placement and true attitude.
-- Samms, Jack, Ratline, Conchobhar placement.
-- Whether Owlbear's mercy bond with Sho is actionable against Plugg.
-
 ### Items
 
 Track item questions primarily in `state/current-item-questions.md`; this section only names cross-cutting items.
@@ -97,24 +102,25 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Sandara's tricorne / rescued belongings.
 - Rosie's fiddle and its status after her death.
 
+### Timeline / Year Cleanup
+
+- Current GM correction says opening year is 4712 AR.
+- Some older current-state docs may still preserve 4691 AR.
+- Audit active chronology docs and correct only where they conflict with the locked 4712 timeline.
+
 ## Resolved Questions
-
-### Non-Skeleton Survivor Transfer Placement
-
-- Resolved: after Harrigan's Erastus 27 example execution left 14 captured Man's Promise survivors, the six named survivors were assigned to Plugg's Man's Promise skeleton crew.
-- Resolved: the other eight surviving captured Man's Promise sailors went with the Wormwood after the Erastus 27 ship split.
-- Still unresolved: the eight sailors' identities, Wormwood-side duties/status, and whether any later re-enter the record.
-
-### Active Relaunch Year Cleanup
-
-- Resolved for active relaunch-facing files: the current campaign frame now uses **Arodus 5, 4712 AR** in `README.md`, `chronology/current-state.md`, `state/current-ship-state.md`, and `chronicles/the-fork.md`.
-- Remaining 4691 references in handoffs or queue records should be treated as cleanup-history references unless a later search finds an active date assertion.
 
 ### Ebony Saable Identity
 
 - Resolved: Ebony Saable is Sho's referenced "monk man."
 - Resolved: Ebony is one of the six named Man's Promise skeleton-crew survivors.
 - Still unresolved: his exact stance, physical position, and relationship to Sho.
+
+### Other Eight Captured Man's Promise Survivors — Current Placement
+
+- Resolved: The other eight surviving captured Man's Promise crew went with the Wormwood after the Erastus 27 ship split.
+- Still unresolved: their names, whether the visible Rahadoumi officer is among them, and their later Wormwood-side fates.
+- State impact: They are not part of the Arodus 5 Man's Promise / Bonewrack actor pool unless later evidence brings them back.
 
 ### Mirei Day 2 Performance
 
