@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak Foundry sheet evidence, Erastus 16 reefclaw reward, and GM resolution of Rak's role in Giffer Tibbs' death
+- Maturity: Draft, expanded with Arodus 5 split-scene log, Rak Foundry sheet evidence, Erastus 16 reefclaw reward, GM resolution of Rak's role in Giffer Tibbs' death, and Sho player-memory perspective on Rak's violence
 - Scope: Book One continuity, current state, mechanics snapshot, and open threads
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
@@ -191,6 +191,8 @@ While moving through the fog, Rak intentionally stomped or trampled Giffer in an
 
 No character directly saw Rak stomp Giffer with intention. What others could observe was that Giffer had been notably trampled. Preserve this knowledge split: GM truth establishes Rak's culpability, but Sho and other characters do not automatically know it.
 
+From Sho's player-memory perspective, the battle created a sudden shift in Sho's view of Rak. Before the Man's Promise, Sho saw him as an oddity: chaotic, occasionally funny, and not clearly cold. During the boarding, she saw him become a murderer in moments and ignore the limits she tried to set. This is Sho's interpretation, not a statement of Rak's internal motives.
+
 This creates one of Rak's core tensions:
 
 > Useful pirate competence versus uncontrolled or excessive violence.
@@ -376,11 +378,25 @@ Sho has fought beside Rak and benefited from his rescue actions.
 
 She is also disturbed by his violence.
 
+Before the Man's Promise battle, Sho saw Rak as an oddity: chaotic, occasionally funny, and not obviously cold or murderous. The sudden switch during the boarding confused her and changed her view.
+
+Sho does not think Rak meaningfully thought about why surrendered enemies mattered to her. From Sho's perspective, Rak's violence can look like a child doing something he thinks is fun, which makes him extremely dangerous. This is Sho's perception, not a confirmed statement of Rak's internal morality.
+
+Sho was disturbed both by the violence itself and by Rak's refusal to respect the limits she tried to set. Rak ignoring those limits made Sho feel that he did not see her as enough of a threat to stop him from doing what he wanted.
+
 This relationship may become one of the key tests of whether the PCs actually become a party.
 
 Rak knows Sho was beaten unconscious and removed after the beach confrontation, but not that she has made a life-for-life bargain with Kahina.
 
 After the Man's Promise battle, Sho does not trust Rak. Her distrust is justified by what she saw of his violence, even though she does not know the full GM truth of Giffer's death.
+
+Sho believes Rak can be reasoned with only through something that interests him or something vital to his survival. She does not believe appealing to his moral compass is useful.
+
+Sho is already considering that Rak may need to be stopped. Her hard line would be another situation where an innocent person is at risk and Rak shows no sign of stopping.
+
+If the Man's Promise crew mutinies successfully and Rak and Harvus are not aboard, Sho might be willing to leave them on Bonewrack Isle rather than continue with them.
+
+For Sho to trust Rak again, she would need to see real remorse. Without remorse, she sees Rak as a means to an end; once she gets what she needs, he may be stopped or left behind.
 
 If Sho later learns Rak intentionally stomped Giffer while Giffer was stable and helpless, the Sho player states it would become another reason Sho believes she may need to take Rak down in the future.
 
@@ -388,7 +404,7 @@ If Sho later learns Rak intentionally stomped Giffer while Giffer was stable and
 
 GM truth establishes that Rak intentionally stomped or trampled Giffer while she was unconscious but stable, destabilizing her and causing her death.
 
-No character directly saw Rak's intent. This is hidden culpability unless later exposed by testimony, magic, confession, or reconstructed evidence.
+No character directly saw Rak's intent. This is hidden culpability unless later exposed by testimony, magic, truth effects, confession, or reconstructed evidence.
 
 ### Harvus G'ron
 
@@ -534,5 +550,5 @@ For future 5e or system conversion, preserve:
 - Which items did Rak actually recover after Harrigan ordered Grok to return anything taken from him?
 - Does Rak know or care that his spear killed the Whale?
 - Is the +1 returning spear lost forever?
-- Does Rak ever acknowledge Giffer's death or his role in it?
-- Does any later testimony, magic, confession, or evidence expose Rak's intent toward Giffer?
+- Does any later testimony, magic, truth effect, confession, or evidence expose Rak's intent toward Giffer?
+- Does Rak show remorse for the Man's Promise violence in a way Sho can recognize?
