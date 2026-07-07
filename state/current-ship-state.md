@@ -14,7 +14,9 @@ It is not a plot outline. It is the state from which play resumes.
 
 ## Date
 
-Arodus 5, 4691 AR.
+Arodus 5, 4712 AR.
+
+The older 4691 AR value is superseded by the current GM correction preserved in the master handoff.
 
 ## Man's Promise
 
