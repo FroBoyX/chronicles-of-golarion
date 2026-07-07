@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, created from source extract and GM identification; updated with survivor-set confirmation
+- Maturity: Draft, created from source extract and GM identification; updated with survivor-set confirmation and Erastus 29 nightshift assignment
 - Scope: Man's Promise rigger, Sho "monk man" reference, confirmed tracked survivor
 
 ## Overview
@@ -59,6 +59,14 @@ The exact content of Sho's reference still needs to be tied back to the recovere
 
 Do not infer more than the identification and survivor-set status: Ebony's actual attitude toward Sho, whether he trusts her, and whether he supports freeing her remain unresolved.
 
+## Erastus 29 Nightshift
+
+At the start of Erastus 29 nightshift, Fipps Chumlett assigned Harvus to the mainsail with "the dark one."
+
+GM clarification confirms this was a shot at Ebony Saable.
+
+This places Ebony in the nightshift rigging assignment with Harvus and confirms that the insult referred to Ebony rather than an unidentified sailor.
+
 ## Current State
 
 - Location: Man's Promise survivor context; exact physical position pending confirmation
@@ -76,6 +84,12 @@ Ebony is now identified as the "monk man" Sho referenced.
 His exact relationship with Sho is unresolved.
 
 He may matter if Sho's attempts to make amends with Man's Promise survivors involved him, or if he witnessed the boarding, surrender promises, or aftermath.
+
+### Harvus G'ron
+
+Ebony was assigned to the mainsail with Harvus on Erastus 29 nightshift.
+
+This is a direct work-placement connection, though no meaningful conversation is yet recovered.
 
 ### Kahina Bukekayo
 
