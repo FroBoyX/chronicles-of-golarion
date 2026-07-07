@@ -38,7 +38,7 @@ Use it for cross-cutting questions that affect current relaunch, player packets,
 - Did Ebony Saable witness Sho's attempted mercy or the later slaughter?
 - What is Ebony's exact relationship to Sho beyond the "monk man" identification?
 - How does Nor'gal's revenge thread interact with Sho's guilt and Kor'al / Cor'Wal's death?
-- What happened to the unnamed eight surviving captured Man's Promise crew not tracked as named skeleton-crew actors?
+- Who were the eight non-skeleton Man's Promise survivors who went with the Wormwood, and what later status or duties did they have there?
 
 ### Sho Astor
 
@@ -98,6 +98,12 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Rosie's fiddle and its status after her death.
 
 ## Resolved Questions
+
+### Non-Skeleton Survivor Transfer Placement
+
+- Resolved: after Harrigan's Erastus 27 example execution left 14 captured Man's Promise survivors, the six named survivors were assigned to Plugg's Man's Promise skeleton crew.
+- Resolved: the other eight surviving captured Man's Promise sailors went with the Wormwood after the Erastus 27 ship split.
+- Still unresolved: the eight sailors' identities, Wormwood-side duties/status, and whether any later re-enter the record.
 
 ### Active Relaunch Year Cleanup
 
