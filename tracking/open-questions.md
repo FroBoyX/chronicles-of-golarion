@@ -62,7 +62,8 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - What exact item did Harrigan give Sho: pendant, locket, captain's amulet, or another object?
 - Does Sho still have the Harrigan object at the hot-box point?
 - What did Sho recover from Grok, and what remains on the ship?
-- Does Sho know any evidence tying Rak to Giffer's death?
+- What actually killed Giffer after Sho last saw or believed her stable: arrows, melee, Rak action, delayed care, reopened wounds, or another cause?
+- Was Sho's memory that she stabilized Giffer during the Man's Promise fight supported by recovered chat-log or GM evidence?
 - What was the exact content of Sho's "monk man" reference now identified as Ebony Saable?
 
 ### Harvus G'ron
@@ -121,6 +122,12 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Resolved: The other eight surviving captured Man's Promise crew went with the Wormwood after the Erastus 27 ship split.
 - Still unresolved: their names, whether the visible Rahadoumi officer is among them, and their later Wormwood-side fates.
 - State impact: They are not part of the Arodus 5 Man's Promise / Bonewrack actor pool unless later evidence brings them back.
+
+### Sho / Giffer Character Knowledge
+
+- Resolved from Sho player memory: Sho did **not** have evidence tying Rak or any specific culprit to Giffer's death.
+- Resolved from Sho player memory: Sho knew Giffer had been stable the last time Sho saw her, then later dead without an obvious cause.
+- Still unresolved: the actual death mechanism and whether Sho's remembered stabilization is supported by recovered chat-log or GM evidence.
 
 ### Mirei Day 2 Performance
 
