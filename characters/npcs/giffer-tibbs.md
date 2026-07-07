@@ -3,15 +3,17 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, created after recovered Man's Promise tactical map evidence and updated with Sho player-memory answer on Giffer uncertainty
-- Scope: Wormwood crew casualty, Mirei performance connection, Man's Promise battle death, Sho command-guilt thread
-- Source basis: Recovered chat summaries, current Man's Promise battle reconstruction, Sho notes, recovered tactical map evidence, and Sho player-memory evidence
+- Maturity: Draft, updated with GM resolution of death mechanism
+- Scope: Wormwood crew casualty, Mirei performance connection, Man's Promise battle death, Sho command-guilt thread, Rak culpability / character-knowledge split
+- Source basis: Recovered chat summaries, current Man's Promise battle reconstruction, Sho notes, recovered tactical map evidence, Sho player-memory evidence, and GM resolution in `evidence/gm-notes/giffer-tibbs-death-gm-resolution.md`
 
 ## Overview
 
 Giffer Tibbs was a Wormwood crew member who died during the battle for the Man's Promise.
 
-Her death matters because she was not only an anonymous Wormwood casualty. She had appeared in earlier social context around Mirei's performances, crossed during the boarding, came under Sho's command, and then died amid the confused central-deck fight.
+Her death matters because she was not only an anonymous Wormwood casualty. She had appeared in earlier social context around Mirei's performances, crossed during the boarding, came under Sho's command, was stabilized by Sho, and then died after Rak intentionally trampled or stomped her while moving through the fog.
+
+Giffer was the only Wormwood-side casualty in the capture of the Man's Promise.
 
 ## Identity
 
@@ -21,12 +23,14 @@ Her death matters because she was not only an anonymous Wormwood casualty. She h
 - Current status: Dead
 - Death event: Battle of the Man's Promise, Erastus 25, 4712 AR
 - Death location evidence: Below the port-side stairs on the Man's Promise tactical map
+- Death mechanism: Destabilized by Rak intentionally stomping / trampling her while she was unconscious but stable; died from that destabilization after prior arrow and melee injuries
+- Witness status: No one directly saw Rak stomp her with intention; the observable evidence was that Giffer was notably trampled
 
 ## Campaign Role
 
 Giffer helps mark the Man's Promise battle as costly on both sides.
 
-The Wormwood took the ship, but not cleanly. Man's Promise sailors died, and at least one Wormwood-side sailor who crossed onto the ship also died.
+The Wormwood took the ship, but not cleanly. Man's Promise sailors died, and Giffer became the only Wormwood-side casualty of the capture.
 
 ## Known Campaign History
 
@@ -44,19 +48,21 @@ Sho said she would go first.
 
 During the approach, Giffer was hit by arrows but made it across with Harvus.
 
-Earlier reconstruction had uncertainty around whether Giffer died immediately during the fight or later from injuries. The recovered tactical map confirms her death location during the Man's Promise fight: below the stairs on the port side.
+GM resolution establishes that Giffer likely should have stayed behind with Mirei, but chose to board and went down after a combination of arrow and melee action.
 
-This should now be treated as strong placement evidence for Giffer dying during the battle itself.
+Sho stabilized or otherwise solved Giffer's immediate dying condition, then left her to continue trying to hold Rak and Harvus back from causing more damage.
 
-## Death / Foul Play Uncertainty
+While moving through the fog, Rak intentionally stomped or trampled Giffer while she was mechanically unconscious but stable. The action destabilized her and ultimately caused her death.
 
-Existing notes preserve concern that Rak may have directly caused or worsened Giffer's fatal condition, including a GM note that Giffer was silent because Rak had ensured she was downed and another note that Rak intended to stomp Giffer or reopen her wounds while moving past.
+The recovered tactical map confirms her death location during the Man's Promise fight: below the stairs on the port side.
 
-Sho's PCGen notes also record possible foul play with Giffer's body.
+### Death / Foul Play Resolution
 
-The map confirms where Giffer died, but not yet the exact death mechanism.
+Resolved GM truth: Rak intentionally stomped Giffer in an attempt to kill her, causing her to destabilize and die.
 
-Sho player-memory evidence adds Sho's character-side uncertainty: Sho believed Giffer had been stable the last time Sho saw her, then later found or learned that Giffer had died without an obvious cause. Sho did not have evidence tying the death to a specific culprit. Her suspicion of foul play may reflect real uncertainty, guilt over whether her stabilization was enough, or both.
+Knowledge split remains essential. Nobody directly saw Rak stomp Giffer with intention. What could be noticed afterward was that she had been notably trampled.
+
+Sho's PCGen notes record possible foul play with Giffer's body. Sho player-memory evidence adds Sho's character-side uncertainty: Sho believed Giffer had been stable the last time Sho saw her, then later found or learned that Giffer had died without an obvious cause. Sho did not have evidence tying the death to a specific culprit. Her suspicion of foul play may reflect the observed trampling, guilt over whether her stabilization was enough, or both.
 
 Do not write Sho as knowing Rak killed Giffer unless later evidence establishes that she learned it.
 
@@ -72,9 +78,11 @@ If Mirei learns or remembers Giffer's death clearly, that may make the Man's Pro
 
 Sho saw Giffer as another victim of being forced aboard the Wormwood.
 
-Sho's player-memory answer says Sho felt responsible for Giffer because Giffer was under Sho's command during the Man's Promise assault and because Sho remembers stabilizing Giffer before moving on. This stabilization detail is player memory and still needs chat-log or GM confirmation before finalizing as event fact.
+Sho felt responsible for Giffer because Giffer was under Sho's command during the Man's Promise assault. GM resolution now confirms the player-memory beat that Sho stabilized or otherwise solved Giffer's immediate dying condition before leaving her.
 
-Sho's certain character knowledge is narrower: Giffer had been stable the last time Sho saw her, then was dead later, with no obvious cause and no proof of who or what killed her.
+Sho left Giffer because Sho was still trying to restrain Rak and Harvus from doing more damage elsewhere in the battle. That choice unintentionally created the opening Rak used to kill Giffer in the fog.
+
+Sho's character knowledge remains narrower than GM truth: Giffer had been stable when Sho left her, then died later, with the observable sign that she had been notably trampled. Sho had no direct proof of Rak's intent or action.
 
 This uncertainty worsened Sho's guilt. To Sho, it meant no justice for Giffer and another meaningless death.
 
@@ -82,11 +90,9 @@ If Sho later learns that Rak killed Giffer, the Sho player states it would inten
 
 ### Rak Wraithraiser
 
-Rak's exact role in Giffer's death remains unresolved.
+GM resolution establishes that Rak intentionally stomped Giffer while she was unconscious but stable, destabilizing her and leading to her death.
 
-There is concerning evidence that he may have worsened or ensured her downed state during the battle, but the final mechanism needs reconstruction.
-
-This remains player/character-knowledge sensitive: the player believes Rak killed Giffer, but Sho did not have proof.
+Rak's action was not directly witnessed with intent. This remains player/character-knowledge sensitive: GM truth establishes Rak's culpability, but Sho and others do not automatically know it.
 
 ## Campaign Function
 
@@ -97,13 +103,15 @@ Giffer's death can serve as a bridge between two kinds of Man's Promise cost:
 
 She also keeps the battle from being remembered only through PC moral guilt. The lower-crew casualties matter too.
 
-For Sho specifically, Giffer's death reinforces command guilt in a different register than the surrendered Man's Promise sailors: Giffer was on Sho's side of the boarding, was under Sho's command, and still died without justice or clear explanation.
+For Sho specifically, Giffer's death reinforces command guilt in a different register than the surrendered Man's Promise sailors: Giffer was on Sho's side of the boarding, was under Sho's command, had been stabilized by Sho, and still died because Sho could not be everywhere at once.
+
+For Rak specifically, Giffer's death is now a locked example of intentional hidden violence against a helpless target.
 
 ## Open Questions
 
-- What exactly killed Giffer: arrows, melee, Rak's action, delayed care, reopened wounds, or another cause?
-- Did Sho actually stabilize Giffer during the battle, and is that supported by recovered chat-log evidence?
+- Who noticed that Giffer had been notably trampled?
+- What exactly did Sho see, hear, or infer about Giffer's final condition?
 - Did anyone recover, move, loot, or react to Giffer's body after the fight?
 - Did Mirei know Giffer had died?
-- Did Rak ever acknowledge Giffer's death or his possible role in it?
-- Did any NPC witness Sho's attempted stabilization or Giffer's later decline?
+- Did Rak ever acknowledge Giffer's death or his role in it?
+- Does any later testimony, magic, confession, or evidence expose Rak's intent?
