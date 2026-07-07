@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft, seeded from recovered disguise-discovery whispers, Sho player memory, and Sho player disguise answers
-- Scope: Early Wormwood suspicion, disguise truth, secrecy, and later trust/confiding thread
+- Maturity: Draft, seeded from recovered disguise-discovery whispers, Sho player memory, Sho player disguise answers, and Erastus 31 storm fragment
+- Scope: Early Wormwood suspicion, disguise truth, secrecy, later trust/confiding thread, and storm rescue beat
 
 ## Summary
 
@@ -15,6 +15,8 @@ On Erastus 7 / Wormwood Day 3, Mirei noticed through deception / Bluff context t
 Sho later remembered Mirei as the person who noticed early and became someone Sho confided in.
 
 The Sho player has confirmed that once Mirei showed she could and would keep the secret, the initial tension quickly became trust.
+
+During the Erastus 31 storm fight aboard the Man's Promise, Sho also physically intervened when Mirei fell from the rigging, running to where Mirei was going to land and cushioning or catching her fall enough that Mirei got up and thanked her.
 
 ## Sho's Disguise Meaning
 
@@ -67,6 +69,24 @@ Mirei agreed.
 
 This is the key transformation in the relationship: Mirei's knowledge was dangerous at first, then became proof that she could be trusted with something that mattered.
 
+## Man's Promise Storm Beat
+
+During the Erastus 31 storm grindylow fight aboard the Man's Promise, Mirei fell from the rigging in the middle of the storm.
+
+Sho saw the danger, ran toward the place where Mirei was going to land, and cushioned or caught the fall.
+
+Mirei got up and said:
+
+> "Thanks Sho"
+
+Sho sighed with relief and answered:
+
+> "No problem."
+
+This should be treated as a direct table-evidenced rescue / protection beat between Sho and Mirei.
+
+Do not overstate exact mechanics, injury prevented, or emotional interpretation until more logs or player confirmation clarify it.
+
 ## Knowledge Boundaries
 
 - None of the player characters knew Sho's disguise truth at first.
@@ -87,7 +107,9 @@ This creates a layered early trust problem:
 - Mirei keeps it.
 - Trust forms because Mirei protects the secret rather than using it.
 
-This should not be treated as a simple reveal. It is a slow recognition / suspicion / concealment / request / trust sequence.
+The Erastus 31 storm adds a physical protection beat to the relationship: when Mirei falls from the rigging, Sho moves to catch or cushion her rather than letting the storm take the consequence.
+
+This should not be treated as a simple reveal. It is a slow recognition / suspicion / concealment / request / trust sequence that later gains shipboard survival evidence.
 
 ## Campaign Function
 
@@ -99,6 +121,8 @@ Mirei's knowledge of the disguise makes her dangerous to Sho if mishandled, but 
 
 Later, Mirei's own Plugg pressure and betrayal assignment create a mirror: Sho once trusted Mirei with a dangerous secret, and Mirei later feared disappointing Sho when forced into her own dangerous secret.
 
+The storm catch / cushion beat shows that their trust was not only private knowledge. Under crisis, Sho acts physically to protect Mirei.
+
 ## Open Questions
 
 - What exact Day 3 conversation triggered Mirei's initial check?
@@ -107,3 +131,5 @@ Later, Mirei's own Plugg pressure and betrayal assignment create a mirror: Sho o
 - Did Sho mean gender, suli nature, monk identity, or the whole hidden cluster when she says she would admit "who and what she is" if confronted?
 - Which press-gang members searched Sho's belongings and may have learned the disguise truth?
 - Did anyone else notice Sho's disguise before the later whipping / exposure moment?
+- What was Mirei's exact injury state after falling from the rigging on Erastus 31?
+- Did Sho mechanically catch Mirei, cushion her, or reduce fall damage another way?
