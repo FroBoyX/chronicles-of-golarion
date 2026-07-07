@@ -4,7 +4,7 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Source basis: Direct chat logs with GM scene framing, corrected for displaced dinner line
+- Source basis: Direct chat logs with GM scene framing, corrected for displaced dinner line, expanded with Plugg / Mirei night agreement
 - Date candidate: Erastus 29
 - Spoiler scope: GM-facing / character-limited for Plugg-Mirei coercion and chart evidence
 - Canon status: Becomes canon after GM/player sign-off and final date confirmation
@@ -151,7 +151,67 @@ Scourge sat back, smiling or scowling. Plugg dismissed her.
 
 Mirei nodded and rushed out.
 
-The course change was no longer only a worry. Sandara had noticed it. Tilly was asking about it. Kroop was creating a private space. Plugg was hiding charts and adding duties. Mirei was becoming useful to him, but useful did not mean safe.
+That night, Mirei knocked again.
+
+Scourge opened the door and greeted her with the title Plugg had corrected into place.
+
+> "Welcome back, 'Captains' wench."
+
+Then Scourge walked out, leaving her with Plugg.
+
+Plugg asked what the night's entertainment would be. Mirei chose the fiddle again. Plugg accepted that and told her to prepare a song for the next day.
+
+When Mirei asked what kind of song he wanted, Plugg answered:
+
+> "We will cross that bridge IF it comes."
+
+He listened to the fiddle, then judged the performance.
+
+> "A good performance.... but not as good as yesterday."
+
+Then he returned to the business of her status.
+
+> "So... that brings us to that 'unpleasent' wench business."
+
+If Mirei agreed to be his entertainer, Plugg said, she would stay there. She would not have to work as a swab. She would be treated with the respect of an officer on the Man's Promise.
+
+Then he gave permission for her to speak.
+
+Mirei tried to preserve some connection to ordinary ship work. She said she would not mind still helping around the ship. If she did not, she feared the respect she was given would be sarcastic and fake.
+
+She also admitted that she liked entertaining.
+
+Plugg rejected labor as the source of her new station.
+
+> "You will earn respect, with your voice and presence... not the labor, for I will raise you in station along with me as a lady of a pirate lord but you must sing our deeds."
+
+Then his voice went cold.
+
+> "I need an answer..."
+
+Mirei agreed.
+
+Plugg accepted the agreement and set the terms.
+
+> "Good... only I will refer to you as wench. For the rest, you will need a name. Come up with one by the morning..."
+
+The former captain had been a woman. Plugg now gave Mirei the dead captain's clothing and belongings.
+
+> "The captain of this ship was a woman... her clothing... and stuff are yours."
+
+Then the threat came plainly.
+
+> "I will not tolerate ANY disobediance... but should you do my bidding, you will earn the respect of my crew and all who hear of our exploits!"
+
+And then the protection clause.
+
+> "ALSO.... if you do anything wrong... I will give you to Scourge, to do with as he pleases. Until then, you have my protection. Are we clear."
+
+Mirei answered that it was very clear.
+
+Plugg told her he expected her new name in the morning, then ordered her to bed.
+
+The course change was no longer only a worry. Sandara had noticed it. Tilly was asking about it. Kroop was creating a private space. Plugg was hiding charts and adding duties. By night, Plugg was no longer merely using Mirei's performances; he was trying to rename her, re-dress her in the dead captain's place, and attach her to the legend he intended to build for himself.
 
 ## Related Low-Confidence Dinner Fragment
 
@@ -194,6 +254,15 @@ This fragment is low-confidence in placement but useful for Harvus' social stand
 - Plugg added food tasting to Mirei's duties.
 - Plugg struck Mirei and reframed Scourge's insult into "Captain's wench," making the apparent defense into a sharper humiliation and claim.
 - Plugg ordered Mirei to return to sing in twenty minutes and not be late.
+- At night, Scourge greeted Mirei as "Captain's wench" and left her with Plugg.
+- Plugg framed Mirei's new role as an agreement to be his entertainer.
+- Plugg promised officer-level respect and relief from swab labor, but only as a controlled station attached to him.
+- Mirei feared respect without labor would be sarcastic and fake, showing she understood shipboard respect differently from Plugg.
+- Plugg said he would raise her with him as "a lady of a pirate lord" and that she must sing his deeds.
+- Plugg demanded that Mirei choose a new name by morning.
+- Plugg gave Mirei the former female captain's clothing and belongings.
+- Plugg explicitly threatened that if Mirei did anything wrong, he would give her to Scourge to do with as he pleased.
+- Plugg's protection is conditional and proprietary.
 - The Sandara line about someone not being so bad belongs to a separate Harvus / Sandara / Badger dinner fragment, not Plugg's locked cabin scene.
 
 ## Open Checks
@@ -205,3 +274,6 @@ This fragment is low-confidence in placement but useful for Harvus' social stand
 - Confirm who took Mirei's harp and whether it is still aboard the Man's Promise.
 - Confirm whether food-tasting remained one of Mirei's regular duties.
 - Confirm whether the dinner fragment belongs to Erastus 29 and what "the fight yesterday" refers to.
+- Confirm what new name Mirei chose or was expected to choose by morning.
+- Confirm whether Mirei used the former captain's clothing or belongings.
+- Confirm what song Plugg expected for the next day.
