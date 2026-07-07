@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: GM confirmation / reconstruction note
-- Maturity: Current GM truth, corrected after Erastus 27 chat review
-- Scope: Man's Promise attack survivors, Harrigan's example, captain death, and the six named survivors assigned to Plugg's skeleton crew
+- Maturity: Current GM truth, corrected after Erastus 27 chat review and later skeleton-crew transfer correction
+- Scope: Man's Promise attack survivors, Harrigan's example, captain death, the six named survivors assigned to Plugg's skeleton crew, and the eight non-skeleton survivors transferred away with the Wormwood
 - Spoiler scope: GM-facing until survivor politics are revealed in play
 - Canon status: Treat as current truth unless contradicted by stronger direct log evidence
 
@@ -29,6 +29,8 @@ Of those fourteen, the campaign currently tracks **six named Man's Promise survi
 
 The later GM paste listed five names while saying six survivors. The missing sixth in that pasted list is **Kahina Bukekayo**, who is already part of the confirmed skeleton-crew survivor set and is currently aboard the Man's Promise interacting with Sho.
 
+The remaining **eight** surviving captured Man's Promise sailors were **not** part of Plugg's Man's Promise skeleton crew. Current GM correction places them with the **Wormwood** after the Erastus 27 ship split. Their individual names, later duties, and future relevance remain unresolved.
+
 ## Survivor Count Logic
 
 - 15 captured Man's Promise survivors after the attack.
@@ -36,7 +38,8 @@ The later GM paste listed five names while saying six survivors. The missing six
 - 1 weakened captured sailor executed by Harrigan as an example on Erastus 27.
 - 14 captured survivors left alive afterward.
 - 6 of those 14 are the named tracked survivors assigned to the skeleton crew under Plugg.
-- 8 other surviving Man's Promise crew existed after Harrigan's example, but their names, assignments, fates, and whether any remained relevant are not currently tracked.
+- 8 other surviving Man's Promise crew existed after Harrigan's example and went with the Wormwood rather than remaining in Plugg's Man's Promise skeleton crew.
+- The identities, duties, and later status of those eight Wormwood-side survivors remain unresolved.
 
 ## Officer / Captain Correction
 
@@ -98,6 +101,7 @@ Current correction:
 - Do not describe the six named survivors as the only people who survived the attack.
 - Treat the six as the fixed named survivor bloc assigned to Plugg's skeleton crew unless later direct evidence changes the set.
 - Treat the broader survivor count as 15 captured survivors after the attack, then 14 after Harrigan's execution of the weakened sailor.
+- Treat the other eight surviving captured Man's Promise sailors as Wormwood-side after the Erastus 27 split, not as unresolved Man's Promise relaunch actors.
 - Do not state that the Man's Promise captain was thrown overboard after the battle; the captain died during the battle.
 - Do not state that Harrigan threw the only surviving Rahadoumi officer overboard unless later evidence overrides the Erastus 27 chat correction.
 - Do not add other Man's Promise survivors to the named tracked skeleton-crew bloc casually; other sailors existed, but these six are the named survivor set currently relevant to relaunch politics.
@@ -111,8 +115,8 @@ Current correction:
 - Who exactly was the weakened sailor Harrigan threw overboard on Erastus 27?
 - Who was the Rahadoumi officer present in the Erastus 27 chat, and what became of them?
 - Is the Erastus 27 Rahadoumi officer the same officer Sho tried to spare during the battle?
-- What happened to the other eight survivors who were not assigned to the named tracked skeleton crew?
-- Were any of those eight kept aboard the Wormwood, distributed elsewhere, killed later, or left narratively untracked?
+- Who were the other eight survivors who went with the Wormwood rather than joining Plugg's Man's Promise skeleton crew?
+- What duties or status did those eight hold aboard the Wormwood after the ship split?
 - Are Dahrehn, Ebony, Merchiel, and Nor'gal all physically aboard the Man's Promise at the cold open?
 - Which survivors are near Kahina or aware of her test for Sho?
 - Which survivors know Goyle survived?
