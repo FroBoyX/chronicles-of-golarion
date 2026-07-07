@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state accounting ledger
-- Maturity: Working draft
+- Maturity: Working draft, corrected with GM note that Fipps was missed and Harmak was dead before start
 - Scope: Original named Wormwood complement, known deaths, Erastus 27 split disposition, and Man's Promise / Wormwood count reconciliation
 - Canon status: Current GM-provided roster plus existing post-Erastus 27 evidence; unresolved names remain marked unresolved
 
@@ -13,21 +13,31 @@ Use this ledger to account for every named Wormwood-side person from the origina
 
 The working principle is now a **closed roster**, not a vague crowd:
 
-- The original Wormwood complement should be treated as named and countable.
+- The original living Wormwood complement should be treated as named and countable.
 - The only deliberately unnamed people currently in the split accounting are the eight surviving captured Man's Promise sailors who went with the Wormwood after the Erastus 27 split.
 - Do not add generic background Wormwood sailors unless later GM evidence explicitly does so.
 
 ## Count Note
 
-The GM-provided roster pasted into the audit contains **33 names**.
+The GM-provided roster pasted into the audit contained **33 living names**.
 
-Existing campaign state and evidence also require **Fipps Chumlett**, who is not in that pasted list but is a known Wormwood lower-crew NPC and locked Man's Promise-side transfer by post-Erastus 27 evidence.
+The GM then noted two omissions:
 
-That brings the currently enumerated named Wormwood ledger to **34 names**.
+- **Fipps Chumlett** — living Wormwood crew; original role currently marked Unknown.
+- **Harmak Gruft** — dead before start / body-in-cage state, not part of the living first-day crew complement.
 
-The earlier remembered total of **37 crew members aboard the Wormwood on the first day / during trials** therefore still needs reconciliation. If 37 is correct, three additional named entries are missing from this ledger or the earlier count included a category not represented in the pasted roster.
+Current count handling:
 
-## GM-Provided Original Roster
+| Category | Count |
+|---|---:|
+| Pasted living roster | 33 |
+| Add Fipps Chumlett | +1 |
+| Living Wormwood-origin complement at onset / trials | **34** |
+| Add Harmak Gruft as dead pre-start named state | +1 named dead, not living crew |
+
+The earlier remembered **37 living crew** count now looks like an overcount rather than evidence of three missing living sailors. Do not chase phantom unnamed Wormwood crew based on the old 37 until stronger evidence supports it.
+
+## Living Original Wormwood Roster
 
 | # | Character | Original Role | Current Split / Survival Accounting |
 |---:|---|---|---|
@@ -64,14 +74,15 @@ The earlier remembered total of **37 crew members aboard the Wormwood on the fir
 | 31 | "Owlbear" Hartshorn | Captive / Muscle | Man's Promise-side locked earlier as Plugg's cabin / door guard; exact Arodus 5 position unresolved. |
 | 32 | Rak Wraithraiser | Cook's Mate | Man's Promise transfer; Bonewrack Rak group at Arodus 5. |
 | 33 | Ambrose "Fishguts" Kroop | Cook | Man's Promise transfer / cook; likely aboard unless later evidence places him elsewhere. |
+| 34 | Fipps Chumlett | Unknown | Man's Promise-side locked by post-split evidence; Coconut Beach at Arodus 5. |
 
-## Required Added Entry From Existing State
+## Dead Before Start / Not Living Crew
 
-| Character | Original Role | Current Split / Survival Accounting |
+| Character | Status | Accounting Use |
 |---|---|---|
-| Fipps Chumlett | Swab / hostile lower crew | Man's Promise-side locked by post-split evidence; Coconut Beach at Arodus 5. |
+| Harmak Gruft | Dead before start; body in cage on the Wormwood | Named state item, but not counted in the living first-day crew complement. |
 
-## Known Deaths / Removals Before or At Split
+## Known Deaths / Removals From Living Roster Before or At Split
 
 | Character | Removal |
 |---|---|
@@ -80,7 +91,7 @@ The earlier remembered total of **37 crew members aboard the Wormwood on the fir
 | Aretta Bansion | Dead after Sho bilge conflict. |
 | Giffer Tibbs | Wormwood-side casualty during the Man's Promise boarding. |
 
-If Fipps is added to the pasted roster, the current enumerated ledger becomes 34 names. After the four known deaths/removals, the living original Wormwood-origin pool at the Erastus 27 split is 30.
+Starting from the corrected living roster of 34, the four known deaths/removals leave **30 living Wormwood-origin people** at the Erastus 27 split.
 
 ## Locked / Strong Man's Promise Transfers From Original Wormwood Roster
 
@@ -120,49 +131,44 @@ Working locked / strong Wormwood-origin transfer count: **18**.
 
 ## Count Reconciliation
 
-### Using the currently enumerated 34-name ledger
+### Corrected working count
 
 | Step | Count |
 |---|---:|
-| GM pasted roster | 33 |
-| Add Fipps Chumlett from existing state | +1 |
-| Enumerated original Wormwood ledger | 34 |
+| Living original Wormwood roster | 34 |
 | Known deaths / removals before or at split | -4 |
 | Living Wormwood-origin pool at split | 30 |
 | Locked / strong Wormwood-origin transfers to Man's Promise | -18 |
 | Wormwood-origin people left on Wormwood | 12 |
 | Other captured Man's Promise survivors sent Wormwood-side | +8 |
-| Wormwood after split, enumerated floor | 20 |
+| Wormwood after split, corrected working count | **20** |
 
 If Badger is treated as Man's Promise-side, the Man's Promise gains one and the Wormwood post-split count drops to **19**.
 
-### If the earlier 37-name total is confirmed
+### Man's Promise storm-onset implication
 
 | Step | Count |
 |---|---:|
-| Original Wormwood named complement | 37 |
-| Known deaths / removals before or at split | -4 |
-| Living Wormwood-origin pool at split | 33 |
-| Locked / strong Wormwood-origin transfers to Man's Promise | -18 |
-| Wormwood-origin people left on Wormwood | 15 |
-| Other captured Man's Promise survivors sent Wormwood-side | +8 |
-| Wormwood after split | 23 |
-
-If Badger is treated as Man's Promise-side, the Wormwood post-split count becomes **22**.
+| Locked / strong Wormwood-origin Man's Promise transfers | 18 |
+| Six named captured Man's Promise survivors assigned to Plugg | +6 |
+| Man's Promise storm-onset count, locked / strong | **24** |
+| Add Badger if confirmed Man's Promise-side | +1 |
+| Man's Promise storm-onset count with Badger | **25** |
 
 ## Current Best Narrative Use
 
-Until the three missing names or count discrepancy are resolved, use this as the working statement:
+Use this as the working statement:
 
+- Original living Wormwood roster: **34**.
+- Harmak Gruft: named dead pre-start state, not living crew.
 - Man's Promise at storm onset: about **24** with locked / strong evidence, or **25** if Badger is included.
-- Wormwood after split: **20** using the currently enumerated 34-name ledger, or **22-23** if the earlier 37-name total is confirmed.
+- Wormwood after split: about **20**, or **19** if Badger is ultimately confirmed Man's Promise-side.
 - There should be no generic unnamed Wormwood background sailors in the accounting.
 - The only unnamed group currently allowed in the split math is the eight surviving captured Man's Promise sailors sent Wormwood-side.
 
 ## Open Checks
 
-- Reconcile the pasted 33-name roster plus Fipps against the earlier remembered 37 total.
-- Identify the three missing names if 37 is correct.
-- Confirm whether Harmak Gruft was included in any first-day count despite being a dead caged body rather than living crew.
+- Confirm whether the earlier remembered 37 count should be retired as an overcount.
 - Confirm Conchobhar placement after the Erastus 27 split.
 - Confirm Maheem, Kipper, Patch, Jack, and Badger placement.
+- Confirm Fipps' original role if more precise than Unknown.
