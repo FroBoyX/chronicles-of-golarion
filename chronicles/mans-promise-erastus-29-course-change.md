@@ -4,7 +4,7 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Source basis: Direct chat logs with GM scene framing
+- Source basis: Direct chat logs with GM scene framing, corrected for displaced dinner line
 - Date candidate: Erastus 29
 - Spoiler scope: GM-facing / character-limited for Plugg-Mirei coercion and chart evidence
 - Canon status: Becomes canon after GM/player sign-off and final date confirmation
@@ -153,6 +153,26 @@ Mirei nodded and rushed out.
 
 The course change was no longer only a worry. Sandara had noticed it. Tilly was asking about it. Kroop was creating a private space. Plugg was hiding charts and adding duties. Mirei was becoming useful to him, but useful did not mean safe.
 
+## Related Low-Confidence Dinner Fragment
+
+A separate displaced line belongs to a likely Erastus 29 dinner fragment with Harvus, Sandara, and Badger.
+
+In that fragment, Sandara appears to be defending Harvus to Badger:
+
+> "See, he isn't so bad once you get to know him."
+
+Badger remains skeptical:
+
+> "I guess. You actually trust him, he doesn't seem worth the trouble."
+
+Harvus jokes that Sandara speaks the truth, and Sandara clarifies she means Harvus:
+
+> "Harvus, of course. Sure, he just acts the pirate part. After the fight yesterday he wouldn't leave my side."
+
+Harvus blushes and chuckles.
+
+This fragment is low-confidence in placement but useful for Harvus' social standing and Sandara's public defense of him.
+
 ## What This Establishes
 
 - Date candidate is Erastus 29.
@@ -174,13 +194,14 @@ The course change was no longer only a worry. Sandara had noticed it. Tilly was 
 - Plugg added food tasting to Mirei's duties.
 - Plugg struck Mirei and reframed Scourge's insult into "Captain's wench," making the apparent defense into a sharper humiliation and claim.
 - Plugg ordered Mirei to return to sing in twenty minutes and not be late.
+- The Sandara line about someone not being so bad belongs to a separate Harvus / Sandara / Badger dinner fragment, not Plugg's locked cabin scene.
 
 ## Open Checks
 
 - Confirm whether the date should be fully locked as Erastus 29.
-- Confirm who said "See, he isn't so bad once you get to know him" in the cabin scene.
 - Confirm whether Mirei saw enough of the folded chart to infer the course change.
 - Confirm what Kroop wanted to discuss with Rak that night.
 - Confirm whether Rak moved into the cook's cabin.
 - Confirm who took Mirei's harp and whether it is still aboard the Man's Promise.
 - Confirm whether food-tasting remained one of Mirei's regular duties.
+- Confirm whether the dinner fragment belongs to Erastus 29 and what "the fight yesterday" refers to.
