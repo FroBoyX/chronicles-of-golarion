@@ -43,13 +43,12 @@ When a scene is completed, mark it as completed and list the evidence file plus 
   - `chronology/arodus-5-split-scenes.md`
   - `chronicles/the-fork.md`
   - relevant PC/NPC dossiers
-- Status: Active next tracing task.
+- Status: Active next tracing task. GM has logs ready; current tracing point is immediately before the storm.
 - Open checks:
   - Trace who is physically aboard the Man's Promise through storm and island events, including Dahrehn, Ebony, Merchiel, Nor'gal, Kahina, and any other relevant crew.
   - Trace Plugg / Syl report follow-up in post-storm logs; GM memory says it comes up there.
   - Trace Harvus' storm actions before routing to player memory. If unresolved, ask Harvus' player.
   - Trace whether Sho was involved in Sandara's backup "rough way" idea. If unresolved, route to Sho's player.
-  - Trace whether Jake / Jack is confirmed as the second sailor with Tam when Mirei addressed "you two."
   - Do not infer cold-open positions from survivor-set membership alone.
 
 ### Harvus-side recent update and questions
@@ -141,14 +140,14 @@ When a scene is completed, mark it as completed and list the evidence file plus 
   - `characters/npcs/fipps-chumlett.md`
   - `characters/npcs/jaundiced-jape.md`
   - `characters/npcs/goyle-onorach.md`
-- Status: Raw evidence already preserved; this pass verified integration and corrected routing for remaining checks.
+  - `characters/npcs/jack-scrimshaw.md`
+- Status: Raw evidence already preserved; this pass verified integration and corrected routing for remaining checks. Jack Scrimshaw is locked as the second sailor with Tam when Mirei addressed "you two."
 - Open checks:
   - Harvus storm actions: trace logs first; ask Harvus' player if logs do not resolve it.
   - Sho's possible involvement in Sandara's backup "rough way" idea: trace logs first; ask Sho's player if logs do not resolve it.
   - Plugg / Syl report follow-up: trace post-storm logs; GM memory says this comes up there.
   - Syl's knife wound on Mirei: ask Mirei's player after providing a narrative version of the exchange, because the table glossed over it.
   - Mirei likely did not eat the third plate if that would have had to occur before the storm.
-  - Second sailor with Tam was probably Jake / Jack, pending direct log confirmation.
 
 ### Active relaunch year cleanup
 
