@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player-facing short question list
-- Maturity: Draft
+- Maturity: Draft, updated with Syl knife-threat wound follow-up
 - Recipient: Mirei's player
 - Purpose: High-value relationship, motive, and memory beats only
 
@@ -81,24 +81,33 @@ Short answers are fine. Memory fragments are useful.
 43. What does Mirei remember about Sho suspecting something was wrong?
 44. How isolated did Mirei feel on the Man's Promise?
 
+## Syl's Knife Threat
+
+Before the storm interrupted everything, Syl stopped Mirei on the stairs after Mirei had been sent below as "Mistress Mirei." Syl had been watching how Mirei handled the crew. She pressed a knife into Mirei's back, mocked the Mistress role, threatened Mirei's voice, focused on Mirei's whispers with Sho, and dug the knife in hard enough to draw blood. Mirei pushed back, and Syl read that as a spark of fire behind the farce.
+
+45. In Mirei's memory, did Syl's threat feel like a real near-death moment, a test, intimidation, jealousy, or just another danger swallowed by the storm?
+46. Did the knife wound matter afterward physically, emotionally, both, or not much because the table glossed over it?
+47. Did Mirei hide the wound, ignore it, treat it, or forget it once the storm crisis started?
+48. Did this exchange change how Mirei saw Syl: rival, predator, observer, possible informant, or someone who understood the farce too well?
+
 ## Bonewrack
 
-45. What does Mirei remember about the island hazards before Riptide Cove?
-46. How did Mirei help during the bog-fly or insect pressure?
-47. Why did Mirei go back into Riptide Cove with Harvus instead of returning with Rak and Sho?
-48. Was that choice bravery, guilt, loyalty, desperation, or refusal to let Harvus go alone?
-49. What does Mirei remember from the rescue itself?
-50. What did Mirei feel when Harvus nearly died or kept pushing forward?
-51. What did Mirei feel when Sandara, Tilly, and Goyle survived?
-52. What did Mirei feel when she confessed that Plugg had tasked her with killing or betraying the others?
+49. What does Mirei remember about the island hazards before Riptide Cove?
+50. How did Mirei help during the bog-fly or insect pressure?
+51. Why did Mirei go back into Riptide Cove with Harvus instead of returning with Rak and Sho?
+52. Was that choice bravery, guilt, loyalty, desperation, or refusal to let Harvus go alone?
+53. What does Mirei remember from the rescue itself?
+54. What did Mirei feel when Harvus nearly died or kept pushing forward?
+55. What did Mirei feel when Sandara, Tilly, and Goyle survived?
+56. What did Mirei feel when she confessed that Plugg had tasked her with killing or betraying the others?
 
 ## Future Pressure
 
-53. If Plugg falls, does Mirei want to perform again, withdraw, confess publicly, rebuild trust, or leave?
-54. What would make Mirei stay with the others after Book One?
-55. What would make Mirei walk away?
-56. Does Mirei still believe she is following destiny, or has the sea become something harsher than destiny?
+57. If Plugg falls, does Mirei want to perform again, withdraw, confess publicly, rebuild trust, or leave?
+58. What would make Mirei stay with the others after Book One?
+59. What would make Mirei walk away?
+60. Does Mirei still believe she is following destiny, or has the sea become something harsher than destiny?
 
 ## One Missing Thing
 
-57. What is the biggest thing about Mirei that sheets, notes, and logs do not capture?
+61. What is the biggest thing about Mirei that sheets, notes, and logs do not capture?
