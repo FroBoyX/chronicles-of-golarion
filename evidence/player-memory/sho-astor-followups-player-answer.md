@@ -3,9 +3,9 @@
 ## Document Status
 
 - Type: Player memory evidence
-- Maturity: Raw follow-up batch with conservative extraction
+- Maturity: Raw follow-up batch with conservative extraction; corrected split for answers 7-9
 - Source: Sho player follow-up answers relayed during character discovery / archive reconstruction
-- Scope: Harrigan grey moments, gender privacy, Mirei disguise-confession scene, Peppery warning, restraint with Scourge, Peppery/Agatha comparison, amulet storage, and Sho's future line against Harrigan
+- Scope: Harrigan grey moments, gender privacy, Mirei disguise-confession scene, Peppery warning, restraint with Scourge, Peppery/Agatha comparison, amulet storage, future line against Harrigan, and instinctive warning of Harrigan
 - Canon status: Sho-character truth / player memory where stated as Sho's perspective. Do not use to define other characters' inner motives unless supported elsewhere.
 
 ## Handling Note
@@ -17,7 +17,7 @@ Important split:
 - Sho's perception of Harrigan's grey moments is Sho-character truth, not proof that Harrigan is good.
 - Sho's gender-related privacy is established; other private identity/backstory information should not be assumed public.
 - The Mirei confession scene is useful but still has uncertain exact dating.
-- The final answer about warning Harrigan appears truncated in the raw source and should be treated as incomplete.
+- The corrected final answer establishes that Sho warned Harrigan instinctually without fully accounting for who he was; do not overread it as loyalty to Harrigan.
 
 ## Raw Follow-Up Answers
 
@@ -45,14 +45,17 @@ Important split:
 
 > Yeah I’d say theres a minor connection between Peppery and Agatha in that they are both confident and capable women, and she definitely seems to have a type lol. But I will say her connection with Agatha is far deeper and stronger than the brief interactions with Peppery
 
-### 7. Amulet storage and future line against Harrigan
+### 7. Amulet storage
 
-> Sho keeps the amulet stashed away with her reversible cloak most likely 
+> Sho keeps the amulet stashed away with her reversible cloak most likely
+
+### 8. Future line against Harrigan
+
 > If Harrigan continues plundering innocent ships and Sho has the opportunity and ability to stop him, she will do so.
 
-### 8. Warning Harrigan / instinctive action
+### 9. Warning Harrigan / instinctive action
 
-> I think Sho feels like she’s aware she did it instinctually without taking into account who exactly it was she was warning. She just didn't want to see another person be taken out, which worked out both unfortunately and fortu 
+> I think Sho feels like she’s aware she did it instinctually without taking into account who exactly it was she was warning. She just didn't want to see another person be taken out, which worked out both unfortunately and fortunately for her.
 
 ## Extracted Sho-Character Truth
 
@@ -99,7 +102,8 @@ Important split:
 
 - Sho believes she warned Harrigan instinctually, without fully accounting for who he was.
 - She simply did not want to see another person taken out.
-- The raw answer is truncated after "worked out both unfortunately and fortu" and should not be overinterpreted beyond that.
+- The warning worked out both unfortunately and fortunately for Sho.
+- Do not overread the warning as loyalty to Harrigan.
 
 ## Canon / GM Truth Boundaries
 
@@ -108,7 +112,7 @@ Important split:
 - Do not lock the exact date of the Mirei confession scene from this memory alone.
 - Do not assume the loud whipping cries exposed Sho's gender to others unless direct evidence establishes it.
 - Do not treat Peppery as equivalent to Agatha; the player explicitly marks the Agatha connection as far deeper.
-- Do not over-complete the truncated Harrigan warning answer.
+- Do not treat Sho's warning to Harrigan as loyalty to Harrigan; the corrected answer frames it as instinctive protection of a person from being taken out.
 
 ## File Update Targets
 
