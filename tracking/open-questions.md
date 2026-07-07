@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index, corrected with Erastus 27 ship-split model
+- Maturity: Working index, corrected with Erastus 27 ship-split model and Giffer Tibbs death resolution
 - Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
@@ -62,8 +62,7 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - What exact item did Harrigan give Sho: pendant, locket, captain's amulet, or another object?
 - Does Sho still have the Harrigan object at the hot-box point?
 - What did Sho recover from Grok, and what remains on the ship?
-- What actually killed Giffer after Sho last saw or believed her stable: arrows, melee, Rak action, delayed care, reopened wounds, or another cause?
-- Was Sho's memory that she stabilized Giffer during the Man's Promise fight supported by recovered chat-log or GM evidence?
+- Who noticed that Giffer had been notably trampled, and what was communicated to Sho or others?
 - What was the exact content of Sho's "monk man" reference now identified as Ebony Saable?
 
 ### Harvus G'ron
@@ -91,6 +90,8 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Did Ambrose know about Rak and Grok before the Man's Promise split?
 - How does Rak feel about Harvus losing the spear used to kill the Whale?
 - Which player-sheet attitude notes reflect actual influence state versus Rak/player impression?
+- Does Rak ever acknowledge Giffer's death or his role in it?
+- Does any later testimony, magic, confession, or evidence expose Rak's intent toward Giffer?
 
 ### Items
 
@@ -123,11 +124,13 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Still unresolved: their names, whether the visible Rahadoumi officer is among them, and their later Wormwood-side fates.
 - State impact: They are not part of the Arodus 5 Man's Promise / Bonewrack actor pool unless later evidence brings them back.
 
-### Sho / Giffer Character Knowledge
+### Giffer Tibbs Death Mechanism
 
-- Resolved from Sho player memory: Sho did **not** have evidence tying Rak or any specific culprit to Giffer's death.
-- Resolved from Sho player memory: Sho knew Giffer had been stable the last time Sho saw her, then later dead without an obvious cause.
-- Still unresolved: the actual death mechanism and whether Sho's remembered stabilization is supported by recovered chat-log or GM evidence.
+- Resolved by GM truth: Giffer was mechanically unconscious but stable after arrow and melee injuries, then Rak intentionally stomped / trampled her while moving through the fog, destabilizing her and causing her death.
+- Resolved by GM truth: Sho had stabilized or otherwise solved Giffer's immediate dying condition before leaving her to keep trying to restrain Rak and Harvus.
+- Resolved by GM truth: Giffer was the only Wormwood-side casualty in the capture of the Man's Promise.
+- Resolved from Sho player memory and GM truth: Sho did **not** directly witness Rak's intent and had no proof tying Rak to Giffer's death.
+- Still unresolved: who noticed the trampling, what Sho was told, and whether Rak's intent is ever exposed in-character.
 
 ### Mirei Day 2 Performance
 
