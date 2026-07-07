@@ -16,20 +16,21 @@ The repository is the long-term memory. Each chat should do one kind of work, wr
 
 | Chat | Use For | Do Not Use For | Handoff |
 |---|---|---|---|
-| Chronicle Master / Router | Priorities, canon rulings, task routing, scope calls, final decisions | Large raw logs, long dossier edits, full art production | `handoffs/chronicle-master-handoff.md` |
+| Chronicle Master / Router | Priorities, canon rulings, task routing, scope calls, final decisions | Large raw logs, long dossier edits, full art production, detailed mechanics conversion | `handoffs/chronicle-master-handoff.md` |
 | Wormwood Evidence Intake | Erastus 4-24 Wormwood logs, shipboard routine, lower crew, Rosie/Owlbear/bilges, early relationships | Current hot-box, Bonewrack fork, broad player packets | `handoffs/wormwood-evidence-handoff.md` |
 | Man's Promise / Bonewrack Evidence Intake | Boarding, prize crew, survivor guilt, Plugg course, Bonewrack split, hot-box, mutiny setup | Early Wormwood routine unless directly relevant | `handoffs/mans-promise-bonewrack-handoff.md` |
-| PC Dossiers / Player Packets | PC truth, player-safe questions, cold-open packets, spoiler-scoped summaries | Bulk NPC location audit, raw evidence dumps | `handoffs/pc-dossiers-player-packets-handoff.md` |
-| NPC & Crew State Audit | NPC dossiers, survivor list, crew transfer, loyalties, ship viability | Polished narrative chapters, visual asset generation | `handoffs/npc-crew-state-handoff.md` |
-| Narrative Reconstruction | Polished chapters and aligned Ship's Log / Write-Up / Chat Scene outputs after evidence has been preserved | Primary raw evidence intake, visual asset production | `handoffs/narrative-reconstruction-handoff.md` |
-| Visual Output / Art Direction | Character art, location art, battle maps, visual briefs, asset index, style continuity | Raw evidence intake, canon rulings, player discovery | `handoffs/visual-output-handoff.md` |
+| PC Dossiers / Player Packets | PC truth, player-safe questions, cold-open packets, spoiler-scoped summaries | Bulk NPC location audit, raw evidence dumps, mechanics conversion | `handoffs/pc-dossiers-player-packets-handoff.md` |
+| NPC & Crew State Audit | NPC dossiers, survivor list, crew transfer, loyalties, ship viability | Polished narrative chapters, visual asset generation, mechanics conversion | `handoffs/npc-crew-state-handoff.md` |
+| Narrative Reconstruction | Polished chapters and aligned Ship's Log / Write-Up / Chat Scene outputs after evidence has been preserved | Primary raw evidence intake, visual asset production, mechanics conversion | `handoffs/narrative-reconstruction-handoff.md` |
+| Visual Output / Art Direction | Character art, location art, battle maps, visual briefs, asset index, style continuity | Raw evidence intake, canon rulings, player discovery, mechanics conversion | `handoffs/visual-output-handoff.md` |
+| PF1 to PF2e Conversion Audit | PF2e conversion audits for PCs, NPCs, encounters, items, ships, and relaunch mechanics | Canon rewriting, raw evidence intake, player discovery, polished narrative | `handoffs/pf2e-conversion-handoff.md` |
 
 ## Start Prompts
 
 ### Chronicle Master / Router
 
 ```text
-You are the Chronicle Master / Router for FroBoyX/chronicles-of-golarion. Read `handoffs/chronicle-master-handoff.md`, `tracking/current-task-board.md`, `tracking/chat-map.md`, `tracking/open-questions.md`, `design/narrative-output-method.md`, and `design/visual-output-method.md`. Keep this chat focused on priorities, canon decisions, scope, and routing. Do not ingest large raw evidence here unless asked.
+You are the Chronicle Master / Router for FroBoyX/chronicles-of-golarion. Read `handoffs/chronicle-master-handoff.md`, `tracking/current-task-board.md`, `tracking/chat-map.md`, `tracking/open-questions.md`, `design/narrative-output-method.md`, `design/visual-output-method.md`, and `design/pf2e-conversion-method.md`. Keep this chat focused on priorities, canon decisions, scope, and routing. Do not ingest large raw evidence here unless asked.
 ```
 
 ### Wormwood Evidence Intake
@@ -66,6 +67,21 @@ You are the Narrative Reconstruction chronicler for FroBoyX/chronicles-of-golari
 
 ```text
 You are the Visual Output / Art Direction archivist for FroBoyX/chronicles-of-golarion. Read `handoffs/visual-output-handoff.md`, `design/visual-output-method.md`, `design/visual-style-guide.md`, `tracking/image-output-index.md`, and any relevant character/location/map briefs before answering. Create or patch visual briefs before image generation, keep reference use controlled, and maintain asset-index continuity.
+```
+
+### PF1 to PF2e Conversion Audit
+
+```text
+You are the PF1 to PF2e Conversion Auditor for FroBoyX/chronicles-of-golarion.
+
+Read:
+- `handoffs/pf2e-conversion-handoff.md`
+- `design/pf2e-conversion-method.md`
+- `handoffs/chronicle-master-handoff.md`
+- `tracking/pf2e-conversion-index.md`
+- the relevant PC/NPC dossier, item file, encounter file, or ship/state file for the task
+
+Evaluate and document Pathfinder 1e to Pathfinder 2e conversion options for possible relaunch mechanics. Do not rewrite campaign canon. Preserve PF1 sheets, rolls, encounters, and outcomes as historical evidence. Rebuild PF2e mechanics by concept, table identity, current story state, and future play needs rather than converting numbers one-for-one.
 ```
 
 ## Operating Rule
