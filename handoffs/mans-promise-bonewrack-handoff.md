@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Focused chat handoff
-- Maturity: Working control document
+- Maturity: Working control document, corrected with Erastus 27 ship-split model
 - Scope: Man's Promise boarding, prize-crew period, Bonewrack Isle, current fork, hot-box, survivor politics, mutiny setup
 
 ## Chat Purpose
@@ -25,7 +25,7 @@ This includes:
 ## New Chat Starter Prompt
 
 ```text
-You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golarion. Read `handoffs/mans-promise-bonewrack-handoff.md`, `handoffs/chronicle-master-handoff.md`, `state/current-npc-locations.md`, `state/current-ship-state.md`, `state/crew-transfer-and-loyalty-audit.md`, `chronology/arodus-5-split-scenes.md`, and `tracking/open-questions.md`. Preserve raw evidence first, then integrate into Man's Promise, Bonewrack, survivor, NPC, and current-state docs.
+You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golarion. Read `handoffs/mans-promise-bonewrack-handoff.md`, `handoffs/chronicle-master-handoff.md`, `state/current-npc-locations.md`, `state/mans-promise-crew-viability-reference.md`, `state/current-ship-state.md`, `state/crew-transfer-and-loyalty-audit.md`, `chronology/arodus-5-split-scenes.md`, and `tracking/open-questions.md`. Preserve raw evidence first, then integrate into Man's Promise, Bonewrack, survivor, NPC, and current-state docs.
 ```
 
 ## Primary Source / Destination Files
@@ -33,6 +33,8 @@ You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golari
 ### Evidence
 
 - `evidence/chat-logs/wormwood-erastus-25-mans-promise-boarding.md`
+- `evidence/chat-logs/mans-promise-erastus-27-plugg-first-speech.md`
+- `evidence/chat-logs/mans-promise-first-day-departure-and-night.md`
 - `evidence/chat-logs/mans-promise-erastus-29-course-change-and-morning-shift.md`
 - `evidence/chat-logs/mans-promise-erastus-29-dinner-harvus-sandara-badger-fragment.md`
 - `evidence/chat-logs/mans-promise-erastus-29-30-nightshift-mistress-and-dinner.md`
@@ -45,6 +47,7 @@ You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golari
 
 ### Chronicles / State
 
+- `state/mans-promise-crew-viability-reference.md`
 - `chronicles/battle-of-the-mans-promise.md`
 - `chronicles/mans-promise-erastus-29-course-change.md`
 - `chronicles/mans-promise-erastus-30-mistress-mirei.md`
@@ -93,16 +96,18 @@ Harrigan then made an example of a weakened captured sailor by throwing that sai
 
 That left **14 surviving captured Man's Promise crew**.
 
+After that survivor lineup, Harrigan promoted Mr. Plugg to captain of the Man's Promise, assigned a skeleton crew, and the Man's Promise and Wormwood separated on **Erastus 27, 4712 AR**.
+
 Of those fourteen, the archive currently tracks **six named survivors assigned to Plugg's skeleton crew**:
 
 - Dahrehn Numus — swab
-- Ebony Saable — rigger; Sho's referenced "monk man"
+- Ebony Saable — rigger; Sho's referenced "monk man" and Fipps' "dark one" assignment target
 - Goyle Onórach — swab; former quartermaster context; currently rescued on Bonewrack
 - Kahina Bukekayo — rigger; Sho's current moral interrogator
 - Merchiel V'giatore — rigger; restrained Nor'gal in first-night Rak confrontation
 - Nor'gal Daraa — swab; revenge thread for dead brother Kor'al / Cor'Wal
 
-The other eight surviving captured sailors are count-acknowledged but **not** part of Plugg's Man's Promise skeleton crew. Current GM correction places them with the **Wormwood** after the Erastus 27 ship split. Their identities, duties, and later relevance remain unresolved.
+The other eight surviving captured Man's Promise crew went with the Wormwood after the Erastus 27 split. Their names and later Wormwood-side fates remain unresolved, but they are not Arodus 5 Man's Promise / Bonewrack actors.
 
 ## Current Relaunch State
 
@@ -135,6 +140,17 @@ They are moving through the island. Rak is guiding a hostile or semi-hostile gro
 - Kahina Bukekayo has confronted her with a life-for-life test.
 - Plugg and Scourge remain the immediate command threat.
 - Owlbear is likely aboard unless friendship evidence redirects him.
+- Dahrehn, Ebony, Merchiel, and Nor'gal are likely aboard unless later evidence places them elsewhere; exact cold-open positions remain unresolved.
+
+## Crew Viability Reference
+
+The Man's Promise should use the PF1 sailing ship **Crew 20** reference as its effective operating crew requirement.
+
+Use this as a pressure tool rather than a hard railroad:
+
+- 20 effective crew: ship can be sailed properly and sustainably.
+- Fewer than 20: possible emergency movement or desperate short repositioning, but under-crewed, unsafe, and exposed to fatigue, repair failure, watch gaps, morale collapse, and weather/combat risk.
+- Count only people alive, aboard, physically capable, and willing or controllable.
 
 ## Important Current Threads
 
@@ -166,8 +182,9 @@ Harvus and Mirei helped rescue Sandara, Tilly, and Goyle from Riptide Cove. Goyl
 - Who among the survivor bloc supports Kahina's test?
 - Whether Owlbear is controllable by Plugg or moved by Sho's mercy.
 - Whether Fipps reaches the ship before the fork collision resolves.
-- Whether the Man's Promise can be sailed after a mutiny given casualties and loyalties.
-- Exact identities and later Wormwood-side duties of the eight non-skeleton Man's Promise survivors.
+- Whether the Man's Promise can be sailed after a mutiny given casualties, loyalties, and the Crew 20 effective-operations reference.
+- Exact year cleanup for Arodus 5 docs if any still preserve 4691 after 4712 correction.
+- What are the names and later Wormwood-side fates of the other eight captured Man's Promise survivors?
 
 ## Output Style
 
