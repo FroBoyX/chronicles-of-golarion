@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index, corrected with Erastus 27 ship-split model and Giffer Tibbs death / burial resolution
+- Maturity: Working index, corrected with Erastus 27 ship-split model, Giffer Tibbs death / burial resolution, and Jack Scrimshaw's Tam-exchange placement
 - Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
@@ -33,7 +33,6 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Does Sho ever become involved in Sandara's backup idea of getting information the rough way? Trace logs first; if unresolved, ask Sho's player.
 - Where does the post-storm Plugg / Syl report follow-up occur, and what does it establish?
 - Does the log confirm whether Mirei had any opportunity to eat Plugg's waiting third plate before the storm? GM memory: if it would have happened before the storm, most likely not.
-- Does direct text confirm Jake / Jack as the second sailor with Tam when Mirei addressed "you two"? GM memory says this was probably Jake / Jack.
 
 ### Crew / Ship Viability
 
@@ -53,7 +52,6 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Kipper placement and status after battle.
 - Conchobhar Turlach Shortstone placement.
 - Badger Medlar: confirm Man's Promise placement or downgrade to low-confidence social fragment only.
-- Jack Scrimshaw: confirm whether his Erastus 29–30 line is anchored or displaced.
 - What are the names and later Wormwood-side fates of the other eight captured Man's Promise survivors who went with the Wormwood?
 - Who was the Rahadoumi officer visible in the Erastus 27 chat, and was that officer one of the eight who went with the Wormwood?
 
@@ -122,6 +120,11 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Audit active chronology docs and correct only where they conflict with the locked 4712 timeline.
 
 ## Resolved Questions
+
+### Jack Scrimshaw in Tam / Mistress Mirei Exchange
+
+- Resolved by GM clarification: Jack Scrimshaw was the second sailor with Tam "Narwhal" Tate when Mirei approached "you two" during the Erastus 30 below-decks Mistress Mirei exchange.
+- State impact: Jack is anchored to that exchange, but his current cold-open position and loyalty remain unresolved pending storm / island log tracing.
 
 ### Ebony Saable Identity
 
