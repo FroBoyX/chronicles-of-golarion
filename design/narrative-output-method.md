@@ -56,6 +56,7 @@ Do not derive one sibling output from another sibling output. Derive each from t
 - NPC dossiers:
 - Chronology/state:
 - AP scaffold:
+- Campaign encounter data:
 - GM corrections:
 
 ## Timeline Beats
@@ -98,6 +99,36 @@ Use status options:
 | Narrative Chat Scene |  | Not started / Draft / Patched / Locked |  |
 ```
 
+## Source Use: AP / Campaign Encounter Data
+
+Published Adventure Path material and GM campaign encounter data may be used as scaffold when building narrative output, especially for encounter structure, environmental context, travel pressure, hazards, enemy placement, and skipped connective tissue.
+
+Rules:
+
+- Treat AP material as scaffold, not proof that the table event happened exactly that way.
+- Treat GM-provided campaign encounter data as stronger than AP baseline, but still keep it distinct from recovered chat unless the chat confirms the moment.
+- Ask the GM for AP/campaign encounter details when the preserved evidence clearly depends on encounter context that is not yet in the repo.
+- Use AP/campaign data to support plausible framing, not to overwrite player action, table-specific outcomes, or established character knowledge.
+- Label the source basis clearly in the source spine.
+
+## Narrative Compression and Scene Movement
+
+Narrative output does not need to backfill every gap between preserved scenes.
+
+Allowed techniques:
+
+- **Time skips** — move over routine work, travel, watch rotations, sleep, or uneventful days when detailed reconstruction would add little.
+- **Scene jumps** — cut between shipboard areas, PC groups, NPC pressure points, or parallel island/ship action for clarity or dramatic effect.
+- **Context bridges** — summarize missing connective tissue in neutral prose when enough source support exists.
+- **Unresolved gaps** — leave gaps explicit when evidence is absent or when backfilling would invent facts.
+
+Rules:
+
+- Do not use a time skip to hide an unresolved canon problem.
+- Do not create exact dialogue inside a skipped or bridged period unless recovered evidence provides it.
+- If a jump changes character perspective, keep hidden knowledge boundaries intact.
+- If a skipped span includes known hazards, losses, discipline, relationship beats, or route changes, note them in the source spine even if the final prose compresses them.
+
 ## Output Definitions
 
 ### Ship's Log
@@ -123,6 +154,7 @@ Rules:
 - Preserve uncertainty and source boundaries.
 - Keep character knowledge boundaries intact.
 - Do not smooth away moral fractures, contradictory perspectives, or unresolved loyalties.
+- Use time skips, scene jumps, and context bridges when they produce a cleaner reconstruction without inventing facts.
 
 ### Narrative Chat Scene
 
@@ -136,6 +168,7 @@ Rules:
 - Do not invent exact dialogue for missing chat.
 - If a line is not recovered, write it as narration or clearly marked paraphrase.
 - Keep hidden PC knowledge out of player-facing versions unless the perspective character knew it.
+- Scene cuts and time skips are allowed for effect, but should remain visibly anchored to the source spine.
 
 ## Patch Policy
 
