@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, updated with GM resolution of death mechanism
+- Maturity: Draft, updated with GM resolution of death mechanism, Sho investigation clarification, and burial/evidence status
 - Scope: Wormwood crew casualty, Mirei performance connection, Man's Promise battle death, Sho command-guilt thread, Rak culpability / character-knowledge split
 - Source basis: Recovered chat summaries, current Man's Promise battle reconstruction, Sho notes, recovered tactical map evidence, Sho player-memory evidence, and GM resolution in `evidence/gm-notes/giffer-tibbs-death-gm-resolution.md`
 
@@ -15,6 +15,8 @@ Her death matters because she was not only an anonymous Wormwood casualty. She h
 
 Giffer was the only Wormwood-side casualty in the capture of the Man's Promise.
 
+Afterward, Sho attempted to investigate Giffer's death but reached no actionable conclusion that would allow Sho to act on player knowledge. Giffer received a pirate burial during the revel, closing ordinary body-based investigation.
+
 ## Identity
 
 - Name: Giffer Tibbs
@@ -25,6 +27,7 @@ Giffer was the only Wormwood-side casualty in the capture of the Man's Promise.
 - Death location evidence: Below the port-side stairs on the Man's Promise tactical map
 - Death mechanism: Destabilized by Rak intentionally stomping / trampling her while she was unconscious but stable; died from that destabilization after prior arrow and melee injuries
 - Witness status: No one directly saw Rak stomp her with intention; the observable evidence was that Giffer was notably trampled
+- Body / evidence status: Given a pirate burial during the revel; remaining proof route is magic or equivalent supernatural reconstruction of what occurred on the Man's Promise
 
 ## Campaign Role
 
@@ -56,6 +59,16 @@ While moving through the fog, Rak intentionally stomped or trampled Giffer while
 
 The recovered tactical map confirms her death location during the Man's Promise fight: below the stairs on the port side.
 
+### Investigation and Burial
+
+Sho attempted to investigate Giffer's death after the battle, but came to no actionable conclusion that would allow her to act on player knowledge of Rak's culpability.
+
+Rak has not admitted to killing Giffer.
+
+Giffer was given a pirate burial during the revel. Because the body is gone, ordinary physical investigation is no longer a viable proof route.
+
+At this point, the remaining route to prove Rak's intent is magic or equivalent supernatural evidence that shows what occurred on the Man's Promise.
+
 ### Death / Foul Play Resolution
 
 Resolved GM truth: Rak intentionally stomped Giffer in an attempt to kill her, causing her to destabilize and die.
@@ -84,7 +97,7 @@ Sho left Giffer because Sho was still trying to restrain Rak and Harvus from doi
 
 Sho's character knowledge remains narrower than GM truth: Giffer had been stable when Sho left her, then died later, with the observable sign that she had been notably trampled. Sho had no direct proof of Rak's intent or action.
 
-This uncertainty worsened Sho's guilt. To Sho, it meant no justice for Giffer and another meaningless death.
+Sho attempted to investigate the death, but reached no actionable conclusion that would allow her to act on player knowledge. This uncertainty worsened Sho's guilt. To Sho, it meant no justice for Giffer and another meaningless death.
 
 If Sho later learns that Rak killed Giffer, the Sho player states it would intensify Sho's existing distrust of Rak and become another reason Sho believes she may need to take him down in the future.
 
@@ -92,7 +105,7 @@ If Sho later learns that Rak killed Giffer, the Sho player states it would inten
 
 GM resolution establishes that Rak intentionally stomped Giffer while she was unconscious but stable, destabilizing her and leading to her death.
 
-Rak's action was not directly witnessed with intent. This remains player/character-knowledge sensitive: GM truth establishes Rak's culpability, but Sho and others do not automatically know it.
+Rak's action was not directly witnessed with intent. Rak has not admitted to the killing. This remains player/character-knowledge sensitive: GM truth establishes Rak's culpability, but Sho and others do not automatically know it.
 
 ## Campaign Function
 
@@ -109,9 +122,6 @@ For Rak specifically, Giffer's death is now a locked example of intentional hidd
 
 ## Open Questions
 
-- Who noticed that Giffer had been notably trampled?
-- What exactly did Sho see, hear, or infer about Giffer's final condition?
-- Did anyone recover, move, loot, or react to Giffer's body after the fight?
-- Did Mirei know Giffer had died?
-- Did Rak ever acknowledge Giffer's death or his role in it?
-- Does any later testimony, magic, confession, or evidence expose Rak's intent?
+- Was anyone besides Sho aware that she attempted to investigate Giffer's death?
+- Did Mirei know Giffer had died before or after Giffer's pirate burial?
+- Does any later magic, testimony, confession, or equivalent evidence expose Rak's intent?
