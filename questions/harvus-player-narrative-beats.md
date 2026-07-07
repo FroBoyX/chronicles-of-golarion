@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player-facing short question list
-- Maturity: Draft
+- Maturity: Draft, updated with Sho-facing rage accountability follow-up targets
 - Recipient: Harvus' player
 - Purpose: High-value relationship, motive, and memory beats only
 
@@ -54,24 +54,30 @@ Short answers are fine. Memory fragments are useful.
 25. When Harvus says or believes "we are crew," what does that mean to him?
 26. Does Harvus believe crew is chosen, earned, imposed by survival, or created by shared danger?
 
+## Rage, Accountability, and Restraint
+
+27. Looking back on the Man's Promise boarding, does Harvus believe his anger hurt or killed anyone who did not deserve it?
+28. If Sho challenged Harvus about rage causing collateral damage, would he feel accused, ashamed, angry, defensive, or understood?
+29. Would Harvus ever vow to aim his rage more carefully, or would that feel like giving up the only weapon the Wormwood left him?
+
 ## Bonewrack and the Rescue
 
-27. What was Harvus' immediate emotional state when he found Sandara's hat in Riptide Cove?
-28. After the first failed cave assault, did Harvus expect to survive going back?
-29. When Harvus returned with Mirei, was the goal rescue, revenge, proving something, or all of it together?
-30. What does Harvus remember about cutting Tilly, Goyle, and Sandara free?
-31. What did it mean to give Tilly the flail?
-32. Did Harvus know he was creating a legend in the Cauldron, or was he only trying to get people out alive?
-33. How does Harvus feel about losing Rak's spear?
-34. Does Harvus understand Goyle as a rescued man, a witness, a potential ally, or a future problem?
+30. What was Harvus' immediate emotional state when he found Sandara's hat in Riptide Cove?
+31. After the first failed cave assault, did Harvus expect to survive going back?
+32. When Harvus returned with Mirei, was the goal rescue, revenge, proving something, or all of it together?
+33. What does Harvus remember about cutting Tilly, Goyle, and Sandara free?
+34. What did it mean to give Tilly the flail?
+35. Did Harvus know he was creating a legend in the Cauldron, or was he only trying to get people out alive?
+36. How does Harvus feel about losing Rak's spear?
+37. Does Harvus understand Goyle as a rescued man, a witness, a potential ally, or a future problem?
 
 ## Future Pressure
 
-35. If Harvus gets back to the Man's Promise, what comes first: Sandara's safety, Scourge's blood, Plugg's fall, keeping people alive, or seizing the ship?
-36. Would Harvus accept another captain, a council, a vote, or rule by whoever proves strongest?
-37. What would make Harvus stay with the others after Book One?
-38. What would make Harvus walk away?
+38. If Harvus gets back to the Man's Promise, what comes first: Sandara's safety, Scourge's blood, Plugg's fall, keeping people alive, or seizing the ship?
+39. Would Harvus accept another captain, a council, a vote, or rule by whoever proves strongest?
+40. What would make Harvus stay with the others after Book One?
+41. What would make Harvus walk away?
 
 ## One Missing Thing
 
-39. What is the biggest thing about Harvus that sheets, notes, and logs do not capture?
+42. What is the biggest thing about Harvus that sheets, notes, and logs do not capture?
