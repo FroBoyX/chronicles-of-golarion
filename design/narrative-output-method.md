@@ -99,6 +99,38 @@ Use status options:
 | Narrative Chat Scene |  | Not started / Draft / Patched / Locked |  |
 ```
 
+## Quote Handling
+
+Recovered direct quotes should remain exact unless the GM explicitly approves a canon-facing cleaned rendering.
+
+Default quote policy:
+
+- Preserve recovered wording, phrasing, syntax, and character diction.
+- Only make spell-check / typo-level corrections when the correction does not alter character voice, word choice, meaning, or cadence.
+- Do not rewrite a recovered quote into smoother prose.
+- If a quote needs heavier cleanup for player-facing readability, either paraphrase it outside quotation marks or ask the GM to approve the cleaned version.
+- Never present invented or completed dialogue as recovered chat.
+
+## Source-Gap Handling In Narrative Outputs
+
+Do not put archive-process disclaimers inside the narrative prose.
+
+Avoid phrases such as:
+
+- `the details did not survive`,
+- `the logs are missing`,
+- `we do not know`,
+- `the current reconstruction is`,
+- `not enough evidence survives`,
+- or similar meta-statements inside the Ship's Log, Narrative Write-Up, or Narrative Chat Scene body.
+
+Use this rule instead:
+
+- If the source spine has enough support, write the supported beat cleanly.
+- If the source spine does not have enough support, either drop the beat from the narrative body or ask the GM for permission to embellish.
+- Put source gaps, uncertainty, and missing-evidence notes in the source spine, Document Status, What This Establishes, or Open Checks — not in the narrative prose itself.
+- Do not use narrative prose to apologize for missing evidence.
+
 ## Source Use: AP / Campaign Encounter Data
 
 Published Adventure Path material and GM campaign encounter data may be used as scaffold when building narrative output, especially for encounter structure, environmental context, travel pressure, hazards, enemy placement, and skipped connective tissue.
@@ -120,7 +152,7 @@ Allowed techniques:
 - **Time skips** — move over routine work, travel, watch rotations, sleep, or uneventful days when detailed reconstruction would add little.
 - **Scene jumps** — cut between shipboard areas, PC groups, NPC pressure points, or parallel island/ship action for clarity or dramatic effect.
 - **Context bridges** — summarize missing connective tissue in neutral prose when enough source support exists.
-- **Unresolved gaps** — leave gaps explicit when evidence is absent or when backfilling would invent facts.
+- **Unresolved gaps** — leave gaps explicit in source spines or open checks when evidence is absent or when backfilling would invent facts.
 
 Rules:
 
@@ -160,10 +192,11 @@ Rules:
 
 - Use clear paraphrase first.
 - Use direct quotes only where they carry evidence weight or character voice.
-- Preserve uncertainty and source boundaries.
+- Preserve uncertainty and source boundaries outside the narrative body, using status/source/open-check sections.
 - Keep character knowledge boundaries intact.
 - Do not smooth away moral fractures, contradictory perspectives, or unresolved loyalties.
 - Use time skips, scene jumps, and context bridges when they produce a cleaner reconstruction without inventing facts.
+- Do not include source-gap disclaimers in the prose body; drop unsupported detail or ask the GM for embellishment approval.
 
 ### Narrative Chat Scene
 
@@ -178,6 +211,7 @@ Rules:
 - If a line is not recovered, write it as narration or clearly marked paraphrase.
 - Keep hidden PC knowledge out of player-facing versions unless the perspective character knew it.
 - Scene cuts and time skips are allowed for effect, but should remain visibly anchored to the source spine.
+- Do not include source-gap disclaimers in the scene body; drop unsupported detail or ask the GM for embellishment approval.
 
 ## Patch Policy
 
@@ -204,7 +238,7 @@ When requested, keep it separate from locked narrative output until approved. Ac
 Rules for dialogue discovery:
 
 - Never present invented dialogue as recovered chat.
-- Preserve all recovered direct quotes exactly when quoting them.
+- Preserve all recovered direct quotes exactly when quoting them, aside from GM-approved spell-check / typo-level corrections.
 - Use candidate dialogue to explore voice, not to establish facts.
 - Do not commit candidate dialogue into canon-facing outputs unless the GM signs it off or asks for that specific patch.
 
