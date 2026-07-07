@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: Narrative reconstruction
-- Maturity: Draft / canon-candidate
-- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers, recovered tactical map evidence, and GM death-toll correction
+- Maturity: Draft / canon-candidate, updated with GM resolution of Giffer Tibbs' death mechanism
+- Source basis: Direct chat log with corrected date, GM timeline bridge, later PC/NPC notes, Sho player answers, recovered tactical map evidence, GM death-toll correction, and GM Giffer death resolution
 - Corrected date: Erastus 25, 4712 AR
 - Original chat header: Sunday, Erastus 26th, 4691 - Day 21
-- Spoiler scope: Player-safe as historical reconstruction
-- Canon status: Becomes canon after GM/player sign-off and later log reconciliation
+- Spoiler scope: Player-safe as historical reconstruction, except hidden Rak culpability should remain character-knowledge gated
+- Canon status: Becomes canon after GM/player sign-off and later log reconciliation; Giffer death mechanism is GM-resolved canon unless explicitly revised
 
 ## Date Rectification
 
@@ -29,6 +29,20 @@ The map confirms Rak's premature lifeboat release was on the starboard side. A M
 The map confirms 16 deaths visible / represented on the fight map: 15 Man's Promise-side figures and Giffer Tibbs. This is not the full shipwide death toll. Kahina Bukekayo's later statement that more than thirty people died is now treated as accurate survivor testimony, pending final crew-count canonization.
 
 The Man's Promise captain was killed in the captain's cabin. This is supported by later physical evidence: when Mirei entered the captured captain's cabin to perform for Plugg a few nights later, blood was still splashed across the floor, desk, and walls.
+
+## GM-Resolved Giffer Death Mechanism
+
+Giffer Tibbs was the only Wormwood-side casualty in the capture of the Man's Promise.
+
+Giffer initially went down from a combination of arrow damage and melee action. GM resolution notes that she likely should have stayed behind with Mirei, but chose to board and went down during the fight.
+
+Sho stabilized or otherwise solved Giffer's immediate dying condition, then left her to continue trying to restrain Rak and Harvus from causing more damage elsewhere in the battle.
+
+While moving through the fog, Rak intentionally stomped or trampled Giffer while she was mechanically unconscious but stable. The action destabilized her and ultimately caused her death.
+
+No character directly saw Rak stomp her with intention. The observable aftermath was that Giffer had been notably trampled.
+
+This distinction must be preserved: **GM truth establishes Rak's culpability, but Sho and other characters do not automatically know it.**
 
 ## Narrative Log
 
@@ -68,9 +82,9 @@ Rak entered the fight with brutal effectiveness. He killed a pleading or downed 
 
 > "Rak! If they're down leave them be!"
 
-Rak's violence continued to shape the battle's moral texture. Giffer became nonresponsive, and the GM note says she was silent because Rak had ensured she was downed. Another GM note preserves that Rak intended to stomp Giffer or reopen her wounds while moving past.
+Rak's violence continued to shape the battle's moral texture. Giffer became nonresponsive after arrow and melee injuries. Sho stabilized or otherwise solved Giffer's immediate dying condition, then moved on to keep trying to restrain Rak and Harvus.
 
-The recovered map confirms Giffer's death position below the port-side stairs, but the exact death mechanism remains unresolved.
+In the fog, Rak intentionally stomped or trampled Giffer while she was mechanically unconscious but stable. No character directly saw his intention. The later observable evidence was that Giffer had been notably trampled. The stomp destabilized her and ultimately caused her death.
 
 Rak also reported that alchemist fire may have gone off in the rear or lower section of the ship.
 
@@ -139,6 +153,8 @@ From Sho's perspective, that promise failed catastrophically because the people 
 - Rak released or triggered the starboard lifeboat before it was ready, sending a Man's Promise crew member into the water and possibly into shark danger.
 - Sho demanded that a crew member put down their weapon and promised safety, only for Harvus to strike another crew member with a flail who was not even looking to attack.
 
+Giffer's death is a parallel but distinct command-guilt wound. Giffer was on the Wormwood side, under Sho's command, and had been stabilized by Sho before Sho moved on. Sho did not know Rak's intent, but she knew or could know that Giffer had been stable and later died after being notably trampled.
+
 The exact lifeboat victim identity and final death / injury mechanism remain open, but the character truth is clear: Sho felt responsible for atrocities she could not stop.
 
 She blames Rak and Harvus for direct actions, Harrigan for attacking the ship in the first place, and herself for not doing more. Despite working with them, Sho does **not** trust Rak or Harvus after this battle.
@@ -154,10 +170,14 @@ The battle also changed Sho's understanding of command. If she is going to take 
 - Sho experienced that command role as confusing and possibly as another setup to fail.
 - Mirei was badly wounded by arrows on approach and did not board the Man's Promise.
 - Harvus and Giffer were hit during approach but made it across.
+- Giffer went down due to a combination of arrow and melee action.
+- Sho stabilized or otherwise solved Giffer's immediate dying condition.
+- Rak intentionally stomped or trampled stable, unconscious Giffer while moving through the fog, destabilizing her and causing her death.
+- No character directly saw Rak's intention; the observable aftermath was that Giffer had been notably trampled.
+- Giffer was the only Wormwood-side casualty in the capture of the Man's Promise.
 - The recovered tactical map confirms the PCs secured the aft deck and ship's wheel before pushing toward the middle deck between the lifeboats and main mast.
 - Sho warned Harrigan and received a nod of recognition after he killed the attacker.
-- Rak killed at least one pleading or downed sailor and likely directly caused or worsened Giffer's fatal state.
-- The recovered map confirms Giffer died below the port-side stairs during the battle.
+- Rak killed at least one pleading or downed sailor and caused Giffer's death through hidden intentional violence against a helpless target.
 - Sho repeatedly tried to impose restraint: subdue enemies, kill only threats, hold positions, and avoid unnecessary deaths.
 - Sho believed surrender should have ended the need for further bloodshed.
 - The recovered map confirms Rak's premature lifeboat release was on the starboard side and put a crew member into the water.
@@ -183,7 +203,7 @@ The battle also changed Sho's understanding of command. If she is going to take 
 - Was the log one continuous sequence, or does the night hot-box scene occur after a time jump from battle/cleanup?
 - Canonize the starting crew count of the Man's Promise and derive final shipwide deaths.
 - Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map / cabin death.
-- What exactly killed Giffer: arrows, melee, Rak's action, delayed care, or another cause?
+- Who noticed Giffer had been notably trampled, and what was reported to Sho or others?
 - Did the starboard lifeboat victim die by crash, drowning, shark swarm, or later injury?
 - Is Ko'ral / Cor'Wal / Kor'al the same killed brother referenced in Sho notes?
 - Is Nor'gal definitively the sailor Rak intimidated into surrender?
