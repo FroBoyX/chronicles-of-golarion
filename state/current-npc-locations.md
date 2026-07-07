@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Draft, expanded with Arodus 5 split-scene evidence and corrected Man's Promise survivor math
+- Maturity: Draft, expanded with Arodus 5 split-scene evidence, corrected Man's Promise survivor math, and corrected non-skeleton survivor transfer placement
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 
 ## Purpose
@@ -60,7 +60,9 @@ Captain Harrigan immediately made an example of a **weakened captured sailor** b
 
 That left **14 surviving captured Man's Promise crew**.
 
-Of those fourteen, the archive currently tracks **six named survivors assigned to Plugg's skeleton crew** on their own captured ship. The other eight survivors are acknowledged by the count but are not currently named or tracked as relaunch actors.
+Of those fourteen, the archive currently tracks **six named survivors assigned to Plugg's skeleton crew** on their own captured ship.
+
+The other eight surviving captured Man's Promise sailors were **not** part of Plugg's skeleton crew at the relaunch point. Current GM correction places them with the **Wormwood** after the Erastus 27 ship split; their names, later duties, and future relevance remain unresolved.
 
 A Rahadoumi officer is visible in the Erastus 27 chat after the weakened sailor is thrown overboard. That officer's identity and later fate remain unresolved.
 
@@ -97,7 +99,6 @@ The six named skeleton-crew survivors are fixed as:
 | Badger Medlar | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood; warmed somewhat to Harvus and Mirei; Rak sheet lists helpful. |
 | Maheem | NPC, unresolved | Conflicting evidence: may be Man's Promise or remained Wormwood. |
 | Tam "Narwhal" Tate | NPC, presumed alive | Status and location need confirmation. |
-| Eight unnamed Man's Promise survivors | NPCs, unresolved | Survivors left alive after Harrigan killed the weakened sailor; not part of the six named skeleton-crew bloc currently tracked. |
 | Rahadoumi officer from Erastus 27 chat | NPC, unresolved | Present after Harrigan's example execution; identity and later fate unresolved. |
 
 ## Wormwood — Not Currently Present
@@ -112,6 +113,7 @@ The six named skeleton-crew survivors are fixed as:
 | Kipper | NPC, unresolved | Status after Man's Promise battle and transfer needs confirmation. |
 | Patch Patchsalt | NPC, unresolved | Status after Man's Promise battle and transfer needs confirmation. |
 | Caulky Tarroon | NPC, presumed alive | Likely Wormwood-side. |
+| Eight unnamed Man's Promise survivors | NPCs, Wormwood-side after Erastus 27 split | Alive after Harrigan's example execution but not part of Plugg's Man's Promise skeleton crew. Identities, later duties, and future relevance remain unresolved. |
 
 ## Dead or Lost Before Relaunch
 
@@ -140,7 +142,7 @@ The six named skeleton-crew survivors are fixed as:
 - Which Wormwood NPCs are definitively aboard the Man's Promise?
 - Where is Owlbear physically at the cold open?
 - Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard the Man's Promise at the cold open?
-- What happened to the other eight Man's Promise survivors?
+- Who were the eight Wormwood-side Man's Promise survivors, and what became of them after the Erastus 27 ship split?
 - Who is the Rahadoumi officer visible in the Erastus 27 chat, and what became of them?
 - What is each named skeleton-crew survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle?
 - Does the ship actually reach Coconut Beach before or after the fork collision resolves?
