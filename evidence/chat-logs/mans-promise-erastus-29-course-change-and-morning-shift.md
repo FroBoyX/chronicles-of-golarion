@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Chat log extract with GM scene framing
-- Maturity: Direct table evidence
+- Maturity: Direct table evidence, corrected for one displaced line
 - Scope: Erastus 29 course-change alarm, morning work assignments, Mirei / Tilly conversation, Kroop / Rak galley beat, Plugg's new duties for Mirei, and cabin-chart evidence
 - Date candidate: Erastus 29
 - Source type: chat log
@@ -38,6 +38,14 @@ Harvus G'ron:	*winky face*
 - This is a strong early course-change discovery scene.
 
 ## Scene Candidate: Morning Shift, Split Scenes from Chat
+
+### Correction Note
+
+The line `Sandara Quinn: See, he isn't so bad once you get to know him.` was embedded in the raw chat fragment below between Mirei tasting Plugg's food and Plugg assigning the food-tasting duty.
+
+GM correction now places that line in a separate low-confidence dinner fragment with Harvus, Sandara, and Badger. It should **not** be treated as spoken inside Plugg's locked cabin.
+
+The line remains omitted from the extracted facts for this scene.
 
 ### Raw Chat
 
@@ -91,7 +99,7 @@ Ambrose Fishguts Kroop:	*To Mirei* Captain said for you to bring him his food...
 * Mirei walks over and sets the food down.
 	Mr Plugg:	Now, taste both dishes.
 * Mirei squints her eyes a little, not really sure about the situation, but takes a bite of both dishes
-	Sandara Quinn:	See, he isn't so bad once you get to know him.
+	[Displaced line removed from this scene: Sandara Quinn: See, he isn't so bad once you get to know him.]
 	Mr Plugg:	Good, this is now apart of your duties... am I clear?
 	Master Scourge:	*Smiles* Good food, isn't it wench?
 	Mirei:	What else do my duties now include? *turns to scourge* Tonight its not bad. And I really don't like being called wench.
@@ -126,7 +134,6 @@ Mr Plugg:	*Stops Scourge with a wave*
 - Scourge opened the door.
 - Plugg quickly folded a chart when Mirei entered, suggesting he was hiding navigation or course information.
 - Plugg ordered Mirei to taste both dishes before he ate, adding food-tasting to her duties.
-- The line "See, he isn't so bad once you get to know him" appears in the log attributed to Sandara Quinn, but context suggests this attribution may need verification because the scene is inside Plugg's locked cabin with Plugg and Scourge.
 - Mirei asked what else her duties included and objected to being called wench.
 - Plugg stopped Scourge, said Mirei deserved respect, then struck Mirei and corrected the title to "Captain's wench," adding that she had not earned that right.
 - Plugg grabbed Mirei's chin.
@@ -135,7 +142,6 @@ Mr Plugg:	*Stops Scourge with a wave*
 ## Open Checks
 
 - Confirm whether the date should be locked as Erastus 29.
-- Confirm who said "See, he isn't so bad once you get to know him" inside the locked cabin scene.
 - Confirm what chart Plugg folded and whether Mirei saw enough to infer the course change.
 - Confirm whether Mirei's food-tasting duty continued after this scene.
 - Confirm whether Rak moved into the cook's cabin and what Kroop wanted to discuss with him.
