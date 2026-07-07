@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, and Erastus 29 entertainer agreement
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, Erastus 29 entertainer agreement, and Sho player-memory perspective on Mirei as confidante
 - Current mechanics: Out of date; player is currently level 2
 - Conversion status: Not converted
 
@@ -129,6 +129,8 @@ By the following night, the GM clarified that Mirei had noticed the previous day
 
 This is the recovered beginning of the Mirei/Sho disguise thread.
 
+Sho's player-memory perspective adds that Sho initially felt exposed and afraid that if Mirei noticed, others might have noticed too. Sho feared being treated differently or lesser if the truth spread. After speaking with Mirei, however, Sho's feelings shifted: Mirei became someone Sho could relax around, be herself with, and confide in instead of always needing to be bold, strong, and righteous.
+
 ### Storm-Window Performance Invitation
 
 Sometime during the early Wormwood storm window, likely between Erastus 11 and Erastus 13 if the AP weather scaffold maps cleanly to the reconstructed calendar, Mirei went to invite **Captain Harrigan** to her nightly performance.
@@ -197,6 +199,8 @@ Mirei accepted the boundary.
 
 This shows that Mirei's attempt at normal friendly crew work met the social danger created by association with the PCs and Sho's defiance.
 
+From Sho's later player-memory perspective, Sho noticed Mirei becoming more distant or closed off but did not understand why. Sho felt confusion and hoped the shift was temporary. She was also too isolated and embattled to fully tackle what was happening with Mirei, because each day brought another immediate survival challenge and fewer quiet moments for honest conversation.
+
 ### Erastus 29 — Course Change and Plugg's Duties
 
 On Erastus 29, Tilly warned Mirei that some crew were worried Plugg might be taking the Man's Promise for himself because Sandara had said the ship changed course the previous night.
@@ -229,7 +233,7 @@ He told Mirei that if she agreed to be his entertainer, she would stay there, st
 
 Mirei said she would not mind still helping around the ship because she feared respect without labor would be sarcastic and fake. She also said she liked entertaining.
 
-Plugg said she would earn respect with her voice and presence, not labor. He said he would raise her in station along with himself as "a lady of a pirate lord," but she would have to sing his deeds. His voice went cold and he demanded an answer.
+Plugg said she would earn respect with her voice and presence, not labor. He said he would raise her in station along with himself as "a lady of a pirate lord," but she would have to sing his deeds. His voice went cold and demanded an answer.
 
 Mirei agreed.
 
@@ -288,6 +292,12 @@ Rak lent Mirei a fiddle during the first recovered evening aboard the Man's Prom
 Mirei was the first recovered character to notice that Sho's presentation was not what it appeared to be.
 
 On Day 3, Mirei noticed something was wrong through deception context. By the following night, she had figured out that Sho was actually a woman and chose to hide that she knew the exact truth.
+
+Sho's player-memory perspective clarifies the emotional arc from Sho's side. At first, Sho felt exposed and worried that if Mirei had noticed, others might notice as well. Sho feared being treated differently, lesser, or more vulnerably if the truth spread.
+
+Sho initially denied the truth. Once she realized Mirei knew, she saw less reason to maintain the charade with Mirei. After speaking with Mirei, the fear shifted into relief: Mirei became someone Sho could relax around, be herself with, and confide in without needing to remain bold, strong, and righteous all the time.
+
+Before Mirei became closed off, Sho saw her as kind and perhaps even more sheltered than herself. Sho did not know what Mirei was going through under Plugg's attention and pressure, so that assessment may change if Sho learns more.
 
 Sho noticed Mirei becoming closed off later and suspected Scourge or officer attention might be influencing her situation.
 
@@ -363,7 +373,7 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 - Her relationship to Plugg's attempted manipulation needs careful tracking.
 - Her role as a Sea Singer should be preserved in any future conversion.
 - Confirm whether the Day 2 performance was the first actual performance after the harp's return or simply the first recovered one.
-- Confirm when Sho openly confided the disguise truth to Mirei.
+- Confirm exact chronology for when Sho openly confided the disguise truth to Mirei; player-facing relationship truth is established, but scene placement remains a chronology check.
 - Confirm whether the storm-window Harrigan invitation / Plugg order is Erastus 11, 12, or 13.
 - Confirm whether Harrigan ever heard the invitation or attended the performance.
 - Confirm whether the floating 34 performance belongs to the same night as the storm-window Plugg order.
