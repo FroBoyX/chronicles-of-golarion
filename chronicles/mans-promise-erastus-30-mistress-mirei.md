@@ -4,8 +4,8 @@
 
 - Type: Narrative reconstruction
 - Maturity: Draft / canon-candidate
-- Source basis: Direct chat logs with GM scene framing and GM clarifications
-- Date candidates: Erastus 29 night and Erastus 30
+- Source basis: Direct chat logs with GM scene framing, GM clarifications, and AP storm scaffold
+- Date candidates: Erastus 29 night and Erastus 30, interrupted by early Erastus 31 storm
 - Spoiler scope: Player-safe / character-limited for Plugg-Mirei coercion, Sandara's infiltration plan, and Syl's threat
 - Canon status: Becomes canon after GM/player sign-off and final date confirmation
 
@@ -285,6 +285,21 @@ She spat again.
 
 Mirei had refused to snitch. Syl had done the observing for Plugg anyway.
 
+## Storm Interruption
+
+None of the pending social or information-gathering threads receive a normal shipboard follow-through.
+
+During night shift, in the early morning of Erastus 31, the storm hits.
+
+The storm interrupts:
+
+- Harvus' possible attempt to investigate the captain's or officers' quarters.
+- Sandara's possible backup idea of using Sho to get information the rough way.
+- Mirei's return report to Plugg after gauging the crew.
+- Plugg's immediate response to Syl's report.
+
+The wind rising during Fipps' call to the rigging is therefore not just atmosphere. It is the beginning of the hard transition from whispered mutiny politics to emergency survival work, Bonewrack Isle, and the grindylow attack.
+
 ## What This Establishes
 
 - Erastus 29 nightshift: Fipps assigns Harvus to the mainsail with Ebony Saable and Sho to repairs.
@@ -302,7 +317,7 @@ Mirei had refused to snitch. Syl had done the observing for Plugg anyway.
 - Sandara asks Harvus to try to sneak into the captain's or officers' quarters to find where the ship is going.
 - Sandara specifically wants to know if they are headed to Bloodcove or the area.
 - Sandara considers using Sho to get the information the rough way, but notes Sho's tact is uncertain and that doing so would risk Sho's life.
-- Harvus agrees to try despite likely locked doors and lack of lock skill.
+- The Harvus investigation, Sho backup idea, and Mirei report do not resolve cleanly because the Erastus 31 storm interrupts night shift.
 - Harvus and Sandara kiss before his shift.
 - Tam challenges Mirei's new station directly.
 - Tam says Plugg may have ordered respect, but Mirei has not earned it.
@@ -317,16 +332,15 @@ Mirei had refused to snitch. Syl had done the observing for Plugg anyway.
 - Syl suspects Mirei's whispers with Sho and says Scourge will have a field day with her.
 - Syl digs the knife in enough to draw blood.
 - Mirei pushes back, and Syl recognizes "some fire" behind the Mistress farce.
-- Syl says she and Scourge will see Mirei in the morning.
+- Syl says she and Scourge will see Mirei in the morning, but the storm prevents a normal morning follow-up.
 
 ## Open Checks
 
 - What repairs were Sho and Goyle performing?
-- Did Harvus attempt the infiltration, and if so, what happened?
-- Did Mirei eventually eat the waiting third plate?
+- Did Mirei eventually eat the waiting third plate before the storm fully hit, or did it remain waiting?
 - Who was the second person Tam was with?
 - Does Jack Scrimshaw's "Yes?" belong to this same below-decks exchange or a displaced fragment?
-- Did Sandara's "use Sho the rough way" thought remain between Sandara and Harvus, or was it ever raised with Sho?
-- What did Plugg do with Syl's report?
 - Did Syl's knife wound leave visible evidence or require treatment?
-- Did Mirei tell anyone about Syl threatening her?
+- Did Mirei tell anyone about Syl threatening her before the storm forced all hands into crisis work?
+- Which exact crew members were taken by grindylows during the storm window in campaign play?
+- What did each PC and key NPC do during the storm work before the abductions became clear?
