@@ -30,34 +30,48 @@ When a scene is completed, mark it as completed and list the evidence file plus 
 
 ### Man's Promise storm and island log tracing
 
-- Source type: pending chat-log tracing, supported by GM clarification and GM short-form chronology
+- Source type: pending chat-log tracing, supported by GM clarification, GM short-form chronology, and first preserved storm fight fragment
 - Date candidate: Erastus 30 night into Erastus 31 storm; Arodus 1 shipwreck / landing; Bonewrack island split through Arodus 5 cold open
-- Placement confidence: short-form day structure high; individual log details unresolved until logs are fully traced
+- Placement confidence: short-form day structure high; first fight fragment high for visible events; individual log details unresolved until logs are fully traced
 - Destination evidence files:
   - `evidence/gm-notes/mans-promise-storm-tracing-clarifications.md`
   - `evidence/gm-notes/mans-promise-erastus-30-arodus-1-storm-island-shortform.md`
+  - `evidence/chat-logs/mans-promise-erastus-31-storm-grindylow-fight-fragment.md`
   - future storm / island chat-log extracts as recovered
 - Integration targets:
+  - `chronicles/mans-promise-erastus-31-storm.md`
   - `state/current-npc-locations.md`
   - `state/current-ship-state.md`
   - `state/crew-transfer-and-loyalty-audit.md`
   - `chronology/arodus-5-split-scenes.md`
   - `chronicles/the-fork.md`
   - relevant PC/NPC dossiers
-- Status: Active next tracing task. GM has logs ready; current tracing point is immediately before the storm.
+- Status: Active tracing task. First storm fight fragment preserved; next log chunk should continue storm fight / aftermath.
 - Locked short-form structure:
   - Erastus 30: harsh but normal sailing day.
   - Erastus 31: large sudden storm; ship driven southwest off course; Tilly Brackett and Sandara Quinn are taken by grindylows; grindylows then attack openly.
   - Arodus 1: Man's Promise is blown onto a reef; fresh water is gone; repairs will take two days; island team is sent in late evening for food and water; camp is attacked by ghouls at night.
   - Goyle Onórach is captured later during a separate subsequent grindylow attack aboard the Man's Promise while PCs are away on the island; Plugg washes him overboard with the Tidal Cutlass while Goyle is fighting a boarder.
+- First storm fragment extracted facts:
+  - Combat is on the `Man's Promise` map.
+  - PCs visible: Harvus, Mirei, Sho, Rak.
+  - Harvus is in the rigging for part of the fight.
+  - Sho and Rak fight grindylows on deck.
+  - Rak drops as low as 2 / 20 HP before being healed back up.
+  - Mirei falls from the rigging during the storm.
+  - Sho moves to cushion / catch Mirei's fall; Mirei gets up and thanks Sho.
+  - Sho says the grindylows were especially interested in Rak.
 - Open checks:
-  - Preserve the raw storm log when pasted.
+  - Preserve the remaining raw storm logs when pasted.
   - Trace who is physically aboard the Man's Promise through storm and island events, including Dahrehn, Ebony, Merchiel, Nor'gal, Kahina, and any other relevant crew.
   - Trace Plugg / Syl report follow-up in post-storm logs; GM memory says it comes up there.
   - Trace Harvus' storm actions before routing to player memory. If unresolved, ask Harvus' player.
   - Trace whether Sho was involved in Sandara's backup "rough way" idea. If unresolved, route to Sho's player.
   - Trace the Arodus 1 water-loss / repair-estimate / island-team assignment scene.
   - Trace the later grindylow boarding that leads to Goyle's capture.
+  - Identify who launched the grindylow head into the sails, if the logs confirm it.
+  - Identify what healed Rak for 7 HP and later 8 HP.
+  - Determine whether Sandara and Tilly were already known missing at this combat point.
   - Do not infer cold-open positions from survivor-set membership alone.
 
 ### Harvus-side recent update and questions
