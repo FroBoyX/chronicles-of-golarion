@@ -16,7 +16,7 @@ This is not a full open-question index. Use `tracking/open-questions.md` for unr
 
 | Priority | Workstream | Chat Split | Status | Notes |
 |---:|---|---|---|---|
-| 1 | Stabilize chat split / handoffs | Chronicle Master | Active | Handoff files and tracking files exist; visual output lane added. |
+| 1 | Stabilize chat split / handoffs | Chronicle Master | Active | Handoff files and tracking files exist; visual and PF2e conversion lanes added. |
 | 2 | Continue evidence intake from user-provided logs | Relevant evidence chat | Ongoing | Preserve raw logs first, then integrate. |
 | 3 | Current cold-open state | Man's Promise / Bonewrack + NPC audit | Ongoing | Keep locations, loyalties, and survivor positions current. |
 | 4 | Player-safe cold-open packets | PC Dossiers / Player Packets | Pending | Likely needed for Harvus, Rak, Sho, Mirei. |
@@ -27,6 +27,7 @@ This is not a full open-question index. Use `tracking/open-questions.md` for unr
 | 9 | Rak / Grok relationship and galley loop | Wormwood + PC Dossiers | Ongoing | First recovered friendship beat is Day 2 brew, not necessarily first contact. |
 | 10 | Narrative chapter polish | Narrative Reconstruction | Deferred | Do after evidence is stable. |
 | 11 | Visual output pipeline | Visual Output / Art Direction | Scaffolded | Method, style seed, handoff, brief folders, art folder, and image index created. Start with briefs before generating art. |
+| 12 | PF2e conversion audit | PF1 to PF2e Conversion Audit | Scaffolded | Method, handoff, conversion index, and conversion folders created. Start with a narrow PC or encounter pilot before campaign-wide adoption. |
 
 ## Recently Completed / Established
 
@@ -39,6 +40,7 @@ This is not a full open-question index. Use `tracking/open-questions.md` for unr
 - Rak/Grok galley and alcohol bonding loop strengthened.
 - Harvus/Rosie fiddle and post-Rosie rage evidence preserved and integrated.
 - Visual Output / Art Direction lane scaffolded with `design/visual-output-method.md`, `design/visual-style-guide.md`, `handoffs/visual-output-handoff.md`, `visual-briefs/`, `art/`, and `tracking/image-output-index.md`.
+- PF1 to PF2e Conversion Audit lane scaffolded with `design/pf2e-conversion-method.md`, `handoffs/pf2e-conversion-handoff.md`, `tracking/pf2e-conversion-index.md`, and `conversions/pf2e/`.
 
 ## Next Good Tasks
 
@@ -74,6 +76,14 @@ Create the first visual brief before generating art. Recommended pilots:
 - Character: Sho hot-box portrait, Harvus post-Riptide rescue portrait, Sandara crew portrait, or Kahina survivor portrait.
 - Location: Wormwood exterior, Man's Promise occupied deck, Bonewrack jungle approach, or Riptide Cove / Cauldron mood image.
 - Battle map: Man's Promise deck map or Riptide Cove / Cauldron map.
+
+### Good task for PF1 to PF2e Conversion Audit
+
+Create the first narrow conversion audit before deciding whether the campaign should convert. Recommended pilots:
+
+- PC pilot: Sho Astor, focused on Suli/Jalmeray monk identity, restraint, justice, current hot-box state, and leadership wound.
+- Hard-case PC pilot: Rak Wraithraiser, focused on nagaji alchemist/vivisectionist identity, galley/alcohol loop, violence, Besmara, and item dependence.
+- Encounter pilot: Sho hot-box / mutiny-side confrontation or Man's Promise deck fight.
 
 ## Parking Lot
 
