@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, expanded with Rak and Sho player-sheet evidence, corrected Man's Promise survivor math, recovered tactical map evidence, and corrected shipwide death-toll scope
+- Maturity: Draft, expanded with Rak and Sho player-sheet evidence, corrected Man's Promise survivor math, recovered tactical map evidence, corrected shipwide death-toll scope, and corrected non-skeleton survivor transfer placement
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -99,7 +99,7 @@ Ebony Saable is also identified as the "monk man" referenced by Sho.
 
 Earlier reconstruction incorrectly stated that Harrigan threw the only surviving Rahadoumi officer overboard. The Erastus 27 chat instead has Harrigan throwing a weakened sailor, while a Rahadoumi officer is still present and spits in disgust. That officer's exact identity and fate remain open.
 
-The other eight survivors are acknowledged by the survivor math but are not currently named or tracked in the relaunch survivor bloc.
+The other eight survivors were not part of Plugg's Man's Promise skeleton crew. Current GM correction places those eight with the Wormwood after the Erastus 27 ship split. Their identities, later duties, and future relevance remain unresolved.
 
 ## Known Current PCs
 
@@ -141,6 +141,7 @@ The other eight survivors are acknowledged by the survivor math but are not curr
 | Riaris Krine | Wormwood likely | Presumed alive | Placement should be confirmed. |
 | Habbly Quarne | Wormwood likely | Presumed alive | Placement should be confirmed. |
 | Caulky Tarroon | Wormwood likely | Presumed alive | Placement should be confirmed. |
+| Eight unnamed Man's Promise survivors | Wormwood-side after Erastus 27 split | Alive after Harrigan's example execution; not part of Plugg's Man's Promise skeleton crew. Identities, later duties, and future relevance remain unresolved. |
 
 ## Dead / Lost / Removed
 
@@ -162,7 +163,6 @@ The other eight survivors are acknowledged by the survivor math but are not curr
 | Character | Possible States | Notes |
 |---|---|---|
 | Rahadoumi officer from Erastus 27 chat | Unknown | Present after Harrigan throws a weakened sailor overboard; spits in disgust. Identity and later fate unresolved. |
-| Eight unnamed Man's Promise survivors | Unknown | Existed after Harrigan's example; not among the six named skeleton-crew survivors currently tracked. Fate and assignment unresolved. |
 | Badger Medlar | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists helpful. |
 | Maheem / Muheem | Man's Promise or Wormwood | Conflicting placement evidence; Rak sheet lists kill-if-a-moment-arises; on Sho watch list. |
 | Barefoot Samms Toppin | Man's Promise likely | Harvus light-log says friendly; needs placement confirmation. |
@@ -224,11 +224,13 @@ The survivor bloc should not be treated as monolithic. Goyle has been rescued an
 
 ### Other Man's Promise Survivors
 
-After Harrigan killed the weakened captured sailor, eight other survivors existed beyond the six named skeleton-crew survivors.
+After Harrigan killed the weakened captured sailor, eight other surviving captured Man's Promise sailors existed beyond the six named skeleton-crew survivors.
 
-They are acknowledged by the survivor math but currently untracked. Do not use them as named relaunch actors without further evidence.
+Current GM correction places those eight with the Wormwood after the Erastus 27 ship split. They are not current Man's Promise skeleton-crew actors unless later evidence contradicts that transfer placement.
 
-The Rahadoumi officer visible in the Erastus 27 chat may or may not be part of those untracked survivors or later assigned elsewhere; identity and fate remain open.
+Their identities, Wormwood-side duties, and future relevance remain unresolved.
+
+The Rahadoumi officer visible in the Erastus 27 chat may or may not be one of those eight; identity and fate remain open.
 
 ### Uncommitted / Survival Bloc
 
@@ -250,7 +252,7 @@ Before running the return to the Man's Promise, determine or confirm:
 8. Which player-sheet attitude notes reflect actual influence state versus player impression.
 9. Which Man's Promise survivor names and spellings are final.
 10. What Sho's Giffer-body suspicion refers to.
-11. Whether any of the eight unnamed survivors need to re-enter the record.
+11. Whether any of the eight Wormwood-side Man's Promise survivors need to re-enter the record.
 12. Token-by-token identification from the recovered Man's Promise map for surrendered and injured figures.
 13. Canon starting crew count and final Man's Promise death toll.
 
@@ -266,7 +268,7 @@ If too many people die or leave, the ship may become a prize no one can actually
 
 - Canonize the Man's Promise starting crew count and derive the full death toll.
 - Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map cabin death.
-- Resolve what happened to the eight Man's Promise survivors who were not part of the named skeleton-crew bloc.
+- Identify the eight Man's Promise survivors who went with the Wormwood after the Erastus 27 split, and determine whether any later re-enter the record.
 - Resolve the identity and fate of the Rahadoumi officer visible in the Erastus 27 chat.
 - Use the recovered Man's Promise map to identify every surrendered token and every injured Wormwood crew token by name.
 - Resolve Badger placement and confirm why Rak's sheet lists her helpful.
