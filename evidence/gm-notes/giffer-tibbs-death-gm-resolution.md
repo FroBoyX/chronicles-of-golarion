@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: GM truth note
-- Maturity: Canon resolution note, updated with Sho investigation / burial clarification
+- Maturity: Canon resolution note, updated with Sho investigation / burial clarification and future exposure condition
 - Source: GM resolution during Sho character discovery / answer integration
 - Scope: Giffer Tibbs death mechanism, Rak culpability, Sho knowledge limits, Man's Promise battle casualty accounting, evidence trail after burial
 - Canon status: GM truth unless later explicitly revised by GM
@@ -24,6 +24,14 @@
 
 Interpretation note: the phrase "came to know conclusions" is recorded above as written. For integration, this is treated as "came to no actionable conclusions," because the surrounding clarification preserves the player/character knowledge wall.
 
+## Raw GM Clarification — Future Exposure
+
+> It hasn't yet, but that could happen as long as they have the ship.
+
+Additional GM clarification: magic or truth elements that make Rak admit it could also expose the truth.
+
+This refers to future in-character proof routes. No such exposure has happened yet, but it remains possible while the party has access to or possession of the Man's Promise, or if later magic/truth effects compel or elicit Rak's admission.
+
 ## Canon Extraction
 
 - Giffer Tibbs was the only Wormwood-side casualty in the capture of the Man's Promise.
@@ -39,7 +47,9 @@ Interpretation note: the phrase "came to know conclusions" is recorded above as 
 - Sho came to no actionable conclusion that would allow her to act on player knowledge.
 - Rak has not admitted to killing Giffer.
 - Giffer received a pirate burial during the revel.
-- After the burial, the remaining route to prove Rak's intent is magic or equivalent supernatural reconstruction that shows what occurred on the Man's Promise.
+- After the burial, the remaining route to prove Rak's intent is magic or equivalent supernatural reconstruction that shows what occurred on the Man's Promise, or magic/truth effects that make Rak admit what happened.
+- No magical, supernatural, or truth-compelled exposure has happened yet.
+- Such exposure remains possible while the party has access to or possession of the Man's Promise, or if future magic/truth effects compel or elicit Rak's admission.
 
 ## Knowledge Split
 
@@ -55,7 +65,7 @@ Sho attempted to investigate the death, but found no actionable conclusion that 
 
 ### Witness / Crew Knowledge
 
-No witness directly saw Rak's intent. Other characters may notice or learn only that Giffer had been trampled unless future evidence, confession, or magic exposes Rak's action.
+No witness directly saw Rak's intent. Other characters may notice or learn only that Giffer had been trampled unless future evidence, confession, supernatural reconstruction, or magic/truth effects expose Rak's action.
 
 ### Rak Character Knowledge
 
@@ -65,7 +75,9 @@ Rak knows whether he acted intentionally. He has not admitted to killing Giffer.
 
 Giffer was given a pirate burial during the revel.
 
-Because the body is gone, ordinary physical investigation is no longer a viable route to prove the killing. The remaining proof route is magic or equivalent supernatural evidence that can show what occurred on the Man's Promise.
+Because the body is gone, ordinary physical investigation is no longer a viable route to prove the killing. The remaining proof routes are magic or equivalent supernatural evidence that can show what occurred on the Man's Promise, or magic/truth effects that compel or elicit Rak's admission.
+
+That exposure has not happened yet. It remains possible only if future play creates an in-character proof route, most directly while the party retains access to or possession of the Man's Promise, or through later magic/truth pressure on Rak.
 
 ## Integration Rules
 
@@ -76,4 +88,4 @@ Because the body is gone, ordinary physical investigation is no longer a viable 
 - Treat Giffer's death as the only Wormwood casualty in the capture of the Man's Promise.
 - Treat Rak as not having admitted the kill.
 - Treat Giffer's pirate burial during the revel as closing ordinary body-based investigation.
-- Keep open only magical/supernatural exposure, later confession, or other in-character proof routes.
+- Keep open only magic/supernatural exposure, later confession, magic/truth-compelled admission, or other in-character proof routes.
