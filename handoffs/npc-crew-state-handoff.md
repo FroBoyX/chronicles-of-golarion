@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Focused chat handoff
-- Maturity: Working control document
+- Maturity: Working control document, corrected with Erastus 27 ship-split model
 - Scope: NPC dossiers, current locations, survivor lists, loyalty buckets, crew viability
 
 ## Chat Purpose
@@ -23,12 +23,13 @@ This includes:
 ## New Chat Starter Prompt
 
 ```text
-You are the NPC & Crew State auditor for FroBoyX/chronicles-of-golarion. Read `handoffs/npc-crew-state-handoff.md`, `handoffs/chronicle-master-handoff.md`, `state/current-npc-locations.md`, `state/crew-transfer-and-loyalty-audit.md`, `state/current-ship-state.md`, and `tracking/open-questions.md`. Keep NPC placement, loyalty, and survival state grounded in evidence; do not invent loyalties.
+You are the NPC & Crew State auditor for FroBoyX/chronicles-of-golarion. Read `handoffs/npc-crew-state-handoff.md`, `handoffs/chronicle-master-handoff.md`, `state/current-npc-locations.md`, `state/mans-promise-crew-viability-reference.md`, `state/crew-transfer-and-loyalty-audit.md`, `state/current-ship-state.md`, and `tracking/open-questions.md`. Keep NPC placement, loyalty, and survival state grounded in evidence; do not invent loyalties.
 ```
 
 ## Core State Files
 
 - `state/current-npc-locations.md`
+- `state/mans-promise-crew-viability-reference.md`
 - `state/current-ship-state.md`
 - `state/crew-transfer-and-loyalty-audit.md`
 - `state/current-item-questions.md`
@@ -36,20 +37,46 @@ You are the NPC & Crew State auditor for FroBoyX/chronicles-of-golarion. Read `h
 - `chronology/arodus-5-split-scenes.md`
 - `chronology/open-threads.md`
 
+## Corrected Erastus 27 Ship-Split Model
+
+The Man's Promise and the Wormwood separated on **Erastus 27, 4712 AR**.
+
+Correct sequence:
+
+1. The post-battle captured Man's Promise survivor lineup contained 15 captured survivors.
+2. Harrigan threw one weakened captured sailor overboard as an example.
+3. Fourteen captured Man's Promise survivors remained alive.
+4. Harrigan promoted Mr. Plugg to captain of the Man's Promise and assigned a skeleton crew.
+5. The Wormwood and the Man's Promise separated.
+6. Six named Man's Promise survivors were assigned to Plugg's skeleton crew.
+7. The other eight surviving captured Man's Promise crew went with the Wormwood.
+
+Do not place the other eight captured Man's Promise survivors at Bonewrack or aboard the Arodus 5 Man's Promise unless later evidence brings them back.
+
+## Ship Crew Viability Reference
+
+The Man's Promise should be treated as a Pathfinder First Edition sailing ship with a **Crew 20** effective-operations reference.
+
+Use this as a pressure tool, not a railroad:
+
+- 20 effective crew means the ship can be sailed properly and sustainably.
+- Fewer than 20 may allow emergency movement or short repositioning, but the ship is under-crewed, unsafe, and vulnerable to failed repairs, fatigue, weather, and morale collapse.
+- Count only people alive, aboard, capable, and willing or controllable.
+
 ## Man's Promise Named Survivor Set
 
 The six named Man's Promise skeleton-crew survivors are currently fixed as:
 
 | Character | Role | Current Notes |
 |---|---|---|
-| Dahrehn Numus | Swab | Previously wealthy trader; exact cold-open position unresolved. |
-| Ebony Saable | Rigger | Sho's referenced "monk man"; short, dark, bald, leanly muscled, mostly silent. |
+| Dahrehn Numus | Swab | Previously wealthy trader; likely Man's Promise, exact cold-open position unresolved. |
+| Ebony Saable | Rigger | Sho's referenced "monk man" and Fipps' "dark one" assignment target; short, dark, bald, leanly muscled, mostly silent. |
 | Goyle Onórach | Swab | Rescued from Riptide Cove; with Harvus group; former quartermaster context. |
 | Kahina Bukekayo | Rigger | Aboard Man's Promise; testing Sho with life-for-life bargain. |
 | Merchiel V'giatore | Rigger | Restrained Nor'gal in first-night Rak confrontation; exact cold-open position unresolved. |
 | Nor'gal Daraa | Swab | Revenge thread for brother Kor'al / Cor'Wal; exact cold-open position unresolved. |
 
-Do not conflate the named six with the full survivor count. The count says fourteen surviving captured Man's Promise crew after Harrigan kills one weakened sailor; only six are currently tracked as named skeleton-crew actors.
+Do not conflate the named six with the full survivor count. The count says fourteen surviving captured Man's Promise crew after Harrigan kills one weakened sailor. Six of those fourteen are named survivors assigned to Plugg's skeleton crew; the other eight went with the Wormwood.
 
 ## Current Location Buckets
 
@@ -76,13 +103,29 @@ Do not conflate the named six with the full survivor count. The count says fourt
 
 - Sho Astor, believed in hot-box.
 - Kahina Bukekayo, nearby or recently guarding / interrogating.
-- Other named survivors: likely aboard unless specifically placed elsewhere, but exact physical positions unresolved.
+- Other named survivors likely aboard unless specifically placed elsewhere: Dahrehn, Ebony, Merchiel, Nor'gal. Exact physical positions unresolved.
 
 ### Man's Promise — Command Threat
 
 - Mr. Plugg
 - Master Scourge
 - Owlbear Hartshorn, likely aboard under Plugg unless Sho's mercy changes him.
+
+### Man's Promise — Practical / Transfer Network
+
+Evidence-backed or likely Man's Promise-side actors include:
+
+- Ambrose Kroop
+- Crimson Cogward
+- Ratline Rattsberger
+- Tam "Narwhal" Tate
+- Barefoot Samms Toppin, strong evidence / likely
+- Badger Medlar, probable but low-placement confidence
+- Jack Scrimshaw, weak / unresolved
+- Conchobhar Turlach Shortstone, unresolved placement
+- Maheem, unresolved placement
+- Kipper, unresolved placement
+- Patch Patchsalt, unresolved placement
 
 ### Wormwood-Side / Not Present
 
@@ -92,6 +135,7 @@ Do not conflate the named six with the full survivor count. The count says fourt
 - Riaris Krine
 - Habbly Quarne
 - Caulky Tarroon
+- the other eight surviving captured Man's Promise crew who went with the Wormwood after the Erastus 27 split
 
 ### Dead / Removed
 
@@ -102,6 +146,8 @@ Do not conflate the named six with the full survivor count. The count says fourt
 - Harmak Gruft
 - Kor'al / Cor'Wal Daraa
 - The Whale
+- Man's Promise captain
+- unnamed weakened captured sailor executed by Harrigan
 
 ## Loyalty Buckets
 
@@ -111,13 +157,15 @@ These are working buckets, not final canon.
 
 Likely or probable:
 
+- Mr. Plugg
+- Master Scourge
 - Slippery Syl Lonegan
 - Jaundiced Jape
 - Fipps Chumlett
-- possibly Maheem
-- possibly Tam Tate
-- possibly Kipper
-- any Wormwood sailors whose survival depends on Plugg
+- possibly Maheem, if present
+- possibly Kipper, if present and capable
+- potentially Owlbear, if Sho's mercy is not actionable
+- any hostile Wormwood sailors whose survival depends on Plugg
 
 ### PC / Ally-Leaning
 
@@ -128,13 +176,15 @@ Likely or player-evidenced:
 - Ambrose Kroop
 - Goyle Onórach, conditionally
 - Badger Medlar, per Rak sheet and social evidence, placement unresolved
-- Barefoot Samms Toppin, per Harvus influence evidence
-- Jack Scrimshaw, per Rak friendly? note
+- Barefoot Samms Toppin, per Harvus influence and course-change evidence
+- Ratline Rattsberger, per Harvus influence evidence
+- Conchobhar, per Harvus influence evidence, placement unresolved
+- Jack Scrimshaw, per Rak friendly? note, placement unresolved
 - Owlbear, if Sho's mercy is actionable
 
 ### Man's Promise Survivor Bloc
 
-Likely includes:
+Includes:
 
 - Kahina Bukekayo
 - Goyle Onórach
@@ -142,7 +192,6 @@ Likely includes:
 - Dahrehn Numus
 - Merchiel V'giatore
 - Nor'gal Daraa
-- unnamed surviving Man's Promise crew
 
 This bloc may oppose Plugg while still distrusting the PCs.
 
@@ -161,6 +210,9 @@ High-priority dossier maintenance:
 - `characters/npcs/merchiel-vgiatore.md`
 - `characters/npcs/norgal-daraa.md`
 - `characters/npcs/badger-medlar.md`
+- `characters/npcs/barefoot-samms-toppin.md`
+- `characters/npcs/ratline-rattsberger.md`
+- `characters/npcs/crimson-cogward.md`
 - `characters/npcs/maheem.md`
 - `characters/npcs/shivikah.md`
 - `characters/npcs/slippery-syl-lonegan.md`
@@ -180,8 +232,10 @@ High-priority dossier maintenance:
 - Badger placement: Man's Promise or Wormwood?
 - Maheem placement: Man's Promise or Wormwood?
 - Patch, Kipper, Tam, Samms, Jack, Ratline, Conchobhar placement.
-- Who can sail / rig / cook / lead after a mutiny?
+- Who can sail / rig / cook / repair / pump / stand watch / lead after a mutiny?
+- Whether the Man's Promise can meet or approximate the Crew 20 effective-operations reference after casualties and refusals.
 - Whether the crew would accept Sho, Harvus, Rak, Mirei, Goyle, Sandara, or someone else as a command solution.
+- What are the names and later Wormwood-side fates of the other eight captured Man's Promise survivors?
 
 ## Output Style
 
