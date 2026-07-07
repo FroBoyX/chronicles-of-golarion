@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, Erastus 26 revel intervention, and Man's Promise work-distance scene
+- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, Erastus 26 revel intervention, Man's Promise work-distance scene, and Erastus 30 challenge to Mistress Mirei
 - Scope: Hostile lower-crew rigger, pirate custom witness, placement unresolved
 
 ## Overview
@@ -97,6 +97,36 @@ Tam likely transferred to the Man's Promise prize crew, but exact placement need
 
 He later told Mirei that she lacked pirate character and appeared out of place, implying he judged more than just loyalty.
 
+### Erastus 30 Challenge to Mistress Mirei
+
+On Erastus 30, after Plugg dressed Mirei in the dead captain's clothing, jewelry, and a jeweled sword and sent her below as "Mistress Mirei," Tam openly challenged her station.
+
+Mirei approached him and another crew member for conversation. Tam answered:
+
+> "Look who's graced us with her voice?"
+
+When Mirei asked how the night was treating them, he answered bluntly:
+
+> "Fine, what do you want?"
+
+Tam then said being told to respect her did not mean she had earned respect, and asked permission to be frank. Mirei granted it.
+
+Tam said Mirei looked out of place in her station, that they were pirates, and that if she wanted to inspire the crew or even talk to them, she needed more character.
+
+> "Go back to your gilded cage."
+
+When Mirei said she hoped to earn the crew's respect, Tam said hope led to Davy Jones and called Plugg a brat of a captain. If Plugg saw Mirei as his voice, Tam said he hoped they all ended there sooner rather than later.
+
+Tam then made the exchange personal:
+
+> "I personally put you on the Wormwood 'Mistress'... with all 'due' respect, don't make promises you can't keep."
+
+He told Mirei she could report him to Plugg, but that doing so would prove cowardice and inability. He said he had worked on the Wormwood for years and she was still a green swab or shark bait.
+
+Mirei refused to report him, saying she did not plan on being a snitch, then left.
+
+This scene makes Tam a direct skeptic of Plugg's imposed status for Mirei. He may dislike Plugg, but he also refuses to accept Mirei as a voice or officer figure simply because Plugg dressed her up and ordered respect.
+
 ## Relationships
 
 ### Master Scourge
@@ -112,6 +142,8 @@ Tam judged Mirei's place aboard the ship harshly, telling her she lacked pirate 
 On Erastus 16, he summoned Mirei to Plugg's reef task and remarked that her voice did not get her out of everything.
 
 During the Erastus 26 revel, he intervened in the confrontation around collapsed Mirei, but his intervention did not read as personal care for Mirei. It read as enforcement of shipboard order and revel rules.
+
+On Erastus 30, he challenged Mirei's imposed "Mistress" role, saying she had not earned respect, looked out of place, and should return to her gilded cage. He also claimed he personally put her on the Wormwood.
 
 This may become relevant if Mirei returns from Riptide Cove having helped rescue captives.
 
@@ -141,11 +173,13 @@ Tam may follow Plugg if Plugg seems to embody command, but he may also recognize
 
 On Erastus 16, Tam acted as Plugg's messenger to Mirei.
 
+On Erastus 30, Tam called Plugg a brat of a captain and made clear that Plugg's order to respect Mirei did not by itself create real respect.
+
 ## Current State
 
 - Location: Likely Man's Promise, pending confirmation
 - Status: Presumed alive
-- Political state: Hostile or Scourge-leaning in baseline, but Rak sheet suggests uncertain indifferent status
+- Political state: Hostile or Scourge-leaning in baseline, but Rak sheet suggests uncertain indifferent status; openly skeptical of Plugg's imposed Mistress role for Mirei
 
 ## Campaign Function at Relaunch
 
@@ -156,6 +190,8 @@ He may oppose the PCs and still object to actions that violate what he sees as s
 This makes him useful in leadership debates.
 
 If Rak's indifferent note is accurate, Tam may be a more complicated actor than a simple Scourge loyalist.
+
+Tam's challenge to Mistress Mirei shows that Plugg's authority does not automatically convert into crew respect. He may follow force, but he notices when status is unearned or theatrical.
 
 ## Possible Stances
 
@@ -176,6 +212,8 @@ Tam may:
 - What does Tam think of Plugg as captain?
 - Does Tam know Sho is locked up?
 - Does Tam know Mirei was ordered to betray the PCs?
+- Did Tam's claim that he personally put Mirei on the Wormwood mean he was directly involved in her press-ganging?
+- Who was the second crew member present when Mirei approached Tam on Erastus 30?
 - Does Tam respect Harvus' rescue if he hears it?
 - Would Tam accept an election, duel, council, or only force?
 - Did Tam's Erastus 26 intervention create any lasting debt, resentment, or respect with Sho?
