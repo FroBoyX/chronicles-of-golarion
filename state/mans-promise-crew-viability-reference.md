@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state reference / correction note
-- Maturity: Working control document
+- Maturity: Working control document, corrected with Badger / Jack aboard and Maheem / Kipper / Patch believed Wormwood-side
 - Scope: Erastus 27 ship split, Arodus 5 Man's Promise actor pool, skeleton-crew viability, and ship crew requirement reference
 - Canon status: Current GM truth plus rules-reference note unless superseded by later direct evidence
 
@@ -99,24 +99,34 @@ It does **not** include the other eight captured Man's Promise survivors, becaus
 | Tam "Narwhal" Tate | Locked post-split evidence aboard | Exact Arodus 5 position unresolved. |
 | Shivikah | Strong post-split evidence aboard | Bonewrack, Rak group. |
 | Barefoot Samms Toppin | Strong course-change warning evidence; placement still technically pending raw-source reconciliation | Likely Man's Promise / movable survival bloc. |
-| Badger Medlar | Probable; low-placement dinner fragment | Likely Man's Promise but not locked. |
-| Jack Scrimshaw | Weak / possible displaced fragment | Do not lock without stronger evidence. |
+| Badger Medlar | GM-corrected aboard Man's Promise | Exact Arodus 5 position unresolved. |
+| Jack Scrimshaw | GM-corrected aboard Man's Promise | Exact Arodus 5 position unresolved. |
 
-## Confirmed Wormwood-Side / Not With Man's Promise
+## Confirmed / Believed Wormwood-Side / Not With Man's Promise
 
 | Character | Status |
 |---|---|
 | Cut-Throat Grok | Confirmed remained aboard the Wormwood when Rak left. |
+| Maheem | Believed Wormwood-side. |
+| Kipper | Believed Wormwood-side. |
+| Patch Patchsalt | Believed Wormwood-side. |
 | Other eight surviving captured Man's Promise crew | Went with the Wormwood after the Erastus 27 split. |
 
 ## Still Unresolved for Skeleton-Crew Viability
 
-- Maheem / Muheem placement.
-- Patch Patchsalt placement.
-- Kipper placement and injury/status after the battle.
 - Conchobhar Turlach Shortstone placement.
-- Whether Badger is definitively Man's Promise-side.
-- Whether Jack Scrimshaw is definitively Man's Promise-side.
-- Exact Arodus 5 positions for Crimson, Ratline, Tam, Samms, Dahrehn, Ebony, Merchiel, and Nor'gal.
+- Exact Arodus 5 positions for Crimson, Ratline, Tam, Samms, Badger, Jack, Dahrehn, Ebony, Merchiel, and Nor'gal.
 - Whether Owlbear is chained, loose, guarding, or otherwise positioned under Plugg.
 - Who can still rig, repair, cook, pump, steer, stand watch, and accept command after a mutiny.
+
+## Count Snapshot
+
+| Count | Value |
+|---|---:|
+| Locked / strong Wormwood-origin Man's Promise transfers | 20 |
+| Six named captured Man's Promise survivors assigned to Plugg | +6 |
+| Man's Promise storm-onset count, current working count | **26** |
+| Add Conchobhar if confirmed Man's Promise-side | +1 |
+| Man's Promise storm-onset count with Conchobhar | **27** |
+| Wormwood after split, current working count | **18** |
+| Wormwood after split if Conchobhar is Man's Promise-side | **17** |
