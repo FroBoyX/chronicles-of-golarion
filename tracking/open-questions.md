@@ -1,0 +1,118 @@
+# Open Questions Index
+
+## Document Status
+
+- Type: Cross-cutting question tracker
+- Maturity: Working index
+- Scope: unresolved reconstruction questions that cross chats or files
+
+## Use
+
+This file does not replace local Open Questions sections in individual docs.
+
+Use it for cross-cutting questions that affect current relaunch, player packets, or multiple dossiers.
+
+## Current Relaunch Questions
+
+### Current Cold Open
+
+- Is Sho visibly on deck in the hot-box, or covered/guarded in a way that changes approach options?
+- Where are Dahrehn, Ebony, Merchiel, and Nor'gal physically at the cold open?
+- Who is guarding Sho at the exact moment play resumes?
+- Who among the Man's Promise survivors supports Kahina's life-for-life test?
+- Does the Man's Promise reach Coconut Beach before or after the fork collision resolves?
+- Where is Owlbear physically at the cold open?
+
+### Crew / Ship Viability
+
+- Who can actually sail the Man's Promise after a mutiny?
+- Which riggers remain alive, capable, and willing?
+- Which swabs remain alive, capable, and willing?
+- Would the crew accept Sho, Harvus, Rak, Mirei, Goyle, Sandara, or another figure as a command solution?
+- Which sailors would flee, abstain, or submit to whoever wins?
+
+### Man's Promise Survivors
+
+- Which exact Man's Promise sailors heard Sho promise safety during the boarding?
+- Which surrendered sailors were killed by Rak or Harvus?
+- Did Ebony Saable witness Sho's attempted mercy or the later slaughter?
+- What is Ebony's exact relationship to Sho beyond the "monk man" identification?
+- How does Nor'gal's revenge thread interact with Sho's guilt and Kor'al / Cor'Wal's death?
+- What happened to the unnamed eight surviving captured Man's Promise crew not tracked as named skeleton-crew actors?
+
+### Sho Astor
+
+- Was Sho whipped once or multiple times before Man's Promise?
+- What exact event caused the whipping remembered as speaking up for Rak or later defiance?
+- What exact item did Harrigan give Sho: pendant, locket, captain's amulet, or another object?
+- Does Sho still have the Harrigan object at the hot-box point?
+- What did Sho recover from Grok, and what remains on the ship?
+- Does Sho know any evidence tying Rak to Giffer's death?
+- What was the exact content of Sho's "monk man" reference now identified as Ebony Saable?
+
+### Harvus G'ron
+
+- Exact placement for floating Harvus / Rosie fiddle scene.
+- Exact placement for Harvus / Sandara rage scene after Rosie's loss.
+- How much of Harvus' grief and rage should be surfaced in a cold-open packet?
+- Does Harvus know the full scope of Plugg's manipulation of Mirei?
+- How does Harvus process Mirei's confession immediately after the Riptide Cove rescue?
+- How explicitly should the Rak spear debt be handled after Harvus killed the Whale with Rak's spear?
+
+### Mirei
+
+- Was the Day 2 performance the first actual performance after the harp return or only the first recovered performance?
+- Did Badger's attitude toward Mirei improve from the performance?
+- How much did Mirei understand Plugg's pressure as privilege, coercion, fear, survival, or contamination?
+- Did Mirei avoid Sho because Sho was too likely to act before Mirei was ready?
+- How should Mirei's player packet frame confession aftermath without over-explaining other PCs' private knowledge?
+
+### Rak Wraithraiser
+
+- What did Rak brew for Grok on Day 2?
+- Did Grok return Rak's alchemy kit permanently, loan it, or supervise its use?
+- How quickly did Rak and Grok move from friendship to flirtation or intimacy?
+- Did Ambrose know about Rak and Grok before the Man's Promise split?
+- How does Rak feel about Harvus losing the spear used to kill the Whale?
+- Which player-sheet attitude notes reflect actual influence state versus Rak/player impression?
+
+### NPC Placement / Loyalty
+
+- Badger Medlar: Man's Promise or Wormwood at relaunch?
+- Maheem: Man's Promise or Wormwood at relaunch?
+- Patch Patchsalt placement and true attitude.
+- Kipper placement and status after battle.
+- Tam Tate placement and true attitude.
+- Samms, Jack, Ratline, Conchobhar placement.
+- Whether Owlbear's mercy bond with Sho is actionable against Plugg.
+
+### Items
+
+Track item questions primarily in `state/current-item-questions.md`; this section only names cross-cutting items.
+
+- Sho's Harrigan object.
+- Sho's reversible cloak and money.
+- Rak's alchemy kit.
+- Rak's spear used by Harvus to kill the Whale.
+- Sandara's tricorne / rescued belongings.
+- Rosie's fiddle and its status after her death.
+
+### Timeline / Year Cleanup
+
+- Current GM correction says opening year is 4712 AR.
+- Some older current-state docs may still preserve 4691 AR.
+- Audit active chronology docs and correct only where they conflict with the locked 4712 timeline.
+
+## Resolved Questions
+
+### Ebony Saable Identity
+
+- Resolved: Ebony Saable is Sho's referenced "monk man."
+- Resolved: Ebony is one of the six named Man's Promise skeleton-crew survivors.
+- Still unresolved: his exact stance, physical position, and relationship to Sho.
+
+### Mirei Day 2 Performance
+
+- Resolved: Mirei performed on Erastus 6 / Day 2 night, high confidence.
+- Resolved: Harvus praised her, Rak praised her, Badger complimented her and asked where she learned.
+- Still unresolved: whether it was the first actual performance or first recovered performance.
