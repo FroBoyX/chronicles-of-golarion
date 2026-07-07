@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, survivor-set confirmation, and corrected Man's Promise death-toll scope
+- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, survivor-set confirmation, corrected Man's Promise death-toll scope, and Sho player-memory answer on repentance / blood limits
 - Scope: Man's Promise survivor, Sho hot-box counterpart, potential anti-Plugg actor
 
 ## Overview
@@ -52,6 +52,8 @@ Her relevance is that she may see Sho as:
 - a penitent pirate,
 - or a person worth testing.
 
+From Sho's side, Kahina also functions as judge and mirror: judge of the deaths Sho directly participated in or failed to prevent, and mirror of Sho's own coerced path onto the Wormwood.
+
 ## Physical / Presence Notes
 
 Recovered context presents Kahina as a Man's Promise guard and warrior figure.
@@ -69,6 +71,8 @@ The conversation centered on guilt, sincerity, and whether Sho would actually ac
 Kahina challenged Sho's remorse.
 
 Words are not enough.
+
+Sho's player-memory answer clarifies that Sho was focused and planning in this scene, not broken or passive. Sho was angry that she did not get to strike Scourge, but Kahina's look gave her the impression that something more was happening and that she needed to be ready.
 
 ## Arodus 5 Hot-Box Conversation
 
@@ -120,6 +124,14 @@ The Arodus 5 conversation defines Kahina's test clearly:
 
 This is a life-for-life test, not a general promise to help.
 
+Sho's player-memory answer clarifies that Sho does not feel she deserves forgiveness. She seeks trust, cooperation, and a chance to act and do right moving forward.
+
+Sho does not believe killing Plugg or Scourge will undo what has been done. She believes it can stop them from doing more harm, free those under their influence, and punish them for their deeds.
+
+Sho's willingness to shed blood is target-specific. Random crew would cause hesitation. Mirei and Sandara would cause serious hesitation; Harvus would cause some hesitation. Rak, Plugg, Scourge, and Plugg/Scourge lackeys would cause little to no hesitation at this point.
+
+Do not write Sho as indiscriminately willing to kill. Her line depends on target, culpability, threat, and the chance to stop further harm.
+
 ## Relationship With Plugg and Scourge
 
 Kahina has reason to oppose Plugg and Scourge.
@@ -160,6 +172,7 @@ She may also refuse to distinguish between them at first.
 - Scene: Recently left Sho's hot-box after issuing the life-for-life test
 - Immediate leverage: Can offer Sho a path to act against Plugg and Scourge, but only under moral pressure
 - Immediate warning: If Sho hesitates when the moment comes, Kahina has threatened to ensure Sho dies for her sins
+- Sho-side state: Sho accepts the accusation as fair enough to demand action, but does not believe forgiveness is owed or deserved
 
 ## Campaign Function at Relaunch
 
@@ -190,6 +203,8 @@ Do not assume she is an enemy just because she hates the Wormwood pirates.
 
 Her position should be conditional on what Sho says and does.
 
+Do not assume Sho is asking Kahina for forgiveness. Sho is asking for a chance to act, cooperate, and do right moving forward.
+
 ## Open Questions
 
 - Does Kahina have authority among the Man's Promise survivors?
@@ -199,4 +214,6 @@ Her position should be conditional on what Sho says and does.
 - What does Kahina want besides revenge?
 - What would convince Kahina that Sho is sincere beyond killing Plugg or Scourge?
 - What would make Kahina decide Sho deserves to die with the rest?
+- What does Kahina consider hesitation?
+- What specific action would convince Kahina that Sho's repentance is real if killing Plugg or Scourge is not immediately possible?
 - What was the Man's Promise starting crew count used to make Kahina's more-than-thirty death toll exact?
