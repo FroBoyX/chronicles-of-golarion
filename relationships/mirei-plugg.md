@@ -5,7 +5,7 @@
 - Type: Relationship / coercion record
 - Maturity: Draft, seeded from Man's Promise first-night, Erastus 29, and Erastus 30 scenes
 - Scope: Plugg's use of Mirei as entertainer, cabin-bound asset, renamed symbol, and coerced tool
-- Source basis: Direct chat logs and GM reconstruction
+- Source basis: Direct chat logs, GM reconstruction, and GM clarifications
 - Spoiler scope: Character-limited / GM-facing until revealed in play
 
 ## Summary
@@ -84,7 +84,7 @@ He ordered her to talk to the crew, gauge where they stood, and report back to h
 
 This confirms that the Mistress role was explicitly surveillance work, not only entertainment or status display.
 
-## Crew Reception
+## Crew Reception and Syl's Observation
 
 The crew did not uniformly accept Plugg's imposed station for Mirei.
 
@@ -96,6 +96,12 @@ Tam "Narwhal" Tate openly challenged Mirei's claim to respect, saying that being
 
 Mirei refused to report Tam to Plugg, saying she did not plan on being a snitch.
 
+That refusal was genuine, but it did not keep the exchange hidden: Syl had been told by Plugg to observe Mirei and reported or escalated the exchange instead.
+
+Syl intercepted Mirei on the stairs, pressed a knife into her back, threatened to cut out her vocal folds, accused her of mishandling Plugg's task, and focused especially on Mirei's whispers with Sho. Syl said Scourge would have a field day with her.
+
+Mirei pushed back, and Syl recognized that there was "some fire" behind the Mistress farce.
+
 ## Relationship Meaning
 
 Plugg is trying to turn Mirei into a symbol of his claimed legitimacy.
@@ -106,6 +112,8 @@ The new-name demand matters because Plugg is not only trying to change what Mire
 
 The jeweled sword matters because it marks Mirei's new station as visibly deriving from Plugg's authority, not her own.
 
+Syl's observation makes the surveillance two-directional: Plugg wants Mirei to watch the crew, while also having Syl watch Mirei.
+
 ## Open Questions
 
 - Did Mirei actually use any of the former captain's clothing or belongings beyond the Erastus 30 outfit?
@@ -114,5 +122,5 @@ The jeweled sword matters because it marks Mirei's new station as visibly derivi
 - Did any crew understand Mirei's new status as protection, compromise, coercion, or collaboration?
 - What did Scourge think Plugg intended to do with Mirei?
 - Did Mirei ever use her access to learn about Plugg's chart or plan?
-- Did Mirei report anything back to Plugg after talking to the crew on Erastus 30?
+- What did Plugg do with Syl's report about Mirei's handling of Tam and Sho?
 - What exactly did Plugg later ask Mirei to do against the PCs?
