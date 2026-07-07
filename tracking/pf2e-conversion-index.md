@@ -38,6 +38,7 @@ PF2e conversion status does not change campaign canon. It only tracks possible o
 | current-ship-state | Ship / subsystem | Man's Promise and Wormwood state | `state/current-ship-state.md`; Book 1 ship docs | `conversions/pf2e/ships/current-ship-state.md` | Not started | GM | Decide whether full ship subsystem is needed. |
 | facing-variant-subsystem | Campaign subsystem | Tactical facing / active arc / rear-arc off-guard | GM homebrew rule; PF2e off-guard, flanking, reach, and Reactive Strike rules | `conversions/pf2e/subsystems/facing-variant.md` | Draft audit | GM | Preserves GM's non-omnidirectional threat preference for PF2e pilot testing; not approved relaunch mechanics yet. |
 | active-defense-subsystem | Campaign subsystem | Active Defense / Guarded Block / Riposte | GM homebrew rule; PF2e action economy, off-guard, shield, parry, and reaction rules | `conversions/pf2e/subsystems/active-defense.md` | Draft audit | GM | Preserves tactical survival, prepared-defender deterrence, block, parry, and riposte intent for later pilot testing. |
+| affliction-templates-subsystem | Campaign subsystem | Disease and poison progression templates | GM table rules; uploaded poison tracks; PF2e affliction, condition, multiple-exposure, Medicine, and cleanse-affliction rules | `conversions/pf2e/subsystems/affliction-templates.md` | Draft audit | GM | Preserves physical disease, mental disease, and ability-flavored poison progression as PF2e-native templates rather than PF1 ability-damage ports. |
 
 ## Notes
 
@@ -47,3 +48,4 @@ PF2e conversion status does not change campaign canon. It only tracks possible o
 - Conversion can be adopted, deferred, or rejected after pilot testing.
 - Tactical facing is a draft homebrew subsystem candidate. It should be tested in a contained PF2e pilot before campaign-wide adoption.
 - Active Defense is a draft homebrew subsystem candidate. It should be tested only after baseline PF2e and the Facing Variant are stable enough to evaluate cleanly.
+- Affliction templates are draft conversion templates. They should be used to build a few sample diseases and poisons before any campaign-wide adoption.
