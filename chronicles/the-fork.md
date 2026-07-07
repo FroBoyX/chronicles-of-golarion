@@ -18,9 +18,11 @@ The latest recovered beat is Rak hearing something ahead around 2:28pm on Arodus
 
 ## Date
 
-Arodus 5, 4691 AR.
+Arodus 5, 4712 AR.
 
 Recovered timing places the relevant Bonewrack sequence in the afternoon after the Riptide Cove rescue and Rak's supply-party travel.
+
+The older 4691 AR value is superseded by the current GM correction preserved in the master handoff.
 
 ## Scene A — Harvus Group
 
