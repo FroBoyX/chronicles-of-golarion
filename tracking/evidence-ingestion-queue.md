@@ -30,11 +30,12 @@ When a scene is completed, mark it as completed and list the evidence file plus 
 
 ### Man's Promise storm and island log tracing
 
-- Source type: pending chat-log tracing, supported by GM clarification
-- Date candidate: Erastus 30 night into Erastus 31 storm; Bonewrack landing and island split through Arodus 5 cold open
-- Placement confidence: unresolved until logs are fully traced
+- Source type: pending chat-log tracing, supported by GM clarification and GM short-form chronology
+- Date candidate: Erastus 30 night into Erastus 31 storm; Arodus 1 shipwreck / landing; Bonewrack island split through Arodus 5 cold open
+- Placement confidence: short-form day structure high; individual log details unresolved until logs are fully traced
 - Destination evidence files:
   - `evidence/gm-notes/mans-promise-storm-tracing-clarifications.md`
+  - `evidence/gm-notes/mans-promise-erastus-30-arodus-1-storm-island-shortform.md`
   - future storm / island chat-log extracts as recovered
 - Integration targets:
   - `state/current-npc-locations.md`
@@ -44,11 +45,19 @@ When a scene is completed, mark it as completed and list the evidence file plus 
   - `chronicles/the-fork.md`
   - relevant PC/NPC dossiers
 - Status: Active next tracing task. GM has logs ready; current tracing point is immediately before the storm.
+- Locked short-form structure:
+  - Erastus 30: harsh but normal sailing day.
+  - Erastus 31: large sudden storm; ship driven southwest off course; Tilly Brackett and Sandara Quinn are taken by grindylows; grindylows then attack openly.
+  - Arodus 1: Man's Promise is blown onto a reef; fresh water is gone; repairs will take two days; island team is sent in late evening for food and water; camp is attacked by ghouls at night.
+  - Goyle Onórach is captured later during a separate subsequent grindylow attack aboard the Man's Promise while PCs are away on the island; Plugg washes him overboard with the Tidal Cutlass while Goyle is fighting a boarder.
 - Open checks:
+  - Preserve the raw storm log when pasted.
   - Trace who is physically aboard the Man's Promise through storm and island events, including Dahrehn, Ebony, Merchiel, Nor'gal, Kahina, and any other relevant crew.
   - Trace Plugg / Syl report follow-up in post-storm logs; GM memory says it comes up there.
   - Trace Harvus' storm actions before routing to player memory. If unresolved, ask Harvus' player.
   - Trace whether Sho was involved in Sandara's backup "rough way" idea. If unresolved, route to Sho's player.
+  - Trace the Arodus 1 water-loss / repair-estimate / island-team assignment scene.
+  - Trace the later grindylow boarding that leads to Goyle's capture.
   - Do not infer cold-open positions from survivor-set membership alone.
 
 ### Harvus-side recent update and questions
