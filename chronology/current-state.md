@@ -8,9 +8,11 @@ This is the intended cold-open point for relaunch.
 
 ## Date
 
-**Arodus 5, 4691 AR**
+**Arodus 5, 4712 AR**
 
 Recovered timing places the split-scene convergence in the afternoon, with the final fork beat around **2:28pm**, when Rak hears something ahead.
+
+The older 4691 AR value is superseded by the current GM correction preserved in the master handoff.
 
 ## Primary Location
 
