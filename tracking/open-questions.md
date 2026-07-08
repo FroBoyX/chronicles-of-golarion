@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, Jack Scrimshaw's Tam-exchange placement, Mirei player performance-log checks, and recovered Mirei level 3 sheet checks
+- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, Jack Scrimshaw's Tam-exchange placement, Mirei player performance-log checks, recovered Mirei level 3 sheet checks, and GM clarification that Mirei's familiar is delayed but owed
 - Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
@@ -89,7 +89,7 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 ### Mirei
 
 - Confirm whether the recovered level 3 PCGen sheet is Mirei's latest pre-relaunch / relaunch-current PF1 mechanics, and whether any later level 3+ or manual sheet corrections exist.
-- Confirm the level 3 Sea Singer familiar: monkey or parrot, name, personality, and whether it existed in play by the current relaunch point.
+- Choose and introduce the delayed familiar owed by the Sea Singer level 3 sheet: monkey or parrot, name, personality, and whether the scene occurs on Bonewrack Isle or afterward. Status is resolved only as: Mirei has not acquired the familiar yet, but was told she would be allowed to get it in play.
 - Confirm whether the level 3 sheet's malformed physical-stat field has any intended player truth or should be ignored as a PCGen export issue.
 - Was the Day 2 performance the first actual performance after the harp return or only the first recovered performance?
 - Did Badger's attitude toward Mirei improve from the performance?
