@@ -163,8 +163,7 @@
 
 ## Open Checks
 
-- Confirm whether this player-facing chat scene is final for Discord posting.
-- Confirm whether the Erastus 5 Ship's Log and Narrative Write-Up should now be normalized to this version.
+- Confirm whether this player-facing narrative family is final for Discord posting.
 - Confirm whether a Jakes Magpie dossier exists or should be created.
 - Confirm whether Plugg's naga-related discomfort is player-facing narrator knowledge or should remain GM-only color.
 
@@ -172,7 +171,7 @@
 
 | Output | Path | Status | Alignment notes |
 |---|---|---|---|
-| Ship's Log | `ship-logs/wormwood-erastus-5-first-day.md` | Existing, needs patch | Should add Sho's objection, lock swab assignments, and stay terse. |
-| Narrative Write-Up | `chronicles/wormwood-day-one.md` | Existing, needs patch | Should normalize to the GM-edited chat scene while preserving write-up form. |
-| Narrative Chat Scene | `chronicles/wormwood-erastus-5-first-day-chat-scene.md` | Patched | GM-edited player-facing draft saved. |
+| Ship's Log | `ship-logs/wormwood-erastus-5-first-day.md` | Patched / aligned | Terse official log updated with swab assignments and Sho's objection. |
+| Narrative Write-Up | `chronicles/wormwood-day-one.md` | Patched / aligned | Normalized to the GM-edited chat scene while preserving write-up form. |
+| Narrative Chat Scene | `chronicles/wormwood-erastus-5-first-day-chat-scene.md` | Patched / aligned | GM-edited player-facing draft saved. |
 | Supporting partial reconstruction | `chronicles/waking-aboard-the-wormwood.md` | Existing; no full rewrite this pass | Treat as early-tests supporting reconstruction, not the full sibling output unless later consolidated. |
