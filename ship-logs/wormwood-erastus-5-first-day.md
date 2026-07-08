@@ -1,4 +1,4 @@
-# Ship's Log — Wormwood, Erastus 5
+# Ship's Log - Wormwood, Erastus 5
 
 ## Document Status
 
@@ -12,35 +12,32 @@
 
 ## Log Entry
 
-**Erastus 5, 4712 AR — Wormwood Day 1**  
+**Erastus 5, 4712 AR - Wormwood Day 1**  
 Weather normal. Port Peril astern.
 
-Five new hands brought up from the hold after the prior night's press. Names entered into working crew record: **Mirei**, **Harvus G'ron**, **Rak Wraithraiser**, **Sho Astor**, and **Conchobhar Turlach Shortstone**. **Crimson "Cog" Cogward** also entered with the Erastus 5 intake, having volunteered for the crew.
+Five press-ganged hands brought up from the hold after the prior night's collection: **Mirei**, **Harvus G'ron**, **Rak Wraithraiser**, **Sho Astor**, and **Conchobhar Turlach Shortstone**. **Crimson "Cog" Cogward** also entered with the Erastus 5 intake as volunteer crew.
 
-Captain Harrigan addressed the assembled hands and reminded the crew that the Wormwood remained short-handed. Killing crew is forbidden under threat of keelhauling. New hands placed under Mr. Plugg for testing and assignment.
+Captain Harrigan addressed the assembled crew and new hands. New hands forbidden from speaking to the captain. Killing crew remains forbidden under threat of keelhauling while the Wormwood is short-handed. New hands placed under Mr. Plugg for testing and assignment.
 
-Mr. Plugg tested the new hands in the rigging. Harvus reached the crow's nest first. Conchobhar followed shortly after. Mirei fell during the climb, was whipped, and was ordered back into the rigging.
+Mr. Plugg tested the intake in the rigging. Harvus reached the crow's nest first. Conchobhar followed shortly after. Mirei fell during the climb, was whipped, and was ordered back into the rigging. Rak, Sho, and Crimson performed poorly or without distinction in the climb.
 
 Assignments made after testing:
 
-- **Riggers:** Harvus G'ron, Conchobhar Turlach Shortstone.
+- **Riggers:** Harvus G'ron and Conchobhar Turlach Shortstone, reporting to Mr. Plugg.
 - **Cook's mate:** Rak Wraithraiser, reporting to Ambrose Kroop.
-- **Swabs:** Mirei, Sho Astor, and likely Crimson Cogward, reporting to Master Scourge. Crimson's exact first duty remains under review.
+- **Swabs:** Mirei, Sho Astor, and Crimson Cogward, reporting to Master Scourge.
 
-Day's labor proceeded under standard Wormwood routine.
+Day's labor proceeded under standard Wormwood routine. Rak was sent below to Kroop's galley.
 
-At Bloody Hour, **Jakes Magpie** was keelhauled for theft from the quartermaster's store and cast to the sharks. Punishment witnessed by the crew and new hands.
+At Bloody Hour, **Jakes Magpie** was keelhauled for theft from the quartermaster's store and cast to the sharks. Sandara Quinn warned the new hands not to interfere. Sho Astor objected before the punishment proceeded. Mr. Plugg answered the objection and continued the keelhauling.
 
-Evening meal and rum ration issued. Sho Astor did not drink her ration; method unknown.
+Evening meal and rum ration issued. Sho Astor did not drink her ration. Method not entered.
 
-First-night leisure followed. Sandara Quinn returned Mirei's harp and gave warning concerning Plugg, Scourge, and shipboard survival. Harvus G'ron spoke with Sandara regarding his wing and the quartermaster. Grok identified as a possible route for recovering confiscated goods.
+First-night leisure followed. Sandara Quinn returned Mirei's harp, warned the new hands about shipboard survival, Plugg, and Scourge, and explained Grok as a possible route for recovering confiscated goods. Harvus G'ron spoke with Sandara regarding his wing and the quartermaster. Giffer Tibbs made social notice of Harvus.
 
 Crew secured below. First day closed without mutiny, escape, or further recorded casualty.
 
 ## Open Checks
 
-- Confirm Crimson's exact first duty.
-- Confirm whether Mirei, Sho, and Crimson should be locked as the Day 1 swab set.
-- Confirm individual first-day work tasks after assignment.
-- Confirm whether Sandara's first-night scene happened before or after the rum ration.
-- Confirm how Sho avoided drinking the rum ration.
+- Confirm whether this log should be locked after Discord-facing narrative review.
+- Confirm whether a Jakes Magpie dossier exists or should be created.
