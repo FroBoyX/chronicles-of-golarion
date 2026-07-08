@@ -23,7 +23,7 @@ This is not a full open-question index. Use `tracking/open-questions.md` for unr
 | 5 | Man's Promise survivor politics | NPC & Crew State Audit | Ongoing | Six named survivor set fixed, but exact cold-open positions and loyalties unresolved. |
 | 6 | Harvus / Sandara / Rosie thread cleanup | Wormwood Evidence + PC Dossiers | Ongoing | Recent evidence preserved; questions may need player-facing follow-up. |
 | 7 | Sho guilt / surrender-command fracture | Man's Promise + PC Dossiers | Ongoing | Keep player vs character knowledge split about Giffer. |
-| 8 | Mirei / Plugg manipulation thread | Man's Promise + PC Dossiers | Ongoing | Keep wording careful and evidence-bound. |
+| 8 | Mirei direct player discovery and Plugg-pressure framing | Mirei Character Discovery + PC Dossiers | Active | Dedicated player-facing handoff, active beat ledger, and player-memory capture now exist. Keep Plugg content player-led and evidence-bound. |
 | 9 | Rak / Grok relationship and galley loop | Wormwood + PC Dossiers | Ongoing | First recovered friendship beat is Day 2 brew, not necessarily first contact. |
 | 10 | Narrative chapter polish | Narrative Reconstruction | Deferred | Do after evidence is stable. |
 | 11 | Visual output pipeline | Visual Output / Art Direction | Scaffolded | Method, style seed, handoff, brief folders, art folder, and image index created. Start with briefs before generating art. |
@@ -41,6 +41,7 @@ This is not a full open-question index. Use `tracking/open-questions.md` for unr
 - Harvus/Rosie fiddle and post-Rosie rage evidence preserved and integrated.
 - Visual Output / Art Direction lane scaffolded with `design/visual-output-method.md`, `design/visual-style-guide.md`, `handoffs/visual-output-handoff.md`, `visual-briefs/`, `art/`, and `tracking/image-output-index.md`.
 - PF1 to PF2e Conversion Audit lane scaffolded with `design/pf2e-conversion-method.md`, `handoffs/pf2e-conversion-handoff.md`, `tracking/pf2e-conversion-index.md`, and `conversions/pf2e/`.
+- Mirei Character Discovery updated for direct player use with `handoffs/mirei-character-discovery-handoff.md`, `questions/mirei-active-narrative-beats.md`, `evidence/player-memory/mirei-player-discovery-notes.md`, expanded `questions/mirei-player-narrative-beats.md`, and `player-packets/mirei-player-discovery-addendum.md`.
 
 ## Next Good Tasks
 
@@ -60,6 +61,15 @@ Build player-safe cold-open packets:
 - Rak: supply group tension with Syl/Jape/Shivikah; do not spoil Harvus rescue details.
 - Sho: hot-box, Kahina test, survivor guilt, Harrigan pendant; avoid revealing what Sho does not know.
 - Mirei: confession aftermath, Plugg pressure, current position with Harvus group.
+
+### Good task for Mirei Character Discovery
+
+Continue from the active narrative beats rather than restarting from background. Recommended next direction:
+
+- Finish Sho / being seen follow-ups.
+- Move carefully into Plugg pressure using player-led language.
+- Connect Riptide return and confession to current cold-open readiness.
+- Preserve answers in `evidence/player-memory/mirei-player-discovery-notes.md` and update `questions/mirei-active-narrative-beats.md`.
 
 ### Good task for NPC & Crew State Audit
 
