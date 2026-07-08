@@ -1,14 +1,14 @@
-# Raw Session Log Summary — Mirei Player Cache — Session 5 / Missing Session 16-21 / Mirei Private Perspective
+# Raw Session Log Summary — Mirei Player Cache — Missing Session 16-21 / Mirei Private Perspective
 
 ## Evidence Status
 
 - Source: Mirei player-provided pasted text upload, filename `Pasted text.txt`
-- Player label: Session 5
+- Player label: Not yet assigned. A later upload was briefly thought to be Session 5, then corrected by the GM as a repeated copy of this same already processed session bridge.
 - GM description: Whole session chatlog with Mirei as the private-message perspective; previously missing from archive
 - Scope: Unfiltered all-player/session chat with Mirei private whispers and public session events
 - Player-facing status: **Not player-facing by default**
 - Spoiler status: Contains other-PC material, private whispers, out-of-character table discussion, hidden-state implications, and violent events
-- Deduplication status: Session 5 label confirmed by later upload; content matches the previously processed missing Day 16-21 / Mirei-private perspective bridge closely enough to treat this as the same source set, not a new unique session.
+- Deduplication status: New / not duplicate according to the original GM description. Later re-upload was a repeat copy of this same source set, not a separate Session 5.
 - Canon status: Raw evidence / extraction summary until integrated into dossiers and chronology
 - Preservation priority: High
 
