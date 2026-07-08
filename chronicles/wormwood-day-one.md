@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Draft / canon-candidate
+- Maturity: GM-edited player-facing draft / canon-candidate
 - Scope: First full day aboard the Wormwood, from waking in the hold through first-night rest
 - Source spine: `source-spines/wormwood-erastus-5-first-day.md`
-- Source basis: Preserved GM short-form Erastus 5 note, old GM prose post `Welcome to the Sweet Trade`, AP standard-day scaffold, AP weather scaffold, AP shipboard-task scaffold, first-night Sandara/harp chat extract, existing character dossiers, GM log note that Crimson volunteered to join the crew on Erastus 5, and GM clarification that both Conchobhar and Crimson took part in the early trials
+- Source basis: Preserved GM short-form Erastus 5 note, old GM prose post `Welcome to the Sweet Trade`, AP standard-day scaffold, AP weather scaffold, AP shipboard-task scaffold, first-night Sandara/harp chat extract, existing character dossiers, and GM-edited player-facing scene
 - Spoiler scope: Player-safe
-- Canon status: Becomes canon after GM/player sign-off
+- Canon status: Ready for Discord formatting pending final GM approval
 
 ## Date
 
@@ -23,261 +23,341 @@ Weather: normal.
 
 The first full day aboard the Wormwood began in the hold.
 
-The five press-ganged new hands woke to pain, missing belongings, and the slow, sickening rhythm of a ship already underway. The night before came back only in pieces: the Formidably Maid, the excess of Port Peril, laughter, food, perfume, and then violence enough to leave them with pounding heads and no clear way home.
+The five press-ganged new hands woke in darkness, pain, and motion. The night before returned only in fragments: the Formidably Maid, Port Peril, food, perfume, noise, and the heavy joy of a pirate port running hot on excess. For some there were sharper pieces, an argument gone too far, a drink that tasted wrong, a deal struck too quickly. Others remembered little beyond the blur of celebration and the sense that something had shifted beneath them before the dark took hold.
 
-They were not alone for long.
+Then came the ache beneath the memories. Heads pounded. Bodies hurt. Their valuables were missing.
 
-Boots came down the stairs. Lantern-light cut through the dark. Master Scourge, boatswain, master-at-arms, and disciplinarian of the Wormwood, looked down at the new prisoners with his whip in hand.
+The room shifted beneath them.
 
-> "Still abed with the sun over the yardarm?"
+For a moment, the sway felt like something internal, like the world itself had slipped out of alignment. The darkness pressed in unevenly, and the floor beneath them seemed to tilt and breathe, rising and falling in a slow, nauseating rhythm. The creaking came next, not as a single sound but as a chorus of strained wood and shifting weight. The air smelled wrong too, salt and damp rot instead of spilled ale and smoke.
 
-Then the whip cracked.
+As their senses caught up, the truth settled in with cold certainty.
 
-> "On your feet, ye filthy swabs! Get up on deck and report for duty before Cap’n Harrigan flays your flesh into sausage skins and have Fishguts fry ye up for breakfast!"
+This was not the floor of a tavern.
 
-The bedraggled five were **Mirei**, **Harvus G'ron**, **Rak Wraithraiser**, **Sho Astor**, and **Conchobhar Turlach Shortstone**. They had been taken by force. They put up no resistance now, not with Scourge and the other pirates around them, and were driven up to the main deck.
+This was a ship.
 
-There, the situation became plain.
+Boots sounded on the stairs.
 
-The Wormwood was no tavern, no alley, no dockside misunderstanding. She was a ship under sail, already out on the water. Port Peril and the mainland of the Shackles were little more than haze astern.
+Lantern-light cut into the hold. Seven pirates stood behind it, and at their front was Master Scourge.
 
-The crew clustered near the mainmast and looked aft. Above them stood two men: Captain **Barnabas Harrigan**, broad, hard, and clearly in command, and **Mr. Plugg**, younger, balding except for his long black ponytail, holding a well-used cat-o'-nine-tails with visible discomfort and ambition.
+He did not fill the space so much as infest it.
 
-Harrigan addressed the ship and the new arrivals.
+Tall and narrow as a mast spar, wrapped in a long coat that hung from him like it had been stolen from a better man, Scourge carried himself with the brittle confidence of someone who knew exactly where his protection stood. His beard was braided tight against his chin, each knot deliberate, each strand oiled and kept like a badge of station. When he smiled, and he was smiling now, it showed a mouth crowded with gold teeth that caught the lantern-light in sharp, ugly flashes.
 
-> "Glad you could join us at last! Welcome to the Wormwood! My thanks for ‘volunteering’ to join my crew."
+The whip in his hand was not idle. It coiled and uncoiled with a life of its own, leather whispering against leather as his fingers flexed. He held it the way a man holds a promise he intends to keep.
 
-The joke was for the old hands as much as the new. The seasoned pirates jeered and whistled. The new arrivals were easy to pick out: cleaner, less settled, and not yet trained into the ship's rhythm.
+His eyes moved quickly, flicking from face to face, measuring, weighing, searching for weakness. There was hunger there, but not the kind that came from courage. It was the hunger of a scavenger, bold only when the kill had already been made.
 
-Harrigan gave them one rule.
+Master Scourge had already decided what these new souls were worth to him.
 
-> "Don’t speak to me. I like talk, but I don’t like your talk."
+And it was not much.
 
-He also made one shipwide matter clear. The Wormwood was short-handed. Anyone caught killing crew would face keelhauling. The warning was practical, not merciful.
+> “Still abed with the sun over the yardarm?”
 
-Then Harrigan handed the new hands to Plugg.
+The whip cracked hard enough to make the dark seem smaller.
 
-> "Mr. Plugg! If you’d be so kind as to make pirates out of these landlubbers... Dismissed!"
+> “On your feet, ye filthy swabs! Get up on deck and report for duty before Cap’n Harrigan flays your flesh into sausage skins and have Fishguts fry ye up for breakfast!”
+
+There was no room for argument. Mirei, Harvus, Rak, Sho, and Conchobhar were driven from the hold and up into the light.
+
+The main deck of the Wormwood opened around them.
+
+The sea lay on every side. Port Peril was no longer a place they could reach by running. It was an ochre haze astern, fading behind the ship’s wake.
+
+The crew gathered around the mainmast, watching the aft deck. Above them stood Captain Barnabas Harrigan, broad and hard, with a shaven head, a long beard bound in gold rings, and an eye patch. Near him stood Mr. Plugg, younger, balding save for his long black ponytail, handling a cat-o’-nine-tails like a man who wanted it to look natural in his hand.
+
+Harrigan stepped to the rail.
+
+> “Glad you could join us at last! Welcome to the Wormwood! My thanks for ‘volunteering’ to join my crew.”
+
+The old hands jeered and whistled. The new ones were easy to mark: cleaner, less certain, less used to the deck beneath their feet.
+
+Harrigan let the noise play out before he gave them the rule.
+
+> “I am Barnabas Harrigan! But to you lot, Captain will do nicely, not that you’ll ever need to address me. I have only one rule! Don’t speak to me. I like talk, but I don’t like your talk. Follow that rule and we’ll all get along fine.”
+
+He also made clear what the crew was worth to him. The Wormwood was short-handed. Anyone caught killing crew would be keelhauled.
+
+Then he turned the new blood over to Plugg.
+
+> “Mr. Plugg! If you’d be so kind as to make pirates out of these landlubbers, it’ll save me having to put them in the sweat-box for a year and a day before I make pies out of ’em. Dismissed!”
 
 ## Plugg's Tests
 
-Plugg came down to the deck with the cat in hand.
+Plugg came down to the main deck.
 
-By then there were six people in the trial group: the five press-ganged new hands and **Crimson "Cog" Cogward**, whose presence had a different origin. Crimson had volunteered to join the Wormwood, but he was still part of the Erastus 5 intake and took part in the early trials.
+Six people stood in the trial group now: the five taken by force and Crimson “Cog” Cogward, whose path aboard had been different. Crimson had volunteered for the crew, but volunteer or no, he stood with the rest while Plugg measured what he had been given.
 
-Plugg made his authority clear. They were tools. His tools. If he told them to climb, they climbed. If he told them to kneel, they knelt.
+Plugg cracked the cat-o’-nine-tails.
 
-The first test was the rigging.
+> “Well you green bastards, look like you’re mine. Let’s get one thing straight, you’re tools, my tools. If I say climb, you say how high. If I say kneel, you kneel... and if anyone of you gets any ideas beyond what you’re told...”
 
-Plugg pointed them toward the mast and sent them up toward the crow's nest. The trial was simple enough in theory: climb, or fall, or prove useless.
+He let the cat finish the thought.
 
-Harvus took an early lead. Conchobhar followed close behind on the other side of the rigging. For the watching officers, it was a duller contest than they might have wanted: the broken-winged Strix and the gnome were the ones moving best, even if carefully.
+Then he pointed toward the mast.
 
-Mirei was not so fortunate.
+> “I’ll be conducting a series of tests to see where you belong onboard the Wormwood! First, into the rigging with you, let those who wish to live reach the crow’s nest first.”
 
-She fell from the rigging and landed at Plugg's feet. Plugg took amusement from it, whipped her, and ordered her back into the climb. He also marked the result. Whatever Mirei might be useful for, the rigging was probably not it.
+The new hands climbed.
 
-Harvus reached the crow's nest first. Conchobhar followed shortly after.
+Harvus moved first and fastest, despite the broken wing that already marked him. Conchobhar scrambled up the opposite side, smaller but quick. The Strix and the gnome were winning carefully.
 
-The crow's nest stood some sixty feet above the deck, high enough to offer the sea in every direction. There was no time to appreciate the view. Plugg was already shouting the new hands back down.
+Rak, Cog, and Sho fared little better, their attempts clumsy and uncertain, drawing little more than passing scorn from the watching crew. None of them held Plugg’s attention for long.
 
-By the time all six were on deck again, the first clear assignments had begun to form. Harvus and Conchobhar were marked as riggers. They would report to Plugg.
+Mirei lost the rigging.
 
-The next test was quieter.
+She fell to the deck at Plugg’s feet.
 
-Plugg stopped in front of each member of the trial group, stared into their eyes for an uncomfortable moment, and asked whether they could cook.
+The first officer answered with the whip and a snarl, driving her back toward the lines. He had seen enough to decide that the rigging was likely not where she belonged.
 
-Each answer was some form of no.
+Harvus reached the crow’s nest first. Conchobhar followed shortly after.
 
-Plugg did not allow that to matter.
+For a breath, the sea opened around them from sixty feet up. Then Plugg’s voice cut through the air, calling them back down.
 
-The ship's cook, **Ambrose "Fishguts" Kroop**, had been unusually drunk as of late. Worse, he had been failing to provide adequately for the officers' meals. To Plugg, this was not a problem to tolerate. It was a problem to correct.
+The six were lined up again.
 
-A cook's mate would correct it.
+This time Plugg moved from face to face and asked a simpler question: could they cook?
 
-His eyes passed over the human, the aasimar, and the suli. Any of them might have been made to fill the role. Then his attention settled on Rak, the nagaji.
+One by one, the answer came back no.
 
-There was distaste there. Plugg had once encountered a true naga, and the memory did the new hand no favors. Keeping Rak in the galley would keep him away from Plugg.
+Plugg chose anyway.
 
-That was as good a reason as any.
+The Strix and the gnome had shown enough for the rigging. Kroop, the ship’s cook, had been drunk and unreliable, and the officers’ meals had suffered. The Wormwood needed a cook’s mate.
 
-Plugg's mind supplied a more respectable excuse. The snake looked well-fed. Therefore, the snake must be able to cook.
+Plugg’s attention settled on Rak.
 
-And so **Rak Wraithraiser** was sent to Kroop as cook's mate.
+The nagaji would go below. The excuse was easy enough: the snake looked well-fed, so the snake must be able to cook.
 
-The chain of command was now clear enough to survive the day: swabs to **Master Scourge**, riggers to **Mr. Plugg**, and the cook's mate to **Kroop**.
+Rak Wraithraiser was assigned to Ambrose Kroop.
 
-The current reconstruction is that **Mirei**, **Sho Astor**, and likely **Crimson Cogward** filled out the swab side of that division, though Crimson's exact first duty remains an open check.
+Harvus and Conchobhar were assigned to the rigging under Plugg.
+
+The swabs would report to Scourge. Mirei, Sho, and Crimson filled out that part of the first day’s work.
 
 ## Work
 
-The rest of the day was work.
+The day became labor.
 
-There was no gentle transition into shipboard life. The Wormwood taught through labor, and the new hands were expected to learn quickly.
+The Wormwood did not explain itself kindly. Riggers climbed. Swabs scrubbed, hauled, carried, scraped, and endured. Rak was driven below at last, away from the open deck and into the ship’s belly, toward the galley and the domain of Ambrose “Fishguts” Kroop.
 
-Riggers went up. Swabs worked where they were sent. Rak entered the orbit of a drunk cook who might prove broken, useful, dangerous, kind, or all of those things depending on the hour.
+The space revealed itself as Rak stepped inside: cramped, chaotic, and alive with motion. Two wooden worktables stood buried beneath clutter. Cupboards hung open or crooked. Two small stoves burned constantly along the port wall, their heat feeding great bubbling cauldrons that never seemed to empty. The air was thick with spice, rot, grease, and smoke.
 
-The details of every failed knot, shouted correction, deck-scrub, haul, scrape, and ache of the first day have not survived cleanly in the logs. The AP scaffold gives the shipboard pressure: work checks, fatigue, supervision, and the practical reality that the Wormwood owned their daylight hours.
+Chickens wandered freely underfoot. Three goats pushed through the mess with stubborn persistence, escaping whatever attempts had been made to pen them. Knives were everywhere, cleavers, butcher blades, and tools pressed into service from whatever Kroop could reach. Barrels of rainwater and rum crowded the corners. Ship’s biscuit, salted beef, sauerkraut, and a scattering of fresh vegetables from Port Peril filled what space remained.
 
-What survives is enough.
+It was filth and disorder, but it worked. Somehow, everything Kroop needed was here, if one knew where to look.
 
-The Wormwood took daylight and turned it into labor.
+Kroop himself was part of the chaos. Drunk, unsteady, and perpetually sour, he moved through the galley like a man who had long ago stopped caring how he appeared, but not how his food turned out. His reputation had already drawn the ire of the officers, but the galley still ran, and now Rak was part of it.
+
+The ship took the day and taught the new hands that survival would be measured in obedience, pain, attention, and usefulness.
 
 ## Bloody Hour
 
-At dusk, the crew gathered on deck.
+At dusk, the crew gathered again.
 
-This was **Bloody Hour**.
+Bloody Hour began.
 
-The first lesson was not theoretical.
+Sandara Quinn had drifted closer to the gathered new hands as the crew began to assemble, her expression tightening as she watched the preparations.
 
-**Jakes Magpie** had been caught stealing from the quartermaster's store the night before. After a brief interrogation by Plugg and Scourge, he admitted the crime.
+She spoke low, meant for Mirei, Harvus, Rak, Sho, Conchobhar, and Crimson alone.
 
-Now he was brought up from the bilges.
+> “This is Bloody Hour.”
 
-He was to be keelhauled before the evening meal.
+Her voice carried no drama, only a practiced steadiness.
 
-The new hands watched with the rest of the crew as the punishment began. The rope tightened. The body went over. Jakes Magpie was dragged beneath the hull.
+> “Every evening, if there’s cause for it, the crew gathers to watch punishment. It’s how Harrigan keeps order. Makes sure no one forgets what happens when you cross him... or his officers.”
 
-The players noticed the relish with which Plugg tugged at the rope.
+She glanced toward the bilge hatch as it was thrown open.
 
-That mattered.
+> “Jakes Magpie stole from the quartermaster last night. Grok’s stores. That’s about the worst thing you can do aboard ship. Food, drink, gear, everything runs through her. You take from that, you’re taking from the whole crew.”
 
-This was not only discipline. This was pleasure dressed as discipline.
+Her eyes flicked briefly toward Plugg, then away again.
 
-What came up on the other side had been cut to shreds.
+> “Plugg and Scourge questioned him. He confessed. That’s all it takes.”
 
-It was thrown overboard to feed the sharks.
+There was a pause, just long enough for the weight of it to settle.
 
-The lesson was clear enough: theft was dangerous, being caught was fatal, and the officers were willing to turn punishment into public theater.
+> “Keelhauling means they drag him under the ship. Hull’s covered in barnacles. It’ll tear him apart before he drowns... if he drowns first.”
+
+She exhaled slowly.
+
+> “Don’t interfere. Don’t speak up. Just watch. That’s what they want.”
+
+Plugg made a show of it as Jakes Magpie was dragged up from the bilges, his voice carrying across the deck while Scourge set to work tying the ropes with practiced efficiency.
+
+> “Let this be a lesson to every last one of you,” Plugg called, pacing before the gathered crew. “The Wormwood runs on order, and order runs on trust. You steal from the ship, you steal from all of us, and that earns you a trip beneath her hull.”
+
+He gestured sharply toward Jakes as Scourge hauled the lines tight.
+
+> “Confession or no, the sea takes its due. Remember that the next time your fingers get curious.”
+
+The rope was drawn tight, the crew gathering close, the air thick with anticipation.
+
+Sho Astor stepped forward before she could stop herself.
+
+> “That’s enough! He admitted it. This is too much!”
+
+The reaction was immediate. A few nearby pirates laughed. Others shook their heads or looked away. No one moved to support her.
+
+Plugg turned his attention toward Sho, the cat-o’-nine-tails hanging loose in his hand, his expression sharpening with interest.
+
+For a long moment, nothing moved but the slow sway of the ship.
+
+Then Plugg smiled.
+
+The rope tightened.
+
+Jakes went over.
+
+> “Too much?” he said, almost conversationally. “You think we’re here to be fair?”
+
+No one answered. The silence from the crew was its own answer.
+
+Sho held her ground for a moment longer, Sandara’s warning echoing in her mind, not to start anything she couldn’t finish, not to interfere where the ship had already decided its course. The weight of the deck shifted around her, not physically, but socially. The others had already accepted it. This was how things were done here.
+
+Plugg’s gaze lingered just long enough to make the point, then he turned back to the rope.
+
+Plugg took hold of the rope with both hands, bracing his boots against the deck as though settling into a familiar task. He did not simply pull. He worked the line with deliberate rhythm, hauling and easing in measured bursts that kept Jakes scraping along the barnacle-crusted underside. Each jerk of the rope was timed, calculated to maximize the agony, to ensure the hull’s jagged growths tore at flesh rather than letting the body slip cleanly past. His face held a tight, satisfied focus, lips curled in something that was not quite a smile but carried the same hunger. The rope creaked under strain, and Plugg leaned into it, shoulders rolling with each pull, savoring the resistance as though it were proof of his control.
+
+When Jakes came up on the other side, the hull had cut him to pieces.
+
+His body was thrown to the sharks.
+
+The lesson was plain enough that no one needed to say it: the Wormwood punished publicly, and its officers enjoyed being understood.
 
 ## Dinner, Rum, and First Night Leisure
 
-After the punishment came the evening meal.
+Dinner came after that, served in rough portions and eaten in wary silence or forced bravado.
 
-After the meal came the rum ration.
+Then rum.
 
-Sho Astor did not drink hers. She would not drink it that night or any night aboard the Wormwood. The exact method has not survived, but the current reconstruction is that she quietly disposed of or avoided consuming the ration each time.
+Sho Astor did not drink hers. From the beginning, she refused the Wormwood’s rum discipline.
 
-After the rum came whatever passed for leisure aboard the Wormwood: talk, music, gambling, barter, intimidation, favors, and the cautious work of finding out who might help and who might hurt.
+The ration marked a shift more than a reward. The edge of the day dulled, not softened, as the crew settled into what passed for night. The ship did not grow quiet so much as it changed its noise. Work gave way to voices, to low laughter, to arguments that never quite rose high enough to draw attention. Lanternlight replaced the sun, casting long shadows between the pillars of the lower hold.
 
-That was when **Mirei** saw her harp.
+After the ration, the ship loosened into what passed for leisure. There was talk, music, gambling, barter, intimidation, small alliances, and smaller warnings.
 
-**Sandara Quinn** had it.
+That was when Mirei saw her harp.
 
-Mirei asked for it back simply.
+It rested across Sandara Quinn’s lap as the woman sat easy against one of the pillars, the lanternlight catching the polished wood. Around them, the lower hold had begun to settle into its nighttime rhythm, hammocks being strung between pillars, boots thudding against planks, low voices trading rumors and laughter that never quite reached comfort. The space felt lived-in, claimed, and watched all at once.
 
-> "Can i has that back?"
+Sandara noticed Mirei’s gaze before Mirei spoke. Her fingers stilled on the strings.
 
-Sandara produced the harp and asked whether it was hers.
+Mirei stepped closer, careful but direct.
 
-Mirei confirmed it.
+> “Can I have that back?”
 
-> "Yes it is"
+Sandara tilted her head, studying her, not suspicious but measuring. Then she lifted the harp slightly, turning it so the light caught its shape.
 
-Sandara returned it.
+> “Yours, then?”
 
-> "You'll probably want that."
+Mirei nodded once.
 
-It was more than a kindness. It was an opening move in a shipboard survival lesson.
+> “Yes it is.”
 
-> "Anyway, you should keep your friends close aboard ship. I just thought I could help out."
+There was a pause, not long, but deliberate. Around them, someone cursed over a tangled hammock line, and a pair of pirates argued quietly over a footlocker near the wall. The ship creaked, reminding everyone that it never truly rested.
 
-Sandara warned the new hands to keep their heads down, avoid the attention of Scourge and Plugg, ask if they needed something, and not start anything they could not finish.
+Then Sandara handed it over.
 
-For people who had just watched Jakes Magpie be cut apart under the hull, the advice did not need embellishment.
+> “You’ll probably want that.”
+
+Mirei took it carefully, fingers brushing the familiar curves as if confirming it was real. The tension in her shoulders eased, just a fraction.
+
+Sandara watched that, and something in her expression softened.
+
+> “Not everything that gets taken stays taken,” she added, almost lightly. “Depends who’s holding it.”
+
+The gesture was kindness, but not only kindness. It was an introduction, an offering, and a quiet statement about how things worked here.
+
+Sandara shifted her weight against the pillar, glancing briefly around the hold, the pillars, the hammocks, the scattered footlockers, the clusters of crew already forming their nightly territories.
+
+> “This place,” she said, nodding to the space around them, “it’s where most of us end up when the day’s done. You’ll learn quick who sleeps where, who snores, who steals, and who you don’t want waking up next to you.”
+
+Her gaze flicked toward the forward section, where two hammocks hung a little too close together, claimed territory marked by careless sprawl.
+
+> “Kipper and Patch think they own that end,” she added under her breath. “They don’t. But they’ll make noise about it anyway.”
+
+She looked back to Mirei and, by extension, the others nearby.
+
+> “Anyway, you should keep your friends close aboard ship. Not just for comfort. For survival.”
+
+Her tone stayed easy, but there was weight behind it now.
+
+> “Plugg and Scourge? Best you don’t give them a reason to remember your names. They’ve got long memories for the wrong things.”
+
+A faint smile touched her lips, though it didn’t quite reach her eyes.
+
+> “If you need anything, just ask. People here trade favors more than coin. Just... know what you’re offering before you promise it.”
+
+She pushed herself upright, brushing dust from her hands.
+
+> “And don’t start anything you can’t finish.”
+
+After Bloody Hour, the warning needed little explanation.
 
 ## Sandara, Harvus, and the Quartermaster
 
-Harvus responded to Sandara in the manner that would quickly become his own.
+Harvus answered Sandara with courtly intensity.
 
-> "Mi lady, your beauty is boundles. It's as if Calistria herself hath transformed corporeal!"
+> “Mi lady, your beauty is boundless. It’s as if Calistria herself hath transformed corporeal!”
 
-Sandara chuckled at the bird.
+Sandara laughed it off with the ease of someone who had survived the Shackles long enough to hear more than one dramatic compliment.
 
-She had heard things like that before. It happened in the Shackles.
+Later, when she asked his name, he gave it formally.
 
-When she later asked his name, Harvus gave it with courtly formality.
-
-> "Harvus G'ron milady."
+> “Harvus G’ron milady.”
 
 He kissed her knuckles when she offered her hand.
 
-Sandara noticed his damaged wing and asked whether it was all right.
+Sandara noticed the wing.
 
-Harvus told her some knave had broken it and asked whether there was a doctor aboard.
+When Harvus said some knave had broken it and asked whether there was a doctor aboard, Sandara named the one person she could.
 
-Sandara named the **Stitchman**, the carpenter, and warned that Harvus might want to avoid him.
+> “The Stitchman.”
 
-She had a few healing potions, but nothing that would cure the wing. Harvus might be living with that injury for a while.
+Then she warned him.
 
-Still, she offered what she could: checking that it set properly, helping with the pain if possible, maybe finding or making a sling.
+> “He is the carpenter... you might want to avoid him.”
 
-Practical kindness was worth more than sympathy aboard the Wormwood.
+She had healing potions, but nothing that would cure the wing. She could try to help it set, help with pain if possible, maybe work out a sling.
 
-Harvus also asked after the quartermaster, hoping to retrieve his things.
+That kind of help mattered.
 
-Sandara explained **Cut-Throat Grok** in the useful way one survivor explains another.
+Harvus also asked after the quartermaster. He wanted his things back.
 
-Grok was superstitious.
+Sandara explained Grok.
 
-That could be used.
+> “She is just a bit superstitious... if you can convince her that something you want is cursed she might just give it to you. That’s how I got that harp back.”
 
-Sandara had recovered Mirei's harp by telling Grok it was cursed by the sea, that only Sandara could cleanse it, and that its owner would need to play it regularly so the ship would not be sunk.
+Then Sandara gave the trick away.
 
-Grok also liked alcohol, especially anything other than rum.
+> “I told her it was cursed by the sea... and only I could cleanse it... but the owner would have to regularly play it so that the ship wouldn’t be sunk.”
 
-And music could curry favor.
+Sandara winked.
 
-The options, Harvus observed, appeared boundless.
+Grok liked alcohol. Grok liked music. Grok could be approached.
 
-## The Ship Listens
+The new hands had been aboard less than a day, and already the ship had begun dividing itself into routes: pain, favor, rumor, superstition, debt.
 
-None of this happened in true privacy.
+Nearby, Giffer Tibbs made her own quiet assessment of Harvus.
 
-Nothing aboard the Wormwood did.
-
-After Harvus' courtly manners and Calistrian praise had played out, **Giffer Tibbs** gave a sailor's quiet judgment.
-
-> "Well he's cute."
+> “Well he’s cute.”
 
 Sandara chuckled.
 
-> "Oh. I suppose."
-
-It was a small thing, but small things mattered aboard ship.
-
-The new hands had learned who gave warnings, who could return what was lost, who might listen, who might laugh, and who was watching.
+> “Oh? I suppose.”
 
 ## Rest
 
-Eventually, there was nothing left but the lower hold and the hammocks.
+Eventually the night thinned. Voices faded one by one, replaced by the creak of ropes and the restless shifting of hammocks. The lanterns burned lower. The ship never slept, but it settled into something quieter, something watchful.
 
-The day had begun with tests and ended with the first shape of shipboard politics.
+The first day had begun with the hold, the whip, and Harrigan’s joke about volunteering.
 
-Plugg and Scourge had demonstrated punishment.
+It ended with hammocks strung in uneasy rows, warnings traded like currency, a harp returned, a wing bound in pain, and the first fragile threads of understanding taking hold.
 
-Sandara had demonstrated help.
+The Wormwood had not grown kinder.
 
-Grok had become a possible route back to stolen gear.
-
-Kroop waited below as Rak's new superior.
-
-Mirei had her harp again.
-
-Harvus had a name, a warning, and the possibility of care for his wing.
-
-Sho had already begun her quiet refusal of the Wormwood's rum discipline.
-
-Conchobhar had his rigger assignment, but little of his first-night behavior currently survives.
-
-Crimson's voluntary entry into the crew and participation in the early trials are known from the GM log and clarification, but his exact first-night placement is not yet reconstructed.
-
-The Wormwood had not become safer.
-
-It had become more legible.
-
-That was the first victory.
+But it had begun to make sense, and that, in its own way, was just as dangerous.
 
 ## What This Establishes
 
@@ -289,11 +369,13 @@ That was the first victory.
 - Plugg's tests assigned the first shipboard roles.
 - Harvus reached the crow's nest first.
 - Conchobhar reached it shortly after Harvus.
+- Rak, Crimson, and Sho fared poorly or uncertainly in the climb compared to Harvus and Conchobhar.
 - Mirei fell during the climbing test, was whipped by Plugg, and was ordered back into the rigging.
 - Harvus and Conchobhar were assigned as riggers.
-- Rak was assigned as Kroop's cook's mate.
-- Swabs reported to Scourge, riggers to Plugg, and the cook's mate to Kroop.
-- Current reconstruction places Mirei and Sho as swabs; Crimson is likely also a swab but his exact first duty remains open.
+- Rak was assigned as Kroop's cook's mate and entered Kroop's galley on Day 1.
+- Mirei, Sho, and Crimson were assigned as Day 1 swabs.
+- Sandara explains Bloody Hour and warns the new hands not to interfere.
+- Sho openly objects during Jakes Magpie's keelhauling.
 - Jakes Magpie's keelhauling publicly demonstrated Bloody Hour.
 - Plugg's cruelty was noticed as relish, not merely discipline.
 - Sho never drank her rum ration; the exact disposal method remains unknown.
@@ -303,16 +385,11 @@ That was the first victory.
 - Harvus began his courtly/flirtatious Sandara thread immediately.
 - Sandara noticed Harvus' wing injury and offered limited practical care.
 - Giffer's "Well he's cute" comment establishes early crew social observation.
+- Player-facing chat-log quotations may receive spell-check / typo-level cleanup.
+- Chat-log actions are rendered as narration rather than spoken voice.
 
 ## Open Checks
 
-- Confirm Crimson's exact trial actions, first assigned duty, and first-night placement.
-- Confirm whether the inference that Mirei, Sho, and Crimson were the swabs should be locked.
-- Confirm exact first-day work tasks for each new hand after assignment.
-- Confirm whether Conchobhar had any memorable first-night actions before fading into the background.
-- Confirm whether the Sandara/Mirei/Harvus scene happened before or after rum ration.
-- Confirm whether Mirei played the harp that night.
-- Confirm whether Sandara's offer of a sling for Harvus became an actual item or treatment.
-- Confirm how Sho disposed of or avoided each rum ration.
-- Confirm whether any other first-night actions survived in logs or player memory.
-- Confirm whether Plugg's naga-related discomfort should remain narrator-only characterization or be treated as GM-facing motive.
+- Confirm whether this player-facing narrative family is final for Discord posting.
+- Confirm whether a Jakes Magpie dossier exists or should be created.
+- Confirm whether Plugg's naga-related discomfort is player-facing narrator knowledge or should remain GM-only color.
