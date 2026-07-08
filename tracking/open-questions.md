@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, and Jack Scrimshaw's Tam-exchange placement
+- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, Jack Scrimshaw's Tam-exchange placement, and Mirei player performance-log checks
 - Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
@@ -90,6 +90,12 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 
 - Was the Day 2 performance the first actual performance after the harp return or only the first recovered performance?
 - Did Badger's attitude toward Mirei improve from the performance?
+- Map the player's performance-log labels — Night 2, Night 3, Night 4, Night 7, Night 8, Night 15, Night 16, Day 18, Day 1 new ship, and Day 2 new ship — to the Erastus campaign chronology.
+- Is the player-log **Night 4 / roll 34** the same floating 34 performance already tracked elsewhere, and did Plugg and Captain Barnabas Harrigan actually hear it in-scene?
+- Do the player-log **Night 3 / roll 31** and **Night 4 / roll 34** performances relate to the memory of a performance powerful enough to draw extraplanar attention, or are they simply high performance rolls?
+- What event, injury, punishment, loss, or emotional turn is attached to **Night 15**, described by the player note as "the night I show them that they hurt me"?
+- Do Giffer Tibbs' appearances in the Night 15 and Night 16 listener lists conflict with the Man's Promise capture / Giffer death chronology, or do the night labels remain Wormwood-relative and therefore pre-split?
+- Do the **Day 1 / Day 2 new ship** Plugg-only performances correspond to the first Man's Promise Plugg cabin performance and the next day's entertainer duty scene?
 - How much did Mirei understand Plugg's pressure as privilege, coercion, fear, survival, or contamination?
 - Did Mirei avoid Sho because Sho was too likely to act before Mirei was ready?
 - How should Mirei's player packet frame confession aftermath without over-explaining other PCs' private knowledge?
