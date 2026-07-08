@@ -8,6 +8,7 @@
 - Character sheet level: Level 3, CR 2
 - Canon status: Mechanical evidence. Use as the strongest recovered Mirei mechanics anchor unless a later sheet or player correction supersedes it.
 - Caution: The sheet contains obvious display/export anomalies in physical statistics, including height rendered as `0' 5" / 140 lbs.` Do not overwrite established visual dossier values from that field without player confirmation.
+- GM clarification: the Sea Singer familiar feature exists on the level 3 sheet, but Mirei has **not** acquired the familiar in play yet. She was told she would be allowed to get it either on Bonewrack Isle or afterward. Treat this as an intentional temporary class-feature delay / campaign nerf, parallel in kind to Harvus having flight suppressed by his broken wing, not as a player choice to omit the feature and not as evidence that the sheet is wrong.
 
 ## Identity Snapshot
 
@@ -92,7 +93,7 @@ Notable trained or emphasized skills:
 - Sea Legs
 - Still Water
 - World Traveler
-- Familiar: Sea Singer exotic pet at 2nd level, monkey or parrot treated as raven; the sheet does not identify the familiar's species or name.
+- Familiar: Sea Singer exotic pet at 2nd level, monkey or parrot treated as raven; **not yet acquired in play** due to an intentional temporary campaign delay. The GM allowed future in-play acquisition either on Bonewrack Isle or afterward. Species, name, and personality remain open until introduced.
 - Armored Casting
 - Cantrips
 - Celestial Resistance: acid 5, cold 5, electricity 5
@@ -149,4 +150,5 @@ The sheet lists broad bard / campaign weapon proficiencies, including but not li
 - Update `characters/pcs/mirei.md` so the level 1 sheet is no longer the only recovered mechanical anchor.
 - Replace the old statement that Mirei is currently level 2 with a cautionary statement that a level 3 sheet has been recovered and should be verified as the relaunch-current or latest pre-relaunch mechanics.
 - Preserve established dossier visual details unless the player confirms the level 3 sheet's physical-stat fields are intended; the PDF's height field appears malformed.
-- For PF2e conversion, the new mechanical identity pillars are: Bard 3, Sea Singer, Still Water, Sea Legs, World Traveler, Familiar, Chord of Shards, Cure Light Wounds, Prodigy in Perform (Sing) and Profession (Sailor), high Dexterity / Charisma, and strong Acrobatics / Performance / social / sailor skill emphasis.
+- Do not treat the missing familiar as evidence that the level 3 sheet is wrong or that Mirei declined the feature. The feature was delayed in play as a temporary nerf and should be restored through an in-world introduction on Bonewrack Isle or afterward.
+- For PF2e conversion, the new mechanical identity pillars are: Bard 3, Sea Singer, Still Water, Sea Legs, World Traveler, delayed-but-owed Familiar, Chord of Shards, Cure Light Wounds, Prodigy in Perform (Sing) and Profession (Sailor), high Dexterity / Charisma, and strong Acrobatics / Performance / social / sailor skill emphasis.
