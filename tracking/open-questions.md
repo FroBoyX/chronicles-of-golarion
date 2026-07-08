@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, Jack Scrimshaw's Tam-exchange placement, Mirei player performance-log checks, recovered Mirei level 3 sheet checks, GM clarification that Mirei's familiar is delayed but owed, early Mirei player-cache duplicate extraction, and missing Day 12-16 Mirei cache extraction
+- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, Jack Scrimshaw's Tam-exchange placement, Mirei player performance-log checks, recovered Mirei level 3 sheet checks, GM clarification that Mirei's familiar is delayed but owed, early Mirei player-cache duplicate extraction, missing Day 12-16 Mirei cache extraction, and missing Day 16-21 Mirei-private cache extraction
 - Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
@@ -91,7 +91,7 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Confirm whether the recovered level 3 PCGen sheet is Mirei's latest pre-relaunch / relaunch-current PF1 mechanics, and whether any later level 3+ or manual sheet corrections exist.
 - Choose and introduce the delayed familiar owed by the Sea Singer level 3 sheet: monkey or parrot, name, personality, and whether the scene occurs on Bonewrack Isle or afterward. Status is resolved only as: Mirei has not acquired the familiar yet, but was told she would be allowed to get it in play.
 - Confirm whether the level 3 sheet's malformed physical-stat field has any intended player truth or should be ignored as a PCGen export issue.
-- Map the missing-cache Day 12-16 labels to the campaign Erastus chronology before final dossier integration.
+- Audit active docs that still preserve legacy 4691 labels; use the recovered logs' day/month mapping but retain the corrected archive year 4712 AR.
 - Was the Day 2 performance the first actual performance after the harp return or only the first recovered performance?
 - Map the player's performance-log labels — Night 2, Night 3, Night 4, Night 7, Night 8, Night 15, Night 16, Day 18, Day 1 new ship, and Day 2 new ship — to the Erastus campaign chronology.
 - Is the player-log **Night 4 / roll 34** the same floating 34 performance already tracked elsewhere, and did Plugg and Captain Barnabas Harrigan actually hear it in-scene?
@@ -130,8 +130,26 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Current GM correction says opening year is 4712 AR.
 - Some older current-state docs may still preserve 4691 AR.
 - Audit active chronology docs and correct only where they conflict with the locked 4712 timeline.
+- Missing Mirei player-cache logs preserve explicit legacy labels for Day 18 = Erastus 23, Day 19 = Erastus 24, and Day 20/21 = Erastus 25. Use the day/month/date mapping while retaining 4712 AR.
 
 ## Resolved Questions
+
+### Wormwood Day 12-21 Cache Chronology Bridge
+
+- Resolved from missing Mirei player cache: Day 18 is explicitly labeled Oathday, Erastus 23 in the legacy log.
+- Resolved from missing Mirei player cache: Day 19 is explicitly labeled Fireday, Erastus 24 in the legacy log.
+- Resolved from missing Mirei player cache: Day 20 / Day 21 is tied to Starday, Erastus 25 and the Man's Promise sighting / boarding-party assembly.
+- State impact: by sequence, the prior missing Day 12-16 cache maps approximately to Erastus 17-21, while the new Day 16-21 cache maps approximately to Erastus 21-25. Preserve the overlap as cache-label continuity until the final chronology pass.
+- State impact: do not restore the legacy year 4691; current archive year remains 4712 AR.
+
+### Sho Release From Hot-Box For Man's Promise Boarding
+
+- Resolved from missing Mirei player cache: Sho was in the hot-box because Aretta died after the Erastus 24 bilges ambush and Plugg delayed her punishment to the next evening.
+- Resolved from missing Mirei player cache: Plugg announced Sho would be keelhauled at Bloody Hour on Erastus 25.
+- Resolved from missing Mirei player cache: the punishment was interrupted by the sighting of the Man's Promise.
+- Resolved from missing Mirei player cache: Riaris released Sho under captain's orders for the boarding action.
+- Resolved from missing Mirei player cache: Riaris told Sho the charges would be dropped if Sho proved herself by successfully completing the assigned boarding tasks.
+- State impact: Sho's Man's Promise command role is not voluntary command ambition; it is a survival bargain imposed under threat of later punishment.
 
 ### Erastus 31 Storm Abduction Victims
 
