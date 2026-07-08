@@ -3,26 +3,33 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rosie loss suspicion, Erastus 16 mast / reef summons, Erastus 27 first mate speech, first-night Man's Promise discipline rules, and Erastus 29 Mirei threat role
-- Scope: Book One emotional antagonist and disciplinary threat
-- Source basis: Recovered Adventure Path material, GM-provided campaign facts, chat logs, and player journals
+- Maturity: Draft, consolidated with late-Wormwood / Arodus 5 chronology bridge, current-state tableau, corrected Man's Promise date mapping, Plugg command-state evidence, Man's Promise first-mate structure, Mirei threat role, Sho hot-box state, and Arodus 5 supply-party orders
+- Scope: Book One emotional antagonist, Wormwood disciplinarian, Man's Promise first mate, Plugg-axis enforcement arm
+- Player-facing status: Not player-facing by default
+- Spoiler status: Contains current hot-box / shore-party state, Plugg/Mirei threat structure, and Arodus 5 branch positioning
+- Canon status: Current reconstruction from recovered evidence, GM corrections, AP scaffold, and Book One chronology bridge
 
 ## Overview
 
 Master Scourge is the Wormwood's boatswain and master-at-arms, later serving as Mr. Plugg's first mate aboard the Man's Promise.
 
-He is a sadistic coward who uses institutional authority and association with Plugg to hurt people who cannot safely fight back.
+He is a sadistic coward who uses institutional authority and association with stronger command figures to hurt people who cannot safely fight back.
 
 In Chronicles of Golarion, Scourge is not simply Plugg's sidekick. He is the personal wound behind several PC and NPC arcs, especially Harvus, Sho, Sandara, and Mirei.
+
+At the current relaunch point, Scourge is the active enforcement arm of Plugg's regime: the person most directly tied to shore violence, Sho's hot-box state, Syl's supply-party order, and the threat of punishment if the returning branches expose Plugg.
 
 ## Identity
 
 - Name: Master Scourge
-- Type: Human pirate officer
+- Type: NPC
+- Species / ancestry: Human
 - Baseline alignment: Neutral Evil
 - Wormwood role: Boatswain and master-at-arms
 - Man's Promise role: First mate under Plugg
-- Key association: Mr. Plugg's right-hand man
+- Current location: Man's Promise / command branch, exact Arodus 5 position unresolved
+- Key association: Mr. Plugg's right-hand man and enforcer
+- Core authority mode: intimidation, humiliation, delegated violence, and punishment under cover of discipline
 
 ## Appearance
 
@@ -30,9 +37,11 @@ Scourge is tall and thin, with a sneering manner, a braided beard, and a mouth f
 
 His long coat and heavy boots fail to make him appear strong.
 
-His presence is defined more by threat, whip, and position than by physical command.
+His presence is defined more by threat, whip, and position than by true command.
 
-## Baseline Adventure Path Role
+## Canon / Established
+
+### Baseline Adventure Path Role
 
 Scourge is the early face of shipboard cruelty.
 
@@ -40,17 +49,15 @@ He wakes the PCs in the hold, enforces discipline, poisons crew attitudes agains
 
 The published adventure frames him as a coward who becomes bold when the odds are stacked in his favor and retreats when genuinely threatened.
 
-## Campaign Role
+### Campaign Role
 
 Scourge is the emotional antagonist of Book One.
 
 Plugg is the political antagonist. Harrigan is the strategic antagonist. Scourge is the person who makes the oppression intimate.
 
-He corrupts discipline.
+He corrupts discipline. Where real shipboard discipline maintains survival, Scourge turns discipline into humiliation, intimidation, and personal revenge.
 
-Where real shipboard discipline maintains survival, Scourge turns discipline into humiliation, intimidation, and personal revenge.
-
-## Motivation
+### Motivation
 
 Scourge wants status, control, and victims.
 
@@ -58,7 +65,7 @@ He is jealous, petty, and reactive. He recognizes that the PCs are unusual and d
 
 His hostility is not abstract. It becomes personal quickly.
 
-## Fear
+### Fear
 
 Scourge is afraid of:
 
@@ -104,6 +111,10 @@ Scourge used goons and hostile crew to test, intimidate, or harm the PCs and the
 
 His hostility escalated as the PCs became more socially and physically dangerous.
 
+By the late Wormwood period, Scourge and Plugg were using assignment control, hostile crew, and punishment structures to isolate or destroy troublesome new hands.
+
+The current corrected chronology places Sho's bilges ambush / hot-box setup on **Erastus 24, 4712 AR**, followed by the interrupted keelhauling / Man's Promise capture on **Erastus 25, 4712 AR**.
+
 ### Rosie Suspicion
 
 After Rosie's storm loss, Sandara told Harvus that Rosie had been new aboard the Wormwood but angered Scourge and Plugg quickly.
@@ -114,15 +125,19 @@ This is an unresolved suspicion, not confirmed fact. It matters because it shows
 
 ### Man's Promise Appointment
 
-After the capture of the Man's Promise, Scourge transferred with Plugg's prize crew and continued in a more openly hostile role.
+The Wormwood captured the Man's Promise on **Erastus 25, 4712 AR**.
+
+This is the capture date, not Man's Promise Day 1.
+
+After the Erastus 26 revel and Erastus 27 prisoner/split sequence, Scourge transferred with Plugg's prize crew.
 
 On Erastus 27, Plugg publicly named Scourge first mate aboard the Man's Promise.
 
 During Plugg's first command speech, Scourge whispered something to Plugg that made them both laugh, then turned to the crew with a cold glare. He said the Wormwood had been easy on them, but because the Man's Promise had only a skeleton crew, any lapse in discipline would be dealt with quickly and forcefully.
 
-> "I will be watching."
-
 With Harrigan distant, Plugg and Scourge became more direct in their intent to eliminate troublesome PCs.
+
+Man's Promise Day 1 begins on **Erastus 28, 4712 AR**, the first full Plugg-command workday after the split and separation.
 
 ### First Night Aboard the Man's Promise
 
@@ -136,11 +151,9 @@ On the first recovered evening aboard the Man's Promise, Scourge announced new r
 
 He then ordered Mirei to report to the captain with her instrument because she was expected to entertain him.
 
-After Plugg's first private performance with Mirei, Scourge brought the hammock to Plugg's cabin area. When Mirei said the captain wanted him to bring her a hammock, Scourge answered:
+After Plugg's first private performance with Mirei, Scourge brought the hammock to Plugg's cabin area. When Mirei said the captain wanted him to bring her a hammock, Scourge answered as if the hammock meant she had agreed to more than she stated.
 
-> "So you agreed...."
-
-Mirei clarified that the only thing she agreed to was having a hammock up there. Scourge muttered as he walked away and later dismissed her as "wench."
+Mirei clarified that the only thing she agreed to was having a hammock up there. Scourge muttered as he walked away and later dismissed her as `wench`.
 
 This shows Scourge reinforcing the danger around Plugg's possessive treatment of Mirei, even when Plugg is the primary manipulator.
 
@@ -150,25 +163,58 @@ On Erastus 29, Scourge was present in the locked captain's cabin when Mirei deli
 
 He smiled and called her wench after Plugg made her taste the food.
 
-When Mirei objected, Plugg stopped Scourge, then struck Mirei and corrected the title to "Captain's wench." Scourge sat again, smiling or scowling.
+When Mirei objected, Plugg stopped Scourge, then struck Mirei and corrected the title to `Captain's wench`. Scourge sat again, smiling or scowling.
 
-That night, Scourge opened the door when Mirei returned and greeted her as:
+That night, Scourge opened the door when Mirei returned and greeted her as `Captain's wench`, then walked out, leaving her with Plugg.
 
-> "Welcome back, 'Captains' wench."
-
-He then walked out, leaving her with Plugg.
-
-Later in the same scene, Plugg made Scourge part of the explicit threat structure: if Mirei did anything wrong, Plugg would give her to Scourge to do with as he pleased.
+Later in the same scene, Plugg made Scourge part of the explicit threat structure: if Mirei did anything wrong, Plugg would give her to Scourge to do with as Scourge pleased.
 
 This makes Scourge more than background intimidation. He is the punishment Plugg names when defining Mirei's new protected but controlled station.
 
-### Bonewrack Isle
+### Erastus 30 / Syl Observation Pressure
+
+After Plugg sent Mirei through the crew as Mistress Mirei, Syl observed her performance and later threatened her with a knife.
+
+Syl said she and Scourge would see Mirei in the morning.
+
+This places Scourge as the next threatened escalation after Syl's knife scene, even though the exact morning follow-up is not preserved in the current bridge.
+
+### Bonewrack / Arodus 5 Pressure
 
 Scourge confronted Rak and Sho when they returned from the island without Harvus and Mirei.
 
 Sho was beaten unconscious and later moved aboard the Man's Promise, waking in the hot-box.
 
-Scourge directed or helped direct the recovery work party sent with Rak to retrieve food and water.
+Scourge questioned Rak about food, water, and the route over the swamp.
+
+After Rak reported the broken-bridge route, Scourge changed the recovery plan. He assigned Syl to lead the food and water recovery team with Jape, Shivikah, Fipps, and Rak.
+
+Scourge ordered the party not to stop at the caverns, to recover food, to bring water from the spring down to the beach, and to prepare for the ship to meet them at Coconut Beach.
+
+This makes Scourge the active dispatcher of the current Rak/Syl supply branch.
+
+## Current Reconstruction
+
+### Arodus 5 Command State
+
+- Branch: Man's Promise command / ship branch
+- Location: Man's Promise or its immediate command structure; exact position unresolved
+- Role: First mate / enforcer under Plugg
+- Status: Alive
+- Known recent actions: Shore confrontation with Rak/Sho, Sho's beating / hot-box state, supply-party dispatch through Syl
+- Immediate threat: May attack, punish, execute, bargain, or use Sho as leverage if Plugg's plan is exposed
+- Current uncertainty: How much Scourge knows about Sandara, Tilly, Goyle, Harvus, and Mirei being alive and moving together
+
+### Current Vulnerabilities
+
+Scourge's current position can be attacked through:
+
+- Harvus' personal vengeance and knowledge of Scourge's press-ganging violence.
+- Sandara's enmity and possible testimony about Scourge's character.
+- Sho's current hot-box state and Kahina's possible use of Sho against him.
+- Goyle's warning that Plugg and/or Scourge intended to kill troublesome PCs.
+- Syl's practical loyalty being uncertain if Plugg's command collapses.
+- The possibility that Scourge becomes exposed without Plugg's authority to hide behind.
 
 ## Relationships
 
@@ -180,13 +226,13 @@ He depends on Plugg's authority and protection.
 
 He can influence Plugg, but he is not the architect of every Plugg decision. Chronicles canon should preserve Plugg's agency, especially in the manipulation of Mirei.
 
-On Erastus 16, he fetched Badger when Plugg ordered it.
-
 On Erastus 27, he accepted or performed the role of first mate in Plugg's first public command structure aboard the Man's Promise.
 
 On the first Man's Promise night, he announced the new discipline rules and enforced Mirei's movement into Plugg's cabin orbit.
 
 On Erastus 29, Plugg explicitly used Scourge as the threatened consequence if Mirei disobeyed.
+
+At Arodus 5, Scourge has directed or shaped the shore/supply-party pressure and remains the likely immediate enforcer of Plugg's regime.
 
 ### Harvus G'ron
 
@@ -200,6 +246,8 @@ Rosie's loss and Sandara's suspicion of intentionality further fed Harvus' renew
 
 On Erastus 27, Scourge ordered Harvus to report to the deck of the Man's Promise in less than ten minutes.
 
+At Arodus 5, Harvus' return with rescued witnesses may bring Scourge's personal and political threat lines together.
+
 ### Sandara Quinn
 
 Sandara humiliated Scourge by rejecting him.
@@ -207,6 +255,8 @@ Sandara humiliated Scourge by rejecting him.
 Scourge's hostility toward Sandara and anyone close to her should be treated as personal, jealous, and status-driven.
 
 Sandara later warned Harvus that she and Scourge did not see eye to eye, and that Rosie's going over during the storm might have been intentional after Rosie angered Scourge and Plugg.
+
+Sandara's rescue is dangerous to Scourge because she is both a witness against the regime and a symbolic alternative to its cruelty.
 
 ### Rosie Cusswell
 
@@ -220,7 +270,11 @@ Sho's defiance draws Scourge's punishment and contempt.
 
 On Erastus 16, Scourge taunted Sho while she was tied to the mast, using the whip under her chin and making clear that he enjoyed her suffering.
 
+The Erastus 24 bilges ambush / hot-box setup and Erastus 25 interrupted keelhauling belong to the late-Wormwood pressure structure shared by Scourge and Plugg.
+
 His assault on Sho before she wakes in the hot-box is one of the immediate pre-relaunch provocations.
+
+At Arodus 5, Sho may become a weapon against Scourge if Kahina's life-for-life bargain turns into action.
 
 ### Mirei
 
@@ -230,7 +284,9 @@ However, Scourge watched, threatened, and reinforced the danger around her compr
 
 On the first Man's Promise night, he ordered her to entertain Plugg, then later interpreted her cabin hammock as agreement to something more than she stated.
 
-On Erastus 29, Scourge repeatedly used the "Captain's wench" framing, and Plugg explicitly threatened to give Mirei to Scourge if she disobeyed.
+On Erastus 29, Scourge repeatedly used the `Captain's wench` framing, and Plugg explicitly threatened to give Mirei to Scourge if she disobeyed.
+
+After Syl's Erastus 30 knife threat, Syl said she and Scourge would see Mirei in the morning. Exact follow-through remains unresolved.
 
 ### Rak Wraithraiser
 
@@ -239,6 +295,22 @@ Rak is useful but uncontrolled.
 Scourge can attempt to command him through hierarchy, but Rak's island competence and social unpredictability complicate that control.
 
 On Erastus 16, Scourge ordered Rak brought on deck for the reef task.
+
+At Arodus 5, Scourge uses Rak's route knowledge while shifting direct command to Syl.
+
+### Slippery Syl Lonegan
+
+Syl is Scourge's current on-island enforcement instrument.
+
+Scourge assigned her to lead the Arodus 5 supply party with Rak, Jape, Shivikah, and Fipps.
+
+Syl's cruelty aligns with Scourge's style, but her ultimate loyalty remains unresolved.
+
+### Kahina Bukekayo and Man's Promise Survivors
+
+Kahina's hot-box bargain with Sho may make Scourge a target of survivor-backed retaliation.
+
+Man's Promise survivors may hate the PCs and still see Scourge as part of Plugg's tyranny.
 
 ### Badger Medlar
 
@@ -254,13 +326,6 @@ This is historical Pathfinder reference and not a conversion target.
 - Morale: flees at 10 HP or fewer
 - Gear includes whip, masterwork handaxe, punching dagger with poison, oil of taggit, and dark reaver powder
 
-## Current State
-
-- Location: Man's Promise or its immediate command structure
-- Role: First mate / enforcer under Plugg
-- Status: Alive
-- Immediate threat: May attack or punish returning PCs, especially if Plugg's plan is exposed
-
 ## Campaign Function at Relaunch
 
 Scourge is not necessarily the final fight.
@@ -271,9 +336,36 @@ His fate matters because of what he represents:
 - the personal wound against Harvus,
 - the threat to Sho,
 - the humiliation of Sandara,
-- and the violence behind Plugg's claim to command.
+- the violence behind Plugg's claim to command,
+- and the immediate enforcement of the Man's Promise crisis.
 
 If he dies, survives, flees, or is captured, each outcome should create different crew reactions.
+
+## Player-Facing Caution
+
+- Do not confirm Scourge caused Rosie's loss; keep it as Sandara's suspicion unless later evidence proves it.
+- Do not overstate Scourge as the architect of Plugg's Mirei coercion. He reinforces and threatens, but Plugg is the primary manipulator.
+- Do not assume Scourge knows the Riptide rescue branch survived.
+- Do not expose Goyle's testimony to shipboard actors until in-game communication occurs.
+- Do not assume Scourge fights to the death.
+- Do not assume Scourge stays loyal if Plugg's command collapses.
+
+## GM-Only / Sensitive Notes
+
+- Scourge's knowledge state at the Arodus 5 cold open remains unresolved.
+- His exact role in Sho's beach/shore beating needs source-level detail if staged closely.
+- His exact follow-up after Syl's threat to Mirei is unresolved.
+- Scourge may attempt to use Sho as leverage if he understands the shipboard survivor pressure.
+- If Plugg falters, Scourge may flee, bargain, betray, or double down depending circumstances.
+
+## What Not To Assume
+
+- Do not assume Scourge caused every bad event tied to discipline.
+- Do not assume Scourge caused Rosie's fall.
+- Do not assume Scourge knows Goyle survived.
+- Do not assume Scourge knows Mirei confessed.
+- Do not assume Scourge can hold command without Plugg.
+- Do not assume Scourge fights to the death.
 
 ## Open Questions
 
@@ -283,8 +375,11 @@ If he dies, survives, flees, or is captured, each outcome should create differen
 - What did Scourge mutter after Mirei told him Plugg wanted a hammock brought up?
 - What did Scourge think Mirei had agreed to?
 - Did Scourge remain nearby after opening the door for Mirei on Erastus 29, or did he leave entirely?
+- What happened the morning after Syl told Mirei that she and Scourge would see her?
+- What exactly happened during Sho's beach/shore beating before the hot-box?
 - Does Scourge know Sandara, Tilly, and Goyle survived?
 - Does he know Mirei confessed?
+- Does he know Kahina spoke with Sho?
 - Does he try to use Sho as leverage?
 - If Plugg falters, does Scourge stand with him, flee, or bargain?
 - What does Harvus consider adequate vengeance?
