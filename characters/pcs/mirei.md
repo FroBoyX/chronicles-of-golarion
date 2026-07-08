@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, Erastus 29 entertainer agreement, Sho player-memory perspective on Mirei as confidante, recovered level 3 PCGen sheet evidence, and GM clarification that the Sea Singer familiar is a delayed in-play class feature
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, Erastus 29 entertainer agreement, Sho player-memory perspective on Mirei as confidante, recovered level 3 PCGen sheet evidence, GM clarification that the Sea Singer familiar is a delayed in-play class feature, and missing Day 12-16 player-cache evidence including mast punishment and hurt-performance context
 - Current mechanics: Level 3 PCGen sheet recovered; verify whether this is the latest pre-relaunch / relaunch-current PF1 mechanics before rebuilding or converting. The familiar feature is granted by the sheet but intentionally delayed in play and not yet acquired.
 - Conversion status: Not converted
 
@@ -287,6 +287,40 @@ Recovered evidence suggests the performances became increasingly impressive and 
 
 Giffer Tibbs was notably fond of Mirei's supper performances and praised her playing after warming to her.
 
+### Missing Cache: Wormwood Day 12-16
+
+A newly recovered Mirei player-cache log preserves a previously missing Wormwood segment labeled in-chat as **Day 12** through **Day 16**. The exact Erastus-date mapping needs a chronology pass before these beats are merged into date-specific headings.
+
+On Day 12, Sho waved Mirei over at dinner and checked whether she was doing better. Mirei said she was doing much better and that the day had gone well. Sho described Owlbear as more sad and lonely than evil, and Mirei said she might try talking to him. Sho also said things felt tense aboard ship, and Mirei answered that making more friends seemed wise because it could be helpful. This reinforces the pre-Plugg-pressure Sho/Mirei confidante relationship.
+
+That same Day 12 social window, Rak joined Tilly for a drinking contest and Mirei asked whether she could join. Harvus contributed coin for Mirei's buy-in. Mirei later passed out during the contest. This likely anchors one of the player performance-log/social-night references but should not be merged until the performance chronology is checked.
+
+On Day 13, the log records Sho continuing to speak with Owlbear and Harvus bluntly confronting Sho about having figured out she was a woman. This is mostly Sho/Harvus evidence, but it confirms the wider spread of Sho's secret after Mirei's earlier discovery.
+
+On Day 14, Riaris Krine ran a boarding drill with Mirei, Sho, Rak, Harvus, Shivikah, and Tam "Narwhal" Tate involved. Mirei was repeatedly framed by Riaris and the crew as the performer / bard rather than a natural boarder. She struggled with the grappling-hook and boarding exercise, apologized to Riaris, flopped onto the deck afterward, and was told to keep to songs. She did still land at least one successful thrown-object hit during the chaotic drill.
+
+After the boarding practice, Riaris began explaining combat survival and active defense. She told the group that if they were overwhelmed they should use defensive action, block, and look for openings to counter. Scourge then arrived and asked how they performed; Riaris reported that everyone but the monk failed, which set up lash punishment.
+
+At the same Bloody Hour setup, Scourge announced that two people had been seen not drinking their rum and invited confession. Mirei confessed that she had not wanted to drink the previous night. Scourge said he did not want to hurt her and ruin her song, but discipline had to be maintained. He halved her punishment because she confessed. Slippery Syl Lonegan was the person who grabbed Mirei and took her to the mast.
+
+At the mast, Scourge punished Mirei himself. He called her a puppet, warned that they would hate to lose her voice, and told her not to hug the mast again. Mirei bled and the later health macros put her into a dying or near-death state. This is a major new mast-punishment pressure point: Mirei is punished for rum refusal, singled out through the value of her song and voice, and physically reduced to the edge of death.
+
+After the punishment, Peppery Longfarthing ordered Sho below and refused to let her openly check the people left around the mast. Sho pushed anyway and quickly checked Mirei's health while Peppery was turned away. Slippery Syl appeared with a dagger, taunted Sho, and threatened to report her to Plugg in the morning. Patch Patchsalt appeared, and Sho avoided further escalation. This supports the later Sho/Mirei memory that Sho tried to check whether Mirei survived but was cut short.
+
+On Day 15, Scourge warned Mirei to pull herself together or risk the whip again. Sandara then confronted the group, asking what they were trying to prove and saying that seeing six of them on the mast had made her feel helpless. Mirei said she had not been trying to prove anything; she had been caught not drinking rum, while the others could not keep their mouths shut. Sandara warned that the PCs needed to draw less attention or they might never have control.
+
+Mirei told Sandara that she would keep trying not to draw attention, but somehow kept ending up on the mast. Sandara explained that Scourge had once made a pass at her and that she had slapped him hard, but she now had to keep her own head somewhat down. Mirei said she would try to get the others to understand that they needed to keep their heads down, while recognizing that some of them hated feeling helpless. Sandara answered that sometimes acting helpless keeps options open, and that most people had no reason to stick their necks out for the PCs.
+
+In that same exchange, Mirei thanked Sandara for the help she had given, especially for getting the harp back, and said she did not know what she would do without it. Sandara called Mirei a little soft for a girl in the Shackles and warned that she would not survive long like that. This gives the harp a clear post-punishment survival-identity weight.
+
+Also on Day 15, Sho privately asked Mirei how badly she was hurt. Mirei said she still felt terrible. Sho said she had been worried when she woke and found the others unconscious around the mast, and that she barely managed to check whether Mirei lived before Peppery and Syl cut her short. Mirei told Sho that Sandara said they needed to keep their heads down and wait for the right time. Sho said she would try to quiet her tongue, though she still hoped the eventual reckoning would be physical. Mirei said they should gather more people and that more friends could not hurt. Sho acknowledged that making friends was not her strength, but that Mirei seemed adept at it; Sho could keep quiet and serve as muscle when the time came.
+
+Later Day 15, Mirei told Sho she intended to play her harp because she had not done so for a while and because it might make others hear how badly they had hurt her. Ratline Rattsberger later noticed the harp and said Mirei sounded much worse for the lashings. This resolves the player performance-log entry for **Night 15, roll 13**, described as "the night I show them that they hurt me": it was the post-lashing performance after the mast punishment, and Mirei used the harp to make harm audible rather than simply to entertain.
+
+The same Day 15 section contains broader crew responses to the mast punishment. Jack Scrimshaw told Rak that the PCs could become significant but not if they died, and showed a carving of the six on the mast. Ratline told Harvus a story about surviving abuse on a previous ship and waiting for the right moment, warning him not to let revenge steal the chance to act. These are broader Wormwood pressure beats supporting Sandara's advice: endure, gather allies, and wait.
+
+The log closes with Mirei marking the start of Day 16 and saying she is still badly hurt.
+
 ### Man's Promise Period
 
 After the capture of the Man's Promise, Mirei was aboard the prize crew.
@@ -397,6 +431,8 @@ On Erastus 16, Sandara checked on Mirei after the reef creature injured Mirei's 
 
 Sandara's Erastus 29 course-change warning reached Mirei indirectly through Tilly.
 
+During the missing Day 15 cache, Sandara confronted Mirei and the others after a mass mast punishment, warning that they needed to draw less attention before they could ever gain control. Mirei thanked Sandara for getting the harp back and said she did not know what she would do without it. Sandara warned that Mirei was a little soft for the Shackles.
+
 ### Rak Wraithraiser
 
 Mirei was ordered by Plugg to act against Rak and the other PCs, but did not do so.
@@ -422,6 +458,8 @@ Sho noticed Mirei becoming closed off later and suspected Scourge or officer att
 On Erastus 16, Sho apologized when she realized Mirei had fought reef creatures and been hurt.
 
 On Erastus 29, Sho noticed Mirei's distress when Kroop handed her Plugg's food. Sho asked whether everything was all right and told Mirei to tell her when it was not. Mirei whispered that they would talk soon and told Sho not to worry about her right then.
+
+In the missing Day 12 cache, Sho and Mirei privately discussed Owlbear, shipboard tension, and the need to gather more friends. After the missing Day 14 mast punishment, Sho tried to check whether Mirei and the others survived despite Peppery ordering her below; Syl interrupted and threatened to report her. On Day 15, Sho told Mirei she had been worried when she woke and found the others unconscious at the mast. Mirei and Sho then discussed keeping their heads down, waiting for the right time, making more friends, and Sho acting as muscle when needed.
 
 ### Tilly Brackett
 
@@ -455,6 +493,10 @@ During an unknown Man's Promise work day, Mirei tried to make friendly conversat
 
 Crimson said he had nothing against her but did not want anything to do with her because association with her was not worth the risk.
 
+### Ratline Rattsberger
+
+During the missing Day 15 post-punishment night, Ratline was paying attention to Mirei's harp and noticed that she sounded much worse for the lashings. This is direct crew recognition of Mirei using performance to make pain audible after punishment.
+
 ### Captain Barnabas Harrigan
 
 Mirei attempted to invite Harrigan to one of her storm-window performances.
@@ -477,11 +519,25 @@ That night, he pressured her to agree to become his entertainer, promised office
 
 This is the beginning of the direct Man's Promise manipulation arc that later leads to Plugg assigning Mirei to act against the PCs.
 
+### Master Scourge
+
+Scourge was one of the primary officers Mirei was warned to avoid.
+
+In the missing Day 14 cache, Scourge oversaw the lash punishment after Riaris' boarding drill and the rum-ration confession. When Mirei confessed that she had not wanted to drink her rum, Scourge said he did not want to hurt her and ruin her song, but discipline had to be maintained. He punished her personally at the mast, called her a puppet, warned that they would hate to lose her voice, and left her bleeding and near death. On Day 15, he warned her to pull herself together or risk the whip again.
+
+### Slippery Syl Lonegan
+
+Syl grabbed Mirei and brought her to the mast during the missing Day 14 Bloody Hour.
+
+After the punishment, Syl interrupted Sho when Sho tried to check Mirei's condition, appeared with a dagger, taunted Sho, and threatened to report Sho to Plugg in the morning. This is separate from Syl's later Man's Promise knife threat against Mirei.
+
 ### Owlbear Hartshorn
 
 Owlbear acted as Plugg's door guard when Mirei came to the cabin.
 
 Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
+
+The missing Day 12 cache records Sho telling Mirei that Owlbear seemed more sad and lonely than bad. Mirei said she might try to speak with him at some point.
 
 ## Open Threads
 
@@ -492,6 +548,7 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 - Her role as a Sea Singer should be preserved in any future conversion.
 - Choose and introduce the delayed familiar owed by the Sea Singer level 3 sheet: monkey or parrot, name, personality, and whether the scene occurs on Bonewrack Isle or afterward.
 - Confirm whether the level 3 sheet's malformed physical-stat field has any intended player truth or should be ignored as a PCGen export issue.
+- Map the missing-cache Wormwood Day 12-16 labels to exact Erastus dates and reconcile them with the existing Erastus 16 reef-injury placement.
 - Confirm whether the Day 2 performance was the first actual performance after the harp's return or simply the first recovered one.
 - Confirm exact chronology for when Sho openly confided the disguise truth to Mirei; player-facing relationship truth is established, but scene placement remains a chronology check.
 - Confirm whether the storm-window Harrigan invitation / Plugg order is Erastus 11, 12, or 13.
@@ -517,5 +574,6 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 - Recovered PCGen sheet dated Jun 30, 2014, level 1.
 - Recovered PCGen sheet dated Aug 2, 2015, level 3; summarized in `evidence/player-sheets/mirei-level-3-pcgen-summary.md`.
 - GM clarification: Sea Singer familiar was granted by the level 3 sheet but intentionally delayed in play; Mirei has not acquired it yet and was told it could be obtained on Bonewrack Isle or afterward.
+- Missing Mirei player cache summary for Wormwood Day 12-16: `evidence/raw-session-logs/mirei-player-cache/session-12-to-16-missing-summary.md`.
 - GM-provided campaign facts about Mirei's current status, Plugg assignment, and Bonewrack actions.
 - Player journals and chat logs provide indirect evidence of her actions and relationships.
