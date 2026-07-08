@@ -5,7 +5,7 @@
 - Type: Player-memory / GM-correction evidence
 - Maturity: Working notes
 - Source: Rak player answers relayed by GM during player discovery
-- Scope: Rak core identity, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, voice correction, and Syl/Patch conflation correction
+- Scope: Rak core identity, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, voice correction, and Syl/Patch conflation correction
 
 ## Evidence Handling
 
@@ -67,6 +67,27 @@ Preserve the distinction between:
 - Fipps is not salient to Rak from the player's memory; effectively "who dat" unless play makes him matter.
 - Rak's current priority at the fork is to find the others so they can take out the hostile escort and potentially take over the Man's Promise while the heavy hitters are absent.
 - If Rak hears something ahead, his instinct is to let Syl walk into it first and hope whatever it is weakens or removes the hostile escort.
+
+## Gear / Notes / Useful Objects
+
+- Rak's listed inventory should be treated as gear he has on him for the island excursion unless stronger evidence says otherwise. The player does not think it is party loot or broad sheet clutter.
+- Rak still has the Candle of Truth, but it is unresolved whether he knows what it is or merely shoved it into his backpack as a candle. Existing logs / notes may clarify his knowledge.
+- Rak grabbed the Bonewrack pages of notes because they were notes on a random dangerous island and might become useful. Their actual content and importance remain unknown from the player's memory.
+- Rak has not yet translated or tried to translate the notes; he has been too busy surviving the island.
+- Rak likely still has the spyglass, and the player thinks it may have been found on the island.
+- Rak still has the fiddle, and the player thinks it is Rosie's fiddle, kept after she was lost at sea.
+- Rak should currently have combat-useful supplies available, including alchemist's fire, holy water, thieves' tools, and his alchemy kit, unless hard logistics contradict this.
+- The player specifically notes that Rak went without his alchemy kit for a while at the start, so he likely would not part with it again after recovering it. The other useful items are things he would carry whenever off the ship.
+
+## Ship Future / Command / Staying
+
+- If the Man's Promise becomes available, Rak probably wants to take it and use it to build up his pirate crew.
+- Rak would likely accept a council or whoever can bring wealth and glory to the ship, provided he has a high-ranking role so everyone knows he is part of it.
+- Rak would not mind being captain because it would bring glory faster, but he does not need the captaincy yet.
+- Rak would like an alchemist role because of his profession and skillset, but he does not mind being cook now that he has been doing it for a while.
+- Rak might accept Harvus, Sho, or Mirei having some authority if they proved useful, but he likely would not accept full authority to make all decisions.
+- Rak would stay with the ship after the Man's Promise crisis for future glory, riches, and building a new crew.
+- Rak would walk away if the group became too charitable, gave away all the loot / riches, or became so weak that the ship turned into a laughingstock.
 
 ## Rak Voice Correction
 
