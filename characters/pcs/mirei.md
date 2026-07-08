@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, Erastus 29 entertainer agreement, Sho player-memory perspective on Mirei as confidante, and recovered level 3 PCGen sheet evidence
-- Current mechanics: Level 3 PCGen sheet recovered; verify whether this is the latest pre-relaunch / relaunch-current PF1 mechanics before rebuilding or converting
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, Erastus 29 entertainer agreement, Sho player-memory perspective on Mirei as confidante, recovered level 3 PCGen sheet evidence, and GM clarification that the Sea Singer familiar is a delayed in-play class feature
+- Current mechanics: Level 3 PCGen sheet recovered; verify whether this is the latest pre-relaunch / relaunch-current PF1 mechanics before rebuilding or converting. The familiar feature is granted by the sheet but intentionally delayed in play and not yet acquired.
 - Conversion status: Not converted
 
 ## Overview
@@ -42,6 +42,8 @@ Her personal premise is player-led: she came to Port Peril seeking destiny and a
 This section preserves recovered Pathfinder mechanics as historical evidence.
 
 The recovered level 3 PCGen sheet is currently the strongest mechanical anchor. Do not overwrite player-confirmed visual identity from obvious sheet export/display anomalies without direct player confirmation.
+
+GM clarification: the Sea Singer familiar feature exists on the level 3 sheet, but Mirei has **not** acquired the familiar in play yet. She was told she would be allowed to get it either on Bonewrack Isle or afterward. Treat this as an intentional temporary class-feature delay / campaign nerf, parallel in kind to Harvus having flight suppressed by his broken wing, not as a player choice to omit the feature and not as evidence that the sheet is wrong.
 
 ### Level 3 PCGen Sheet — Aug 2, 2015
 
@@ -131,7 +133,7 @@ Recovered level 3 features include:
 - Sea Legs
 - Still Water
 - World Traveler
-- Familiar from Sea Singer level 2; species / name not identified on the sheet
+- Familiar from Sea Singer level 2; mechanically granted but not yet acquired in play. GM clarification says Mirei was allowed to gain it either on Bonewrack Isle or afterward. Treat the delay as an intentional temporary class-feature nerf, parallel to Harvus' broken-wing flight suppression. Species, name, personality, and introduction scene remain open.
 - Azata-blooded aasimar Glitterdust 1/day
 - Celestial Resistance: acid 5, cold 5, electricity 5
 
@@ -488,7 +490,7 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 - The consequences of Mirei's confession remain unresolved.
 - Her relationship to Plugg's attempted manipulation needs careful tracking.
 - Her role as a Sea Singer should be preserved in any future conversion.
-- Confirm the level 3 sheet's familiar: monkey or parrot, name, personality, and whether it existed in play by the current relaunch point.
+- Choose and introduce the delayed familiar owed by the Sea Singer level 3 sheet: monkey or parrot, name, personality, and whether the scene occurs on Bonewrack Isle or afterward.
 - Confirm whether the level 3 sheet's malformed physical-stat field has any intended player truth or should be ignored as a PCGen export issue.
 - Confirm whether the Day 2 performance was the first actual performance after the harp's return or simply the first recovered one.
 - Confirm exact chronology for when Sho openly confided the disguise truth to Mirei; player-facing relationship truth is established, but scene placement remains a chronology check.
@@ -514,5 +516,6 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 
 - Recovered PCGen sheet dated Jun 30, 2014, level 1.
 - Recovered PCGen sheet dated Aug 2, 2015, level 3; summarized in `evidence/player-sheets/mirei-level-3-pcgen-summary.md`.
+- GM clarification: Sea Singer familiar was granted by the level 3 sheet but intentionally delayed in play; Mirei has not acquired it yet and was told it could be obtained on Bonewrack Isle or afterward.
 - GM-provided campaign facts about Mirei's current status, Plugg assignment, and Bonewrack actions.
 - Player journals and chat logs provide indirect evidence of her actions and relationships.
