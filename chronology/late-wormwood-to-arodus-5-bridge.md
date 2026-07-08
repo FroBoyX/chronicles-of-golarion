@@ -6,22 +6,24 @@
 - Maturity: Working consolidation; not final polished chronology
 - Scope: Late Wormwood evidence through the Arodus 5 cold-open endpoint
 - Player-facing status: Not player-facing by default
-- Canon status: Consolidated placement guidance from preserved evidence summaries; subject to later raw-log comparison where conflicts are flagged
+- Canon status: Consolidated placement guidance from preserved evidence summaries, AP scaffold, GM short logs, and current GM correction
 - Primary rule: Do not merge PC or NPC addenda into main dossiers from this bridge alone. Use this bridge first to identify placement, conflicts, and character-knowledge boundaries.
 
 ## Source Set
 
-This bridge consolidates the Mirei player-cache summaries and the current handoff / open-question state named in the task.
+This bridge consolidates the Mirei player-cache summaries, the current handoff / open-question state, and the GM's locked short-log correction for the Man's Promise capture sequence.
 
-| Short label | Source path | Placement use |
+| Short label | Source path / authority | Placement use |
 |---|---|---|
+| `GM correction` | Current GM correction in consolidation chat | Definitively locks Man's Promise boarding to Erastus 25, revel to Erastus 26, prisoner/split sequence to Erastus 27, and first harsher Man's Promise workday to Erastus 28. |
+| `AP scaffold` | Skull & Shackles Book 1 baseline, mediated by GM correction | Supports the Erastus 25 Man's Promise capture placement. Does not override recovered table-specific outcomes. |
 | `handoff` | `handoffs/chronicle-master-handoff.md` | Current campaign year, evidence hierarchy, relaunch state, current actor groups. |
 | `open-questions` | `tracking/open-questions.md` | Cross-cutting unresolved checks, current cold-open questions, resolved Erastus 23-25 mapping, storm/capture structure. |
 | `mirei-index` | `evidence/raw-session-logs/mirei-player-cache/index.md` | Intake inventory, duplicate-adjacent status, source priority. |
 | `S12-16` | `evidence/raw-session-logs/mirei-player-cache/session-12-to-16-missing-summary.md` | Wormwood Day 12-16 cache bridge, mast punishment, hurt performance, early social pressure. |
 | `S16-21` | `evidence/raw-session-logs/mirei-player-cache/session-16-to-21-missing-mirei-perspective-summary.md` | Wormwood Day 16-21 bridge, explicit Erastus 23/24/25 labels, Sho hot-box release and boarding setup. |
-| `S5-boarding` | `evidence/raw-session-logs/mirei-player-cache/session-05-manpromise-boarding-duplicate-summary.md` | Man's Promise boarding combat and immediate aftermath; date label conflict preserved. |
-| `corner-pocket` | `evidence/raw-session-logs/mirei-player-cache/corner-pocket-revel-split-mistress-summary.md` | Post-boarding revel, Harrigan/Sho reward, Erastus 28 ship split, Plugg skeleton crew setup. |
+| `S5-boarding` | `evidence/raw-session-logs/mirei-player-cache/session-05-manpromise-boarding-duplicate-summary.md` | Man's Promise boarding combat and immediate aftermath. Its Sunday / Erastus 26 label is treated as a duplicate/source-label artifact against GM/AP chronology. |
+| `corner-pocket` | `evidence/raw-session-logs/mirei-player-cache/corner-pocket-revel-split-mistress-summary.md` | Post-boarding revel, Harrigan/Sho reward, prisoner/split bridge, Plugg skeleton crew setup. Its Erastus 27 revel-opening label is treated as a useful source marker, but the revel itself began after the Erastus 25 battle and lasted through Erastus 26. |
 | `S6-mistress` | `evidence/raw-session-logs/mirei-player-cache/session-06-manpromise-mistress-duplicate-summary.md` | Plugg cabin pressure, course-change suspicion, Mistress Mirei, Tam/Jack exchange, Syl knife threat. |
 | `S7-storm` | `evidence/raw-session-logs/mirei-player-cache/session-07-storm-bonewrack-duplicate-summary.md` | Storm aftermath, post-storm Plugg/Syl pressure, island supply order, early Bonewrack private beats. |
 | `A5-final` | `evidence/raw-session-logs/mirei-player-cache/final-session-arodus-5-duplicate-summary.md` | Arodus 5 split-scene source: Riptide rescue aftermath, Rak/Syl supply party, Sho/Kahina hot-box bargain, cold-open endpoint. |
@@ -41,7 +43,11 @@ This bridge consolidates the Mirei player-cache summaries and the current handof
   - Day 14 = Erastus 19, 4712 AR.
   - Day 15 = Erastus 20, 4712 AR.
   - Day 16 = Erastus 21, 4712 AR.
-- The `S5-boarding` label says Sunday, Erastus 26 / Day 21. Do not erase this. For now, place the actual boarding combat in an **Erastus 25-26 boarding window**, bounded by the Erastus 25 setup and the Erastus 27 revel.
+- **Locked Man's Promise sequence:**
+  - Erastus 25, 4712 AR: early morning Wormwood overtakes the Man's Promise; all hands, including Sho, take part in the battle; the ship is seized; prisoners are taken; the revel begins after the battle.
+  - Erastus 26, 4712 AR: pirate revelry lasts the whole day and well into the next morning.
+  - Erastus 27, 4712 AR: a few hours after the party winds down, Harrigan leads out the captured sailors, throws the only surviving Rahadoumi officer overboard, offers the other fourteen a place, assigns Plugg a skeleton crew, and the ships separate.
+  - Erastus 28, 4712 AR: the Man's Promise sets sail back north for Port Peril; work resumes under harsher attention by Master Scourge.
 
 ## Consolidated Timeline
 
@@ -158,14 +164,12 @@ This bridge consolidates the Mirei player-cache summaries and the current handof
 
 **Merge impact:** Use as fixed anchor: Day 19 = Erastus 24, 4712 AR. This resolves why Sho is in the hot-box before the Man's Promise sighting.
 
-### Erastus 25, 4712 AR — Wormwood Day 20 / Day 21 Setup
+### Erastus 25, 4712 AR — Man's Promise Battle and Capture
 
-**Placement:** Interrupted keelhauling and Man's Promise boarding setup.
+**Placement:** Definitive Man's Promise boarding date. The `S5-boarding` Sunday / Erastus 26 label is preserved only as a source-label artifact.
 
-- Plugg announces a dead crew member and says Sho will be keelhauled at Bloody Hour for killing Aretta while defending herself.
-- Sho argues from inside the hot-box that two people dead makes less sense.
-- Scourge kicks the box and tells Sho to think about chain of command.
-- Plugg assigns Mirei to bilge work, Harvus to the main sail, and Rak to cook.
+- In the early morning, the Wormwood overtakes the Man's Promise.
+- Plugg announces that Sho will be keelhauled at Bloody Hour for killing Aretta, but the Man's Promise sighting interrupts the punishment.
 - Conchobhar calls ship ahoy from the crow's nest before punishment occurs.
 - Harrigan shifts the Wormwood toward pursuit and orders piracy preparations.
 - Riaris orders slaughtered pigs thrown overboard to draw sharks.
@@ -175,14 +179,6 @@ This bridge consolidates the Mirei player-cache summaries and the current handof
 - Mirei messages Sho in the hot-box before the boarding setup fully resolves, checks whether Sho is all right, and tells her she does not want her to die.
 - Sho recruits Harvus and Giffer; tries Crimson and Owlbear unsuccessfully; Sandara is assigned to Scourge's party; Mirei joins because Sho wants her close in the fog.
 - Grok arms Mirei with a dagger and a scroll; Rak says goodbye to Grok before boarding.
-
-**Merge impact:** This resolves Sho's apparent command role during the boarding as an imposed survival bargain, not voluntary command ambition.
-
-### Erastus 25-26, 4712 AR — Man's Promise Boarding Window
-
-**Placement:** Exact date remains conflict-flagged. Use as the immediate combat continuation after Erastus 25 setup and before Erastus 27 revel.
-
-- `S5-boarding` labels the combat as Sunday, Erastus 26 / Day 21. Preserve that label as evidence.
 - Sho orders the aft-party sequence: Sho first, Harvus after her, then Rak, then Mirei, with Giffer in the rear.
 - Mirei is badly wounded before boarding, receives some healing, takes more damage, and remains delayed / constrained by injury. Sho tells her to stay low until healed enough to join.
 - Harrigan orders lines thrown; fog limits visibility; Riaris pushes Sho's party forward.
@@ -195,17 +191,18 @@ This bridge consolidates the Mirei player-cache summaries and the current handof
 - A Garundi sailor says the PCs killed his brother.
 - Patch threatens a surrender from the fog.
 - Riaris orders prisoners rounded up; Harrigan orders the ship secured, an officer meeting prepared, and a victory celebration.
+- After the battle, prisoners are taken, the Man's Promise is seized, and the pirate revel begins.
 - Sandara collapses after healing Harvus and others; Harvus carries her back and gathers the seriously wounded.
 - Stitchman treats Sho's wounds and notes she might be keelhauled anyway, while Sho insists closed wounds improve her chances.
-- A post-battle / hot-box / Peppery warning fragment appears in `S5-boarding`. This may represent a true post-battle waiting period or a duplicated / displaced hot-box scene. Keep conflict-flagged until compared to fuller boarding logs.
 
-**Merge impact:** Use for detailed boarding action, but do not collapse hidden Rak/Giffer evidence into player-facing or PC-known state. Do not single-date the boarding combat until the Erastus 25/26 label conflict is resolved.
+**Merge impact:** This resolves Sho's apparent command role during the boarding as an imposed survival bargain, not voluntary command ambition. Use Erastus 25 as the fixed date for the Man's Promise battle and capture.
 
-### Erastus 27, 4712 AR — Post-Man's Promise Revel
+### Erastus 26, 4712 AR — Pirate Revel Continues
 
-**Placement:** Victory-party aftermath and reward structure.
+**Placement:** Full revel day after the Man's Promise capture.
 
-- `corner-pocket` opens aboard the Wormwood during the post-Man's Promise victory party after Harrigan and top officers divide plunder.
+- The pirate revelry lasts the whole day and well into the next morning.
+- Harrigan and top officers divide plunder from the Man's Promise.
 - Harvus, Sho, and Mirei remain wounded and recovering.
 - Riaris rewards Sho's team, notes they performed poorly in some ways but completed the job, and gives Sho loot to distribute.
 - Harrigan summons Sho, dismisses Plugg, gives Sho an amulet and extra coin as thanks for warning him during boarding, and orders Plugg to lay off her under Harrigan's protection.
@@ -213,19 +210,22 @@ This bridge consolidates the Mirei player-cache summaries and the current handof
 - Sho approaches the captive-hold area and clashes philosophically with Scourge over killing, restraint, and sea-law cruelty.
 - Sho finds drunk crew crowding around a fallen Mirei and challenges them; Rak removes Mirei to the hammocks; Tam physically prevents open escalation.
 - Harvus watches over Sandara for roughly thirty hours and worries about Giffer's absence.
-- Harvus later asks Rak whether he had anything to do with Giffer no longer being with them. Rak gives an ambiguous denial / explanation, and Harvus accepts it.
+- Harvus later asks Rak whether Rak had anything to do with Giffer no longer being with them. Rak gives an ambiguous denial / explanation, and Harvus accepts it.
+- `S5-boarding` preserves a post-battle / hot-box / Peppery warning fragment. With Erastus 25 now locked as the battle date, keep the fragment as a post-battle holding / warning beat unless fuller logs prove it is duplicated or displaced.
 
 **Merge impact:** Use as the clean placement for Sho's Harrigan amulet / protection, the revel danger around Mirei, Rak carrying Mirei below, Tam's de-escalation, Harvus' Sandara vigil, and Harvus' private suspicion of Rak. Keep Sho's current possession of the amulet open unless later inventory evidence confirms it.
 
-### Erastus 28, 4712 AR — Wormwood / Man's Promise Split
+### Erastus 27, 4712 AR — Prisoners, Harrigan's Example, and Ship Split
 
-**Placement:** Harrigan assigns Plugg a skeleton crew and transfers the PCs.
+**Placement:** A few hours after the revel winds down, the ship bell is tolled and the captured sailors are led out.
 
-- The post-boarding party lasts roughly thirty-six hours and winds down before dawn.
+- The post-boarding party has wound down a few hours earlier.
+- The ship's bell is tolled and the captured sailors from the Man's Promise are led out.
+- Fifteen Man's Promise sailors survived the encounter.
+- Harrigan immediately makes an example of the only surviving Rahadoumi officer by throwing her overboard to the sharks.
+- Harrigan offers the other fourteen survivors a place.
 - Harrigan announces that the Wormwood has a second ship but only one crew.
 - The Wormwood will sail onward with new shipmates while Plugg picks a skeleton crew to sail the Man's Promise to Port Peril for salvage.
-- Harrigan says some captured crew may be worth ransom from families in Azir; others can become pirates or spend their lives at sea.
-- Harrigan throws one weakened sailor overboard; some Man's Promise sailors grovel and beg to join.
 - Plugg orders Sho to report to the poop deck of the Man's Promise.
 - Scourge orders Harvus to the deck of the Man's Promise.
 - Kroop tells Rak to help pack because they are heading with the new ship.
@@ -233,14 +233,16 @@ This bridge consolidates the Mirei player-cache summaries and the current handof
 - Plugg orders Mirei to report to the new ship as personal entertainment / morale support.
 - Plugg tells the transferred crew to address him as Captain Plugg.
 - Scourge is first mate; Syl is boatswain; Plugg claims the task is to return to Port Peril and then the Wormwood.
-- The same bridge begins the no-rum / no-entertainment / night-shift restrictions that lead into the first Plugg performance sequence.
+- The two ships separate.
 
-**Merge impact:** This is the corrected Man's Promise split anchor. Use `state/mans-promise-crew-viability-reference.md` for crew-operation viability rather than trying to solve crew count here.
+**Merge impact:** This is the corrected Man's Promise split anchor. Use `state/mans-promise-crew-viability-reference.md` for crew-operation viability rather than trying to solve crew count here. The other fourteen survivors are the correct pool for Harrigan's offer after the officer is killed.
 
-### Erastus 28-29, 4712 AR — Early Man's Promise / First Plugg Cabin Pressure
+### Erastus 28, 4712 AR — Man's Promise Under Plugg / Scourge
 
-**Placement:** Beginning of the Plugg-voyage coercion arc.
+**Placement:** The Man's Promise sets sail back north for Port Peril; work resumes under harsher attention by Master Scourge.
 
+- The Man's Promise begins the claimed northward sail back toward Port Peril.
+- Work resumes under harsher attention by Master Scourge and Plugg's skeleton-crew command.
 - Crimson tells Mirei he does not mind her personally but that she is too close to Sho and not worth the risk.
 - Scourge announces no rum rations, no entertainment, and no above-deck presence after supper except night shift.
 - Mirei is ordered to Plugg's cabin with an instrument.
@@ -252,7 +254,7 @@ This bridge consolidates the Mirei player-cache summaries and the current handof
 - Plugg orders her not to touch anything without permission, to play each night, and not to speak to him or Owlbear unless spoken to.
 - Night shift places Syl / Fipps / Harvus / Ebony / Sho / Goyle in the Man's Promise duty field.
 
-**Merge impact:** Use as the start of Plugg's cabin isolation and Mirei's coerced elevation. Do not frame this as voluntary romance or ordinary privilege.
+**Merge impact:** Use as the start of Plugg's harsher shipboard regime and Mirei's cabin isolation. Do not frame this as voluntary romance or ordinary privilege.
 
 ### Erastus 29-30, 4712 AR — Course Change, Mistress Mirei, and Syl Knife Threat
 
@@ -394,21 +396,21 @@ Use this bridge for current relaunch setup:
    - Kahina Bukekayo, at least during the conversation
    - State: Sho is hot-boxed or confined; Kahina has offered / imposed the life-for-life repentance test; exact guard state after Kahina leaves remains unresolved.
 
-## Conflict Register
+## Resolved / Conflict Register
 
-### Boarding date: Erastus 25 vs Erastus 26
+### Resolved: Man's Promise boarding date
 
+- Locked by GM correction and AP / GM short-log chronology: the Man's Promise battle and capture occur on **Erastus 25, 4712 AR**.
 - `S16-21` places the Man's Promise sighting, Sho's interrupted keelhauling, Riaris release, and aft-party assembly on Day 20 / Day 21, Starday, Erastus 25.
-- `S5-boarding` labels the combat itself Sunday, Erastus 26 / Day 21.
-- `corner-pocket` opens the post-boarding revel on Moonday Morning, Erastus 27.
-- Bridge rule: place the boarding as an **Erastus 25-26 window** until fuller boarding logs are compared. Do not force a single day in PC/NPC dossiers yet.
+- `S5-boarding` labels the combat itself Sunday, Erastus 26 / Day 21; this is now treated as a duplicate/source-label artifact, not a chronology control.
+- The revel begins after the Erastus 25 battle, continues through Erastus 26, and winds down shortly before the Erastus 27 prisoner/split sequence.
 
 ### Sho hot-box after boarding
 
 - `S5-boarding` preserves a hot-box / Peppery warning fragment after post-battle treatment.
 - `S16-21` already explains the pre-boarding hot-box and release under Riaris' orders.
 - `corner-pocket` then shows Harrigan rewarding Sho and ordering Plugg to lay off under Harrigan's protection.
-- Bridge rule: treat the post-battle hot-box fragment as real but placement-uncertain until compared against fuller boarding / revel material. It may be a post-battle holding period before Harrigan's reward, a duplicate displacement, or a transitional scene.
+- Bridge rule: with the battle date resolved, treat the hot-box / Peppery fragment as a post-battle holding or warning beat unless fuller logs prove it is duplicated or displaced.
 
 ### Giffer Tibbs death and knowledge split
 
@@ -448,19 +450,19 @@ Do **not** merge the suggested PC/NPC addenda into main dossiers until this brid
 
 | Target | Safe placement from bridge | Do not merge yet |
 |---|---|---|
-| Mirei | Day 14 mast punishment; Day 15 hurt performance; Day 16-17 social-contamination bridge; Erastus 25 hot-box message / aft party; Erastus 28-30 Plugg / Mistress sequence; Erastus 31/Arodus 1 Plugg task; Arodus 5 confession. | Exact Plugg whispered mission wording; hidden alchemist-fire intent; player-facing framing of coercive Plugg material. |
-| Sho | Day 14 checking Mirei; Day 19 bilges ambush / hot-box; Erastus 25 release under Riaris; boarding restraint attempts; Harrigan amulet / protection; revel defense of Mirei; Arodus 5 Kahina bargain. | Exact current hot-box guard state; whether she still has Harrigan's amulet; whether Sandara's rough-way idea ever involved her. |
-| Harvus | Day 13 Sho secret; Day 17 Sandara polarization warning; Erastus 25 aft party; post-boarding Sandara collapse and vigil; private Rak/Giffer suspicion; Arodus 5 rescue return with Goyle testimony. | Exact storm actions before abduction clarity; immediate processing of Mirei confession beyond final-session evidence. |
-| Rak | Day 18 Tilly con hostility; Erastus 25-26 boarding violence; hidden Giffer evidence; Grok separation; borrowed fiddle to Mirei; Rickety's Squibs inference; Arodus 5 Syl supply route. | Player-facing Giffer culpability; exact current reaction when he hears something ahead. |
-| Plugg | Day 17 assignment control; Erastus 28 `Captain Plugg`; Erastus 28-30 Mirei coercion; course betrayal; Erastus 31/Arodus 1 pressure and loyalty mission; Goyle accusation. | Exact betrayal plan beyond what Goyle/Mirei state; exact Plugg whispered command. |
+| Mirei | Day 14 mast punishment; Day 15 hurt performance; Day 16-17 social-contamination bridge; Erastus 25 hot-box message / aft party / boarding; Erastus 28-30 Plugg / Mistress sequence; Erastus 31/Arodus 1 Plugg task; Arodus 5 confession. | Exact Plugg whispered mission wording; hidden alchemist-fire intent; player-facing framing of coercive Plugg material. |
+| Sho | Day 14 checking Mirei; Day 19 bilges ambush / hot-box; Erastus 25 release under Riaris and boarding restraint attempts; Erastus 26 Harrigan amulet / protection and revel defense of Mirei; Arodus 5 Kahina bargain. | Exact current hot-box guard state; whether she still has Harrigan's amulet; whether Sandara's rough-way idea ever involved her. |
+| Harvus | Day 13 Sho secret; Day 17 Sandara polarization warning; Erastus 25 aft party / boarding; Erastus 26 post-boarding Sandara collapse and vigil / private Rak-Giffer suspicion; Arodus 5 rescue return with Goyle testimony. | Exact storm actions before abduction clarity; immediate processing of Mirei confession beyond final-session evidence. |
+| Rak | Day 18 Tilly con hostility; Erastus 25 boarding violence and hidden Giffer evidence; Erastus 27 Grok separation; Erastus 28 borrowed fiddle to Mirei; Rickety's Squibs inference; Arodus 5 Syl supply route. | Player-facing Giffer culpability; exact current reaction when he hears something ahead. |
+| Plugg | Day 17 assignment control; Erastus 27 `Captain Plugg`; Erastus 28-30 Mirei coercion; course betrayal; Erastus 31/Arodus 1 pressure and loyalty mission; Goyle accusation. | Exact betrayal plan beyond what Goyle/Mirei state; exact Plugg whispered command. |
 | Syl | Day 14 grabs Mirei for mast; Day 18 hostility toward Rak; Erastus 30 knife threat; storm report to Plugg; Arodus 5 supply-party command. | Whether she knows the full Plugg betrayal plan; exact future alignment in mutiny. |
 | Kahina | Arodus 5 hot-box moral bargain. | Who supports her; whether she remains Sho's guard at the instant play resumes. |
 | Goyle | Night-shift survivor context; later capture; Arodus 5 testimony against Plugg. | Exact capture-log placement before final dossier merge. |
 
 ## Next Chronology Work
 
-1. Compare any non-Mirei boarding logs against `S5-boarding` before fixing the Man's Promise boarding to one date.
-2. Use this bridge to patch day-level chronology docs before rewriting PC/NPC dossiers.
-3. Update `tracking/open-questions.md` only after deciding whether the bridge resolves or merely narrows each conflict.
+1. Use Erastus 25 as the fixed date when patching day-level chronology docs for the Man's Promise battle and capture.
+2. Use Erastus 26 for the revel day and Erastus 27 for the prisoner/split sequence.
+3. Update `tracking/open-questions.md` to remove or resolve any remaining boarding-date uncertainty if present outside this bridge.
 4. Build a separate current-state tableau for Arodus 5 Man's Promise positions before any NPC current-location merge.
 5. Keep player-facing packet work downstream of this bridge; hidden Rak/Giffer evidence, Mirei's private Plugg task, and inter-branch Arodus 5 knowledge must remain filtered.
