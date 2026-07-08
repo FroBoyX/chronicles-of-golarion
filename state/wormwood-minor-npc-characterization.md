@@ -51,6 +51,19 @@ Use short visual callbacks, habits, work roles, and social placement to make the
 - Narrative use: a mute presence who makes scenes heavier without needing lines.
 - Seeding: blocking paths, cracking knuckles, staring at lockers, grunting at Syl or Fipps, showing contempt through refusal to move.
 
+## Fipps Chumlett
+
+- AP basis: NE male human, swab, hostile, fat, pushy bully with a shaved head.
+- Current campaign weight: hostile lower-crew bully, Day 2 harassment participant, later Man's Promise-side survivor at Coconut Beach.
+- Physical direction: large because of fat rather than muscle. Shaved head, heavy cheeks, thick neck, soft weight carried with exaggerated swagger.
+- Movement: lumbers rather than strides. Tries to occupy space, block paths, and lean his bulk into people.
+- Demeanor: pushy, loud, and eager to look dangerous while others are backing him.
+- True nature: cowardly follower. The intimidation mask cracks quickly when isolated, challenged, or when the pack stops leading.
+- Learned tactic: holds himself like he can handle himself, relying on size and posture to make people hesitate before testing him.
+- Blind spot: mistakes hesitation for respect and group cruelty for personal courage.
+- Narrative use: make him read as a bully whose danger comes from pack backing, escalation, and panic rather than skill.
+- Seeding: blocking ladders or passages with his belly and shoulders, laughing after others make threats, glancing to Syl or Aretta before committing, sweating when cornered.
+
 ## Maheem
 
 - AP basis: LN male human, rigger, hostile, big Rahadoumi with a permanent scowl.
@@ -122,7 +135,8 @@ Use short visual callbacks, habits, work roles, and social placement to make the
 
 ## Use In Day 2 And Later Wormwood Scenes
 
-- Day 2 harassment should foreground Syl, Aretta, Jape, and Fipps as a hostile unit, with Syl as the cold tactical edge, Aretta as the reactive spite, Jape as silent pressure, and Fipps as physical bully.
+- Day 2 harassment should foreground Syl, Aretta, Jape, and Fipps as a hostile unit, with Syl as the cold tactical edge, Aretta as the reactive spite, Jape as silent pressure, and Fipps as the false-front bully who looks dangerous until directly challenged.
+- Fipps should escalate when backed by the group and become visibly nervous when isolated or cornered.
 - Day 2 rigging should use Maheem as a distinct working presence, not a generic rigger.
 - Tam should appear near Scourge or rigging work as part of the older hostile network, especially in leisure or background work scenes.
 - Shivikah should be seeded as a capable watcher, not a loud antagonist.
