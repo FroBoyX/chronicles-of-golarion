@@ -26,6 +26,7 @@ This file does not replace recovered table logs. It gives the scaffold against w
 - The AP event order remains useful even when the table shifted, compressed, or expanded days.
 - Where GM short logs lock an archive date, the locked date controls over duplicate-session labels.
 - Do not merge dossier addenda directly from AP scaffold. Use AP scaffold to place table evidence and identify divergences.
+- **Terminology guard:** `Man's Promise Day 1` means the first Plugg-command workday after the ship split and separation. It does **not** mean the day the Man's Promise is captured.
 
 ## Locked Campaign Date Anchors
 
@@ -33,10 +34,10 @@ This file does not replace recovered table logs. It gives the scaffold against w
 |---|---|
 | Erastus 4, 4712 AR | Press-ganging in Port Peril. |
 | Erastus 5, 4712 AR | PCs wake aboard the Wormwood. |
-| Erastus 25, 4712 AR | Early morning Man's Promise battle and capture; prisoners taken; pirate revel begins after the battle. |
+| Erastus 25, 4712 AR | Early morning Man's Promise battle and capture; prisoners taken; pirate revel begins after the battle. This is the capture date, not Man's Promise Day 1. |
 | Erastus 26, 4712 AR | Pirate revelry lasts the whole day and well into the next morning. |
 | Erastus 27, 4712 AR | A few hours after the revel winds down, Harrigan parades the captured Man's Promise sailors, makes an example of the only surviving Rahadoumi officer, offers the other fourteen a place, assigns Plugg a skeleton crew, and the ships separate. |
-| Erastus 28, 4712 AR | The Man's Promise sets sail under Plugg / Scourge, officially bound back north for Port Peril. Work resumes under harsher discipline. |
+| Erastus 28, 4712 AR | Man's Promise Day 1: the ship sets sail under Plugg / Scourge, officially bound back north for Port Peril. Work resumes under harsher discipline. |
 | Erastus 31, 4712 AR | Man's Promise storm / grindylow night structure; Sandara Quinn and Tilly Brackett are the initial captured sailors by current GM truth. |
 | Arodus 1, 4712 AR | Man's Promise is grounded / damaged near Bonewrack Isle; water supply problem and first island supply assignment structure. |
 | Arodus 5, 4712 AR | Current relaunch / cold-open split-state endpoint. |
@@ -64,7 +65,7 @@ This table records AP structure. The campaign's actual recovered day labels may 
 
 | AP day / phase | AP scaffold event | Archive handling |
 |---|---|---|
-| Aftermath / revel | Battle ends after the Man's Promise is captured; prisoners are paraded; revel begins; plunder is distributed; party lasts about 36 hours. | Campaign date split: battle / revel begins Erastus 25, revel continues through Erastus 26, prisoner/skeleton-crew sequence lands Erastus 27. |
+| Capture / aftermath / revel | Battle ends after the Man's Promise is captured; prisoners are paraded; revel begins; plunder is distributed; party lasts about 36 hours. | Capture occurs on Erastus 25, 4712 AR. This is not Man's Promise Day 1. Revel continues through Erastus 26. Prisoner/skeleton-crew sequence lands Erastus 27. |
 | Skeleton crew | Harrigan offers captured sailors a pirate place, makes an example of a captive, and sends Plugg / Scourge with a skeleton crew on the Man's Promise. | Locked to Erastus 27, 4712 AR. GM correction specifies fifteen survivors, the only surviving Rahadoumi officer killed, and fourteen others offered a place. |
 | Man's Promise Day 1 | Plugg announces harsher rules, same jobs, no rum / entertainment, and secret loyalist plotting toward Rickety's Squibs. | Locked archive date: Erastus 28, 4712 AR. Table evidence adds Mirei's first Plugg cabin pressure / borrowed fiddle sequence. |
 | Man's Promise Day 2 | Friendly NPCs raise concerns: Plugg may be claiming the ship, course is wrong, likely east toward Bloodcove / Rickety's Squibs. | Archive date: Erastus 29, 4712 AR if counting from the locked Erastus 28 Man's Promise Day 1. Table evidence controls which NPCs raise which concerns. |
@@ -87,6 +88,7 @@ The AP scaffold would make a simple structural count from Wormwood Day 1 through
 The boarding date is no longer open:
 
 - Erastus 25, 4712 AR is the locked battle / capture date.
+- This is the capture of the Man's Promise, not `Man's Promise Day 1`.
 - The Session 5 duplicate label saying Sunday / Erastus 26 is a source-label artifact.
 - Erastus 26 is the revel day.
 - Erastus 27 is the prisoner / officer execution / skeleton crew / ship split day.
@@ -95,8 +97,10 @@ The boarding date is no longer open:
 
 The Man's Promise does not begin its harsher Plugg/Scourge workday until Erastus 28 in the locked campaign timeline. This means:
 
+- Erastus 25 is the capture of the Man's Promise.
+- Erastus 26 is the revel day.
 - Erastus 27 is transition, transfer, separation, and command setup.
-- Erastus 28 is the first full Plugg-command workday.
+- Erastus 28 is **Man's Promise Day 1**, the first full Plugg-command workday.
 - Erastus 29-30 hold the course-change / mutiny-whisper / Mistress Mirei escalation material.
 
 ### Storm and Bonewrack placement
