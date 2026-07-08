@@ -2,10 +2,11 @@
 
 ## Document Status
 
-- Type: Day-by-day narrative reconstruction
+- Type: Narrative Write-Up
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 6 harassment encounter, deck arrival, workday scaffold, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, Mirei's first recovered performance, Rak/Grok brew scene, and Bloody Hour consequence
-- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 deck-arrival chat extract, Tilly/Mirei work chat extract, Maheem/Harvus rigging chat extract, Sho/Grok item chat extract, Mirei/Badger performance chat extract, Rak/Grok brew chat extract, NPC source extracts, and GM clarifications on speaker mapping, Fipps's dagger, and spectators
+- Scope: Erastus 6 harassment encounter, first true workday geography, task seeding, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, Mirei's first recovered performance, Rak/Grok brew scene, and Bloody Hour consequence
+- Source spine: `source-spines/wormwood-erastus-6-day-two.md`
+- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 chat extracts, AP task scaffold, Wormwood area scaffold, crew/watch tracking, and GM guidance
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -16,79 +17,75 @@
 
 Weather: normal.
 
-## Known Scaffold
+## Narrative Log
 
-The second day began at dawn, when the bell called the crew onto deck.
+The second day began with the bell.
 
-The AP scaffold places the harassment in the crew berths immediately after the bell. Master Scourge had spoken to four lower-crew pirates and encouraged them to rough up the new swabs, delay them, and make sure they reached duty late.
+It rang from the mainmast above, a hard metallic voice carrying down through the Wormwood's bones. In the lower hold, hammocks shifted, sailors cursed, boots hit planks, and the crowded berth deck came alive in pieces. Sixteen pillars held up the deck above, and between them the common crew slept, dressed, argued, searched for boots, guarded lockers, and learned again that there was no such thing as private space aboard the Wormwood.
 
-The harassing group was:
+The new hands moved with the rest.
 
-- **Slippery Syl Lonegan**, apparent leader of the group;
-- **Jaundiced Jape**, a humorless, greedy half-orc mute;
-- **Fipps Chumlett**, a fat, pushy bully with a shaved head;
-- **Aretta Bansion**, a bad-tempered ex-harlot with big ears.
+They were still learning the shape of the lower hold: the lines of footlockers along the walls, the trapdoor near the mainmast that led down to the bilges, the forward space claimed by Kipper and Patch as if the planks themselves had signed articles under them. That end of the hold already felt watched, even when Patch himself was not visible. Night-watch men had their own hours, their own ways of appearing when others thought the ship had gone quiet.
 
-The AP version begins as a fistfight meant to delay and humiliate, not a lethal knife fight. The campaign version keeps that structure but changes the outcome: the harassers lost badly enough that all four ended up unconscious and were punished later for being late. Fipps did draw a dagger when cornered as the last attacker still standing, but he was knocked out before he could use it.
+The bell meant work.
 
-## Reconstructed Sequence
+The way up was blocked.
 
-The bell rang for the crew to report on deck.
+Slippery Syl Lonegan had not come alone. Jaundiced Jape, Fipps Chumlett, and Aretta Bansion were with him, bodies set into the narrow paths between hammocks and pillars where a crowd could become a wall. They were not acting on private irritation alone. Master Scourge had set the shape of the encounter before it began. He wanted the new swabs bruised, delayed, and taught that the Wormwood had older hands who could reach them before the officers ever lifted a whip.
 
-The new hands moved to answer it.
-
-They did not get far before the way was blocked.
-
-Slippery Syl Lonegan and the others had been waiting. Aretta Bansion, Fipps Chumlett, Jaundiced Jape, and Syl were not acting on private irritation alone. Master Scourge had set the shape of the encounter before it began. He did not like the new swabs, and he wanted the sluggards knocked into shape.
-
-The four pirates meant to delay them, bruise them, and make them late enough to suffer for it.
+The four pirates meant to make the new hands late.
 
 It did not go the way Scourge's proxies intended.
 
-The fight that followed was still the Wormwood teaching its lessons: no privacy, no neutral witnesses, no clean line between discipline and ambush. Sailors loitered nearby to watch. **Conchobhar Turlach Shortstone** and **Crimson "Cog" Cogward** were among those watching, but were not caught up in the fight.
+The fight was close, ugly, and crowded. It belonged to the lower hold: elbows striking near hanging hammocks, boots slipping against scattered gear, sailors swearing and shifting back just far enough to watch without being pulled in. Above them, the ship creaked and worked. Beyond the stairs, pigs shifted somewhere in the middle hold, and Owlbear Hartshorn's chain marked its own dull rhythm forward, a reminder that some bodies aboard were kept as warnings even before they were used as weapons.
 
-The harassers came expecting a beating. Instead, they found resistance.
+The harassers came expecting a beating.
 
-Aretta took several blows from **Harvus G'ron**. **Mirei** distracted her. **Sho Astor** ultimately rendered Aretta unconscious.
+Instead, they found resistance.
 
-As the fight collapsed around him, **Fipps Chumlett** found himself cornered as the last attacker still standing, with Harvus and Sho there. He drew a dagger, turning the fistfight toward something more dangerous, but he was knocked out before he could use it.
+Aretta took several blows from Harvus G'ron. Mirei distracted her at the crucial moment. Sho Astor rendered Aretta unconscious.
 
-By the end of the altercation, the entire harassment group was down:
+Jape fell. Syl fell. The message Scourge meant to send collapsed around them.
 
-- Aretta Bansion;
-- Fipps Chumlett;
-- Jaundiced Jape;
-- Slippery Syl Lonegan.
+Fipps Chumlett found himself cornered as the last attacker still standing, with Harvus and Sho there. The fistfight turned toward something more dangerous when he drew a dagger, but he was knocked out before he could use it.
+
+By the time the new hands pushed clear, all four of the harassers were down: Aretta, Fipps, Jape, and Syl.
+
+Conchobhar and Crimson were near enough to know what happened, but neither became the center of it. The Wormwood had already begun deciding who would be foreground and who would become one more working body in the press.
 
 The new hands continued upward.
 
-When they reached deck, **Master Scourge** was waiting.
+The route took them through the ship's belly. The middle hold opened around them in dim morning motion: cages, loose pigs, stairs, oil barrels, stored gear, and Owlbear chained forward near the officer route. The ship was not just decks and ladders. It was stacked authority. Below was stink and sleep. Above was work and punishment. Between them moved bodies that knew when to step aside.
 
-**Rak Wraithraiser** opened with casual insolence.
+When they reached the main deck, Master Scourge was waiting.
+
+The mainmast rose behind him, ropes coiled at its base where sailors could be bound for punishment. Above that hung the Wormwood's clock, brass and copper worms writhing through whale corpses, its bell still carrying the memory of dawn. The poop deck rose aft, command set physically above the crew. Up there were the wheel, the officers' sightlines, and the cage holding what remained of Harmak Gruft. Pluck, the dead man's ragged parrot, watched the deck like another curse that had learned to perch.
+
+Rak Wraithraiser opened with casual insolence.
 
 > "Sup brah"
 
-Scourge demanded an explanation for their lateness.
+Scourge demanded an explanation.
 
-> "You guys are late to shift.... explination?"
+> "You guys are late to shift... explanation?"
 
 Rak answered plainly enough.
 
 > "Ran into some tallywags down below"
 
-**Harvus** gave the same answer in more theatrical language.
+Harvus gave the same answer in more theatrical language.
 
-> "A plague of knave thought to hold us from our duties."
+> "A plague of knaves thought to hold us from our duties."
+
+Sho followed with the practical report.
+
+> "They attempted to restrict our movements. You'll find them unconscious downstairs."
 
 Scourge's face hardened. His hand went to the whip.
 
-**Sho** followed with the practical report.
+He did not lash the new hands then and there. The truth was inconvenient. His chosen instruments were the ones lying below, and the day still needed labor from everyone who could stand.
 
-> "They attempted to restrict our movements. Youll find them unconcious downstairs"
-
-Scourge did not lash the new hands then and there. Whether because the answer was inconveniently true, because his own proxies had failed, or because there was work to be done, he sent them on.
-
-> "On to deck with you.... I'll deal with them later."
+> "On to deck with you... I'll deal with them later."
 
 Rak accepted the order in his own manner.
 
@@ -100,30 +97,33 @@ Harvus answered with mocking obedience.
 
 Sho nodded and proceeded up onto deck.
 
-The workday continued.
+The workday took them.
 
-The exact shipboard tasks assigned that day have not survived cleanly. Weather was normal. The Wormwood routine held: work by day, punishment at dusk, dinner, rum, and whatever private social maneuvers could survive in the margins.
+## First Workday
 
-## Day 2 Work Assignment Reconstruction
+This was the first day the Wormwood began to become a place instead of only a trap.
 
-The exact task rolls or assignments are not preserved.
+Harvus went where riggers belonged. Lines had to be hauled, checked, coiled, secured, lifted, lowered, and watched. The work took him into the vertical ship, where the deck fell away underfoot and the rigging made a second road above the heads of the crew. The mainmast was not just the place where sailors were whipped. It was also where the ship's labor climbed into the sky.
 
-The role categories are known or strongly inferred:
+Conchobhar moved in that world too, smaller and quick, one more rigger among lines and cleats and orders shouted across wind.
 
-- **Harvus:** rigger; possible tasks from the rigger list include rigging repair, line work, upper rigging work, rope work, lookout, or mainsail duties.
-- **Conchobhar:** rigger; exact Day 2 task unknown.
-- **Rak:** cook's mate under Kroop; possible tasks include cooking, fishing, turtle hunting, bull session, or special occasion work.
-- **Sho:** likely swab unless later evidence contradicts; possible tasks include bilges, rat catching, deck swabbing, hauling rope and knot work, runner duties, or repairs.
-- **Mirei:** likely swab unless later evidence contradicts; possible tasks overlap with Sho's likely swab options.
-- **Crimson:** listed as a swab, but his exact Day 2 assignment is unknown.
+Mirei was kept with the swabs. The work was lower, rougher, and less graceful than song: deck boards to scrub, rope to haul, repairs to hold steady while the ship moved under her feet. Crimson worked in the same broad world of swab labor, the volunteer made subject to the same planks, buckets, coils, and officer eyes as those taken by force.
 
-These are educated reconstruction categories, not confirmed task results.
+Sho learned the ship through motion and obstruction. Swab work sent her across spaces where every hatch, stair, and locked door taught a lesson. The main deck was public. The officers' doors were forbidden. The way toward Grok's store was narrow, watched, and practical. On the Wormwood, moving from one place to another was never only movement. It was permission, timing, and risk.
+
+Rak was sent below, back to the heat.
+
+The galley swallowed him in smoke, spice, rot, grease, goats, chickens, knives, and Kroop. Two worktables disappeared beneath clutter. Stoves burned against the port wall. Cauldrons bubbled as if they had always been bubbling and would continue long after everyone aboard was dead. Ship's biscuit, salted beef, sauerkraut, and the last fresh vegetables from Port Peril all waited to become food, or at least something the crew would be made to eat.
+
+Kroop was part of the galley the way a stain was part of a board. Drunk, sour, and somehow still functional, he gave Rak work enough to lose hours inside it.
+
+The Wormwood ran because everyone was used until they were useful, broken, or both.
 
 ## Tilly and Mirei During Work
 
-During the workday, **Mirei** tried to make the labor pass more easily by talking.
+During the workday, Mirei tried to make the labor pass more easily by talking.
 
-**Tilly Brackett** was not immediately welcoming.
+Tilly Brackett was working near her, hands already busy, patience already spent.
 
 > "I'm trying to work here, what do you want?"
 
@@ -145,7 +145,7 @@ Mirei answered with the shape of her own capture.
 
 Tilly's path to the Wormwood had been different.
 
-> "I actually joined myself, they found me in port peril and ended up beating up a few swabs from the crew. They thought my guns where enough to replace those I broke..."
+> "I actually joined myself, they found me in Port Peril and ended up beating up a few swabs from the crew. They thought my guns were enough to replace those I broke..."
 
 Mirei asked whether Tilly had wanted this crew specifically, or just wanted to go out on the sea.
 
@@ -159,27 +159,27 @@ Mirei understood that part.
 
 Tilly gave the practical advice of someone who already understood the ship better than Mirei did.
 
-> "You'll get use to it. Just keep your head down and don't draw attention."
+> "You'll get used to it. Just keep your head down and don't draw attention."
 
 Mirei knew she had not managed that.
 
 > "I'll try not to. Succeeded to not so far."
 
-The conversation matters because Tilly and Mirei both wanted the sea, but reached it by different routes. Tilly had chosen danger and shipboard life. Mirei had been taken into it.
+The conversation mattered because Tilly and Mirei both wanted the sea, but reached it by different routes. Tilly had chosen danger and shipboard life. Mirei had been taken into it.
+
+Around them, work continued. Rope dragged over planks. Buckets moved. Someone cursed from the hatch. The deck was already teaching Mirei that conversation could be labor too: a rhythm to survive by, a way to make herself known without standing too far out in the open.
 
 ## Maheem and Harvus in the Rigging
 
-During work, likely in the rigging, **Maheem** spoke with **Harvus G'ron**.
-
-Only Maheem's side of the conversation survives.
+During work, likely in the rigging, Maheem spoke with Harvus G'ron.
 
 Maheem sneered first.
 
-> "You didn't put up much of a fight then.... but...."
+> "You didn't put up much of a fight then... but..."
 
 Whatever Maheem thought of Harvus' first arrival on the Wormwood, the morning's fight had changed the frame.
 
-> "I saw what you did down stairs."
+> "I saw what you did downstairs."
 
 Then Maheem distanced himself from the specific cruelty done to Harvus.
 
@@ -187,23 +187,25 @@ Then Maheem distanced himself from the specific cruelty done to Harvus.
 
 Maheem admitted enough to place himself among those who brought Harvus aboard, but shifted the responsibility for Harvus' mistreatment onto Scourge.
 
-> "It was scurge, we dragged you on board."
+> "It was Scourge, we dragged you on board."
 
-> "Dumped you.... and he said you needed to be \"tamed\""
+> "Dumped you... and he said you needed to be \"tamed\""
 
-The scene matters because Harvus learned that Scourge's treatment of him was not merely rough handling during press-ganging. It had been framed, at least by Scourge, as the need to tame him.
+The word hung differently in the rigging than it might have below. Up there, with lines under hand and open air beneath them, Harvus could hear the shape of the insult more clearly. Scourge had not merely handled him roughly because he was another body taken in Port Peril. Scourge had named the violence. He had framed Harvus as something that needed to be broken into obedience.
 
-It also complicates Maheem. He was involved in bringing Harvus aboard, but this surviving exchange reads as partial distancing, partial provocation, and possibly self-protection rather than confession in clean moral terms.
+Maheem did not become innocent by saying it. He had helped drag Harvus aboard. But the surviving exchange left him in a narrower, more complicated place: part witness, part participant, part man trying to move the worst of the blame to someone with a whip and authority.
 
 ## Sho and Grok
 
-At some point after the morning fight, likely during the workday while Sho was slacking off and exploring, **Sho Astor** found her way to **Cut-Throat Grok**.
+Sho found her way to Cut-Throat Grok after the morning's violence and the first stretch of work.
+
+The path to the quartermaster's store was a lesson by itself. Grok's domain was not open space. It was a cramped, locked room, a hatch, a counter, a little kingdom of barrels, boxes, chests, rum, and missing property. Everything technically belonged to Harrigan. Everything practically had a price.
 
 Sho was trying to recover what was hers.
 
 She did not come with coin or goods. She came with information and an offer of future usefulness.
 
-> "Perhaps, but the information acts as a guarantee that Ill be muscle for you in the future"
+> "Perhaps, but the information acts as a guarantee that I'll be muscle for you in the future"
 
 Sho pointed to the morning's violence as proof that the offer meant something.
 
@@ -211,21 +213,23 @@ Sho pointed to the morning's violence as proof that the offer meant something.
 
 Grok had already heard about the fight.
 
-> "Muscle huh? Why would I need that from a monk who doesn't know how to mind his toung and seems to want to get punished for fighting... I heard about that fight... four bodies out for a full day... you could be useful if you don't get yourself killed... have anything of VALUE to offer?"
+> "Muscle huh? Why would I need that from a monk who doesn't know how to mind his tongue and seems to want to get punished for fighting... I heard about that fight... four bodies out for a full day... you could be useful if you don't get yourself killed... have anything of value to offer?"
 
 Sho answered with what she had.
 
-> "Just my information and my services. Though you do have my apologies if I have made rude comments towards you, and you can be assured I wont be killed."
+> "Just my information and my services. Though you do have my apologies if I have made rude comments towards you, and you can be assured I won't be killed."
 
 Grok did not dismiss Sho completely. She saw potential value there. But the Wormwood's quartermaster did not trade property for promises.
 
-> "You should mind your mouth next time.... sorry, can't trade for something that may or may not have value monk. You'll have to come back when I need that, or you have something else."
+> "You should mind your mouth next time... sorry, can't trade for something that may or may not have value, monk. You'll have to come back when I need that, or you have something else."
 
 Sho accepted the answer.
 
 > "Very well. I suppose it will take time to get back what is mine."
 
-The scene matters because Sho's ability had already become shipboard gossip. Grok saw that Sho could be useful, but not useful enough to buy back stolen property with future services alone.
+The scene mattered because Sho's ability had already become shipboard gossip. Grok saw that Sho could be useful, but not useful enough to buy back stolen property with future services alone.
+
+It also taught Sho where one kind of power lived aboard the Wormwood. Not on the poop deck, not in the rigging, not at the whipping post, but behind a hatch with a lock, a ledger of favors, and a woman who knew the value of things other people needed.
 
 ## Bloody Hour
 
@@ -235,7 +239,7 @@ The new hands had arrived late, but they had arrived with an explanation and had
 
 The harassers were the ones who had failed to reach duty.
 
-**Aretta**, **Fipps**, **Jaundiced Jape**, and **Slippery Syl** were whipped for being late.
+Aretta, Fipps, Jaundiced Jape, and Slippery Syl were whipped for being late.
 
 For Scourge and Plugg, this preserved the ship's discipline. For the four who had been sent to send a message, it turned humiliation into grievance.
 
@@ -245,21 +249,25 @@ She had been beaten, distracted, rendered unconscious, and then punished for the
 
 ## Mirei's First Recovered Performance
 
-That night, likely after the day's labor and near dinner, **Mirei** performed for the nearby crew.
+That night, after the day's labor and the ship's public punishment, the lower hold shifted into its other life.
 
-It is currently the first recovered performance after Sandara returned Mirei's harp. It may or may not have been the first performance in absolute chronology.
+Hammocks went up between pillars. Lockers opened and closed. Rum moved through bodies and voices. The ship did not become safe, but it became less orderly. The day belonged to bells, work, and officers. The night belonged to debts, music, boasts, grudges, quiet warnings, and people watching one another pretend not to watch.
 
-**Harvus** reacted without restraint.
+Mirei played.
+
+It was the first performance preserved clearly after Sandara returned Mirei's harp. Whether or not she had played before, this was the first one the archive can hear.
+
+Harvus reacted without restraint.
 
 > "Mirei... you're so talented"
 
-**Rak** praised her in his own language.
+Rak praised her in his own language.
 
 > "Nice shredding brah"
 
-**Badger Medlar**, tired from the work, also noticed.
+Badger Medlar, tired from the work, also noticed.
 
-> "Nice perfomances by the way... where did you learn?"
+> "Nice performances by the way... where did you learn?"
 
 Mirei answered that music had been with her for as long as she could remember.
 
@@ -271,7 +279,7 @@ Mirei noticed Badger's exhaustion and asked how long she had been with the crew.
 
 Badger answered from the perspective of someone who had normalized years of loss.
 
-> "Just getting a little old child. I'll be alright. I've known this life for awhile for a half-elf. I don't actually remember how long since they sank the ship I was on."
+> "Just getting a little old child. I'll be alright. I've known this life for a while for a half-elf. I don't actually remember how long since they sank the ship I was on."
 
 Mirei recognized the roughness of it, but Badger answered simply.
 
@@ -279,11 +287,13 @@ Mirei recognized the roughness of it, but Badger answered simply.
 
 Mirei thanked Badger for liking the performances and noted that it sounded like dinner time.
 
-The scene matters because Mirei's music became visible social currency almost immediately. Harvus and Rak supported her openly, while Badger's compliment gave Mirei a connection to an older lower-crew sailor who had already learned to treat shipwreck and loss as ordinary parts of the life.
+The scene mattered because Mirei's music became visible social currency almost immediately. Harvus and Rak supported her openly, while Badger's compliment gave Mirei a connection to an older lower-crew sailor who had already learned to treat shipwreck and loss as ordinary parts of the life.
 
 ## Rak and Grok Brew
 
-Later that night, **Rak Wraithraiser** returned to **Cut-Throat Grok**.
+Later that night, Rak Wraithraiser returned to Cut-Throat Grok.
+
+By then the ship had changed again. The store should have been closed, but Grok's hours were never only hours. They were mood, drink, trust, and whether she felt like opening the door or the hatch. After supper, rum rations passed through her hands, and sometimes locks were remembered less carefully than they should have been.
 
 Grok greeted him with the sort of smile that may not have been much of a smile at all.
 
@@ -301,13 +311,11 @@ That was enough to bring Rak fully into his element.
 
 > "Heck yeah, I just need some ingredients to make the brew and my kit and I can brew up pretty much anything."
 
-Then, with the sort of flair that belonged partly to Rak and partly to the table around him, he declared:
-
-> "I put on my robe and wizard hat."
+Rak made a show of getting ready, half craft and half theater.
 
 Grok grinned.
 
-> "Lets see what you can brew!"
+> "Let's see what you can brew!"
 
 The current reconstruction presumes that Grok furnished both Rak's alchemy kit and ingredients for brewing. This is the first recovered explicit friendship-development beat between them, not necessarily their first contact. Rak offered Grok something concrete that she valued, and Grok opened the way for him to prove it.
 
@@ -333,142 +341,26 @@ That night, Mirei performed for the nearby crew. Harvus and Rak praised her open
 
 This is an early example of Mirei acting in support of the new hands during direct shipboard danger, trying to build survivable social contact through conversation, and using performance as connection and social value aboard the Wormwood.
 
+### Harvus G'ron
+
+Harvus helped turn Scourge's planned humiliation into a failed ambush.
+
+During rigger work, Maheem revealed that Scourge had described Harvus as needing to be "tamed." That word becomes part of Harvus' understanding of Scourge's cruelty and the violence done to his wing.
+
+### Rak Wraithraiser
+
+Rak moved from the lower-hold fight to Scourge's deck confrontation, then back into the galley under Kroop.
+
+Cooking gave him the practical bridge to Grok. By night, he returned to her with apology, alcohol, and the chance to offer something useful instead of only asking for gear.
+
 ### Badger Medlar
 
 Badger complimented Mirei's performances and asked where Mirei learned.
 
 She was visibly tired from work and described herself as getting old. She told Mirei that she had known this life for a while and did not remember how long it had been since the ship she was on was sunk.
 
-Her "Just the life" response establishes an older lower-crew perspective: hardship is not remarkable because it is already normalized.
-
-### Tilly Brackett
-
-Tilly was working when Mirei approached her.
-
-She was curt at first, but talked with Mirei after Mirei explained that talking made the work go faster. Tilly revealed that she joined the Wormwood herself after beating up a few swabs in Port Peril, and that she wanted sea life more than this crew specifically.
-
-Tilly advised Mirei to keep her head down and avoid attention.
-
-### Harvus G'ron
-
-Harvus struck Aretta several times.
-
-He also gave the theatrical explanation to Scourge on deck and answered Scourge's order with mocking obedience.
-
-During work in the rigging, Maheem told Harvus that Scourge had said Harvus needed to be "tamed" after he was dragged aboard and dumped.
-
-That night, Harvus openly praised Mirei's talent after her performance.
-
-The altercation gives Harvus an early role as direct physical resistance against Scourge-aligned crew. Maheem's later words sharpen Harvus' Scourge vendetta by making the wing injury and humiliation feel deliberate rather than incidental.
-
-### Maheem
-
-Maheem spoke to Harvus during work, likely in the rigging.
-
-Only Maheem's side survives. He sneered at Harvus, acknowledged seeing what Harvus did downstairs, distanced himself from the worst of Harvus' mistreatment, and identified Scourge as the one who said Harvus needed to be "tamed."
-
-### Rak Wraithraiser
-
-Rak was present in the aftermath and spoke to Scourge with characteristic casual defiance.
-
-His "Sup brah" and "As you command, brah" responses show Rak refusing to adopt the fear-language expected aboard the Wormwood.
-
-Rak praised Mirei's performance, then later returned to Grok, apologized for missing her earlier, and offered to brew alcohol using ingredients and his kit. Grok appears to have furnished what he needed. This is the first recovered explicit friendship-development beat between Rak and Grok, not necessarily their first contact.
-
-### Conchobhar Turlach Shortstone
-
-Conchobhar was part of the nearby crew watching the fight, but was not caught up in it.
-
-He remains a rigger, and his exact Day 2 task is unknown.
-
-### Crimson "Cog" Cogward
-
-Crimson was part of the nearby crew watching the fight, but was not caught up in it.
-
-He is listed as a swab, but his exact Day 2 task is unknown.
-
-### Cut-Throat Grok
-
-Grok had already heard about the morning fight by the time Sho came to her.
-
-She considered Sho potentially useful but refused to trade property for uncertain future services. This establishes Grok as pragmatic rather than charitable.
-
-That night, Grok opened the possibility of shop access and brewing with Rak. Her interest in unusual drink becomes the first recovered explicit path into her friendship with him.
-
-### Aretta Bansion
-
-Aretta is beaten, distracted, knocked unconscious, and then whipped for lateness.
-
-This humiliation fuels her later revenge against Sho.
-
-### Slippery Syl Lonegan
-
-Syl appears to have led the harassment group sent to send a message to the new hands.
-
-Her failure here matters because she later remains tied to hostile lower-crew pressure and violence.
-
-### Fipps Chumlett
-
-Fipps is part of the harassment group and later remains connected to the bilges revenge thread against Sho.
-
-He drew a dagger only after being cornered as the last person still standing with Harvus and Sho there, but he was knocked out before he could use it.
-
-### Jaundiced Jape
-
-Jape is part of the harassment group and is punished with the others.
-
-## What Is Lost to Time
-
-- The exact blow-by-blow of the fight beyond the known Aretta sequence and Fipps's dagger escalation.
-- Whether the fight stayed entirely in the crew berths or moved into the stairs / passage.
-- Which characters directly fought Jape and Syl.
-- Who specifically knocked out Fipps after he drew the dagger.
-- The exact daily task assignments for each new hand on Day 2.
-- The exact task Mirei and Tilly were performing while talking.
-- What roll produced Mirei's `15`, and whether it was influence, Diplomacy, work, or something else.
-- Harvus' side of the Maheem rigging conversation.
-- Whether Maheem was attempting apology, self-protection, intimidation, or all three.
-- The exact item or items Sho was trying to recover from Grok in this conversation.
-- Whether Sho had made an earlier rude comment to Grok and, if so, what it was.
-- Whether Sho faced consequences for slacking off or exploring to reach Grok.
-- Whether this was Mirei's first actual performance after the harp return or only the first recovered performance.
-- Whether Grok, Sho, or any officer reacted to Mirei's performance.
-- What Rak brewed for Grok, and whether the brew succeeded mechanically.
-- Whether Grok returned Rak's alchemy kit permanently, loaned it, or supervised its use.
-- Whether there were additional Day 2 daytime social scenes before Bloody Hour.
-- Whether any other night scenes on Erastus 6 can be confidently placed after this event.
-
 ## Open Checks
 
-- Confirm whether Scourge's deck reaction was anger at lateness, anger at failed proxies, or both.
-- Confirm whether Scourge or Plugg privately punished or blamed the four before Bloody Hour.
-- Confirm whether any of the watching sailors reacted meaningfully to the new hands winning the fight.
-- Confirm whether Conchobhar or Crimson had any meaningful reaction to watching the fight.
-- Confirm whether the Day 2 victory affected influence with any lower-crew NPCs.
-- Confirm whether Mirei's conversation improved Tilly's attitude toward her.
-- Confirm what Harvus said before Maheem's surviving lines.
-- Confirm whether Maheem's admission changed Harvus' attitude toward him.
-- Confirm what specific property Sho was trying to recover from Grok.
-- Confirm whether Grok later accepted Sho's services or required a different trade.
-- Confirm whether the performance improved Badger's attitude toward Mirei.
-- Confirm whether this performance happened before or after Bloody Hour.
-- Confirm what Rak brewed and whether anyone else witnessed it.
-- Confirm how quickly the Rak/Grok friendship became flirtation or intimacy.
-
-## Canon Consequences
-
-- Scourge began using lower-crew proxies against the new hands immediately.
-- The new hands resisted the first organized crew harassment attempt.
-- Fipps escalated by drawing a dagger when cornered, but was knocked out before he could use it.
-- Conchobhar and Crimson witnessed the fight but were not caught up in it.
-- Mirei and Tilly connected during work over the difference between wanting the sea and being taken into shipboard life by force.
-- Tilly's voluntary entry into the Wormwood and practical survival advice are established.
-- Maheem confirmed that Scourge framed Harvus as needing to be "tamed," sharpening Harvus' Scourge vendetta.
-- Grok learned quickly about the fight and recognized Sho's potential usefulness.
-- Sho's early attempt to bargain with Grok failed because she had no concrete value to trade.
-- Mirei's performance became immediate social currency aboard the Wormwood.
-- Badger complimented Mirei's performances and revealed an older lower-crew perspective on shipboard loss.
-- Rak's ability to brew alcohol became the first recovered explicit friendship-development beat with Grok.
-- Aretta, Fipps, Jape, and Syl were publicly punished for the failed attempt.
-- Aretta's later revenge motive begins here.
-- The later bilges ambush against Sho should be treated as connected to Day 2 humiliation, not as an isolated incident.
+- Confirm exact Day 2 work tasks if old rolls are later recovered.
+- Confirm whether Rak's "robe and wizard hat" table line should remain omitted, be rendered as table-flavor narration, or be restored literally.
+- Confirm whether this write-up should be split into a longer narrative chat scene for Discord posting.
