@@ -20,6 +20,7 @@
 | Player Label / Working Label | Archive Path | Duplicate Status | Unique Record? | Date / Session Guess | Notes |
 |---|---|---|---|---|---|
 | likely days 1-5 duplicate with Mirei private chat | `evidence/raw-session-logs/mirei-player-cache/session-01-to-05-duplicate-private-summary.md` | Likely duplicate | Unknown; private-side content may be unique | Wormwood early days, likely Days 1-5 with strong Day 2-4 evidence | Sanitized extraction summary only. Uploaded raw source contains all-player chat, table chatter, private whispers, and mixed IC/OOC material. |
+| likely storm / reef duplicate | `evidence/raw-session-logs/mirei-player-cache/session-storm-reef-duplicate-summary.md` | Likely duplicate | Unknown | Wormwood storm-window through reef/crab task | Sanitized extraction summary. Key evidence: Sho concern for injured Mirei, Rak/Sho punishment scene, storm-window Harrigan invitation intercepted by Plugg, Rosie message rescue attempt, Harvus/Sandara post-Rosie rage thread, and reef/crab task with Mirei leg injury and healing aftermath. |
 
 ## Expected Future Labels
 
