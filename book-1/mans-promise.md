@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One ship and political-state document
-- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, recovered boarding-map evidence, corrected shipwide death-toll scope, Erastus 29 course-change evidence, and Rickety's Squibs course-whisper evidence
+- Maturity: Draft, expanded with corrected boarding origin, survivor math, Plugg's first command speech, first-night command state, recovered boarding-map evidence, corrected shipwide death-toll scope, Erastus 29 course-change evidence, Rickety's Squibs course-whisper evidence, corrected prisoner/split sequence, and Tidal Cutlass normalization
 - Scope: The Man's Promise from capture through Bonewrack relaunch
 
 ## Overview
@@ -74,9 +74,9 @@ After the boarding battle, fifteen captured Man's Promise survivors remained.
 
 After the Erastus 26 revel wound down, those fifteen captured survivors were led out.
 
-Harrigan made an example of a weakened captured sailor by throwing that sailor overboard to the sharks. Fourteen captured survivors remained afterward.
+Harrigan made an example of the **only surviving Rahadoumi officer** by throwing her overboard to the sharks. Fourteen captured survivors remained afterward.
 
-A Rahadoumi officer is visible in the Erastus 27 chat after Harrigan's example and spits in disgust. That officer's exact identity and later fate remain unresolved.
+Older notes that placed a Rahadoumi officer visibly alive after Harrigan's example are superseded for chronology purposes unless later evidence identifies a separate non-officer witness or another distinct survivor.
 
 Harrigan assigned a skeleton crew under Mr. Plugg to take the Man's Promise, and the two ships separated.
 
@@ -266,7 +266,7 @@ Nor'gal is another important survivor-facing thread because his brother appears 
 
 The first-night Rak exchange shows Nor'gal's anger directly: he may see Plugg's order as the reason he is alive while seeing Rak as someone who gave only death.
 
-A Rahadoumi officer visible in the Erastus 27 chat may also matter to survivor politics if they remained alive after the split.
+The executed Rahadoumi officer's identity may still matter to survivor politics, but current chronology no longer treats a Rahadoumi officer as visibly alive after Harrigan's Erastus 27 example.
 
 ### Hostile Independents
 
@@ -348,7 +348,7 @@ This is a key early private space for Sho and Goyle because Goyle directly ident
 
 Plugg has enjoyed the captured captain's magical hammock, reinforcing the contrast between his harsh public discipline and private indulgence.
 
-### Tidewater Cutlass
+### Tidal Cutlass
 
 Plugg's signature weapon.
 
@@ -405,3 +405,4 @@ Possible states include:
 - Confirm who took Mirei's harp and whether it is still aboard the Man's Promise.
 - Confirm whether Samms' "that monk" is Sho and whether Samms knows Sho's current hot-box status.
 - Confirm whether Rak moved into Kroop's cook-cabin hammock before or after the Rickety's Squibs conversation.
+- Reconcile older notes that placed a Rahadoumi officer visibly alive after Harrigan's Erastus 27 example with the locked correction that the only surviving Rahadoumi officer was thrown overboard.
