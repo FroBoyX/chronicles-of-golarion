@@ -4,7 +4,7 @@
 
 - Type: Focused chat handoff
 - Maturity: Working control document
-- Scope: PC dossiers, player truth questions, player-safe packets, cold-open prep
+- Scope: PC dossiers, player truth questions, player-safe packets, cold-open prep, active character-discovery handoffs
 
 ## Chat Purpose
 
@@ -18,6 +18,14 @@ This chat should not ingest broad raw chronology unless it directly affects a PC
 You are the PC Dossiers / Player Packets archivist for FroBoyX/chronicles-of-golarion. Read `handoffs/pc-dossiers-player-packets-handoff.md`, `handoffs/chronicle-master-handoff.md`, `tracking/open-questions.md`, and the relevant PC dossier before answering. Keep player-facing material spoiler-scoped and mark memory evidence separately from canon.
 ```
 
+## Dedicated Character Discovery Handoffs
+
+Use these when a player or GM opens a PC-specific discovery chat:
+
+- Mirei: `handoffs/mirei-character-discovery-handoff.md`
+
+Additional PC-specific discovery handoffs may be created as needed.
+
 ## Primary Files
 
 ### PC Dossiers
@@ -27,10 +35,11 @@ You are the PC Dossiers / Player Packets archivist for FroBoyX/chronicles-of-gol
 - `characters/pcs/rak-wraithraiser.md`
 - `characters/pcs/sho-astor.md`
 
-### Player Question Files
+### Player Question / Active Beat Files
 
 - `questions/harvus-player-narrative-beats.md`
 - `questions/mirei-player-narrative-beats.md`
+- `questions/mirei-active-narrative-beats.md`
 - `questions/rak-player-narrative-beats.md`
 - `questions/rak-player-truth-questions.md`
 - `questions/sho-player-narrative-beats.md`
@@ -43,6 +52,7 @@ You are the PC Dossiers / Player Packets archivist for FroBoyX/chronicles-of-gol
 ### Player / Sheet Evidence
 
 - `evidence/player-memory/harvus-player-memory-recall.md`
+- `evidence/player-memory/mirei-player-discovery-notes.md`
 - `evidence/player-memory/sho-astor-player-memory-recall.md`
 - `evidence/player-notes/harvus-light-timeline.md`
 - `evidence/player-sheets/rak-wraithraiser-pcgen-pdf.md`
@@ -75,18 +85,25 @@ Core threads:
 
 - Aasimar Sea Singer bard from the River Kingdoms; Desna.
 - Came to sea seeking destiny and self-understanding.
+- Player-confirmed: grew up performing with family on the river and naturally drew larger crowds.
+- Player-confirmed: left because she could no longer ignore the call of the sea.
+- Player-confirmed: first emotional response to the open ocean was wonder.
 - Harp was taken during press-ganging and returned by Sandara / Grok sea-curse story.
 - Used music and conversation as early survival tools.
 - Day 2 Tilly connection; Day 2 first recovered performance with Harvus, Rak, and Badger reactions.
+- Sho noticed Mirei becoming closed off; player-confirmed that Mirei mostly felt seen, but feared Sho would act before Mirei was ready.
 - Plugg pressured her into a privileged but dangerous role and later a betrayal assignment.
 - Current: confessed that she was tasked with betraying/killing the PCs but did not act.
 
-Open player-packet needs:
+Open player-packet / discovery needs:
 
 - Keep personal destiny player-led.
-- Clarify her exact emotional relationship to Plugg's pressure.
-- Clarify whether she feared Sho would act before she was ready.
-- Do not overstate Plugg content beyond evidence.
+- Use `questions/mirei-active-narrative-beats.md` to avoid repeating answered questions.
+- Preserve player answers in `evidence/player-memory/mirei-player-discovery-notes.md` before GM-side canon integration.
+- Clarify her exact emotional relationship to Plugg's pressure without making it more explicit than evidence/player framing supports.
+- Clarify what Sho's concern meant to Mirei: seen, exposed, endangered, comforted, or pressured.
+- Clarify why Mirei returned to Riptide Cove with Harvus and what confession cost her.
+- Preserve visual/PF2e identity cues as sidebars only; do not generate art or convert mechanics in the discovery chat.
 
 ### Rak Wraithraiser
 
@@ -130,14 +147,25 @@ Open player-packet needs:
 
 ## Spoiler Discipline
 
-When writing player packets:
+When writing player packets or supporting player-facing discovery chats:
 
 - Do not reveal other PCs' hidden actions unless the character knows them.
 - Do not reveal current split information to a player unless it is part of that player's cold open.
 - For Sho, keep Rak killing Giffer as player-knowledge only until in-character evidence exists.
 - For Rak, do not reveal Harvus/Riptide rescue or Whale details unless the cold open has reached it.
-- For Mirei, avoid making Plugg's pressure more explicit than evidence supports.
+- For Mirei, avoid making Plugg's pressure more explicit than evidence or the player supports.
+- For direct player-facing chats, use the player discovery packet and PC-specific handoff rather than raw GM-only archive files unless the GM explicitly provides them.
 
 ## Output Style
 
-For question packets, write directly usable copy. For dossier edits, preserve evidence-backed facts and add open checks.
+For question packets, write directly usable copy.
+
+For active player discovery:
+
+- ask small batches;
+- summarize after each batch;
+- update or propose active narrative beat changes;
+- preserve player memory separately from canon;
+- identify GM-side integration targets.
+
+For dossier edits, preserve evidence-backed facts and add open checks.
