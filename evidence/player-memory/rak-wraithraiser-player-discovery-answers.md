@@ -5,7 +5,7 @@
 - Type: Player-memory / GM-correction evidence
 - Maturity: Working notes
 - Source: Rak player answers relayed by GM during player discovery
-- Scope: Rak core identity, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, voice correction, and Syl/Patch conflation correction
+- Scope: Rak core identity, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
 
 ## Evidence Handling
 
@@ -88,6 +88,12 @@ Preserve the distinction between:
 - Rak might accept Harvus, Sho, or Mirei having some authority if they proved useful, but he likely would not accept full authority to make all decisions.
 - Rak would stay with the ship after the Man's Promise crisis for future glory, riches, and building a new crew.
 - Rak would walk away if the group became too charitable, gave away all the loot / riches, or became so weak that the ship turned into a laughingstock.
+
+## Cleanup / Accuracy
+
+- Canonical spelling confirmed by Rak's player: **Rak Wraithraiser**.
+- The Cheliax region on the sheet is not meaningful background. It was selected because the player associated "Cheliax" with "chillaxin," matching Rak being relaxed / just chilling.
+- The player had no specific answer for the biggest thing the GM might be misunderstanding about Rak.
 
 ## Rak Voice Correction
 
