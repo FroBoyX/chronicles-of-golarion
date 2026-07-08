@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: Player Character dossier
-- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, Erastus 29 entertainer agreement, and Sho player-memory perspective on Mirei as confidante
-- Current mechanics: Out of date; player is currently level 2
+- Status: Seeded from recovered out-of-date level 1 Pathfinder sheet and GM-provided campaign facts; opening year corrected to 4712 AR; expanded with early performance evidence, Day 3 Sho disguise discovery, storm-window Harrigan performance invitation intercepted by Plugg, Rosie rescue messages, Erastus 16 reef injury, Man's Promise work-distance scene, first-night Plugg cabin coercion, captain cabin blood evidence, Erastus 29 Plugg duties escalation, Erastus 29 entertainer agreement, Sho player-memory perspective on Mirei as confidante, and recovered level 3 PCGen sheet evidence
+- Current mechanics: Level 3 PCGen sheet recovered; verify whether this is the latest pre-relaunch / relaunch-current PF1 mechanics before rebuilding or converting
 - Conversion status: Not converted
 
 ## Overview
@@ -37,13 +37,129 @@ Her personal premise is player-led: she came to Port Peril seeking destiny and a
 - Eyes: Emerald
 - Hair: Silver, long
 
-## Recovered Pathfinder Sheet Snapshot
+## Recovered Pathfinder Sheet Snapshots
 
-This section preserves the recovered level 1 sheet as historical evidence only.
+This section preserves recovered Pathfinder mechanics as historical evidence.
 
-The player is currently level 2, so these values should not be treated as current mechanics.
+The recovered level 3 PCGen sheet is currently the strongest mechanical anchor. Do not overwrite player-confirmed visual identity from obvious sheet export/display anomalies without direct player confirmation.
 
-### Level 1 Ability Scores
+### Level 3 PCGen Sheet — Aug 2, 2015
+
+Source summary: `evidence/player-sheets/mirei-level-3-pcgen-summary.md`.
+
+The recovered level 3 sheet was created in PCGen v6.04.01 on Aug 2, 2015 at 6:31:45 PM. It lists Mirei as Level 3 / CR 2 with 5000 / 9000 XP.
+
+#### Level 3 Identity / Status
+
+- Class: Bard (Sea Singer) 3
+- Race: Aasimar (Azata-Blooded) / Outsider
+- Alignment: Chaotic Good
+- Deity: Desna
+- Age: 65
+- Gender: Female
+- Vision: Darkvision 60 ft.
+- Languages: Celestial, Common, Elven, Sylvan
+- Money: 0 gp
+- Sheet caution: the level 3 sheet renders height / weight as `0' 5" / 140 lbs.`, which appears malformed and should not supersede the dossier's visual values without player confirmation.
+
+#### Level 3 Ability Scores
+
+- Strength 10
+- Dexterity 18
+- Constitution 14
+- Intelligence 15
+- Wisdom 11
+- Charisma 18
+
+#### Level 3 Combat / Defense
+
+- HP: 25
+- AC: 14 total; 10 flat-footed; 14 touch
+- Initiative: +4
+- Speed: 30 ft.
+- Fortitude: +3
+- Reflex: +7
+- Will: +3
+- Base attack bonus: +2
+- Melee attack bonus: +2
+- Ranged attack bonus: +6
+- CMB: +2
+- CMD: 18
+- Encumbrance: Light
+
+#### Level 3 Skills and Emphases
+
+The level 3 sheet lists 24 total skill points and continues to strongly emphasize performance, social presence, agility, perception, and sailor competence.
+
+Notable level 3 values:
+
+- Perform (String Instruments): +13
+- Perform (Sing): +12
+- Perform (Dance): +10
+- Diplomacy: +10
+- Acrobatics: +12
+- Perception: +8
+- Bluff: +8
+- Profession (Sailor): +7
+- Swim: +7
+- Knowledge (Local): +7
+- Sense Motive: +6
+- Climb: +6
+
+#### Level 3 Traits / Feats
+
+Traits:
+
+- Lillend's Harp
+- Touched by the Sea
+
+Feats:
+
+- Nimble Moves
+- Prodigy (Perform (Sing), Profession (Sailor))
+- Alertness (Granted)
+
+#### Level 3 Sea Singer / Bard Features
+
+Recovered level 3 features include:
+
+- Bardic Performance, 12 rounds per day
+- Distraction
+- Fascinate, DC 15
+- Inspire Courage +1
+- Sea Shanty
+- Sea Legs
+- Still Water
+- World Traveler
+- Familiar from Sea Singer level 2; species / name not identified on the sheet
+- Azata-blooded aasimar Glitterdust 1/day
+- Celestial Resistance: acid 5, cold 5, electricity 5
+
+#### Level 3 Spell Notes
+
+Bard cantrips known:
+
+- Detect Magic
+- Light
+- Mage Hand
+- Mending
+- Message
+- Summon Instrument
+
+Bard level 1 spells known:
+
+- Charm Person
+- Chord of Shards
+- Cure Light Wounds
+- Hypnotism
+
+### Level 1 Sheet — Earlier Historical Evidence
+
+This section preserves the recovered level 1 sheet as earlier historical evidence only.
+
+The level 1 sheet is superseded for current mechanics by the recovered level 3 sheet unless a later sheet or player correction supersedes both.
+
+#### Level 1 Ability Scores
 
 - Strength 10
 - Dexterity 18
@@ -52,7 +168,7 @@ The player is currently level 2, so these values should not be treated as curren
 - Wisdom 10
 - Charisma 17
 
-### Level 1 Skills and Emphases
+#### Level 1 Skills and Emphases
 
 The recovered sheet strongly emphasizes performance and social ability.
 
@@ -66,17 +182,17 @@ Notable level 1 values:
 - Profession (Sailor): +4
 - Swim: +5
 
-### Level 1 Traits
+#### Level 1 Traits
 
 - Lillend's Harp
 - Touched by the Sea
 
-### Level 1 Equipment
+#### Level 1 Equipment
 
 - Entertainer's outfit
 - Masterwork harp
 
-### Level 1 Spell / Ability Notes
+#### Level 1 Spell / Ability Notes
 
 Recovered sheet features include:
 
@@ -367,11 +483,13 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 
 ## Open Threads
 
-- Mirei's level 2 mechanics need to be recovered or rebuilt with the player.
+- Confirm whether the recovered level 3 PCGen sheet is Mirei's latest pre-relaunch / relaunch-current PF1 mechanics, and whether any later level 3+ or manual sheet corrections exist.
 - Mirei's personal destiny should remain player-led.
 - The consequences of Mirei's confession remain unresolved.
 - Her relationship to Plugg's attempted manipulation needs careful tracking.
 - Her role as a Sea Singer should be preserved in any future conversion.
+- Confirm the level 3 sheet's familiar: monkey or parrot, name, personality, and whether it existed in play by the current relaunch point.
+- Confirm whether the level 3 sheet's malformed physical-stat field has any intended player truth or should be ignored as a PCGen export issue.
 - Confirm whether the Day 2 performance was the first actual performance after the harp's return or simply the first recovered one.
 - Confirm exact chronology for when Sho openly confided the disguise truth to Mirei; player-facing relationship truth is established, but scene placement remains a chronology check.
 - Confirm whether the storm-window Harrigan invitation / Plugg order is Erastus 11, 12, or 13.
@@ -395,5 +513,6 @@ Plugg later ordered Mirei not to speak to Owlbear unless spoken to.
 ## Evidence Notes
 
 - Recovered PCGen sheet dated Jun 30, 2014, level 1.
+- Recovered PCGen sheet dated Aug 2, 2015, level 3; summarized in `evidence/player-sheets/mirei-level-3-pcgen-summary.md`.
 - GM-provided campaign facts about Mirei's current status, Plugg assignment, and Bonewrack actions.
 - Player journals and chat logs provide indirect evidence of her actions and relationships.
