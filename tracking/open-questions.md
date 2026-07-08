@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, Jack Scrimshaw's Tam-exchange placement, Mirei player performance-log checks, recovered Mirei level 3 sheet checks, GM clarification that Mirei's familiar is delayed but owed, and early Mirei player-cache duplicate extraction
+- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, Jack Scrimshaw's Tam-exchange placement, Mirei player performance-log checks, recovered Mirei level 3 sheet checks, GM clarification that Mirei's familiar is delayed but owed, early Mirei player-cache duplicate extraction, and missing Day 12-16 Mirei cache extraction
 - Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
@@ -91,11 +91,11 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Confirm whether the recovered level 3 PCGen sheet is Mirei's latest pre-relaunch / relaunch-current PF1 mechanics, and whether any later level 3+ or manual sheet corrections exist.
 - Choose and introduce the delayed familiar owed by the Sea Singer level 3 sheet: monkey or parrot, name, personality, and whether the scene occurs on Bonewrack Isle or afterward. Status is resolved only as: Mirei has not acquired the familiar yet, but was told she would be allowed to get it in play.
 - Confirm whether the level 3 sheet's malformed physical-stat field has any intended player truth or should be ignored as a PCGen export issue.
+- Map the missing-cache Day 12-16 labels to the campaign Erastus chronology before final dossier integration.
 - Was the Day 2 performance the first actual performance after the harp return or only the first recovered performance?
 - Map the player's performance-log labels — Night 2, Night 3, Night 4, Night 7, Night 8, Night 15, Night 16, Day 18, Day 1 new ship, and Day 2 new ship — to the Erastus campaign chronology.
 - Is the player-log **Night 4 / roll 34** the same floating 34 performance already tracked elsewhere, and did Plugg and Captain Barnabas Harrigan actually hear it in-scene?
 - Do the player-log **Night 3 / roll 31** and **Night 4 / roll 34** performances relate to the memory of a performance powerful enough to draw extraplanar attention, or are they simply high performance rolls?
-- What event, injury, punishment, loss, or emotional turn is attached to **Night 15**, described by the player note as "the night I show them that they hurt me"?
 - Do Giffer Tibbs' appearances in the Night 15 and Night 16 listener lists conflict with the Man's Promise capture / Giffer death chronology, or do the night labels remain Wormwood-relative and therefore pre-split?
 - Do the **Day 1 / Day 2 new ship** Plugg-only performances correspond to the first Man's Promise Plugg cabin performance and the next day's entertainer duty scene?
 - How much did Mirei understand Plugg's pressure as privilege, coercion, fear, survival, or contamination?
@@ -182,3 +182,10 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Resolved: Harvus praised her, Rak praised her, Badger complimented her and asked where she learned.
 - Resolved from duplicate Mirei player cache: Mirei told Badger she had been picking music up her whole life, liked many kinds of music, and favored the harp.
 - Still unresolved: whether it was the first actual performance or first recovered performance.
+
+### Mirei Night 15 Hurt Performance
+
+- Resolved from missing Mirei player cache: Night 15 / "the night I show them that they hurt me" refers to the post-Bloody-Hour performance after the mast punishment / lashings.
+- Resolved from missing Mirei player cache: Mirei privately told Sho she intended to play her harp so others could hear how badly they had hurt her.
+- Resolved from missing Mirei player cache: Ratline Rattsberger noticed the harp and said Mirei sounded much worse for the lashings.
+- State impact: the exact emotional nuance can still be explored with the player, but the event identity is no longer open.
