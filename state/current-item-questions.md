@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state ledger
-- Maturity: Draft
+- Maturity: Draft, corrected with Tidal Cutlass naming normalization
 - Scope: Items with continuity relevance at relaunch
 
 ## Purpose
@@ -49,9 +49,10 @@ It is not a treasure list. It is a continuity ledger.
 
 ## Man's Promise / Plugg Items
 
-### Tidewater Cutlass
+### Tidal Cutlass
 
 - Last known: Plugg has it.
+- Naming note: Older notes may say `tidewater cutlass`; current normalized name is **Tidal Cutlass** unless preserving raw source text.
 - Meaning: Used to push Goyle and a grindylow overboard, creating Goyle's capture and anti-Plugg witness thread.
 - Open question: Who controls it if Plugg falls?
 
@@ -87,7 +88,7 @@ Examples:
 - Sandara's holy symbol can reconnect Harvus' rescue to Rak's earlier handoff.
 - The returning spear can tie Rak to Harvus' legend and create an immediate loss/debt.
 - Harvus' flail in Tilly's hands can visibly prove the rescue sequence happened.
-- The tidewater cutlass can expose Plugg's role in Goyle's capture.
+- The Tidal Cutlass can expose Plugg's role in Goyle's capture.
 
 ## Open Questions Summary
 
@@ -97,3 +98,4 @@ Examples:
 - Confirm Tilly's possession of Harvus' flail.
 - Confirm Rosie's fiddle fate.
 - Confirm whether Grok gave Rak a material parting gift.
+- Confirm who controls the Tidal Cutlass if Plugg falls.
