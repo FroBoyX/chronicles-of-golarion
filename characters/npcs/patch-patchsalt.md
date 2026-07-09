@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence, Rak/Patch night-shift scene, and Erastus 26 revel threat
-- Scope: Wormwood officer-adjacent hostile NPC, transfer status unresolved
+- Maturity: Draft, expanded with Rak player-sheet evidence, Rak/Patch night-shift scene, Erastus 26 revel threat, Rak spelling normalization, and current GM belief that Patch is Wormwood-side
+- Scope: Wormwood officer-adjacent hostile NPC, transfer status believed Wormwood-side unless later evidence proves transfer
 
 ## Overview
 
@@ -12,7 +12,7 @@ Patch Patchsalt is a gnome boatswain's mate and sycophant of Plugg and Scourge.
 
 She is dangerous because she belongs to the officer-adjacent hostile layer rather than the ordinary lower crew.
 
-Her current placement after the Man's Promise prize-crew split needs confirmation.
+Current GM correction treats Patch as believed Wormwood-side after the Erastus 27 split, not an Arodus 5 Man's Promise / Bonewrack actor unless later evidence overrides that placement.
 
 Rak's player sheet lists Patch as indifferent, which conflicts with the baseline assumption that Patch is firmly Plugg/Scourge-aligned. A recovered Rak/Patch scene helps explain that tension: Patch is threatening and Scourge-aligned, but engages Rak with flirtatious menace rather than simple hostility.
 
@@ -23,7 +23,7 @@ Rak's player sheet lists Patch as indifferent, which conflicts with the baseline
 - Ancestry: Gnome
 - Baseline role: Wormwood boatswain's mate
 - Baseline alignment: Chaotic Evil
-- Current location: Unresolved — Wormwood or Man's Promise
+- Current location: Believed Wormwood-side
 - Current status: Presumed alive
 - Rak sheet evidence: Indifferent
 
@@ -53,13 +53,13 @@ Patch growled at him, recognized him as the cook's mate, insulted the food as po
 
 She then introduced herself as Patches, the boatswain's mate, and referenced Scourge's whip approvingly:
 
-> "He teaches good with that whip doesn't he?"
+> `He teaches good with that whip doesn't he?`
 
 Patch asked whether Rak had drunk his rum that day. Rak claimed he always did.
 
 Patch said she needed to sleep, consistent with the note that she heads the night shift.
 
-The exchange then turned into flirtation with a knife-edge threat. Patch said Rak could sleep with her, but warned that she gets a little "stabby" in her sleep. After Rak flirted back, she told him to meet her on the night shift and get lost.
+The exchange then turned into flirtation with a knife-edge threat. Patch said Rak could sleep with her, but warned that she gets a little `stabby` in her sleep. After Rak flirted back, she told him to meet her on the night shift and get lost.
 
 This scene should be treated as threatening flirtation, not safety. It supports the possibility that Patch was personally indifferent or amused by Rak while still aligned with the hostile officer layer.
 
@@ -67,7 +67,7 @@ This scene should be treated as threatening flirtation, not safety. It supports 
 
 During the boarding, Patch helped force or support surrender in the fog by threatening a captive or officer:
 
-> "Give up... or your neck get's slit."
+> `Give up... or your neck get's slit.`
 
 ### Erastus 26 Revel
 
@@ -77,17 +77,17 @@ When Sho tried to clear people away from Mirei and take her below, Patch asserte
 
 Patch escalated when Sho refused, saying they did not take orders from Sho. She later threatened to call Mr. Plugg, then drew both knives and shouted:
 
-> "LAST CHANCE, need I remind you I'm the boatswains mate. Pipedown or get gutted!"
+> `LAST CHANCE, need I remind you I'm the boatswains mate. Pipedown or get gutted!`
 
 Rak distracted her with drunken flirtation, and Patch answered with dagger-themed interest. After Tam broke up the confrontation, Patch warned Sho that Scourge would hear about it.
 
 This scene reinforces that Patch is a dangerous officer-adjacent actor who uses both rank and knives to enforce hostile social pressure.
 
-### Transfer Uncertainty
+### Transfer Handling
 
-Patch's current placement after the split needs confirmation.
+Current GM correction treats Patch as believed Wormwood-side after the Erastus 27 split.
 
-If aboard the Man's Promise, she is a significant hostile asset for Plugg and Scourge unless the campaign's actual influence state softened her stance.
+Older context suggesting she may be on the Man's Promise should remain a weaker unresolved artifact unless direct post-split evidence places her aboard.
 
 If still aboard the Wormwood, she remains part of Harrigan's future threat ecosystem.
 
@@ -103,11 +103,11 @@ Patch's recovered line praising Scourge's whip reinforces her comfort with his d
 
 During the Erastus 26 revel, Patch threatened to call Plugg and later said Scourge would hear about Sho's conduct.
 
-### Rak Wraithraiser / Wraithriser
+### Rak Wraithraiser
 
 Recovered context includes Patch interacting with Rak in a threatening or flirtatious knife-centered way.
 
-Around the night shift, she challenged him about work, cooking, and rum, then invited him to meet her on the night shift while warning that she gets "stabby" in her sleep.
+Around the night shift, she challenged him about work, cooking, and rum, then invited him to meet her on the night shift while warning that she gets `stabby` in her sleep.
 
 During the Erastus 26 revel, Rak tried to redirect Patch with party energy and flirtation. Patch answered that she would only party with daggers, then told Rak she would be over later.
 
@@ -123,7 +123,7 @@ Patch treated Sho's defiance as something to report to Plugg and Scourge.
 
 ### Master Scourge
 
-Scourge appears briefly in the recovered Rak/Patch scene with a whip under someone's chin, saying "Oh good... you're awake."
+Scourge appears briefly in the recovered Rak/Patch scene with a whip under someone's chin, saying `Oh good... you're awake.`
 
 The exact staging is unclear, but his presence reinforces that Patch's orbit is close to Scourge and night-shift discipline.
 
@@ -135,33 +135,22 @@ Her attitude should be treated as unresolved between baseline hostility and Rak'
 
 ## Current State
 
-- Location: Unresolved
+- Location: Believed Wormwood-side
 - Status: Presumed alive
 - Political state: Plugg/Scourge-aligned in baseline, but Rak sheet says indifferent
-- Practical threat: Rogue/fighter-style knife threat and intimidation
 
 ## Campaign Function at Relaunch
 
-Patch's placement matters because she can shift the balance of the hostile bloc.
+Patch is not currently treated as an Arodus 5 Man's Promise / Bonewrack actor.
 
-If aboard the Man's Promise, she may:
+If later evidence places her aboard the Man's Promise, she is a significant hostile asset for Plugg and Scourge unless the campaign's actual influence state softened her stance.
 
-- guard key spaces,
-- support Scourge,
-- threaten prisoners,
-- ambush during mutiny,
-- remain indifferent to Rak specifically,
-- or flee if command collapses.
+If she remained on the Wormwood, she remains part of Harrigan's future hostile ecosystem.
 
 ## Open Questions
 
-- Is Patch aboard the Man's Promise?
-- Was she part of Plugg's selected prize crew?
-- Does the formal influence tracker support Rak's indifferent note?
-- Did Rak actually meet Patch on the night shift after the recovered flirt/threat scene?
-- Did the night-shift meeting lead to sex, a threat, a setup, or only flirtation?
-- Who exactly did Scourge put the whip under the chin of in the recovered line?
-- Does Patch know Sho is locked up?
-- Would Patch obey Plugg if Scourge falls?
-- Would Patch survive as a recurring villain if she flees?
-- Did Patch actually report Sho's Erastus 26 confrontation to Scourge?
+- Can Patch's Wormwood-side placement be locked as canon, or should it remain strong GM belief?
+- Does the formal influence tracker confirm Rak's indifferent note?
+- Did Patch transfer to the Man's Promise in any direct post-split evidence?
+- What is Patch's current attitude toward Sho after the Erastus 26 revel?
+- Would Patch follow Plugg if he became openly dishonorable or weak?
