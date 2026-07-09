@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak rum-ration sighting and punishment-scene link
-- Scope: Wormwood gunner's mate, Plugg/Scourge bootlicker, transfer status unresolved
+- Maturity: Draft, expanded with Rak rum-ration sighting and punishment-scene link; aligned with current GM belief that Kipper is Wormwood-side
+- Scope: Wormwood gunner's mate, Plugg/Scourge bootlicker, transfer status believed Wormwood-side unless later evidence proves transfer
 
 ## Overview
 
@@ -12,7 +12,7 @@ Kipper is the Wormwood's gunner's mate and a bootlicker for Plugg and Scourge.
 
 He matters because he belongs to the more dangerous hostile support layer around the officers, and because he was involved in the Man's Promise boarding chaos.
 
-His current placement after the prize-crew split needs confirmation.
+Current GM correction treats Kipper as believed Wormwood-side after the Erastus 27 split, not an Arodus 5 Man's Promise / Bonewrack actor unless later evidence overrides that placement.
 
 A recovered floating fragment also suggests Kipper saw Rak dispose of a rum ration, making him part of a possible discipline / punishment thread.
 
@@ -22,7 +22,7 @@ A recovered floating fragment also suggests Kipper saw Rak dispose of a rum rati
 - Type: NPC
 - Baseline role: Wormwood gunner's mate
 - Baseline alignment: Chaotic Evil
-- Current location: Unresolved — Wormwood or Man's Promise
+- Current location: Believed Wormwood-side
 - Current status: Presumed alive, but injured/burn status needs confirmation
 
 ## Baseline Adventure Path Role
@@ -59,11 +59,13 @@ He survived in the published baseline, though burned.
 
 Campaign status should be confirmed.
 
-### Transfer Uncertainty
+### Transfer Handling
 
-Kipper may have stayed aboard the Wormwood or transferred to the Man's Promise depending on campaign-specific crew division.
+Current GM correction treats Kipper as believed Wormwood-side after the Erastus 27 split.
 
-This matters because his presence aboard the Man's Promise would strengthen Plugg's hostile technical capacity.
+Older context suggesting he may be on the Man's Promise should remain a weaker unresolved artifact unless direct post-split evidence places him aboard.
+
+This matters because his presence aboard the Man's Promise would strengthen Plugg's hostile technical capacity, but active current-state docs do not count him as an Arodus 5 Man's Promise / Bonewrack actor.
 
 ## Relationships
 
@@ -97,14 +99,16 @@ Treat him as hostile or hostile-leaning until evidence says otherwise.
 
 ## Current State
 
-- Location: Unresolved
+- Location: Believed Wormwood-side
 - Status: Presumed alive, injury state unconfirmed
-- Political state: Plugg/Scourge-aligned if present
+- Political state: Plugg/Scourge-aligned if present in future
 - Practical threat: Weapons, armory, explosives, opportunistic violence, and possible informant behavior
 
 ## Campaign Function at Relaunch
 
-If Kipper is aboard the Man's Promise, he can affect:
+Kipper is not currently treated as an Arodus 5 Man's Promise / Bonewrack actor.
+
+If later evidence places him aboard the Man's Promise, he can affect:
 
 - access to weapons,
 - shipboard fire risk,
@@ -115,11 +119,7 @@ If he remained on the Wormwood, he is part of Harrigan's future hostile ecosyste
 
 ## Open Questions
 
-- Is Kipper aboard the Man's Promise?
+- Can Kipper's Wormwood-side placement be locked as canon, or should it remain strong GM belief?
 - How badly was he burned during the boarding explosion?
-- Does he have access to the Man's Promise armory or any remaining alchemist's fire?
-- Did Kipper report Rak's rum disposal to Plugg, Scourge, or another officer?
-- Is the rum-disposal sighting connected to the later punishment scene?
-- Does he know Sho is locked up?
-- Would he fight for Plugg, flee, or surrender if Plugg falls?
-- Is he personally invested in hating any PC?
+- Did any direct post-split evidence place him aboard the Man's Promise?
+- Would he have access to the Wormwood or Man's Promise armory in a future encounter?
