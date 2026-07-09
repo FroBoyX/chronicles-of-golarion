@@ -3,8 +3,9 @@
 ## Document Status
 
 - Type: Current-state operating document
-- Maturity: Draft, corrected with Arodus 5 / 4712 date, Erastus 27 ship-split model, and Crew 20 ship-viability reference
+- Maturity: Draft, corrected with Arodus 5 / 4712 date, Erastus 27 ship-split model, locked Rahadoumi-officer example sequence, Arodus 5 branch tableau, and Crew 20 ship-viability reference
 - Scope: Wormwood and Man's Promise at the relaunch point
+- Current control source: `state/arodus-5-current-state-tableau.md`
 
 ## Purpose
 
@@ -35,12 +36,14 @@ The Wormwood and the Man's Promise separated on Erastus 27.
 Corrected survivor disposition:
 
 - 15 captured Man's Promise survivors remained after the boarding.
-- Harrigan executed one weakened captured sailor as an example.
+- Harrigan executed the only surviving Rahadoumi officer as an example.
 - 14 captured Man's Promise survivors remained alive.
 - Six named survivors were assigned to Plugg's Man's Promise skeleton crew.
 - The other eight surviving captured Man's Promise crew went with the Wormwood.
 
 The other eight survivors are therefore not part of the Arodus 5 Man's Promise / Bonewrack actor pool unless later evidence brings them back.
+
+Older notes that placed a Rahadoumi officer visibly alive after Harrigan's example are superseded for current-state purposes unless later evidence identifies a separate non-officer witness or another distinct survivor.
 
 ## Man's Promise
 
@@ -52,7 +55,7 @@ Kahina tells Sho that the ship has set sail for the far shore to take on supplie
 
 Fresh water was compromised when the ship struck the reef, forcing the island supply mission.
 
-The ship is expected to meet the supply party at the south / coconut beach for coconuts and supplies.
+The ship is expected to meet the supply party at the south / Coconut Beach for coconuts and supplies.
 
 ### Command Claim
 
@@ -68,7 +71,7 @@ Their authority is coercive but not fully legitimate.
 - Operate bilge pumps or prevent further flooding.
 - Refill fresh water.
 - Gather food.
-- Rendezvous with the supply party at the south / coconut beach.
+- Rendezvous with the supply party at the south / Coconut Beach.
 - Maintain enough sailors to move the ship.
 - Prevent open mutiny before Plugg is ready to eliminate enemies.
 
@@ -82,11 +85,13 @@ Likely site of the hot-box and immediate crew visibility.
 
 #### Hot-Box
 
-Sho Astor is still believed locked in the hot-box.
+Sho Astor is still believed locked in or around the hot-box.
 
 This is both a punishment and an active social front because Kahina Bukekayo has spoken with her there.
 
 The hot-box scene now includes a life-for-life test from Kahina: if Sho hesitates when the moment comes, Kahina has threatened to ensure Sho dies for her sins.
+
+Exact guard state after Kahina leaves remains unresolved.
 
 #### Captain's Cabin
 
@@ -119,8 +124,8 @@ Includes or likely includes:
 - Mr. Plugg
 - Master Scourge
 - Slippery Syl Lonegan
-- Fipps Chumlett
-- Jaundiced Jape
+- Fipps Chumlett, currently left at Coconut Beach by Syl
+- Jaundiced Jape, currently inland with Syl / Rak branch
 - potentially Owlbear if not redirected by prior friendship
 - hostile or loyal Wormwood pirates
 
@@ -169,9 +174,11 @@ The other eight captured Man's Promise survivors went Wormwood-side and should n
 - The Crew 20 effective-operations reference may be impossible to meet after casualties, refusals, abductions, and a mutiny.
 - Unknown outcome of island supply party.
 - Unknown survival of Sandara, Tilly, and Goyle from Plugg's perspective.
+- Unknown current knowledge state for Plugg and Scourge about Harvus and Mirei returning alive.
 - Sho is a prisoner but also a possible bridge to Man's Promise survivors.
 - Fipps is at Coconut Beach where the ship is expected to meet the supply party.
 - Plugg's plan may collapse if Goyle speaks publicly.
+- Mirei's Arodus 5 confession may expose Plugg's loyalty-task structure if carried back to the ship.
 
 ## Wormwood
 
@@ -213,13 +220,13 @@ This makes any future Wormwood return or Harrigan plot more personal for Rak.
 
 The eight surviving captured Man's Promise crew who were not assigned to Plugg's named skeleton-crew survivor bloc went with the Wormwood after the Erastus 27 split.
 
-Their names, whether the visible Rahadoumi officer is among them, and their later Wormwood-side fates remain unresolved.
+Their names and later Wormwood-side fates remain unresolved.
 
 ## Control of the Man's Promise Is Not Settled
 
 The Man's Promise should not be treated as already won.
 
-Possible outcomes:
+Possible states include:
 
 - PCs control it.
 - Plugg controls it.
@@ -249,6 +256,7 @@ This is a pressure tool, not a railroad.
 - Is Owlbear chained in Plugg's cabin, elsewhere, or loose under orders?
 - What does the crew believe happened to Sandara, Tilly, Goyle, Harvus, Mirei, Rak, and Sho?
 - How visible is Sho's imprisonment from the main deck?
+- Who guards Sho after Kahina leaves?
 - What ship's boats are available and who controls them?
 - Does the ship arrive at Coconut Beach before or after the fork collision resolves?
 - Can any post-mutiny coalition meet or approximate Crew 20, and who refuses service under which commander?
