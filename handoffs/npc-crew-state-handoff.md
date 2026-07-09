@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Focused chat handoff
-- Maturity: Working control document, corrected with Erastus 27 ship-split model
+- Maturity: Working control document, corrected with Erastus 27 ship-split model, Rahadoumi-officer example sequence, and current Man's Promise / Wormwood placement handling
 - Scope: NPC dossiers, current locations, survivor lists, loyalty buckets, crew viability
 
 ## Chat Purpose
@@ -35,7 +35,8 @@ You are the NPC & Crew State auditor for FroBoyX/chronicles-of-golarion. Read `h
 - `state/current-item-questions.md`
 - `state/post-island-decision-space.md`
 - `chronology/arodus-5-split-scenes.md`
-- `chronology/open-threads.md`
+- `chronology/current-state.md`
+- `tracking/open-questions.md`
 
 ## Corrected Erastus 27 Ship-Split Model
 
@@ -43,15 +44,18 @@ The Man's Promise and the Wormwood separated on **Erastus 27, 4712 AR**.
 
 Correct sequence:
 
-1. The post-battle captured Man's Promise survivor lineup contained 15 captured survivors.
-2. Harrigan threw one weakened captured sailor overboard as an example.
-3. Fourteen captured Man's Promise survivors remained alive.
-4. Harrigan promoted Mr. Plugg to captain of the Man's Promise and assigned a skeleton crew.
-5. The Wormwood and the Man's Promise separated.
-6. Six named Man's Promise survivors were assigned to Plugg's skeleton crew.
-7. The other eight surviving captured Man's Promise crew went with the Wormwood.
+1. The Wormwood captured the Man's Promise on Erastus 25.
+2. The post-battle captured Man's Promise survivor lineup contained 15 captured survivors.
+3. Harrigan threw the **only surviving Rahadoumi officer** overboard as an example.
+4. Fourteen captured Man's Promise survivors remained alive.
+5. Harrigan assigned Mr. Plugg a skeleton crew and Plugg claimed captaincy of the Man's Promise.
+6. The Wormwood and the Man's Promise separated.
+7. Six named Man's Promise survivors were assigned to Plugg's skeleton crew.
+8. The other eight surviving captured Man's Promise crew went with the Wormwood.
 
 Do not place the other eight captured Man's Promise survivors at Bonewrack or aboard the Arodus 5 Man's Promise unless later evidence brings them back.
+
+Do not preserve older active-state language that leaves a Rahadoumi officer alive after Harrigan's example unless later evidence identifies a separate non-officer witness or distinct survivor.
 
 ## Ship Crew Viability Reference
 
@@ -70,13 +74,13 @@ The six named Man's Promise skeleton-crew survivors are currently fixed as:
 | Character | Role | Current Notes |
 |---|---|---|
 | Dahrehn Numus | Swab | Previously wealthy trader; likely Man's Promise, exact cold-open position unresolved. |
-| Ebony Saable | Rigger | Sho's referenced "monk man" and Fipps' "dark one" assignment target; short, dark, bald, leanly muscled, mostly silent. |
-| Goyle Onórach | Swab | Rescued from Riptide Cove; with Harvus group; former quartermaster context. |
+| Ebony Saable | Rigger | Sho's referenced `monk man` and Fipps' `dark one` assignment target; short, dark, bald, leanly muscled, mostly silent. |
+| Goyle Onórach | Swab / former quartermaster | Rescued from Riptide Cove; with Harvus group; witness against Plugg. |
 | Kahina Bukekayo | Rigger | Aboard Man's Promise; testing Sho with life-for-life bargain. |
 | Merchiel V'giatore | Rigger | Restrained Nor'gal in first-night Rak confrontation; exact cold-open position unresolved. |
 | Nor'gal Daraa | Swab | Revenge thread for brother Kor'al / Cor'Wal; exact cold-open position unresolved. |
 
-Do not conflate the named six with the full survivor count. The count says fourteen surviving captured Man's Promise crew after Harrigan kills one weakened sailor. Six of those fourteen are named survivors assigned to Plugg's skeleton crew; the other eight went with the Wormwood.
+Do not conflate the named six with the full survivor count. The count says fourteen surviving captured Man's Promise crew after Harrigan throws the officer overboard. Six of those fourteen are named survivors assigned to Plugg's skeleton crew; the other eight went with the Wormwood.
 
 ## Current Location Buckets
 
@@ -101,7 +105,7 @@ Do not conflate the named six with the full survivor count. The count says fourt
 
 ### Man's Promise — Sho / Survivor Front
 
-- Sho Astor, believed in hot-box.
+- Sho Astor, believed in or around the hot-box.
 - Kahina Bukekayo, nearby or recently guarding / interrogating.
 - Other named survivors likely aboard unless specifically placed elsewhere: Dahrehn, Ebony, Merchiel, Nor'gal. Exact physical positions unresolved.
 
@@ -118,14 +122,11 @@ Evidence-backed or likely Man's Promise-side actors include:
 - Ambrose Kroop
 - Crimson Cogward
 - Ratline Rattsberger
-- Tam "Narwhal" Tate
+- Tam `Narwhal` Tate
 - Barefoot Samms Toppin, strong evidence / likely
-- Badger Medlar, probable but low-placement confidence
-- Jack Scrimshaw, weak / unresolved
+- Badger Medlar, GM-corrected aboard; exact position unresolved
+- Jack Scrimshaw, GM-corrected aboard; exact position unresolved
 - Conchobhar Turlach Shortstone, unresolved placement
-- Maheem, unresolved placement
-- Kipper, unresolved placement
-- Patch Patchsalt, unresolved placement
 
 ### Wormwood-Side / Not Present
 
@@ -135,6 +136,9 @@ Evidence-backed or likely Man's Promise-side actors include:
 - Riaris Krine
 - Habbly Quarne
 - Caulky Tarroon
+- Maheem, believed Wormwood-side
+- Kipper, believed Wormwood-side
+- Patch Patchsalt, believed Wormwood-side
 - the other eight surviving captured Man's Promise crew who went with the Wormwood after the Erastus 27 split
 
 ### Dead / Removed
@@ -147,7 +151,7 @@ Evidence-backed or likely Man's Promise-side actors include:
 - Kor'al / Cor'Wal Daraa
 - The Whale
 - Man's Promise captain
-- unnamed weakened captured sailor executed by Harrigan
+- only surviving Rahadoumi officer thrown overboard by Harrigan
 
 ## Loyalty Buckets
 
@@ -162,8 +166,6 @@ Likely or probable:
 - Slippery Syl Lonegan
 - Jaundiced Jape
 - Fipps Chumlett
-- possibly Maheem, if present
-- possibly Kipper, if present and capable
 - potentially Owlbear, if Sho's mercy is not actionable
 - any hostile Wormwood sailors whose survival depends on Plugg
 
@@ -175,11 +177,11 @@ Likely or player-evidenced:
 - Tilly Brackett
 - Ambrose Kroop
 - Goyle Onórach, conditionally
-- Badger Medlar, per Rak sheet and social evidence, placement unresolved
+- Badger Medlar, per Rak sheet and social evidence; exact position unresolved
 - Barefoot Samms Toppin, per Harvus influence and course-change evidence
 - Ratline Rattsberger, per Harvus influence evidence
 - Conchobhar, per Harvus influence evidence, placement unresolved
-- Jack Scrimshaw, per Rak friendly? note, placement unresolved
+- Jack Scrimshaw, per Rak friendly? note; exact position unresolved
 - Owlbear, if Sho's mercy is actionable
 
 ### Man's Promise Survivor Bloc
@@ -213,7 +215,6 @@ High-priority dossier maintenance:
 - `characters/npcs/barefoot-samms-toppin.md`
 - `characters/npcs/ratline-rattsberger.md`
 - `characters/npcs/crimson-cogward.md`
-- `characters/npcs/maheem.md`
 - `characters/npcs/shivikah.md`
 - `characters/npcs/slippery-syl-lonegan.md`
 - `characters/npcs/fipps-chumlett.md`
@@ -229,9 +230,9 @@ High-priority dossier maintenance:
 - Who is guarding Sho?
 - Who among the survivors supports Kahina's test?
 - Which Wormwood NPCs transferred to the Man's Promise and which stayed behind?
-- Badger placement: Man's Promise or Wormwood?
-- Maheem placement: Man's Promise or Wormwood?
-- Patch, Kipper, Tam, Samms, Jack, Ratline, Conchobhar placement.
+- Can Maheem, Kipper, and Patch be locked Wormwood-side, or should they remain strong GM belief?
+- Conchobhar placement.
+- Exact positions for Badger, Jack, Tam, Samms, Ratline, and Crimson.
 - Who can sail / rig / cook / repair / pump / stand watch / lead after a mutiny?
 - Whether the Man's Promise can meet or approximate the Crew 20 effective-operations reference after casualties and refusals.
 - Whether the crew would accept Sho, Harvus, Rak, Mirei, Goyle, Sandara, or someone else as a command solution.
