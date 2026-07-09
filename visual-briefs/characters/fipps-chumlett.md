@@ -10,6 +10,7 @@
 - Canon status: GM-approved visual anchor
 - Asset ID: `fipps-chumlett-portrait-v1`
 - Intended asset path: `art/characters/fipps-chumlett-portrait-v1.png`
+- Asset file ownership: GM-managed import.
 - Style reference anchor: `slippery-syl-portrait-v1` for house character-plate rendering style only, not likeness
 
 ## Source Basis
@@ -113,10 +114,8 @@ Use `fipps-chumlett-portrait-v1` as the identity anchor. Preserve his fat shaved
 
 - Tracking row: `fipps-chumlett-portrait-v1` in `tracking/image-output-index.md`
 - Generated asset path: `art/characters/fipps-chumlett-portrait-v1.png`
-- Binary asset note: the approved generated image still needs to be uploaded/committed at the intended repo path if it is not already present in the repo.
 
 ## Open Checks
 
-- Commit or attach the approved image file at `art/characters/fipps-chumlett-portrait-v1.png` when binary asset workflow is available.
 - Create a Coconut Beach variant only if current-state injury / bandage / exhaustion needs to be shown.
 - Create a token crop if VTT use is needed.
