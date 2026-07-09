@@ -4,9 +4,9 @@
 
 - Type: Narrative Write-Up
 - Maturity: Draft / canon-candidate
-- Scope: Erastus 6 harassment encounter, first true workday geography, task seeding, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, Mirei's first recovered performance, Rak/Grok brew scene, and Bloody Hour consequence
+- Scope: Erastus 6 harassment encounter, first true workday geography, task seeding, minor NPC seeding, Mirei/Tilly work conversation, Maheem/Harvus rigging conversation, Sho/Grok item conversation, Mirei's first performance beat, Rak/Grok brew scene, and Bloody Hour consequence
 - Source spine: `source-spines/wormwood-erastus-6-day-two.md`
-- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 chat extracts, AP task scaffold, Wormwood area scaffold, crew/watch tracking, and GM guidance
+- Source basis: AP Day 2 scaffold, GM Day 2 note, table outcome summary, Day 2 chat extracts, AP task scaffold, Wormwood area scaffold, crew/watch tracking, minor NPC characterization support, and GM guidance
 - Spoiler scope: Player-safe
 - Canon status: Becomes canon after GM/player sign-off
 
@@ -31,7 +31,15 @@ The bell meant work.
 
 The way up was blocked.
 
-Slippery Syl Lonegan had not come alone. Jaundiced Jape, Fipps Chumlett, and Aretta Bansion were with him, bodies set into the narrow paths between hammocks and pillars where a crowd could become a wall. They were not acting on private irritation alone. Master Scourge had set the shape of the encounter before it began. He wanted the new swabs bruised, delayed, and taught that the Wormwood had older hands who could reach them before the officers ever lifted a whip.
+Slippery Syl Lonegan had not come alone. She stood narrow and still in the cramped path between hammocks, tall and slender enough that she seemed to take up less space than she controlled. One hand rested near a knife hilt, not quite gripping it, not quite letting it go. She watched the new hands the way a knife watches a throat: without hurry, without anger, and without any real question about what it was made to do.
+
+Jaundiced Jape stood nearby, broad and silent, his yellowed stare moving from face to face and then to hands, belts, lockers, and whatever might be worth taking. He did not need to speak. His refusal to move said enough.
+
+Aretta Bansion filled the space with a different kind of threat. Her face was sharp, her ears too easy to notice, her bitterness already drawn tight around her mouth. She wore mockery like armor, but there was something raw under it, something that made insult and humiliation land too deep and come back meaner.
+
+Fipps Chumlett tried to make himself the wall. Shaved head, heavy cheeks, thick neck, and belly-forward swagger, he blocked the way with the practiced posture of a man who had learned that size could make people hesitate. He was large, but not with the kind of strength that promised skill. His bulk made him bold only while the others were with him.
+
+They were not acting on private irritation alone. Master Scourge had set the shape of the encounter before it began. He wanted the new swabs bruised, delayed, and taught that the Wormwood had older hands who could reach them before the officers ever lifted a whip.
 
 The four pirates meant to make the new hands late.
 
@@ -43,11 +51,13 @@ The harassers came expecting a beating.
 
 Instead, they found resistance.
 
-Aretta took several blows from Harvus G'ron. Mirei distracted her at the crucial moment. Sho Astor rendered Aretta unconscious.
+Aretta took several blows from Harvus G'ron. Mirei distracted her at the crucial moment. Sho Astor rendered Aretta unconscious. The bitterness went out of Aretta's face only after the fight had already taken the choice from her.
 
-Jape fell. Syl fell. The message Scourge meant to send collapsed around them.
+Jape fell without wasting words. Syl fell with colder silence, her intended violence cut short before it could become the answer she trusted.
 
-Fipps Chumlett found himself cornered as the last attacker still standing, with Harvus and Sho there. The fistfight turned toward something more dangerous when he drew a dagger, but he was knocked out before he could use it.
+The message Scourge meant to send collapsed around them.
+
+Fipps Chumlett found himself cornered as the last attacker still standing, with Harvus and Sho there. For a moment the mask held: shoulders wide, chin forward, eyes trying to sell confidence his body no longer believed. Then he looked for the others and found them down. The sweat came through. The swagger curdled. The fistfight turned toward something more dangerous when he drew a dagger, less from courage than panic, but he was knocked out before he could use it.
 
 By the time the new hands pushed clear, all four of the harassers were down: Aretta, Fipps, Jape, and Syl.
 
@@ -105,11 +115,13 @@ This was the first day the Wormwood began to become a place instead of only a tr
 
 Harvus went where riggers belonged. Lines had to be hauled, checked, coiled, secured, lifted, lowered, and watched. The work took him into the vertical ship, where the deck fell away underfoot and the rigging made a second road above the heads of the crew. The mainmast was not just the place where sailors were whipped. It was also where the ship's labor climbed into the sky.
 
-Conchobhar moved in that world too, smaller and quick, one more rigger among lines and cleats and orders shouted across wind.
+Conchobhar moved in that world too, smaller and quick, one more rigger among lines and cleats and orders shouted across wind. Tam "Narwhal" Tate was there as well, thick-armed and ugly-nosed, moving through rope work with the ease of someone who had known Scourge and the ship long enough that both seemed part of the same old bargain. He did not need to be the cruelest man in sight to be part of the pack.
 
 Mirei was kept with the swabs. The work was lower, rougher, and less graceful than song: deck boards to scrub, rope to haul, repairs to hold steady while the ship moved under her feet. Crimson worked in the same broad world of swab labor, the volunteer made subject to the same planks, buckets, coils, and officer eyes as those taken by force.
 
 Sho learned the ship through motion and obstruction. Swab work sent her across spaces where every hatch, stair, and locked door taught a lesson. The main deck was public. The officers' doors were forbidden. The way toward Grok's store was narrow, watched, and practical. On the Wormwood, moving from one place to another was never only movement. It was permission, timing, and risk.
+
+Shivikah saw much and said little. Tall enough to be noticed even when she tried not to be, she watched work, failure, and force with the measuring stillness of someone who understood people as threats, assets, and costs. She did not cheer the morning beating. She did not comfort anyone afterward. She simply watched who could stand, who could lie, and who could keep moving.
 
 Rak was sent below, back to the heat.
 
@@ -123,7 +135,7 @@ The Wormwood ran because everyone was used until they were useful, broken, or bo
 
 During the workday, Mirei tried to make the labor pass more easily by talking.
 
-Tilly Brackett was working near her, hands already busy, patience already spent.
+Tilly Brackett was working near her, hands already busy, patience already spent. She had the look of someone hard-used by ships and still amused by the insult of surviving them. Her eyes laughed before her mouth did, and even annoyance sat on her like a joke she had decided not to tell yet.
 
 > "I'm trying to work here, what do you want?"
 
@@ -171,7 +183,9 @@ Around them, work continued. Rope dragged over planks. Buckets moved. Someone cu
 
 ## Maheem and Harvus in the Rigging
 
-During work, likely in the rigging, Maheem spoke with Harvus G'ron.
+During work, Maheem spoke with Harvus G'ron in the rigging.
+
+Maheem was hard to miss. Big, Rahadoumi, and weathered by salt and sun, he carried a permanent scowl that might have been contempt, fatigue, or simply the face the Wormwood had left him. He worked without flourish and without waste, hauling and setting lines like a man who believed order mattered even when the order was cruel.
 
 Maheem sneered first.
 
@@ -245,17 +259,21 @@ For Scourge and Plugg, this preserved the ship's discipline. For the four who ha
 
 For Aretta especially, the punishment mattered.
 
-She had been beaten, distracted, rendered unconscious, and then punished for the failure. That was not the end of the conflict. It was the beginning of her revenge thread.
+She had been beaten, distracted, rendered unconscious, and then punished for the failure. Her anger did not cool under the lash. It clarified. The Wormwood had taught her to treat shame as a debt, and now she knew who she wanted to collect it from.
 
-## Mirei's First Recovered Performance
+Fipps learned a different lesson and tried not to show it. He had been backed by a group, cornered alone, panicked, drawn steel, and still lost. The next time he laughed with the hostile crew, the sound would have to cover more fear than before.
+
+That was not the end of the conflict. It was the beginning of the revenge thread.
+
+## Mirei's First Performance Beat
 
 That night, after the day's labor and the ship's public punishment, the lower hold shifted into its other life.
 
 Hammocks went up between pillars. Lockers opened and closed. Rum moved through bodies and voices. The ship did not become safe, but it became less orderly. The day belonged to bells, work, and officers. The night belonged to debts, music, boasts, grudges, quiet warnings, and people watching one another pretend not to watch.
 
-Mirei played.
+Jack Scrimshaw sat with a bit of bone or shell in his hands, knife moving in small careful cuts. He had the narrow, young look of someone trying to make something delicate in a place that broke delicate things. Giffer Tibbs lingered nearby, one-eyed and bedraggled, still bright in flashes when something caught her interest.
 
-It was the first performance preserved clearly after Sandara returned Mirei's harp. Whether or not she had played before, this was the first one the archive can hear.
+Mirei played.
 
 Harvus reacted without restraint.
 
@@ -287,7 +305,7 @@ Mirei recognized the roughness of it, but Badger answered simply.
 
 Mirei thanked Badger for liking the performances and noted that it sounded like dinner time.
 
-The scene mattered because Mirei's music became visible social currency almost immediately. Harvus and Rak supported her openly, while Badger's compliment gave Mirei a connection to an older lower-crew sailor who had already learned to treat shipwreck and loss as ordinary parts of the life.
+The scene mattered because Mirei's music became visible social currency almost immediately. Harvus and Rak supported her openly, while Badger's compliment gave Mirei a connection to an older lower-crew sailor who had already learned to treat shipwreck and loss as ordinary parts of the life. Around that first ring of attention were quieter witnesses too: Jack carving, Giffer noticing, Tilly somewhere in the press of crew and rum, all of them proof that the lower deck held more than enemies.
 
 ## Rak and Grok Brew
 
@@ -337,7 +355,7 @@ Mirei distracted Aretta during the fight.
 
 During work, she spoke with Tilly to make the labor pass faster. She told Tilly that she had been admiring the water when she was struck on the back of the head and taken.
 
-That night, Mirei performed for the nearby crew. Harvus and Rak praised her openly, and Badger Medlar complimented her performances and asked where she learned.
+That night, Mirei performed for the nearby crew. Harvus and Rak praised her openly, and Badger Medlar complimented her performances and asked where she learned. Jack and Giffer were seeded as nearby lower-crew witnesses.
 
 This is an early example of Mirei acting in support of the new hands during direct shipboard danger, trying to build survivable social contact through conversation, and using performance as connection and social value aboard the Wormwood.
 
@@ -353,14 +371,22 @@ Rak moved from the lower-hold fight to Scourge's deck confrontation, then back i
 
 Cooking gave him the practical bridge to Grok. By night, he returned to her with apology, alcohol, and the chance to offer something useful instead of only asking for gear.
 
-### Badger Medlar
+### Hostile Lower Crew
+
+Syl, Jape, Aretta, and Fipps failed to delay the new hands and were punished for being late.
+
+Syl remains a cold tactical threat. Jape remains silent pressure. Aretta turns humiliation into grievance. Fipps' bully mask cracks when he is isolated, but fear makes him more likely to follow stronger cruelty rather than less.
+
+### Badger, Jack, Giffer, and Tilly
 
 Badger complimented Mirei's performances and asked where Mirei learned.
 
-She was visibly tired from work and described herself as getting old. She told Mirei that she had known this life for a while and did not remember how long it had been since the ship she was on was sunk.
+Jack's quiet carving and Giffer's bright, bedraggled attention help establish that the lower crew contains witnesses and possible future sympathies, not only enemies.
+
+Tilly's work conversation with Mirei establishes her as a tough, practical counterpoint: another woman who wanted the sea, but who entered it with rougher expectations.
 
 ## Open Checks
 
 - Confirm exact Day 2 work tasks if old rolls are later recovered.
 - Confirm whether Rak's "robe and wizard hat" table line should remain omitted, be rendered as table-flavor narration, or be restored literally.
-- Confirm whether this write-up should be split into a longer narrative chat scene for Discord posting.
+- Confirm whether Jack and Giffer should remain light background in this scene or be foregrounded more before Discord posting.
