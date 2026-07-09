@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state reference / correction note
-- Maturity: Working control document, corrected with Badger / Jack aboard and Maheem / Kipper / Patch believed Wormwood-side
+- Maturity: Working control document, corrected with Badger / Jack aboard, Maheem / Kipper / Patch believed Wormwood-side, and locked Rahadoumi-officer example sequence
 - Scope: Erastus 27 ship split, Arodus 5 Man's Promise actor pool, skeleton-crew viability, and ship crew requirement reference
 - Canon status: Current GM truth plus rules-reference note unless superseded by later direct evidence
 
@@ -35,14 +35,16 @@ The ship split on **Erastus 27, 4712 AR**.
 
 Correct sequence:
 
-1. The Wormwood captured the Man's Promise.
+1. The Wormwood captured the Man's Promise on Erastus 25.
 2. The post-battle captured Man's Promise survivor lineup contained **15 captured survivors**.
-3. Captain Harrigan made an example of one weakened captured sailor by throwing that sailor overboard.
+3. Captain Harrigan made an example of the **only surviving Rahadoumi officer** by throwing that officer overboard.
 4. **14 captured Man's Promise survivors** remained alive after that execution.
-5. Harrigan promoted Mr. Plugg to captain of the Man's Promise and assigned him a skeleton crew.
+5. Harrigan assigned Mr. Plugg a skeleton crew and Plugg claimed captaincy of the Man's Promise.
 6. The Wormwood and the Man's Promise separated on Erastus 27.
 7. Of the fourteen surviving captured Man's Promise crew, **six named survivors** were assigned to Plugg's skeleton crew.
 8. The other **eight surviving captured Man's Promise crew went with the Wormwood**.
+
+Older notes that left a Rahadoumi officer visibly alive after the Erastus 27 example are superseded unless later evidence identifies a separate non-officer witness or another distinct survivor.
 
 ## Six Named Man's Promise Survivors Assigned to Plugg
 
@@ -51,7 +53,7 @@ These six are the fixed named survivor bloc assigned to the Man's Promise under 
 | Character | Role | Arodus 5 state |
 |---|---|---|
 | Dahrehn Numus | Swab | Likely Man's Promise; exact physical position unresolved. |
-| Ebony Saable | Rigger | Likely Man's Promise; confirmed as Fipps' "dark one" / Sho's "monk man" thread; exact cold-open position unresolved. |
+| Ebony Saable | Rigger | Likely Man's Promise; confirmed as Fipps' `dark one` / Sho's `monk man` thread; exact cold-open position unresolved. |
 | Goyle Onórach | Swab / former quartermaster context | Bonewrack, with Harvus/Mirei/Sandara/Tilly after rescue. |
 | Kahina Bukekayo | Rigger | Man's Promise, active around Sho's hot-box / life-for-life test. |
 | Merchiel V'giatore | Rigger | Likely Man's Promise; exact physical position unresolved. |
@@ -69,6 +71,7 @@ Correct handling:
 - Their names and later Wormwood-side fates remain unresolved.
 - They should not be counted toward the Man's Promise crew available at Bonewrack.
 - They should not be used as unnamed relaunch actors unless later evidence brings them back.
+- Under current reconstruction, they do not include the only surviving Rahadoumi officer thrown overboard by Harrigan.
 
 ## Current Arodus 5 Actor Pool
 
