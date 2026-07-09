@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Chronology
-- Maturity: Draft
+- Maturity: Draft, corrected with Tidal Cutlass naming normalization
 - Scope: Immediate pre-relaunch split scenes
 - Source: GM-provided Arodus 5 chat-log discovery
 
@@ -33,7 +33,7 @@ Harvus helps him ashore.
 
 Goyle warns the group not to expect a warm welcome back at the ship.
 
-Goyle says Plugg blasted him and a grindylow off the ship with the tidewater cutlass.
+Goyle says Plugg blasted him and a grindylow off the ship with the Tidal Cutlass.
 
 Goyle says Plugg is no pirate captain and has no honor.
 
@@ -169,7 +169,7 @@ Fipps remains behind.
 
 The survivors stop to rest at their last checkpoint and glare at approaching botflies.
 
-The label "survivors" appears in the source log and likely refers to the moving island-side party, but this should be reconciled.
+The label `survivors` appears in the source log and likely refers to the moving island-side party, but this should be reconciled.
 
 ## 2:28pm — Cold-Open Beat
 
@@ -199,7 +199,7 @@ Still locked up aboard the Man's Promise after agreeing to Kahina's life-for-lif
 
 ## Reconciliation Questions
 
-- Does the 2:27pm "survivors" label refer to Harvus' rescued group, Rak's moving group, or both in separate timeline tracks?
+- Does the 2:27pm `survivors` label refer to Harvus' rescued group, Rak's moving group, or both in separate timeline tracks?
 - Was the ship already moving toward the south/far shore while Sho and Kahina spoke?
-- Where exactly is the "stronghold" relative to the fork at the final cold-open beat?
+- Where exactly is the `stronghold` relative to the fork at the final cold-open beat?
 - Is Fipps guarding the beach, waiting for the ship, recovering from injury, or all three?
