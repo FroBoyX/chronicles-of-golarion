@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Focused chat handoff
-- Maturity: Working control document, corrected with Erastus 27 ship-split model and storm-tracing routing
+- Maturity: Working control document, corrected with Erastus 27 ship-split model, Rahadoumi-officer example sequence, storm-tracing routing, and current placement drift audit
 - Scope: Man's Promise boarding, prize-crew period, Bonewrack Isle, current fork, hot-box, survivor politics, mutiny setup
 
 ## Chat Purpose
@@ -77,6 +77,7 @@ You are the Man's Promise / Bonewrack archivist for FroBoyX/chronicles-of-golari
 - `characters/npcs/merchiel-vgiatore.md`
 - `characters/npcs/norgal-daraa.md`
 - `characters/npcs/jack-scrimshaw.md`
+- `characters/npcs/badger-medlar.md`
 - `characters/npcs/mr-plugg.md`
 - `characters/npcs/master-scourge.md`
 - `characters/npcs/sandara-quinn.md`
@@ -94,22 +95,22 @@ The attack on the Man's Promise left **15 captured survivors**.
 
 The captain of the Man's Promise died during the battle.
 
-Harrigan then made an example of a weakened captured sailor by throwing that sailor overboard to the sharks.
+Harrigan then made an example of the **only surviving Rahadoumi officer** by throwing that officer overboard to the sharks.
 
 That left **14 surviving captured Man's Promise crew**.
 
-After that survivor lineup, Harrigan promoted Mr. Plugg to captain of the Man's Promise, assigned a skeleton crew, and the Man's Promise and Wormwood separated on **Erastus 27, 4712 AR**.
+After that survivor lineup, Harrigan assigned Mr. Plugg a skeleton crew, Plugg claimed captaincy of the Man's Promise, and the Man's Promise and Wormwood separated on **Erastus 27, 4712 AR**.
 
 Of those fourteen, the archive currently tracks **six named survivors assigned to Plugg's skeleton crew**:
 
 - Dahrehn Numus — swab
-- Ebony Saable — rigger; Sho's referenced "monk man" and Fipps' "dark one" assignment target
-- Goyle Onórach — swab; former quartermaster context; currently rescued on Bonewrack
+- Ebony Saable — rigger; Sho's referenced `monk man` and Fipps' `dark one` assignment target
+- Goyle Onórach — swab / former quartermaster; currently rescued on Bonewrack
 - Kahina Bukekayo — rigger; Sho's current moral interrogator
 - Merchiel V'giatore — rigger; restrained Nor'gal in first-night Rak confrontation
 - Nor'gal Daraa — swab; revenge thread for dead brother Kor'al / Cor'Wal
 
-The other eight surviving captured Man's Promise crew went with the Wormwood after the Erastus 27 split. Their names and later Wormwood-side fates remain unresolved, but they are not Arodus 5 Man's Promise / Bonewrack actors.
+The other eight surviving captured Man's Promise crew went with the Wormwood after the Erastus 27 split. Their names and later Wormwood-side fates remain unresolved, but they are not Arodus 5 Man's Promise / Bonewrack actors. Under current reconstruction, they do not include the only surviving Rahadoumi officer.
 
 ## Storm and Island Tracing Priority
 
@@ -120,11 +121,11 @@ Do not resolve these positions from survivor-set membership alone.
 Current routing:
 
 - Harvus' storm actions: trace logs first; if unresolved, ask Harvus' player.
-- Sho's possible role in Sandara's backup "rough way" information plan: trace logs first; if unresolved, ask Sho's player.
+- Sho's possible role in Sandara's backup `rough way` information plan: trace logs first; if unresolved, ask Sho's player.
 - Plugg / Syl report follow-up: trace post-storm logs; GM memory says this comes up there.
 - Syl's knife wound on Mirei: player interpretation question after giving Mirei's player a narrative version of the exchange.
 - Mirei eating the waiting third plate: likely no if it would have had to happen before the storm, but trace logs before locking.
-- Jack Scrimshaw is locked as the second sailor with Tam when Mirei addressed "you two."
+- Jack Scrimshaw is locked as the second sailor with Tam when Mirei addressed `you two`.
 
 ## Current Relaunch State
 
@@ -179,7 +180,7 @@ Do not write Sho as knowing Rak killed Giffer unless later evidence says she lea
 
 ### Mirei / Plugg
 
-Mirei was pressured into a privileged and dangerous role by Plugg. Evidence includes the "mistress" framing, Syl's threat, and the later betrayal assignment. Write carefully: Plugg's language and shipboard dynamics matter, but do not overstate unconfirmed sexual content.
+Mirei was pressured into a privileged and dangerous role by Plugg. Evidence includes the `mistress` framing, Syl's threat, and the later betrayal assignment. Write carefully: Plugg's language and shipboard dynamics matter, but do not overstate unconfirmed sexual content.
 
 ### Harvus / Sandara / Badger
 
@@ -194,14 +195,13 @@ Harvus and Mirei helped rescue Sandara, Tilly, and Goyle from Riptide Cove. Goyl
 - Which exact Man's Promise sailors heard Sho promise safety?
 - Which surrendering sailors were killed by Rak and/or Harvus?
 - What exact object did Harrigan give Sho, and does she still have it?
-- What does Sho's "monk man" reference say about Ebony beyond identification?
+- What does Sho's `monk man` reference say about Ebony beyond identification?
 - Which of the six named survivors are physically on deck, below, guarding Sho, or with Plugg at cold open?
 - Who else is physically aboard the Man's Promise at cold open?
 - Who among the survivor bloc supports Kahina's test?
 - Whether Owlbear is controllable by Plugg or moved by Sho's mercy.
 - Whether Fipps reaches the ship before the fork collision resolves.
 - Whether the Man's Promise can be sailed after a mutiny given casualties, loyalties, and the Crew 20 effective-operations reference.
-- Exact year cleanup for Arodus 5 docs if any still preserve 4691 after 4712 correction.
 - What are the names and later Wormwood-side fates of the other eight captured Man's Promise survivors?
 
 ## Output Style
