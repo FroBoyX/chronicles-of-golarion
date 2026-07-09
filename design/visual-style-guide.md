@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Design note / visual style guide
-- Maturity: Working guide, expanded with Syl/Fipps character-plate anchors
+- Maturity: Working guide, expanded with Syl/Fipps character-plate anchors and Rak non-human PC anchor
 - Scope: Chronicles of Golarion visual tone for Skull & Shackles character art, location art, and battle-map styling
 - Owner: GM / canon authority
 
@@ -116,8 +116,9 @@ The current approved / locked character-plate anchors are:
 
 - `slippery-syl-portrait-v1` — lean, dangerous, elegant knife-fighter antagonist; current house rendering/style baseline.
 - `fipps-chumlett-portrait-v1` — fat, lower-crew bully/coward antagonist; confirms the same house style can support non-glamorous body type, lower social rank, insecurity, and ugly social pressure.
+- `rak-wraithraiser-portrait-v1` — approved brown-scaled nagaji pirate-alchemist PC plate; first locked non-human PC anchor and current guide for ancestry/species cues without drifting into photoreal monster design, dragonborn design, or cartoon styling.
 
-Together, Syl and Fipps define the early character-art range:
+Together, Syl, Fipps, and Rak define the early character-art range:
 
 - full-body / 3/4-body portrait readability;
 - simple parchment or light neutral NPC-plate backgrounds;
@@ -128,11 +129,14 @@ Together, Syl and Fipps define the early character-art range:
 - controlled grime and weathered materials;
 - earthy pirate palette;
 - portrait clarity over scene drama;
-- enough body-type and attitude range that the house style does not collapse into one repeated attractive rogue silhouette.
+- enough body-type and attitude range that the house style does not collapse into one repeated attractive rogue silhouette;
+- enough ancestry/species flexibility that non-human characters remain playable-character readable without becoming monsters or cartoons.
 
 Do not copy Syl's likeness, costume, tattoos, gender presentation, knife identity, elegance, or attitude onto other characters unless the character brief calls for those traits.
 
 Do not copy Fipps's body type, shaved head, bully stance, cowardice, or lower-crew look onto other characters unless the character brief calls for those traits.
+
+Do not copy Rak's nagaji features, brown scale palette, alchemist gear, spear-down pose, or reptilian silhouette onto other characters unless the character brief calls for those traits.
 
 Use the anchors for rendering target and output discipline, not for homogenizing designs.
 
@@ -141,7 +145,7 @@ Use the anchors for rendering target and output discipline, not for homogenizing
 Use references in this order:
 
 1. **Approved archive anchors**
-   - Use GM-approved Chronicle anchors such as `slippery-syl-portrait-v1` and `fipps-chumlett-portrait-v1` for style continuity.
+   - Use GM-approved Chronicle anchors such as `slippery-syl-portrait-v1`, `fipps-chumlett-portrait-v1`, and `rak-wraithraiser-portrait-v1` for style continuity.
 2. **Primary portrait references**
    - Isolated full-body or 3/4-body Pathfinder / Shackles character illustrations.
    - NPC plates, player-facing character images, and clean adventure-path figure art.
@@ -169,6 +173,20 @@ Characters should be rendered with:
 - no same-face syndrome.
 
 Faces should be expressive and identity-forward, with enough stylization to feel illustrated rather than photographic.
+
+### Non-Human PC Handling
+
+Use Rak Wraithraiser as the first locked non-human PC character-plate anchor.
+
+For non-human PCs and NPCs:
+
+- preserve ancestry/species cues clearly enough that the character does not become a human in makeup;
+- keep the figure person-readable and role-readable;
+- avoid drifting into photoreal monster anatomy unless the subject is actually a monster;
+- avoid cartoon, anime, mascot, or dragonborn defaults when the subject is a different ancestry;
+- preserve practical clothing, gear, and shipboard role so ancestry does not overwhelm character identity.
+
+For Rak specifically, preserve brown integrated scales, smaller tail, nagaji pirate-alchemist silhouette, and practical alchemical gear.
 
 ### Costume Language
 
@@ -314,7 +332,7 @@ Reject or revise outputs that drift toward:
 - **Sho Astor:** disciplined restraint, suli/Jalmeray cues, soft lavender skin, silver short hair, piercing solid blue eyes, monk practicality, hidden softness around cloak/Agatha, current hot-box stress when relevant.
 - **Harvus G'ron:** avian/strix-like rigger, damaged wing, rage under restraint, rope/rigging labor, rescue-legend physical exhaustion.
 - **Mirei:** aasimar sea-singer bard, river-to-sea wonder, music as survival, luminous but increasingly pressured by Plugg-era contamination.
-- **Rak Wraithraiser:** nagaji alchemist/cook's mate, dangerous practical humor, galley/booze/alchemy cues, Besmara-adjacent pirate survival.
+- **Rak Wraithraiser:** approved brown-scaled nagaji pirate-alchemist anchor; dangerous practical humor, galley/booze/alchemy cues, Besmara-adjacent pirate survival, smaller tail, integrated scale pattern, practical alchemist gear.
 
 These are starting cues only. Use PC dossiers and player discovery as the controlling source.
 
@@ -423,12 +441,12 @@ Use these asset statuses:
 
 - `slippery-syl-portrait-v1` — Working anchor / style baseline pending binary asset placement.
 - `fipps-chumlett-portrait-v1` — Approved visual canon pending binary asset placement.
+- `rak-wraithraiser-portrait-v1` — Approved visual canon pending binary asset placement; first locked non-human PC plate anchor.
 
 ## First Pilot Recommendations
 
 Good next character pilots:
 
-- Rak Wraithraiser visual brief / portrait test if the GM's new visual target is ready.
 - Sho Astor hot-box portrait.
 - Harvus post-Riptide rescue portrait.
 - Sandara Quinn crew portrait.
