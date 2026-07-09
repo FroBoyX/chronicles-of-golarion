@@ -2,14 +2,15 @@
 
 ## Document Status
 
-- Type: Character visual brief
-- Maturity: Draft, updated with canonical 5'5" height
+- Type: Character visual brief / commission reference brief
+- Maturity: Draft, updated with canonical 5'5" height and no-AI-generation restriction
 - Subject: Sho Astor
-- Asset type: Portrait
+- Asset type: Portrait / future non-AI portrait or commissioned reference
 - Spoiler scope: Player-safe if cropped/context-controlled
 - Canon status: Working visual brief, no approved visual canon yet
 - Proposed asset ID: `sho-hotbox-portrait-v1`
-- Anchor asset: Intended first character portrait anchor if approved
+- Generation policy: **No AI image generation. Player does not permit AI generation for Sho.**
+- Anchor asset: None yet; brief may be used for human commission, manual art direction, or non-generated reference work only.
 
 ## Source Basis
 
@@ -26,10 +27,11 @@
   - Current relaunch state: Sho is aboard the Man's Promise, imprisoned in the hot-box after being beaten unconscious by Scourge's shore group.
   - Kahina Bukekayo has spoken with Sho and challenged whether Sho's remorse has action behind it.
   - Sho's canonical height is 5'5"; prior 6'2" descriptive evidence is superseded.
+  - Sho's player does not permit AI image generation for this character.
 - Existing visual anchors:
   - None.
 - Reference notes:
-  - Use Pathfinder/Golarion/Skull & Shackles pirate-fantasy tone for costume language, shipboard grime, and punishment context.
+  - Use Pathfinder/Golarion/Skull & Shackles pirate-fantasy tone for costume language, shipboard grime, and punishment context if preparing a human commission brief.
   - Use reference material only for material culture, mood, palette, and silhouette family; do not directly reproduce Paizo art.
 
 ## Known Visual Facts
@@ -80,6 +82,7 @@
 - Hard tropical heat, stale air, salt-stained wood, rope, rusted fittings, and punished flesh.
 - Pathfinder/Golarion pirate-fantasy tone, not generic medieval prison fantasy.
 - Portrait should prioritize recognizable identity and story state over beauty.
+- This style direction is for manual art direction, human commission, or non-AI reference work only.
 
 ## Output Requirements
 
@@ -88,12 +91,13 @@
 - Background: Close wooden punishment-box interior or slatted opening with blurred Man's Promise deck light beyond.
 - Player-safe scope: Safe if presented as Sho's current captivity state; avoid GM-only surrounding mutiny details.
 - Variants needed:
-  - Later: full-body anchor after portrait approval.
-  - Later: cloak / Agatha selfhood variant.
-  - Later: post-hot-box escape or mutiny-state variant.
+  - Later: full-body anchor only through non-AI art / player-approved art process.
+  - Later: cloak / Agatha selfhood variant only through non-AI art / player-approved art process.
+  - Later: post-hot-box escape or mutiny-state variant only through non-AI art / player-approved art process.
 
 ## Avoid / Do Not Drift
 
+- Do not use AI image generation for Sho.
 - Do not make Sho generic human; preserve suli coloration.
 - Do not over-sexualize confinement or punishment.
 - Do not make the scene clean, theatrical, or noble-court polished.
@@ -102,7 +106,7 @@
 - Do not show overt Irori iconography unless GM confirms active visual faith.
 - Do not place the cloak openly unless GM confirms she has access to it in this scene.
 
-## Prompt Draft
+## Commission / Manual Art Direction Draft
 
 ```text
 Vertical character portrait of Sho Astor, a 5'5" female suli monk from Jalmeray imprisoned in a cramped shipboard hot-box aboard a captured pirate prize ship. She has soft lavender skin, short silver hair, and piercing solid blue eyes. Her clothing is practical, gender-neutral, salt-stained monk travel wear with restrained Jalmeray influence, worn and dirtied by shipboard punishment. Frame her tightly through the narrow slats or cramped opening of the hot-box. Show tropical heat, sweat, bruising, rope marks, weathered dark wood, rusted fittings, and hard sunlight cutting through the box. Her expression is controlled and furious beneath discipline: not defeated, but deciding what remorse demands. Grimy Golarion / Skull & Shackles pirate-fantasy tone, weathered materials, oppressive shipboard mood, recognizable character identity, painterly realism, no direct reproduction of official art.
@@ -111,10 +115,11 @@ Vertical character portrait of Sho Astor, a 5'5" female suli monk from Jalmeray 
 ## Asset Index Links
 
 - Tracking row: `sho-hotbox-portrait-v1` in `tracking/image-output-index.md`
-- Generated asset paths or links: None yet.
+- Generated asset paths or links: None; AI image generation is not permitted for this character.
 
 ## Open Checks
 
 - Confirm exact current injuries if the portrait should show more than heat stress / bruising / confinement marks.
 - Confirm whether Sho's cloak is physically available for a later variant.
 - Confirm whether active Irori symbolism should ever appear visually.
+- Confirm any player-approved non-AI art route if Sho art is still desired.
