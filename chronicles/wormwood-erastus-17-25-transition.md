@@ -3,15 +3,15 @@
 ## Document Status
 
 - Type: Narrative reconstruction / gap bridge
-- Maturity: Draft / canon-candidate
+- Maturity: Draft / canon-candidate, corrected with late-Wormwood chronology bridge
 - Scope: Erastus 17 through Erastus 25, covering the gap between the reefclaw task and the battle for the Man's Promise
-- Source basis: GM-provided date summary, keelhaul-charge clarification, and direct Man's Promise boarding log with date rectification
+- Source basis: GM-provided date summary, recovered Mirei player-cache summaries, keelhaul-charge clarification, and direct Man's Promise boarding log with date rectification
 - Spoiler scope: Player-safe as historical reconstruction
-- Canon status: Becomes canon after GM/player sign-off or later log reconciliation
+- Canon status: Becomes canon after GM/player sign-off or later raw-log reconciliation
 
 ## Source Note
 
-At current reconstruction, there are no recovered chat logs for Erastus 17 through Erastus 24.
+At current reconstruction, some Erastus 17-24 material remains bridged from recovered summaries rather than full raw chat logs.
 
 A direct chat log has been recovered for the Man's Promise boarding. Its original header says **Sunday, Erastus 26th, 4691 - Day 21**, but current campaign chronology places the battle in the early morning of **Erastus 25, 4712 AR**.
 
@@ -31,7 +31,7 @@ The heatwave did not break.
 
 The boiling sun continued across the water, grinding down the crew through heat and work.
 
-### Erastus 19 — Boarding Drills
+### Erastus 19 — Boarding Drills and Mast Punishment
 
 The weather finally let up.
 
@@ -39,17 +39,21 @@ Captain Harrigan assigned Riaris Krine to put the crew through boarding drills i
 
 This shifted the ship from weather endurance into combat preparation.
 
-### Erastus 20 — Work
+Scourge's rum-confession punishment and Mirei's mast punishment belong in this general Day 14 / Erastus 19 pressure span.
 
-A normal day of work aboard the Wormwood.
+### Erastus 20 — Aftermath / Hurt Performance
 
-No recovered specific scene currently survives.
+Sandara warned the PCs about drawing too much attention.
 
-### Erastus 21 — Work
+Sho privately checked on Mirei after the mast punishment, explaining that Peppery and Syl prevented her from doing more.
 
-Another normal day of work aboard the Wormwood.
+Mirei played the hurt performance that night so the crew could hear what had been done to her.
 
-No recovered specific scene currently survives.
+### Erastus 21 — Recovery / Overlap
+
+Mirei remained hurt and recovering.
+
+Giffer influence, Conchobhar warming, and Ratline contact fall in this overlapping recovered-cache period.
 
 ### Erastus 22 — Plugg Watches Sho
 
@@ -59,7 +63,15 @@ He began tracking who the monk interacted with and took it as a personal task to
 
 This is the current bridge between Sho's earlier public resistance and the later bilge setup.
 
-### Erastus 23 — Sho in the Bilges
+### Erastus 23 — Pressure Before the Bilges
+
+Plugg's assignment control, crew polarization, and hostile lower-crew pressure continued.
+
+Rak and Tilly's con fallout placed Maheem, Fipps, and Syl in a stronger hostile orbit around Rak.
+
+This date is no longer the Sho bilges date in active chronology.
+
+### Erastus 24 — Sho in the Bilges / Aretta Death / Hot-Box
 
 Plugg assigned Sho to the bilges with Aretta Bansion and Fipps Chumlett.
 
@@ -67,21 +79,23 @@ The working understanding is that Aretta and Fipps had orders to make sure Sho c
 
 The encounter turned violent.
 
-Aretta did not survive the fight.
+Aretta did not survive the aftermath of the fight.
 
 This remains one of Sho's major moral burden points: Aretta died after a violent shipboard setup designed to break or remove Sho.
 
-### Erastus 24 — Hot-Box and Interrupted Keelhauling
+Sho was then put in the hot-box under the charge of killing Aretta.
 
-Sho was put in the hot-box under the charge of killing Aretta.
+Plugg delayed the formal punishment until the next evening.
 
-She was to be keelhauled at Bloody Hour.
+### Erastus 25 — Interrupted Keelhauling and Battle for the Man's Promise
 
-Late that afternoon, the Man's Promise was sighted.
+Plugg announced that Sho would be keelhauled at Bloody Hour for killing Aretta.
 
-The ship shifted immediately into preparations for piracy, interrupting the punishment before it could be carried out.
+The Man's Promise was sighted before the punishment could be carried out.
 
-### Erastus 25 — Battle for the Man's Promise
+The ship shifted immediately into preparations for piracy, interrupting the punishment.
+
+Riaris Krine released Sho under captain's orders and tied dropping the charge to Sho proving useful in the boarding action.
 
 In the early morning, the Wormwood overtook the Man's Promise.
 
@@ -102,11 +116,13 @@ The battle marks the end of this gap bridge and the beginning of the Man's Promi
 ## What This Establishes
 
 - The heatwave occupies Erastus 17-18 in table reconstruction.
-- Riaris' boarding drills begin on Erastus 19 after the weather breaks.
+- Riaris' boarding drills and Mirei's mast punishment fall on Erastus 19 after the weather breaks.
+- Mirei's hurt performance follows on Erastus 20.
 - Plugg's attention to Sho becomes deliberate surveillance by Erastus 22.
 - Plugg is tracking not only Sho, but also people around defiance.
-- Aretta's death is placed on Erastus 23.
-- Sho's Erastus 24 hot-box / planned keelhauling is the direct consequence of Aretta's death.
+- Erastus 23 is a pressure/fallout day, not the Sho bilges date.
+- Aretta's death is now placed on Erastus 24.
+- Sho's hot-box confinement begins on Erastus 24 and the planned keelhauling is announced for Erastus 25.
 - The Man's Promise sighting interrupts the keelhaul trajectory before punishment is carried out.
 - Sho is released for the Erastus 25 battle because her combat ability is useful.
 - Sho is given an opportunity to lead a strike team in the Man's Promise battle.
@@ -118,9 +134,9 @@ The battle marks the end of this gap bridge and the beginning of the Man's Promi
 ## Open Checks
 
 - Was Harvus' Riaris / Scourge lashing during the Erastus 19 boarding drills or another drill sequence?
-- What direct scenes, if any, survive from Erastus 17-24 in player notes rather than chat logs?
+- What direct raw scenes, if any, survive from Erastus 17-24 beyond recovered summaries?
 - Did Plugg or Scourge explicitly order Aretta and Fipps to attack Sho, or was the order framed indirectly?
-- What was Fipps' condition after the Erastus 23 bilge fight?
+- What was Fipps' condition after the Erastus 24 bilge fight?
 - Who witnessed Aretta's death or its aftermath?
 - Who specifically ordered Sho released and assigned her strike-team role on Erastus 25?
 - What was Sho's exact condition when released for battle?
