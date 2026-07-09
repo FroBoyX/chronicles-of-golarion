@@ -3,15 +3,17 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, Erastus 22-25 escalation summary, keelhaul-charge clarification, and Sho player answers on disguise / Jakes Magpie / cloak / rum refusal / Rosie rescue / bilges ambush / Owlbear mercy / Man's Promise command failure
-- Scope: Book One continuity, current state, sheet evidence, and open threads
+- Maturity: Draft, consolidated with Arodus 5 hot-box dialogue, PCGen sheet evidence, GM rum-ration truth, Erastus 16 mast / reef task evidence, Erastus 16 night healing, corrected Erastus 24/25 bilges and hot-box chronology, Man's Promise command-failure material, and late-Wormwood chronology addendum
+- Scope: Book One continuity, current state, sheet evidence, relationships, and open threads
+- Player-facing status: Not player-facing by default
+- Spoiler status: Contains other-PC actions, Man's Promise survivor accusations, current hot-box state, and GM-side chronology corrections
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
 ## Overview
 
 Sho Astor is a disciplined, stubborn, defiant PC whose Book One arc centers on restraint, moral responsibility, self-control, and refusal to accept the Wormwood's cruelty as normal.
 
-At the current relaunch point, Sho is separated from the island party and still believed locked in the hot-box aboard the Man's Promise.
+At the current relaunch point, Sho is separated from the island party and still believed locked in or around the hot-box aboard the Man's Promise.
 
 Her scene with Kahina Bukekayo creates a parallel climax: while Harvus returns with rescued witnesses and Rak navigates hostile island politics, Sho must answer whether remorse has action behind it.
 
@@ -30,7 +32,7 @@ Her scene with Kahina Bukekayo creates a parallel climax: while Harvus returns w
 - Eyes: Piercing solid blue
 - Hair: Silver, short
 - Current location: Man's Promise
-- Current condition: Alive, imprisoned in the hot-box at current reconstruction
+- Current condition: Alive, imprisoned in or around the hot-box at current reconstruction
 - Immediate scene partner: Kahina Bukekayo
 
 ## Physical Description Conflict
@@ -269,29 +271,51 @@ Sho became somewhat protective and fond of him. She wanted to somehow release hi
 
 This established one of Sho's core Book One themes: strength under restraint, and the ability to distinguish a victimized tool from the person using him.
 
+### Erastus 19-20 — Mast Punishment Aftermath / Mirei Check
+
+After the Day 14 rum-confession punishment, Sho tried to check whether the people at the mast were alive.
+
+Peppery Longfarthing prevented open checking but turned away long enough for Sho to briefly check Mirei.
+
+Slippery Syl Lonegan appeared with a dagger, hounded Sho, and threatened to report her to Plugg.
+
+Sho later privately explained to Mirei that Peppery had sternly warned her and Syl had interrupted the check.
+
+This is safe for Sho-specific reconstruction but should not expose unrelated private whispers.
+
 ### Erastus 22 — Plugg Watches Sho
 
 On Erastus 22, Plugg took specific notice of Sho's defiance.
 
 He began tracking who the monk interacted with and made it his personal task to ensure anyone who had shown defiance was corrected.
 
-This is the current bridge between Sho's public resistance and the bilge setup the following day.
+This is the current bridge between Sho's public resistance and the later Erastus 24 bilge setup.
 
-### Erastus 23 — Bilges, Aretta, and Fipps
+### Erastus 24 — Bilges, Aretta, and Fipps
 
-On Erastus 23, Plugg assigned Sho to the bilges with Aretta Bansion and Fipps Chumlett.
+On Erastus 24, Plugg assigned Sho to the bilges / rats / pumping context with Aretta Bansion and Fipps Chumlett.
 
 The working understanding is that Aretta and Fipps were placed there with orders to make sure Sho could not continue being an issue.
 
-The encounter turned violent.
+Aretta and Fipps attacked Sho in the bilges after accusing her of slacking.
 
-Aretta did not survive the ensuing fight.
+Sho survived badly wounded and called for Sandara to help the wounded attackers.
+
+Scourge arrived, framed the fight as crew business, warned Sho about killing, and sent her to Habbly Quarne / Stitchman.
+
+Sandara was warned off by Scourge, who threatened unfinished business once in port.
+
+Stitchman treated Sho's dagger wounds.
+
+That night, Plugg told Sho that Sandara had helped Chumlett, but Aretta was dead.
+
+Plugg put Sho in the hot-box until the next evening because he had no time to deal with her immediately.
 
 This is one of Sho's major moral burden points. Aretta died in ugly shipboard conditions after a setup designed to break or remove Sho.
 
 ### Bilges Ambush and Attempted Frame
 
-Sho sees the Erastus 23 bilges event first as an attempted murder.
+Sho sees the Erastus 24 bilges event first as an attempted murder.
 
 From her perspective, the frame came after the murder attempt failed: she survived, and the setup became a way to make her responsible for what happened.
 
@@ -317,19 +341,31 @@ This is a moral burden and likely part of why Kahina's later challenge matters.
 
 The current reconstruction should treat Aretta's death as the result of Sho's defensive violence, Plugg/Scourge's hostile setup, and the Wormwood's delayed or inadequate care rather than as a clean execution by Sho.
 
-### Erastus 24 — Hot-Box and Interrupted Keelhauling
+### Erastus 24-25 — Hot-Box and Interrupted Keelhauling
 
-On Erastus 24, Sho was put in the hot-box under the charge of killing Aretta on Erastus 23.
+On Erastus 24, Sho was put in the hot-box under the charge of killing Aretta after the bilges ambush.
 
-She was to be keelhauled at Bloody Hour.
+Plugg announced that Sho would be keelhauled at Bloody Hour on Erastus 25 for killing Aretta while defending herself.
 
-The punishment was not carried out. In the late afternoon, the Man's Promise was sighted and the Wormwood shifted into preparations for piracy.
+Sho argued from inside the hot-box that the charge made no sense.
+
+Scourge kicked the box and told Sho to think about chain of command.
+
+The punishment was not carried out. Conchobhar called ship ahoy before the punishment occurred, and the Wormwood shifted into pursuit of the Man's Promise.
+
+Riaris Krine released Sho from the hot-box under captain's orders. Riaris told Sho the charges could be dropped if she proved herself in the boarding task.
+
+Sho was ordered to lead the aft boarding party: grapple over, kill guards near the sterncastle, take the wheel, and guard the ship's boats.
+
+Sho's leadership role was therefore an imposed survival bargain, not voluntary command ambition.
 
 ### Giffer / Foul Play Suspicion
 
 Sho's PCGen notes record a notice of potential foul play with Giffer's body, possibly causing Giffer's death.
 
-This needs reconstruction because the archive currently treats Giffer as killed during the Man's Promise boarding. Sho's note may indicate a suspicion, a different sequence, or a player-facing misunderstanding.
+The archive currently treats Giffer as killed during the Man's Promise boarding after Rak intentionally trampled or stomped her while moving through the fog. Sho did **not** directly witness Rak's intent and had no proof tying Rak to Giffer's death.
+
+Sho attempted to investigate but reached no actionable conclusion. Do not write Sho as knowing Rak's intent unless later magic, confession, or equivalent evidence exposes it.
 
 ### Watch List
 
@@ -405,7 +441,9 @@ Sho's PCGen notes identify:
 
 These names require reconciliation with current archive spellings Nor'gal and Kor'al.
 
-### Riaris Reward / Captain's Amulet
+### Erastus 26 — Revel / Harrigan Reward / Mirei Defense
+
+Sho's Harrigan reward and amulet placement belongs in the revel / reward aftermath, currently Erastus 26.
 
 Sho's PCGen notes list:
 
@@ -413,6 +451,14 @@ Sho's PCGen notes list:
 - Captain's Amulet: Rahadoumi coat of arms, tree design, bronze in color.
 
 This likely relates to Sho's reward after warning Harrigan and/or handling Man's Promise prisoners, but exact item disposition needs confirmation.
+
+During the revel, Sho saw drunken crew crowding around a fallen Mirei and challenged them.
+
+Rak removed Mirei from the dangerous scene and carried her below.
+
+Tam prevented the scene from becoming open violence.
+
+This revel danger should be handled carefully and not sensationalized.
 
 ## Man's Promise and Bonewrack
 
@@ -424,7 +470,7 @@ She later woke in the hot-box aboard the Man's Promise.
 
 ## Current Hot-Box Scene
 
-Sho is still believed to be locked up.
+Sho is still believed to be locked up in or around the hot-box.
 
 Kahina Bukekayo, a Man's Promise survivor, has spoken with her.
 
@@ -433,6 +479,8 @@ Kahina challenges whether Sho's remorse for the Man's Promise dead is meaningful
 If Sho claims regret, Kahina wants to know what Sho is willing to do about the people who caused or continue the suffering.
 
 This is not only a prison scene. It is a moral interrogation.
+
+Exact physical visibility and guard state after Kahina leaves remain unresolved.
 
 ## Current Health Evidence
 
@@ -488,7 +536,15 @@ The current understanding is not a general alliance. It is a life-for-life barga
 
 > Their lives, or Sho's.
 
-### Rak Wraithraiser / Wraithriser
+Sho's player-memory answer clarifies that Sho does not feel she deserves forgiveness. She seeks trust, cooperation, and a chance to act and do right moving forward.
+
+Sho does not believe killing Plugg or Scourge will undo what has been done. She believes it can stop them from doing more harm, free those under their influence, and punish them for their deeds.
+
+Sho's willingness to shed blood is target-specific. Random crew would cause hesitation. Mirei and Sandara would cause serious hesitation; Harvus would cause some hesitation. Rak, Plugg, Scourge, and Plugg/Scourge lackeys would cause little to no hesitation at this point.
+
+Do not write Sho as indiscriminately willing to kill.
+
+### Rak Wraithraiser
 
 Sho has fought alongside Rak and benefited from his rescue actions.
 
@@ -500,6 +556,8 @@ Rak was in the Erastus 16 reef task group with Sho.
 
 After the Man's Promise battle, Sho does not trust Rak. She blames him for direct atrocities during the battle, including the killing of a downed or pleading sailor and the unresolved lifeboat incident.
 
+Sho does not know Rak's hidden intent toward Giffer unless later evidence exposes it.
+
 ### Harvus G'ron
 
 Sho sees Harvus as a possible comrade and may hope his rage can be controlled or redirected.
@@ -509,6 +567,8 @@ She is not present for his rescue of Sandara and does not currently know what ha
 Harvus was in the Erastus 16 reef task group with Sho.
 
 After the Man's Promise battle, Sho does not trust Harvus. Her player memory preserves a moment where Sho promised safety as part of a surrender demand, only for Harvus to strike another crew member with a flail who was not looking to attack.
+
+Whether this distrust changes after learning Harvus rescued Sandara, Tilly, and Goyle remains open.
 
 ### Mirei
 
@@ -520,11 +580,13 @@ The Sho player confirmed that this created tension at first, but quickly turned 
 
 Sho directly asked Mirei to keep the secret, and Mirei agreed.
 
-Sho does not yet know the full result of Mirei's confession at the current reconstruction point.
+Sho does not yet know the full result of Mirei's Arodus 5 confession at the current reconstruction point.
 
 Mirei was in the Erastus 16 reef task group with Sho.
 
 On Erastus 16, Sho apologized when she realized Mirei had fought the reef creatures and been injured.
+
+On Erastus 19-20, Sho tried to check whether Mirei survived the mast punishment and later explained why she had been unable to do more.
 
 ### Badger Medlar
 
@@ -560,6 +622,8 @@ Sho blames Harrigan for attacking the Man's Promise in the first place. In her m
 
 Sho has thought Peppery attractive in a commanding way and received warning or indirect counsel from her.
 
+Peppery prevented Sho from openly checking the punished crew after the Erastus 19 mast punishment but may have allowed a brief check by turning away.
+
 ### Agatha Dreamriver
 
 Agatha remains a backstory emotional anchor and possible future objective.
@@ -588,11 +652,11 @@ Scourge repeatedly targeted Sho for defiance.
 
 On Erastus 16, he taunted her while she was tied to the mast, placing his whip under her chin and openly enjoying the prior punishment.
 
-The Erastus 23 bilge setup and Erastus 24 hot-box / keelhaul trajectory likely occurred with Scourge's participation or enforcement, though exact direct orders still need recovered evidence.
+The Erastus 24 bilge setup and Erastus 25 hot-box / keelhaul trajectory likely occurred with Scourge's participation or enforcement, though exact direct orders still need recovered evidence.
 
 Sho sees Scourge as scum who delights in malicious cruelty and needs to be taken down.
 
-After the Erastus 23 bilges ambush and frame, Sho's hatred intensified. She concluded that Scourge and Plugg needed to be taken down and that she herself would do it.
+After the Erastus 24 bilges ambush and frame, Sho's hatred intensified. She concluded that Scourge and Plugg needed to be taken down and that she herself would do it.
 
 ### Mr. Plugg
 
@@ -600,13 +664,15 @@ Sho sees Plugg as scum who delights in malicious cruelty and needs to be taken d
 
 Plugg's use of punishment, indirect violence, and authority makes him a clear moral enemy for Sho.
 
-After the Erastus 23 bilges ambush and frame, Sho's hatred intensified. She concluded that Plugg and Scourge needed to be taken down and that she herself would do it.
+After the Erastus 24 bilges ambush and frame, Sho's hatred intensified. She concluded that Plugg and Scourge needed to be taken down and that she herself would do it.
 
 Owlbear also sharpened Sho's view of Plugg's cruelty: Plugg did not merely command goons; he made victims into tools.
 
 ### Sandara Quinn
 
 On Erastus 16, Sandara healed or restored Sho after the reef task / mast punishment, reducing the fog in Sho's head.
+
+Sho likely does not yet know that Harvus rescued Sandara from Riptide Cove at the current branch split.
 
 ## Current Knowledge
 
@@ -627,7 +693,9 @@ Sho likely does not know:
 - Harvus killed the Whale,
 - Mirei confessed Plugg's betrayal order,
 - Rak's current island position,
-- Fipps is at Coconut Beach.
+- Fipps is at Coconut Beach,
+- Plugg pushed Goyle overboard with the Tidal Cutlass,
+- or the full current Riptide rescue-branch state.
 
 ## Campaign Function at Relaunch
 
@@ -641,6 +709,14 @@ The Kahina scene makes Sho's moral arc actionable: remorse must become risk.
 
 Sho's Man's Promise command failure also makes leadership a loaded subject for her: command without the power to enforce restraint becomes another way to fail people.
 
+## Player-Facing Caution
+
+- Do not reveal Rak's GM-only role in Giffer's death as Sho knowledge.
+- Do not reveal Mirei's Arodus 5 confession to Sho until in-game communication occurs.
+- Do not write Sho as indiscriminately willing to kill after Kahina's bargain.
+- Do not write Sho's command role during the Man's Promise boarding as voluntary ambition; it was an imposed survival bargain.
+- Do not treat Sho's distrust of Rak and Harvus as permanent without player confirmation after new events are revealed.
+
 ## Open Threads
 
 - Resolve Sho's true height and physical description.
@@ -651,7 +727,7 @@ Sho's Man's Promise command failure also makes leadership a loaded subject for h
 - Did that punishment expose or threaten Sho's disguise?
 - What spell or healing effect lifted the fog in Sho's head on Erastus 16?
 - Which press-gang members searched Sho's belongings and may have learned her disguise truth?
-- What exactly did Sho mean by admitting "who and what she is" if confronted?
+- What exactly did Sho mean by admitting `who and what she is` if confronted?
 - When exactly did Sho ask Mirei to keep the secret?
 - Who swindled Sho around the cloak recovery, and what was the trade?
 - Where did Sho hide the cloak after recovering it?
@@ -667,7 +743,7 @@ Sho's Man's Promise command failure also makes leadership a loaded subject for h
 - Did Plugg react immediately to Sho refusing the expected cruelty?
 - Did Sho ever speak to Owlbear privately or try to release him before the Man's Promise split?
 - Does Owlbear know Sho is currently in the hot-box?
-- What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 23 bilge fight?
+- What exact orders did Plugg or Scourge give Aretta and Fipps before the Erastus 24 bilge fight?
 - Who went down to the bilges after the fight, and what did Sho observe them doing or not doing?
 - Did Sho explicitly ask for help for Aretta and / or Fipps?
 - What evidence did Sho have at the time that the aftermath was a frame rather than negligence?
