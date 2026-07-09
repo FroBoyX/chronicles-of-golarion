@@ -2,14 +2,15 @@
 
 ## Document Status
 
-- Type: Character visual brief
-- Maturity: Draft
+- Type: Character visual brief / commission reference brief
+- Maturity: Draft, updated with no-AI-generation restriction
 - Subject: Harvus G'ron
-- Asset type: Portrait
+- Asset type: Portrait / future non-AI portrait or commissioned reference
 - Spoiler scope: Player-safe after rescue reveal
 - Canon status: Working visual brief, no approved visual canon yet
 - Proposed asset ID: `harvus-post-riptide-portrait-v1`
-- Anchor asset: Intended first character portrait anchor if approved
+- Generation policy: **No AI image generation. Player does not permit AI generation for Harvus.**
+- Anchor asset: None yet; brief may be used for human commission, manual art direction, or non-generated reference work only.
 
 ## Source Basis
 
@@ -23,10 +24,11 @@
 - GM corrections:
   - Current relaunch state: Harvus is returning from Riptide Cove after rescuing Sandara, Tilly, and Goyle.
   - He killed the Whale of Bonewrack with Rak's magical spear, which is likely lost in the Cauldron pool pending confirmation.
+  - Harvus's player does not permit AI image generation for this character.
 - Existing visual anchors:
   - None.
 - Reference notes:
-  - Use Pathfinder/Golarion/Skull & Shackles pirate-fantasy cues for shipboard and island survival grime.
+  - Use Pathfinder/Golarion/Skull & Shackles pirate-fantasy cues for shipboard and island survival grime if preparing a human commission brief.
   - Use avian / strix-like fantasy ancestry cues without copying any specific official character art.
 
 ## Known Visual Facts
@@ -46,13 +48,13 @@
 - Whether Sandara's holy symbol is still with Harvus or has been returned is unresolved; do not show it prominently unless GM confirms.
 - Whether Rak's returning spear is truly lost is unresolved; do not show Harvus holding it in the post-Riptide portrait unless this becomes a rescue-action variant.
 - Tilly may still have Harvus' flail; do not show the flail as Harvus' current weapon unless confirmed.
-- Exact ancestry/species model should remain "avian / strix-like" rather than locked to a single external design unless approved.
+- Exact ancestry/species model should remain "avian / strix-like" rather than locked to a single external design unless approved through a player-approved non-AI route.
 
 ## Required Visual Facts
 
 - Avian / strix-like humanoid with strong bird-of-prey cues.
 - Damaged wing is visible or compositionally implied.
-- Exhausted, soaked, wounded, and salt-stained after the Riptide Cove rescue.
+- Exhausted, soaked, wounded, and salt-stained after the Riptide Cove rescue for the post-Riptide reference.
 - Rope and rigger cues should be part of the silhouette or gear.
 - Expression should carry wrath held under purpose: rescue-legend exhaustion, not triumphant posing.
 - The portrait should make him recognizable as someone who survived impossible underwater violence and came back with others alive.
@@ -67,9 +69,10 @@
 ## Style Direction
 
 - Grimy swashbuckling fantasy with Bonewrack hostility layered over shipboard survival.
-- Wet feathers or avian features, jungle humidity, cave water, blood, rope, torn rigging cloth, salt, and fatigue.
+- Wet feathers or avian features, jungle humidity, cave water, blood, rope, torn rigging cloth, salt, and fatigue for the post-Riptide reference.
 - Pathfinder/Golarion pirate-fantasy tone, not generic heroic avian fantasy.
 - Portrait should prioritize story-state recognition: post-rescue, wounded, alive, and dangerous.
+- This style direction is for manual art direction, human commission, or non-AI reference work only.
 
 ## Output Requirements
 
@@ -77,20 +80,22 @@
 - Framing: Head-and-shoulders or upper torso, with damaged wing partially visible behind or along the edge.
 - Background: Dark wet jungle/cave exit or storm-dim Bonewrack path, not a clean ship deck.
 - Player-safe scope: Safe after the rescue reveal; before that, the rescued-state details are spoiler-sensitive.
-- Variants needed:
-  - Later: full-body rigger anchor.
-  - Later: action pose with spear during Whale kill, if GM wants legendary rescue art.
-  - Later: calmer Sandara-adjacent portrait after rescue.
+- Variants needed through non-AI / player-approved process only:
+  - Base full-body rigger anchor.
+  - Post-Riptide rescue / bedraggled state.
+  - Action pose with spear during Whale kill, if GM wants legendary rescue art.
+  - Calmer Sandara-adjacent portrait after rescue.
 
 ## Avoid / Do Not Drift
 
+- Do not use AI image generation for Harvus.
 - Do not make Harvus clean, angelic, or noble-bright.
 - Do not omit the damaged-wing cue.
 - Do not show Rak's spear, Sandara's holy symbol, or the flail as current retained gear unless confirmed.
 - Do not make the portrait only rage; the rescue matters as much as vengeance.
 - Do not directly reproduce official Pathfinder / Paizo strix art.
 
-## Prompt Draft
+## Commission / Manual Art Direction Draft
 
 ```text
 Vertical character portrait of Harvus G'ron, an avian / strix-like rigger from a grim pirate campaign, immediately after returning from Riptide Cove on Bonewrack Isle. He is soaked, wounded, exhausted, and salt-stained, with bird-of-prey facial cues, weathered shipboard gear, rope and rigging details, and one visibly damaged wing held with pain and tension. His expression carries contained wrath and rescue-driven purpose rather than clean heroism: he has gone into the dark water and come back alive with people rescued. Background hints at wet jungle, cave water, storm-dim tropical light, mud, and broken coral rock. Grimy Golarion / Skull & Shackles pirate-fantasy tone, practical shipboard survival details, wet feathers or avian features, bruises, scratches, and fatigue, painterly realism, no direct reproduction of official art.
@@ -99,7 +104,7 @@ Vertical character portrait of Harvus G'ron, an avian / strix-like rigger from a
 ## Asset Index Links
 
 - Tracking row: `harvus-post-riptide-portrait-v1` in `tracking/image-output-index.md`
-- Generated asset paths or links: None yet.
+- Generated asset paths or links: None; AI image generation is not permitted for this character.
 
 ## Open Checks
 
@@ -107,4 +112,4 @@ Vertical character portrait of Harvus G'ron, an avian / strix-like rigger from a
 - Confirm whether Sandara's holy symbol has been returned.
 - Confirm whether Rak's returning spear is actually lost or should appear in a later rescue-action variant.
 - Confirm whether Tilly still has Harvus' flail.
-- Confirm desired avian/strix visual balance after first draft.
+- Confirm desired avian/strix visual balance through a player-approved non-AI art route if Harvus art is still desired.
