@@ -30,6 +30,115 @@ This applies to:
 - player-facing summaries,
 - and newly drafted prose in evidence-derived outputs.
 
+### No explainer paragraphs in narrative prose
+
+Do not add paragraphs that explain to the reader why a scene matters, why a beat is important, what a relationship means, or how the player should feel about an event.
+
+Do not use phrases like:
+
+- "The scene matters because..."
+- "This establishes..."
+- "This becomes important because..."
+- "The important thing is..."
+- "This is why..."
+
+Those belong in source spines, open checks, GM notes, or post-narrative analysis, not inside player-facing narrative prose.
+
+Narrative prose can imply, foreshadow, and make reasonable leaps through action, consequence, placement, tone, and character behavior. It should not step outside the scene to interpret itself for the player or character owner.
+
+### Embellish carefully
+
+Use embellishment to bridge, stage, and render supported events, not to replace them.
+
+Allowed embellishment:
+
+- physical staging consistent with known ship geography,
+- sensory texture consistent with the scene,
+- small connective action needed to move between known beats,
+- recurring visual habits already approved in support files,
+- likely work-task texture when clearly marked in the source spine.
+
+Avoid embellishment that:
+
+- changes a character's motive without support,
+- creates a new exact quote,
+- changes the outcome or order of recovered events,
+- makes hidden information visible to a character who would not know it,
+- turns a table joke into literal canon without approval,
+- overstates emotional certainty where player ownership matters.
+
+If a beat is uncertain, keep it light, phrase it as action rather than conclusion, or leave it in the source spine rather than the narrative.
+
+### Descriptions must not contradict or repeat
+
+Descriptions must fit established canon, support files, and the current scene.
+
+Do not repeat the same descriptive function multiple times in nearby paragraphs. Once a trait is established, use brief callbacks instead of re-describing it.
+
+Example:
+
+- First mention: establish Syl's stillness and hand near her knife.
+- Later mentions: use a brief callback, such as "Syl's hand drifted toward the knife again."
+
+Do not stack multiple descriptions that all say the same thing with different words.
+
+### Use stable character names
+
+Use a stable name for each character once the narrative has established them.
+
+Do not repeatedly use full names unless the scene needs formal identification or there are two characters with the same short name.
+
+Preferred pattern:
+
+- First appearance in a scene or section: full name if useful.
+- Later references: set name, surname, first name, title, or role, whichever is the established narrative standard for that character.
+
+Examples:
+
+- Slippery Syl Lonegan first, then Syl.
+- Jaundiced Jape first, then Jape.
+- Fipps Chumlett first, then Fipps.
+- Aretta Bansion first, then Aretta.
+- Harvus G'ron first, then Harvus.
+- Rak Wraithraiser first, then Rak.
+- Sho Astor first, then Sho.
+- Mirei stays Mirei.
+
+### No scene-name titles in player-facing narrative drafts
+
+Do not break player-facing narrative drafts into named scene sections such as "Sho and Grok," "Bloody Hour," or "Night Below" unless the GM specifically asks for a structured packet.
+
+For narrative refinement, prefer continuous prose with clean paragraph transitions.
+
+Document metadata headings may remain at the top of repository files, but the narrative body should not read like an outline.
+
+### Keep a consistent style and tone
+
+Use a steady chronicle style:
+
+- grounded,
+- readable,
+- restrained,
+- sensory where useful,
+- emotionally suggestive rather than interpretive,
+- character-facing rather than author-explaining.
+
+Avoid sudden shifts into florid prose, comedy, mechanics language, recap language, or omniscient moral judgment unless the source material or GM explicitly calls for it.
+
+### Avoid comma-list description blocks
+
+Do not describe characters or areas as a list of traits separated by commas.
+
+Avoid sentences like:
+
+```md
+He was tall, thin, pale, angry, scarred, nervous, cruel, and tired.
+```
+
+Instead, choose one or two relevant traits and render them through posture, movement, action, or the current scene.
+
+## Chat Quote Rules
+
 ### Chat-log actions are not character voice
 
 When a chat-log message contains an action, gesture, emote, or stage direction, do not quote that action as spoken character dialogue.
@@ -81,6 +190,18 @@ If a line needs more than typo-level correction, either:
 
 - paraphrase it outside quotation marks, or
 - ask the GM to approve a cleaned canon-facing rendering.
+
+## Workflow Preference
+
+For difficult narrative days, refine in this order:
+
+1. Non-chat-integrated narrative draft.
+2. GM edit / review.
+3. Integrated quote pass.
+4. Final player-facing edit.
+5. Discord-ready formatting.
+
+Do not jump directly to Discord-ready chat integration while the prose shape, tone, or scene order is still unsettled.
 
 ## Existing Rules Still Apply
 
