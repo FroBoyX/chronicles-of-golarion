@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Visual asset tracking document
-- Maturity: Working index
+- Maturity: Working index, updated with Rak Wraithraiser approved visual canon anchor
 - Scope: Generated, commissioned, approved, rejected, and superseded visual assets
 
 ## Purpose
@@ -29,6 +29,7 @@ Every major visual asset should have a row here once it is drafted, approved, re
 |---|---|---|---|---|---|---|---|---|---|---|
 | slippery-syl-portrait-v1 | Character Art | Slippery Syl Lonegan | Full-body portrait / NPC plate | visual-briefs/characters/slippery-syl-lonegan.md | art/characters/slippery-syl-portrait-v1.png |  | Working anchor | Player-safe as isolated portrait; GM-only when tied to current Bonewrack fork state | No remake without GM request; variants should preserve identity lock | GM-approved current style/identity lock; binary asset still needs repo placement if final PNG is to be archived. |
 | fipps-chumlett-portrait-v1 | Character Art | Fipps Chumlett | Full-body portrait / NPC plate | visual-briefs/characters/fipps-chumlett.md | art/characters/fipps-chumlett-portrait-v1.png |  | Approved visual canon | Player-safe as isolated portrait; GM-only if tied to Coconut Beach current-state scene | No remake without GM request; variants should preserve identity lock | GM approved with no notes; locked as Fipps visual anchor; use Syl only as house style baseline. Binary asset still needs repo placement if final PNG is to be archived. |
+| rak-wraithraiser-portrait-v1 | Character Art | Rak Wraithraiser | Full-body PC character plate | visual-briefs/characters/rak-wraithraiser.md | art/characters/rak-wraithraiser-portrait-v1.png |  | Approved visual canon | Player-safe as isolated portrait | No remake without GM request; variants should preserve nagaji pirate-alchemist identity lock | GM approved final brown-scaled nagaji pirate-alchemist plate with smaller tail, visible alchemist gear, and spear in lowered pose. Binary asset still needs repo placement if final PNG is to be archived. |
 | sho-hotbox-portrait-v1 | Character Art | Sho Astor | Portrait | visual-briefs/characters/sho-astor.md |  |  | Briefed | Player-safe if cropped/context-controlled | No remake without GM request | Suggested pilot; prompt drafted in visual brief. |
 | harvus-post-riptide-portrait-v1 | Character Art | Harvus G'ron | Portrait | visual-briefs/characters/harvus-gron.md |  |  | Briefed | Player-safe after rescue reveal | No remake without GM request | Suggested pilot; prompt drafted in visual brief. |
 | wormwood-exterior-v1 | Location Art | Wormwood | Establishing shot | visual-briefs/locations/wormwood.md |  |  | Briefed | Player-safe | No remake without GM request | Suggested pilot; prompt drafted in visual brief. |
