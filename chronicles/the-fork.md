@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Event / cold-open state
-- Maturity: Draft, expanded with Arodus 5 split-scene evidence
+- Maturity: Draft, expanded with Arodus 5 split-scene evidence and Tidal Cutlass naming normalization
 - Scope: Present campaign endpoint and relaunch scene
 
 ## Summary
@@ -59,7 +59,7 @@ They know or strongly believe:
 - The Whale is dead.
 - The Brinebrood Queen fled.
 - Plugg and Scourge intended the PCs to be eliminated on return.
-- Plugg blasted Goyle overboard with the tidewater cutlass and has no honor.
+- Plugg blasted Goyle overboard with the Tidal Cutlass and has no honor.
 - Mirei was ordered to betray or kill the PCs to prove loyalty, but did not.
 
 ### Emotional State
@@ -108,7 +108,7 @@ Rak knows:
 - Sho was removed after being beaten unconscious,
 - Harvus and Mirei were last believed to be returning to or investigating Riptide Cove,
 - Fipps is at Coconut Beach because Syl ordered him to stay there,
-- the ship is expected to meet the supply party at the south / coconut beach.
+- the ship is expected to meet the supply party at the south / Coconut Beach.
 
 Rak does not know the full result of the Riptide Cove rescue.
 
