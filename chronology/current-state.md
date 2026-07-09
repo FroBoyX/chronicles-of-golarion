@@ -106,7 +106,7 @@ The likely relaunch begins with simultaneous split scenes:
 - Mirei was pressured into serving Plugg and was tasked with proving loyalty by betraying or killing the other PCs.
 - Mirei confessed this after the rescue sequence and did not act on the betrayal order.
 - Goyle overheard that the PCs were expected to be killed or eliminated.
-- Goyle says Plugg blasted him off the ship with the tidewater cutlass and has no honor.
+- Goyle says Plugg blasted him off the ship with the Tidal Cutlass and has no honor.
 - Sho has learned from Kahina that some Man's Promise survivors may be willing to act against Plugg and Scourge if Sho proves sincere, but Kahina's test is severe: their lives or Sho's.
 - The Brinebrood Queen survived the collapse of Riptide Cove and has reason to want Harvus dead.
 
