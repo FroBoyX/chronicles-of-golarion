@@ -3,14 +3,14 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, corrected with Erastus 27 ship-split model, post-Erastus 27 Man's Promise evidence, Badger / Jack aboard Man's Promise, Maheem / Kipper / Patch believed Wormwood-side, and Crew 20 ship-viability reference
+- Maturity: Draft, corrected with Erastus 27 ship-split model, locked Rahadoumi-officer example sequence, post-Erastus 27 Man's Promise evidence, Badger / Jack aboard Man's Promise, Maheem / Kipper / Patch believed Wormwood-side, Rak spelling normalization, and Crew 20 ship-viability reference
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
 
 This document tracks who moved from the Wormwood to the Man's Promise, who remained behind, who is dead, whose placement remains unresolved, and whether the Man's Promise can still be crewed after a mutiny or faction split.
 
-Use `state/mans-promise-crew-viability-reference.md` and `state/wormwood-original-crew-ledger.md` as the compact references for the corrected split model and crew-viability frame.
+Use `state/mans-promise-crew-viability-reference.md`, `state/current-npc-locations.md`, and `state/wormwood-original-crew-ledger.md` as compact references for the corrected split model and crew-viability frame.
 
 ## Core Problem
 
@@ -44,21 +44,24 @@ The Wormwood and the Man's Promise separated on Erastus 27, 4712 AR.
 
 Correct sequence:
 
-1. The Man's Promise was captured.
+1. The Man's Promise was captured on Erastus 25.
 2. The post-battle captured survivor lineup contained 15 Man's Promise survivors.
-3. Harrigan threw one weakened captured sailor overboard as an example.
+3. Harrigan threw the **only surviving Rahadoumi officer** overboard as an example.
 4. Fourteen captured Man's Promise survivors remained alive.
-5. Harrigan promoted Mr. Plugg to captain of the Man's Promise and assigned him a skeleton crew.
+5. Harrigan assigned Mr. Plugg a skeleton crew and Plugg claimed captaincy of the Man's Promise.
 6. The Wormwood and the Man's Promise separated.
 7. Six named Man's Promise survivors were assigned to Plugg's skeleton crew.
 8. The other eight surviving captured Man's Promise crew went with the Wormwood.
 
+Older notes that left a Rahadoumi officer visibly alive after Harrigan's example are superseded unless later evidence identifies a separate non-officer witness or another distinct survivor.
+
 ## Current GM Split Correction
 
 - Badger Medlar is aboard the Man's Promise.
-- Jack Scrimshaw is aboard the Man's Promise. Treat the GM shorthand "Jake" as Jack Scrimshaw, not Jakes Magpie, because Jakes Magpie is dead.
+- Jack Scrimshaw is aboard the Man's Promise. Treat the GM shorthand `Jake` as Jack Scrimshaw, not Jakes Magpie, because Jakes Magpie is dead.
 - Maheem, Kipper, and Patch Patchsalt are believed still aboard the Wormwood.
 - Conchobhar Turlach Shortstone remains unresolved.
+- Correct PC spelling is Rak Wraithraiser; older `Wraithriser` variants are raw/source artifacts.
 
 ## Evidence Layers
 
@@ -134,7 +137,7 @@ Known math:
 - The boarding battle left 15 captured Man's Promise survivors.
 - The Man's Promise captain was killed in the captain's cabin, supported by later blood evidence in the cabin.
 - The full shipwide death toll is more than thirty, per Kahina.
-- Captain Harrigan later made an example of a weakened captured sailor by throwing that sailor overboard to the sharks.
+- Captain Harrigan later made an example of the only surviving Rahadoumi officer by throwing that officer overboard to the sharks.
 - That left 14 surviving captured Man's Promise crew.
 - Six of those fourteen were assigned to Plugg's skeleton crew as named survivors.
 - The other eight went with the Wormwood after the Erastus 27 split.
@@ -145,7 +148,7 @@ Known math:
 |---|---|---|---|
 | Harvus G'ron | Bonewrack Isle, returning from Riptide Cove | Alive | Rescued Sandara, Tilly, and Goyle; killed the Whale. |
 | Mirei | Bonewrack Isle, returning from Riptide Cove | Alive | Accompanied Harvus; did not carry out Plugg's betrayal order. |
-| Rak Wraithraiser / Wraithriser | Bonewrack Isle, moving supply party | Alive | Guiding Syl, Shivikah, and Jape; PCGen PDF supports Wraithraiser spelling, Foundry used Wraithriser. |
+| Rak Wraithraiser | Bonewrack Isle, moving supply party | Alive | Guiding Syl, Shivikah, and Jape; spelling corrected to Wraithraiser. |
 | Sho Astor | Man's Promise hot-box | Alive | Still believed locked up; speaking or recently spoke with Kahina; PCGen notes may preserve 15/25 HP and 17 nonlethal. |
 
 ## Locked Man's Promise / Bonewrack NPCs
@@ -174,7 +177,7 @@ Confirmed named survivors assigned to Plugg's skeleton crew:
 | Character | Role | Current State | Notes |
 |---|---|---|---|
 | Dahrehn Numus | Swab | Likely Man's Promise; exact position unresolved | Previously wealthy trader. |
-| Ebony Saable | Rigger | Likely Man's Promise; exact position unresolved | Fipps' "dark one" assignment target; Sho's "monk man." |
+| Ebony Saable | Rigger | Likely Man's Promise; exact position unresolved | Fipps' `dark one` assignment target; Sho's `monk man`. |
 | Goyle Onórach | Swab | Bonewrack, Harvus group | Former quartermaster context; rescued. |
 | Kahina Bukekayo | Rigger | Man's Promise | Testing Sho. |
 | Merchiel V'giatore | Rigger | Likely Man's Promise; exact position unresolved | Restrained Nor'gal in first-night Rak confrontation. |
@@ -186,7 +189,7 @@ The survivor bloc should not be treated as monolithic. Goyle has been rescued an
 
 ## Other Man's Promise Survivors
 
-After Harrigan killed the weakened captured sailor, eight other captured Man's Promise survivors existed beyond the six named skeleton-crew survivors.
+After Harrigan threw the only surviving Rahadoumi officer overboard, eight other captured Man's Promise survivors existed beyond the six named skeleton-crew survivors.
 
 Corrected handling:
 
@@ -194,8 +197,7 @@ Corrected handling:
 - Their names and later Wormwood-side fates remain unresolved.
 - They should not be counted as Arodus 5 Man's Promise / Bonewrack actors.
 - They should not be used as unnamed relaunch actors unless later evidence brings them back.
-
-The Rahadoumi officer visible in the Erastus 27 chat may or may not be one of those eight. Identity and fate remain open.
+- Under current reconstruction, they do not include the only surviving Rahadoumi officer.
 
 ## Evidence-Backed Wormwood Transfers / Man's Promise-Side Crew
 
@@ -232,10 +234,10 @@ The Rahadoumi officer visible in the Erastus 27 chat may or may not be one of th
 | Man's Promise shipwide dead | Dead | More than thirty deaths per Kahina's accurate survivor testimony. Exact total requires canon starting crew count minus survivors. |
 | Fifteen map-visible Man's Promise-side figures | Dead | Confirmed by recovered fight map as visible / represented Man's Promise-side deaths during boarding. This is not the full shipwide death toll. |
 | Man's Promise captain | Dead | Killed in the captain's cabin during the boarding; blood remained splashed across the floor, desk, and walls when Mirei later performed there for Plugg. |
-| Unnamed weakened captured sailor | Dead | Harrigan threw this sailor overboard to the sharks as an example on Erastus 27; this happened after the boarding battle and after the fifteen captured survivors were led out. |
+| Only surviving Rahadoumi officer | Dead | Harrigan threw this officer overboard to the sharks as an example on Erastus 27 after the revel wound down. |
 | Jakes Magpie | Dead | Keelhauled early aboard Wormwood. |
 | Rosie Cusswell | Dead / lost at sea | Lost during storm despite rescue efforts. |
-| Aretta Bansion | Dead | Died after conflict with Sho in the bilges. |
+| Aretta Bansion | Dead | Died after conflict with Sho in the bilges; current corrected placement is Erastus 24. |
 | Giffer Tibbs | Dead | Wormwood-side casualty during Man's Promise boarding; recovered map confirms death below port-side stairs; Sho notes possible foul play with body and need reconstruction. |
 | Kor'al / Cor'Wal Daraa | Dead | Man's Promise sailor; brother of Nor'gal / Nor'Gal per Sho notes; likely among shipwide dead, exact map representation unresolved. |
 
@@ -324,7 +326,6 @@ Before running the return to the Man's Promise, determine or confirm:
 - Canonize the Man's Promise starting crew count and derive the full death toll.
 - Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map cabin death.
 - Identify the eight Man's Promise survivors who went Wormwood-side and resolve their later fate.
-- Resolve the identity and fate of the Rahadoumi officer visible in the Erastus 27 chat.
 - Use the recovered Man's Promise map to identify every surrendered token and every injured Wormwood crew token by name.
 - Confirm Conchobhar placement after the Erastus 27 split.
 - Confirm whether Maheem, Kipper, and Patch being Wormwood-side should be locked as canon or left as strong GM belief.
