@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, Erastus 26 revel intervention, Man's Promise work-distance scene, Erastus 30 challenge to Mistress Mirei, and GM clarification on Mirei's press-ganging handling
-- Scope: Hostile lower-crew rigger, pirate custom witness, placement unresolved
+- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 16 Mirei summons, Erastus 26 revel intervention, Man's Promise work-distance scene, Erastus 30 challenge to Mistress Mirei, GM clarification on Mirei's press-ganging handling, and Man's Promise-side placement handling
+- Scope: Hostile lower-crew rigger, pirate custom witness, Man's Promise-side actor with exact cold-open position unresolved
 
 ## Overview
 
-Tam "Narwhal" Tate is a dwarf rigger with a large, ugly nose and old ties to Master Scourge.
+Tam `Narwhal` Tate is a dwarf rigger with a large, ugly nose and old ties to Master Scourge.
 
 He begins in the hostile lower-crew orbit, but one recovered campaign beat gives him special importance: he voiced a pirate-custom distinction between shipboard order and land grudges during the post-Man's Promise revel.
 
@@ -18,12 +18,12 @@ Rak's player sheet lists Tate as indifferent, maybe, not sure. This conflicts wi
 
 ## Identity
 
-- Name: Tam "Narwhal" Tate
+- Name: Tam `Narwhal` Tate
 - Type: NPC
 - Ancestry: Dwarf
 - Baseline role: Wormwood rigger
 - Baseline alignment: Neutral Evil
-- Current location: Likely Man's Promise, pending confirmation
+- Current location: Man's Promise, exact Arodus 5 position unresolved
 - Current status: Presumed alive
 - Rak sheet evidence: Indifferent maybe / not sure
 
@@ -57,7 +57,7 @@ On the morning of Erastus 16, Tam summoned Mirei to deck for Plugg's reef task.
 
 He told her:
 
-> "You're wanted on deck... that voice of yours doesn't get you out of everything."
+> `You're wanted on deck... that voice of yours doesn't get you out of everything.`
 
 Then he clarified that Plugg wanted her and told her to go.
 
@@ -75,7 +75,7 @@ When Rak removed Mirei toward the hammocks, Tam threw Sho to the ground and plac
 
 He then stated the rule that makes this scene important:
 
-> "This is a party, not a fight. At sea, we don't hold grudges... save that for LAND! Especially when we have 11 freash bodies below..."
+> `This is a party, not a fight. At sea, we don't hold grudges... save that for LAND! Especially when we have 11 freash bodies below...`
 
 This moment matters because Tam is not simply protecting Sho, Mirei, or the hostile crew. He is enforcing a pirate-custom boundary: the revel cannot become a private vendetta, and shipboard order takes precedence over unresolved grudges.
 
@@ -85,43 +85,45 @@ During an unknown work day aboard the Man's Promise, Harvus attempted idle chit-
 
 Tam rejected the social opening:
 
-> "We are working, that should be enough. What do you want?"
+> `We are working, that should be enough. What do you want?`
 
 When Crimson said he did not want trouble because this was a new start and Harvus was not exactly popular, Tam kept the boundary civil but firm:
 
-> "Look, let's keep this as civil as possible... and not talk."
+> `Look, let's keep this as civil as possible... and not talk.`
 
 This scene supports Tam as hostile or distant, but disciplined. He is willing to avoid open conflict by refusing conversation rather than escalating immediately.
 
 ### Man's Promise
 
-Tam likely transferred to the Man's Promise prize crew, but exact placement needs confirmation.
+Tam is treated as Man's Promise-side after the split by current evidence/state alignment, but exact cold-open placement needs confirmation.
 
 He later told Mirei that she lacked pirate character and appeared out of place, implying he judged more than just loyalty.
 
 ### Erastus 30 Challenge to Mistress Mirei
 
-On Erastus 30, after Plugg dressed Mirei in the dead captain's clothing, jewelry, and a jeweled sword and sent her below as "Mistress Mirei," Tam openly challenged her station.
+On Erastus 30, after Plugg dressed Mirei in the dead captain's clothing, jewelry, and a jeweled sword and sent her below as `Mistress Mirei`, Tam openly challenged her station.
 
-Mirei approached him and another crew member for conversation. Tam answered:
+Mirei approached him and another crew member for conversation. GM clarification identifies that second sailor as Jack Scrimshaw.
 
-> "Look who's graced us with her voice?"
+Tam answered:
+
+> `Look who's graced us with her voice?`
 
 When Mirei asked how the night was treating them, he answered bluntly:
 
-> "Fine, what do you want?"
+> `Fine, what do you want?`
 
 Tam then said being told to respect her did not mean she had earned respect, and asked permission to be frank. Mirei granted it.
 
 Tam said Mirei looked out of place in her station, that they were pirates, and that if she wanted to inspire the crew or even talk to them, she needed more character.
 
-> "Go back to your gilded cage."
+> `Go back to your gilded cage.`
 
 When Mirei said she hoped to earn the crew's respect, Tam said hope led to Davy Jones and called Plugg a brat of a captain. If Plugg saw Mirei as his voice, Tam said he hoped they all ended there sooner rather than later.
 
 Tam then made the exchange personal:
 
-> "I personally put you on the Wormwood 'Mistress'... with all 'due' respect, don't make promises you can't keep."
+> `I personally put you on the Wormwood 'Mistress'... with all 'due' respect, don't make promises you can't keep.`
 
 GM clarification confirms this means Tam physically deposited the unconscious Mirei aboard the Wormwood, not that he knocked her unconscious.
 
@@ -149,7 +151,7 @@ On Erastus 16, he summoned Mirei to Plugg's reef task and remarked that her voic
 
 During the Erastus 26 revel, he intervened in the confrontation around collapsed Mirei, but his intervention did not read as personal care for Mirei. It read as enforcement of shipboard order and revel rules.
 
-On Erastus 30, he challenged Mirei's imposed "Mistress" role, saying she had not earned respect, looked out of place, and should return to her gilded cage. He also claimed he personally put her on the Wormwood.
+On Erastus 30, he challenged Mirei's imposed `Mistress` role, saying she had not earned respect, looked out of place, and should return to her gilded cage. He also claimed he personally put her on the Wormwood.
 
 This may become relevant if Mirei returns from Riptide Cove having helped rescue captives.
 
@@ -167,7 +169,7 @@ During a Man's Promise work scene, Tam kept Harvus at a distance and refused idl
 
 This is not direct violence, but it shows Harvus' social unpopularity or risk status aboard the prize crew.
 
-### Rak Wraithraiser / Wraithriser
+### Rak Wraithraiser
 
 Rak's Foundry notes list Tate as indifferent, maybe/not sure.
 
@@ -179,47 +181,17 @@ Tam may follow Plugg if Plugg seems to embody command, but he may also recognize
 
 On Erastus 16, Tam acted as Plugg's messenger to Mirei.
 
-On Erastus 30, Tam called Plugg a brat of a captain and made clear that Plugg's order to respect Mirei did not by itself create real respect.
-
 ## Current State
 
-- Location: Likely Man's Promise, pending confirmation
+- Location: Man's Promise
+- Exact physical position: Unresolved
 - Status: Presumed alive
-- Political state: Hostile or Scourge-leaning in baseline, but Rak sheet suggests uncertain indifferent status; openly skeptical of Plugg's imposed Mistress role for Mirei
-
-## Campaign Function at Relaunch
-
-Tam can be used to test whether pirate custom restrains violence after the island.
-
-He may oppose the PCs and still object to actions that violate what he sees as shipboard order.
-
-This makes him useful in leadership debates.
-
-If Rak's indifferent note is accurate, Tam may be a more complicated actor than a simple Scourge loyalist.
-
-Tam's challenge to Mistress Mirei shows that Plugg's authority does not automatically convert into crew respect. He may follow force, but he notices when status is unearned or theatrical.
-
-## Possible Stances
-
-Tam may:
-
-- stand with Scourge,
-- respect whoever shows real pirate command,
-- reject a weak captain,
-- resist needless ship-damaging chaos,
-- remain indifferent to Rak specifically,
-- or become a hostile survivor under new rule.
+- Political state: Hostile/distant but not mindless; potentially survival-minded
 
 ## Open Questions
 
-- Is Tam definitely aboard the Man's Promise?
-- Does the formal influence tracker support Rak's indifferent maybe note?
-- How loyal is he to Scourge personally?
-- What does Tam think of Plugg as captain?
-- Does Tam know Sho is locked up?
-- Does Tam know Mirei was ordered to betray the PCs?
-- Who was the second crew member present when Mirei approached Tam on Erastus 30?
-- Does Tam respect Harvus' rescue if he hears it?
-- Would Tam accept an election, duel, council, or only force?
-- Did Tam's Erastus 26 intervention create any lasting debt, resentment, or respect with Sho?
-- What exact day did the Man's Promise work-distance scene occur?
+- Where exactly is Tam at the Arodus 5 cold open?
+- Does the formal influence tracker confirm Rak's maybe-indifferent note?
+- Does Tam side with Scourge if Scourge's position becomes dangerous?
+- Does Tam judge Goyle's testimony as pirate honor evidence?
+- Does Tam see Mirei differently if she returns with rescued captives?
