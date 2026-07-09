@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Design note / visual style guide
-- Maturity: Seed / working guide
+- Maturity: Working guide, expanded with character-plate style lock
 - Scope: Chronicles of Golarion visual tone for Skull & Shackles character art, location art, and battle-map styling
 - Owner: GM / canon authority
 
@@ -93,6 +93,213 @@ General rules:
 - Keep weapons and signature items practical and visible only when relevant.
 - Use posture and expression to show arc, not just attractiveness.
 - Show wounds, exhaustion, grime, or captivity when current-state art calls for it.
+
+### Character Rendering Target
+
+Character portraits should target a **semi-realistic, painterly Pathfinder adventure-path NPC plate** look.
+
+This is closer to official Pathfinder / Skull & Shackles character plates and NPC illustrations than to photoreal portraiture, anime stylization, or generic cinematic concept art.
+
+Key priorities:
+
+- clean silhouette readability;
+- grounded but slightly stylized anatomy;
+- expressive, distinctive faces;
+- layered pirate-fantasy costume language;
+- readable props and role cues;
+- controlled weathering and shipboard wear;
+- painterly rendering rather than glossy realism.
+
+### Current Character Style Anchor
+
+`slippery-syl-portrait-v1` is the current working character-art style baseline.
+
+Use it as the house reference for:
+
+- full-body / 3/4-body portrait readability;
+- simple parchment or light neutral NPC-plate backgrounds;
+- semi-realistic painterly Pathfinder rendering;
+- slightly stylized faces and anatomy;
+- clean silhouettes;
+- moderate costume detail;
+- controlled grime and weathered materials;
+- earthy pirate palette;
+- portrait clarity over scene drama.
+
+Do not copy Syl's likeness, costume, tattoos, gender presentation, or knife identity onto other characters unless the character brief calls for those traits. Use the anchor for rendering target and output discipline, not for homogenizing designs.
+
+### Portrait Reference Hierarchy
+
+Use references in this order:
+
+1. **Approved archive anchors**
+   - Use GM-approved Chronicle anchors such as `slippery-syl-portrait-v1` for style continuity.
+2. **Primary portrait references**
+   - Isolated full-body or 3/4-body Pathfinder / Shackles character illustrations.
+   - NPC plates, player-facing character images, and clean adventure-path figure art.
+3. **Secondary scene references**
+   - Shackles action scenes, deck-combat scenes, and shipboard narrative illustrations.
+
+Use scene references for:
+
+- lighting mood;
+- action energy;
+- shipboard context;
+- pirate atmosphere.
+
+Do **not** let scene references override portrait readability.
+
+### Anatomy and Face Baseline
+
+Characters should be rendered with:
+
+- believable fantasy-human or ancestry-specific anatomy;
+- slight heroic or characterful stylization appropriate to the subject;
+- no exaggerated cartoon anatomy;
+- no photoreal pore-level rendering;
+- no anime facial stylization;
+- no same-face syndrome.
+
+Faces should be expressive and identity-forward, with enough stylization to feel illustrated rather than photographic.
+
+### Costume Language
+
+Costume design should emphasize **Pathfinder / Skull & Shackles material culture**:
+
+- layered belts, sashes, wraps, buckles, and harnesses;
+- weathered leather;
+- worn cloth and coats;
+- pirate, naval, and shipboard practical wear;
+- asymmetry where useful;
+- strong role-defining props;
+- a clear silhouette and 1–3 signature identity details.
+
+Avoid generic fantasy costuming with no pirate-specific grounding.
+
+### Material Rendering
+
+Materials should feel tactile and lived-in:
+
+- salt-worn leather;
+- sun-faded cloth;
+- worn boots and gloves;
+- tarnished or practical metal;
+- rope, canvas, and wood with believable texture.
+
+Do not over-render materials into glossy realism. Do not make armor or leather look plastic or modern.
+
+### Grime and Wear
+
+Characters should look lived-in, but not uniformly filthy.
+
+Preferred wear level:
+
+- selective grime;
+- sweat;
+- scuffs;
+- salt staining;
+- weather wear at edges and stress points;
+- blood or dirt only when scene-relevant.
+
+Avoid both extremes:
+
+- overly clean cosplay polish;
+- mud-caked grimdark sludge.
+
+### Color and Palette
+
+Default character palette should use:
+
+- warm leather browns;
+- off-whites and creams;
+- dark navy / charcoal / black;
+- muted reds and crimsons;
+- muted sea-greens / teals;
+- aged brass / bronze / gold accents.
+
+Use accent colors intentionally. Magic effects should remain secondary unless the character's identity strongly depends on overt magic.
+
+### Rendering Finish
+
+Desired finish:
+
+- painterly realism;
+- soft brush transitions with crisp focal details;
+- readable edges;
+- moderate texture;
+- official-illustration feel.
+
+Avoid:
+
+- photoreal finish;
+- cel shading;
+- comic ink-line dominance;
+- over-airbrushed digital smoothness;
+- diffuse AI mush detail.
+
+### Composition Rules for Portraits
+
+Portrait outputs should usually be:
+
+- full-body or 3/4-body for anchor portraits;
+- posed to communicate role and temperament;
+- readable at a glance;
+- supported by minimal or unobtrusive background treatment unless the scene matters.
+
+When a portrait is identity-first, favor a clean or lightly contextual background over a busy cinematic scene.
+
+### Mode Split
+
+#### Portrait Mode
+
+Use for anchor character art.
+
+Prioritize:
+
+- clean figure presentation;
+- silhouette;
+- costume readability;
+- identity clarity.
+
+#### Scene Mode
+
+Use for narrative illustrations.
+
+May increase:
+
+- environmental storytelling;
+- lighting drama;
+- motion;
+- group interaction.
+
+#### Action Mode
+
+Use for combat or motion-heavy pieces.
+
+May increase:
+
+- dynamic posing;
+- deck chaos;
+- rigging and environmental energy;
+- atmospheric lighting.
+
+Even in Scene or Action Mode, preserve character identity and costume readability.
+
+### Common Character-Art Drift Problems
+
+Reject or revise outputs that drift toward:
+
+- photorealism;
+- generic realism;
+- anime style;
+- comic-book style;
+- excessive glamorization;
+- weak silhouette readability;
+- modern-looking fashion;
+- random costume clutter;
+- over-clean surfaces;
+- over-grimed sludge;
+- direct copying of official Paizo compositions or exact character images.
 
 ### PC Visual Logic
 
@@ -208,6 +415,8 @@ Use these asset statuses:
 
 Good first character pilots:
 
+- Slippery Syl Lonegan full-body portrait. Current working anchor: `slippery-syl-portrait-v1`.
+- Fipps Chumlett full-body portrait.
 - Sho Astor hot-box portrait.
 - Harvus post-Riptide rescue portrait.
 - Sandara Quinn crew portrait.
