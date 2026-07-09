@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Design note / visual style guide
-- Maturity: Working guide, expanded with character-plate style lock
+- Maturity: Working guide, expanded with Syl/Fipps character-plate anchors
 - Scope: Chronicles of Golarion visual tone for Skull & Shackles character art, location art, and battle-map styling
 - Owner: GM / canon authority
 
@@ -110,11 +110,14 @@ Key priorities:
 - controlled weathering and shipboard wear;
 - painterly rendering rather than glossy realism.
 
-### Current Character Style Anchor
+### Current Character Style Anchors
 
-`slippery-syl-portrait-v1` is the current working character-art style baseline.
+The current approved / locked character-plate anchors are:
 
-Use it as the house reference for:
+- `slippery-syl-portrait-v1` — lean, dangerous, elegant knife-fighter antagonist; current house rendering/style baseline.
+- `fipps-chumlett-portrait-v1` — fat, lower-crew bully/coward antagonist; confirms the same house style can support non-glamorous body type, lower social rank, insecurity, and ugly social pressure.
+
+Together, Syl and Fipps define the early character-art range:
 
 - full-body / 3/4-body portrait readability;
 - simple parchment or light neutral NPC-plate backgrounds;
@@ -124,16 +127,21 @@ Use it as the house reference for:
 - moderate costume detail;
 - controlled grime and weathered materials;
 - earthy pirate palette;
-- portrait clarity over scene drama.
+- portrait clarity over scene drama;
+- enough body-type and attitude range that the house style does not collapse into one repeated attractive rogue silhouette.
 
-Do not copy Syl's likeness, costume, tattoos, gender presentation, or knife identity onto other characters unless the character brief calls for those traits. Use the anchor for rendering target and output discipline, not for homogenizing designs.
+Do not copy Syl's likeness, costume, tattoos, gender presentation, knife identity, elegance, or attitude onto other characters unless the character brief calls for those traits.
+
+Do not copy Fipps's body type, shaved head, bully stance, cowardice, or lower-crew look onto other characters unless the character brief calls for those traits.
+
+Use the anchors for rendering target and output discipline, not for homogenizing designs.
 
 ### Portrait Reference Hierarchy
 
 Use references in this order:
 
 1. **Approved archive anchors**
-   - Use GM-approved Chronicle anchors such as `slippery-syl-portrait-v1` for style continuity.
+   - Use GM-approved Chronicle anchors such as `slippery-syl-portrait-v1` and `fipps-chumlett-portrait-v1` for style continuity.
 2. **Primary portrait references**
    - Isolated full-body or 3/4-body Pathfinder / Shackles character illustrations.
    - NPC plates, player-facing character images, and clean adventure-path figure art.
@@ -411,12 +419,16 @@ Use these asset statuses:
 - **Superseded** — replaced but retained in the index for history.
 - **Rejected** — do not use as anchor.
 
+## Current Character Anchors
+
+- `slippery-syl-portrait-v1` — Working anchor / style baseline pending binary asset placement.
+- `fipps-chumlett-portrait-v1` — Approved visual canon pending binary asset placement.
+
 ## First Pilot Recommendations
 
-Good first character pilots:
+Good next character pilots:
 
-- Slippery Syl Lonegan full-body portrait. Current working anchor: `slippery-syl-portrait-v1`.
-- Fipps Chumlett full-body portrait.
+- Rak Wraithraiser visual brief / portrait test if the GM's new visual target is ready.
 - Sho Astor hot-box portrait.
 - Harvus post-Riptide rescue portrait.
 - Sandara Quinn crew portrait.
