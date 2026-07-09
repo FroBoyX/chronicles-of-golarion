@@ -5,7 +5,7 @@
 - Type: Source spine
 - Maturity: Working / canon-candidate
 - Scope: Erastus 6, 4712 AR; second day aboard the Wormwood, from lower-hold harassment through night scenes
-- Source basis: `chronicles/wormwood-day-two.md`, Day 2 chat extracts already integrated there, AP task scaffold, Wormwood area scaffold, crew/watch tracking, GM guidance
+- Source basis: `chronicles/wormwood-day-two.md`, Day 2 chat extracts already integrated there, AP task scaffold, Wormwood area scaffold, crew/watch tracking, minor NPC characterization support, GM guidance
 - Spoiler scope: Player-safe
 - Canon status: Working canon-candidate pending GM review
 
@@ -18,6 +18,8 @@
   - `evidence/ap/wormwood-ship-areas-and-geography.md`
   - `state/wormwood-area-identity.md`
   - `state/wormwood-crew-roles-and-watch-patterns.md`
+- NPC support:
+  - `state/wormwood-minor-npc-characterization.md`
 - Crew accounting:
   - `state/wormwood-original-crew-ledger.md`
 - Style controls:
@@ -34,6 +36,8 @@
 - Scourge encouraged Syl, Jape, Fipps, and Aretta to rough up the new hands and delay them.
 - The harassment begins below, before the new hands can properly report to work.
 - The harassing group is Slippery Syl Lonegan, Jaundiced Jape, Fipps Chumlett, and Aretta Bansion.
+- The hostile unit should read as four distinct pressures: Syl as cold tactical violence, Aretta as reactive spite and wounded pride, Jape as silent pressure, and Fipps as a false-front bully.
+- Fipps is large because of fat rather than strength, uses size and posture to intimidate, and becomes visibly nervous when isolated or directly challenged.
 - The fight was intended as a fistfight/delay, but Fipps drew a dagger when cornered as the last attacker still standing.
 - The new hands defeated the harassment group, leaving all four unconscious.
 - Conchobhar and Crimson are present as background new hands but should not pull focus unless needed.
@@ -41,12 +45,17 @@
 - Scourge sends them on and says he will deal with the failed harassers later.
 - Day 2 work should seed ship geography and crew roles.
 - Harvus is best seeded in line work or upper rigging work, allowing Maheem to speak to him near the rigging.
+- Maheem should read as a distinct hostile co-worker: big, Rahadoumi, disciplined, permanently scowling, and complicit without seeming chaotic.
 - Mirei is best seeded in swab deck work, hauling rope, or repairs near Tilly.
+- Tilly should read as tough, dry, rum-loving, and as someone who chose the sea but not necessarily the Wormwood.
 - Sho is best seeded in runner, hauling, or deck work with a later detour to Grok.
 - Rak is best seeded cooking with Kroop, matching his later apology about losing track of time cooking up the grub.
 - Bloody Hour punishes Aretta, Fipps, Jape, and Syl for being late.
 - The punishment turns their failed harassment into grievance, especially for Aretta.
 - Mirei performs that night and receives reactions from Harvus, Rak, and Badger.
+- Giffer, Jack, Badger, and Tilly should make the lower crew feel morally varied in background and leisure scenes.
+- Giffer should receive enough warmth before her later death that the loss has narrative cost.
+- Jack can be seeded through scrimshaw carving, quiet watching, and wistful lower-crew presence.
 - Rak later returns to Grok, apologizes for missing her earlier, and begins the brew thread.
 
 ## Day 2 Geography Plan
@@ -61,7 +70,7 @@
 | Sho work / detour | A3 to A9 | Movement through ship, access to Grok's hatch/store, failed barter. |
 | Rak work | A8 Galley | Cooking, Kroop, heat, goats, chickens, knives, food. |
 | Bloody Hour | A3 Main Deck | Punishment theater, failed harassers whipped. |
-| Night | A10 Lower Hold / social spaces | Rum shift, performance, Badger, Rak/Grok brew route. |
+| Night | A10 Lower Hold / social spaces | Rum shift, performance, Badger, Giffer, Jack, Rak/Grok brew route. |
 
 ## Probable Task Assignments For Narrative Use
 
@@ -73,6 +82,21 @@
 | Rak | Cooking with Kroop | Cook's mate role and later line about cooking up the grub. | High |
 | Conchobhar | Rope work or line work | Rigger role, background use. | Medium |
 | Crimson | Deck swabbing or hauling rope | Swab role, background use. | Medium |
+
+## NPC Seeding Notes
+
+| NPC | Day 2 narrative handling |
+|---|---|
+| Slippery Syl Lonegan | Tall, slender, cold, knife-touching, tactical. Leads or sharpens the harassment. |
+| Aretta Bansion | Bitter, wounded, reactive. Her humiliation should seed later revenge and make her later death less simple. |
+| Jaundiced Jape | Mute, greedy, silent pressure. Blocks space and watches without needing ordinary dialogue. |
+| Fipps Chumlett | Fat, shaved-headed, pushy bully. Uses bulk as intimidation, but cracks when cornered and escalates because he is afraid. |
+| Maheem | Visually distinct rigger, hostile co-worker, disciplined and scowling. Reveals Scourge's "tamed" framing without becoming ally. |
+| Tam Narwhal Tate | Background hostile rigger and old Scourge friend. Use as evidence Scourge's pack is older and ship-rooted. |
+| Shivikah | Capable watcher, not a loud antagonist. Can observe competence and power shifts. |
+| Jack Scrimshaw | Quiet scrimshaw carver. Seed as young, wistful, and drawn to people who still imagine a future. |
+| Giffer Tibbs | Warm, one-eyed, bedraggled, responsive to performance. Seed as a decent lower-crew presence. |
+| Tilly Brackett | Tough joker, practical swab, chose the sea, likes rum. Counterpoint to Mirei. |
 
 ## Quote Ledger
 
@@ -127,7 +151,10 @@
 | Sho | She helped defeat the harassers, reported to Scourge, tried to bargain with Grok for gear, failed for lack of concrete value. | Keep practical discipline and frustration visible. |
 | Rak | He helped in the morning, reported to Scourge, cooked with Kroop, later returned to Grok to brew. | Use galley work as the bridge to Grok. |
 | Scourge | His proxy harassment failed and became a discipline problem. | Keep his frustration visible, not omniscient. |
-| Aretta | She was beaten, distracted, knocked unconscious, and punished. | Seed revenge thread. |
+| Syl | Her intimidation failed, but her presence should remain cold and tactical. | Seed as future violent threat. |
+| Aretta | She was beaten, distracted, knocked unconscious, and punished. | Seed wounded pride and revenge thread. |
+| Jape | He was defeated with the hostile group. | Use silence and watching rather than invented speech. |
+| Fipps | He was cornered, panicked, drew a dagger, and was knocked out. | Render as cowardly bully whose mask cracks under pressure. |
 | Grok | She hears ship gossip and values concrete trade over future promises. | Her store is a practical gate. |
 | Tilly | She chose the sea but not necessarily the Wormwood. | Contrast with Mirei's forced arrival. |
 | Badger | She is tired, older in shipboard life, and responds to Mirei's music. | Seed lower-crew humanity. |
@@ -138,11 +165,12 @@
 - Confirm whether the Rak "robe and wizard hat" line should be kept as table-flavor narration, omitted, or rendered literally.
 - Confirm how much to foreground Kipper/Patch lower-hold territory in the morning harassment scene.
 - Confirm whether Peppery should be seeded visually on Day 2 or saved for later watch/ship-magic context.
+- Confirm how much Jack and Giffer should be foregrounded in the Day 2 night-performance scene versus saved for later scenes.
 
 ## Sibling Output Alignment
 
 | Output | Path | Status | Alignment notes |
 |---|---|---|---|
-| Narrative Write-Up | `chronicles/wormwood-day-two.md` | Existing, needs patch | Normalize source-gap language out of prose and add ship geography/task seeding. |
+| Narrative Write-Up | `chronicles/wormwood-day-two.md` | Existing, needs minor-NPC patch | Add new hostile-crew characterization and warmer lower-crew seeding. |
 | Narrative Chat Scene | `chronicles/wormwood-erastus-6-day-two-chat-scene.md` | To create later if needed | Use after write-up stabilizes. |
 | Ship's Log | `ship-logs/wormwood-erastus-6-day-two.md` | To create later if needed | Terse official account only. |
