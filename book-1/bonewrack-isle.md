@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One location and relaunch state document
-- Maturity: Draft, expanded with Erastus 31 storm transition and corrected Fipps beach assignment
+- Maturity: Draft, expanded with Erastus 31 storm transition, corrected Fipps beach assignment, and Tidal Cutlass naming normalization
 - Scope: Bonewrack Isle as published, modified, and played
 
 ## Overview
@@ -47,7 +47,7 @@ The missing captives are:
 - Tilly Brackett,
 - and later Goyle Onórach.
 
-Goyle was captured after a later grindylow attack while the ship was being repaired. He had been grappling with a grindylow when Plugg used his tidewater cutlass to push both overboard.
+Goyle was captured after a later grindylow attack while the ship was being repaired. He had been grappling with a grindylow when Plugg used his Tidal Cutlass to push both overboard.
 
 The party did not experience Bonewrack as a linear dungeon. They explored, retreated, split up, returned, concealed information, and created multiple simultaneous fronts.
 
