@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Book One location and social-state document
-- Maturity: Draft, expanded with Erastus 17-25 gap dates and Sho keelhaul interruption
+- Maturity: Draft, expanded with Erastus 17-25 gap dates, corrected Erastus 24/25 Sho bilges / hot-box sequence, and Sho keelhaul interruption
 - Scope: The Wormwood from press-ganging through capture of the Man's Promise
 
 ## Overview
@@ -111,7 +111,7 @@ This was a tavern or drinking establishment, not a ship.
 
 ### Harvus G'ron
 
-Harvus was baited after being insulted as a "hawk that can talk." He was drawn out, ambushed, and taken. Aretta delivered a disabling blow, and Scourge later twisted or damaged Harvus' wing.
+Harvus was baited after being insulted as a `hawk that can talk`. He was drawn out, ambushed, and taken. Aretta delivered a disabling blow, and Scourge later twisted or damaged Harvus' wing.
 
 This makes Scourge personal for Harvus.
 
@@ -185,17 +185,21 @@ After the reef task, a heatwave hits the Wormwood and refuses to let up.
 
 The boiling sun adds environmental pressure after the storm and reef danger.
 
-### Erastus 19 Boarding Drills
+### Erastus 19 Boarding Drills and Mast Punishment
 
 When the weather lets up, Harrigan assigns Riaris Krine to put everyone through boarding drills in rotations.
 
 This begins the direct combat preparation that leads toward the Man's Promise.
 
-### Erastus 20-21 Normal Work Days
+Mirei's mast punishment after the rum-confession sequence also belongs in this Erastus 19 pressure span.
 
-The next two days are currently reconstructed as normal work days.
+### Erastus 20-21 Aftermath / Recovery
 
-No direct chat logs are currently recovered for these dates.
+The following days include aftermath from the mast punishment, Mirei's hurt performance, and social-contamination pressure around defiant PCs.
+
+Mirei plays so the crew can hear how badly they hurt her.
+
+Recovered summaries place Ratline, Giffer, and Conchobhar influence movement in this overlap.
 
 ### Erastus 22 Plugg Watches Sho
 
@@ -203,9 +207,17 @@ Plugg takes notice of Sho's defiance and begins watching who she interacts with.
 
 He also takes it as his personal task to ensure defiance is corrected.
 
-### Erastus 23 Bilge Murder Attempt / Aretta Death
+### Erastus 23 Pressure and Hostility
 
-On Erastus 23, Sho is assigned to the bilges with Aretta and Fipps.
+Erastus 23 remains a pressure/fallout day in current reconstruction.
+
+Rak and Tilly's con fallout increases hostility with Maheem, Fipps, and Syl.
+
+This date is no longer the Sho bilges date in active chronology.
+
+### Erastus 24 Bilge Murder Attempt / Aretta Death / Hot-Box
+
+On Erastus 24, Sho is assigned to the bilges with Aretta and Fipps.
 
 The working understanding is that they are there with orders to make sure she cannot continue being an issue.
 
@@ -213,13 +225,15 @@ The confrontation leads to Aretta's death.
 
 This is a major escalation: a hostile lower-crew enemy dies because of PC conflict before the Man's Promise battle.
 
-### Erastus 24 Hot-Box and Sails on the Horizon
+Sho is put in the hot-box under the charge of killing Aretta, and Plugg delays formal punishment until the next evening.
 
-Sho is put in the hot-box under the charge of killing Aretta and is to be keelhauled at Bloody Hour.
+### Erastus 25 Interrupted Keelhauling and Battle for the Man's Promise
 
-In the late afternoon, the Man's Promise is sighted and the ship begins preparations for piracy. The keelhauling is not carried out.
+Plugg announces Sho is to be keelhauled at Bloody Hour.
 
-### Erastus 25 Battle for the Man's Promise
+The Man's Promise is sighted before the punishment can be carried out, and the ship begins preparations for piracy.
+
+Riaris releases Sho under captain's orders and ties dropping the charge to success in the boarding action.
 
 In the early morning, the Wormwood overtakes the Man's Promise.
 
@@ -288,7 +302,7 @@ Although the current campaign is no longer aboard the Wormwood, the ship remains
 
 ## Do Not Flatten
 
-Do not reduce the Wormwood to "the place where the PCs were press-ganged."
+Do not reduce the Wormwood to `the place where the PCs were press-ganged`.
 
 The Wormwood is the pressure-cooker that made the later decisions meaningful.
 
