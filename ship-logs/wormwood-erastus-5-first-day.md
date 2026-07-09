@@ -8,36 +8,33 @@
 - Log voice: End-of-day official shipboard duty log, compiled from watch/officer reports under Wormwood command authority; see `ship-logs/README.md`
 - Scope: First day aboard the Wormwood
 - Spoiler scope: Player-safe
-- Canon status: Becomes canon after GM/player sign-off
+- Canon status: Officer-side log aligned to current narrative spine
 
 ## Log Entry
 
 **Erastus 5, 4712 AR - Wormwood Day 1**  
 Weather normal. Port Peril astern.
 
-Five press-ganged hands brought up from the hold after the prior night's collection: **Mirei**, **Harvus G'ron**, **Rak Wraithraiser**, **Sho Astor**, and **Conchobhar Turlach Shortstone**. **Crimson "Cog" Cogward** also entered with the Erastus 5 intake as volunteer crew.
+Five collected hands brought up from the hold after the prior night's press: **Mirei**, **Harvus G'ron**, **Rak Wraithraiser**, **Sho Astor**, and **Conchobhar Turlach Shortstone**. **Crimson "Cog" Cogward** also entered with the Erastus 5 intake as volunteer crew.
 
-Captain Harrigan addressed the assembled crew and new hands. New hands forbidden from speaking to the captain. Killing crew remains forbidden under threat of keelhauling while the Wormwood is short-handed. New hands placed under Mr. Plugg for testing and assignment.
+Captain Harrigan addressed assembled crew. New hands forbidden from addressing captain. Crew-killing prohibition restated while ship remains short-handed. Intake placed under Mr. Plugg for testing and assignment.
 
-Mr. Plugg tested the intake in the rigging. Harvus reached the crow's nest first. Conchobhar followed shortly after. Mirei fell during the climb, was whipped, and was ordered back into the rigging. Rak, Sho, and Crimson performed poorly or without distinction in the climb.
+Mr. Plugg conducted rigging test. Harvus G'ron reached crow's nest first. Conchobhar Turlach Shortstone followed. Mirei fell during climb, received correction by lash, and was ordered back into rigging. Rak Wraithraiser, Sho Astor, and Crimson Cogward performed poorly or without distinction.
 
-Assignments made after testing:
+Assignments entered:
 
-- **Riggers:** Harvus G'ron and Conchobhar Turlach Shortstone, reporting to Mr. Plugg.
-- **Cook's mate:** Rak Wraithraiser, reporting to Ambrose Kroop.
-- **Swabs:** Mirei, Sho Astor, and Crimson Cogward, reporting to Master Scourge.
+- **Riggers:** Harvus G'ron and Conchobhar Turlach Shortstone, under Mr. Plugg.
+- **Cook's mate:** Rak Wraithraiser, under Ambrose Kroop.
+- **Swabs:** Mirei, Sho Astor, and Crimson Cogward, under Master Scourge.
 
-Day's labor proceeded under standard Wormwood routine. Rak was sent below to Kroop's galley.
+Day's labor proceeded under standard routine. Cook's mate sent below to galley.
 
-At Bloody Hour, **Jakes Magpie** was keelhauled for theft from the quartermaster's store and cast to the sharks. Sandara Quinn warned the new hands not to interfere. Sho Astor objected before the punishment proceeded. Mr. Plugg answered the objection and continued the keelhauling.
+At Bloody Hour, **Jakes Magpie** keelhauled for theft from quartermaster's store and cast to sharks. New hand Sho Astor objected before punishment was completed. Objection noted as insolence. Punishment proceeded.
 
-Evening meal and rum ration issued. Sho Astor did not drink her ration. Method not entered.
+Evening meal and rum ration issued. Sho Astor did not drink ration. Method not recorded. Watch for future ration refusal or concealment.
 
-First-night leisure followed. Sandara Quinn returned Mirei's harp, warned the new hands about shipboard survival, Plugg, and Scourge, and explained Grok as a possible route for recovering confiscated goods. Harvus G'ron spoke with Sandara regarding his wing and the quartermaster. Giffer Tibbs made social notice of Harvus.
-
-Crew secured below. First day closed without mutiny, escape, or further recorded casualty.
+No mutiny, escape, or further casualty recorded. New hands remain unsettled and require watching.
 
 ## Open Checks
 
-- Confirm whether this log should be locked after Discord-facing narrative review.
 - Confirm whether a Jakes Magpie dossier exists or should be created.
