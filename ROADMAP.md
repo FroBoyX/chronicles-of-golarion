@@ -68,7 +68,8 @@ The immediate goal is not to finish documenting the whole campaign. The immediat
 
 #### Current-State Support
 
-- `chronology/4691.md`
+- `chronology/current-state.md`
+- `chronology/book-one-late-wormwood-to-arodus-5-bridge.md`
 - `state/current-ship-state.md`
 - `state/current-npc-locations.md`
 - `state/post-island-decision-space.md`
@@ -118,5 +119,3 @@ A GM should be able to open the repository and answer:
 ## Core Rule
 
 The archive must not decide the players' future.
-
-It documents the state from which that future emerges.
