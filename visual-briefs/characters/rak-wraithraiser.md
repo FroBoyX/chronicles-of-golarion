@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Character visual brief
-- Maturity: Approved
+- Maturity: Approved visual canon
 - Subject: Rak Wraithraiser
 - Stream: Character Art
 - Asset type: Full-body PC character plate
@@ -11,7 +11,7 @@
 - Canon status: Approved visual canon
 - Asset ID: `rak-wraithraiser-portrait-v1`
 - Asset path: `art/characters/rak-wraithraiser-portrait-v1.png`
-- Binary status: Pending repo placement; GM-approved final was generated in-session as `/mnt/data/reptilian_alchemist_with_spear.png`, but the active repository connector write path is text-oriented unless binary upload is handled separately.
+- Asset file ownership: GM-managed import.
 
 ## Source Basis
 
@@ -121,4 +121,3 @@ Full-body character plate of Rak Wraithraiser, a Pathfinder / Golarion nagaji pi
 ## Open Checks
 
 - Confirm whether the spear is canonically Rak's regular weapon or only acceptable visual gear for this anchor. Until confirmed, preserve it in the anchor but avoid over-centering it in narrative variants where alchemy / cook's mate identity matters more.
-- Binary image still needs actual repo placement at `art/characters/rak-wraithraiser-portrait-v1.png` if not uploaded by a binary-capable workflow.
