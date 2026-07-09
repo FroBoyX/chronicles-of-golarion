@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Sho PCGen evidence, survivor-set confirmation, and first-night Rak confrontation
+- Maturity: Draft, expanded with Sho PCGen evidence, survivor-set confirmation, first-night Rak confrontation, and Rak spelling normalization
 - Scope: Man's Promise swab, tracked survivor, revenge thread
 
 ## Overview
@@ -71,11 +71,11 @@ Early in the departure of the Man's Promise, Rak tried to talk to Nor'gal and Me
 
 Nor'gal was visibly shaking with anger and told Rak:
 
-> "Get out... before I take you out."
+> `Get out... before I take you out.`
 
 When Rak warned that the crew would need friends to survive because the captain and officers were not kind men, Nor'gal rejected the warning as Rak left:
 
-> "You say that, but he gave us a chance at life... all I saw you give is death."
+> `You say that, but he gave us a chance at life... all I saw you give is death.`
 
 This is a defining survivor-politics beat. Nor'gal may later oppose Plugg, but Rak is not a trusted rescuer to him. Rak is one of the people who brought death to the Man's Promise.
 
@@ -98,7 +98,7 @@ Kor'al / Cor'Wal's death is Nor'gal's central known emotional thread.
 
 Sho's notes directly identify the dead man as the brother.
 
-### Rak Wraithraiser / Wraithriser
+### Rak Wraithraiser
 
 Rak may have intimidated Nor'gal into surrender.
 
