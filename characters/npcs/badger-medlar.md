@@ -3,16 +3,14 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Mirei performance scene, Harvus light timeline, Rak player-sheet evidence, Erastus 16 reef task, and low-confidence Erastus 29 dinner fragment
-- Scope: Lower-crew NPC, placement unresolved after Wormwood, possible social ally
+- Maturity: Draft, expanded with Mirei performance scene, Harvus light timeline, Rak player-sheet evidence, Erastus 16 reef task, low-confidence Erastus 29 dinner fragment, and GM-corrected Man's Promise placement
+- Scope: Lower-crew NPC, Man's Promise-side placement, possible social ally
 
 ## Overview
 
 Badger Medlar is an older half-elf sailor who shaves her gray hair into stripes.
 
-Her current placement is unresolved. Some evidence places her aboard the Man's Promise, while other notes suggest she may have remained on the Wormwood.
-
-Because placement affects relaunch politics, this file treats her as unresolved until confirmed.
+Current GM correction places Badger aboard the Man's Promise after the Erastus 27 split, though her exact Arodus 5 physical location and loyalty remain unresolved.
 
 Harvus' light timeline records that he socialized with Badger aboard the new boat and that she seemed to like him somewhat.
 
@@ -26,7 +24,7 @@ A low-confidence Erastus 29 dinner fragment places Badger in conversation with H
 - Type: NPC
 - Ancestry: Half-elf
 - Baseline role: Wormwood swab
-- Current location: Unresolved — Man's Promise or Wormwood after the crew split
+- Current location: Man's Promise, exact Arodus 5 position unresolved
 - Current status: Presumed alive
 - Known Mirei interaction: Complimented Mirei's early Wormwood performances
 - Known Harvus interaction: Socialized with him aboard the Man's Promise; warmed somewhat by his note; skeptical dinner fragment with Sandara
@@ -59,13 +57,13 @@ On Erastus 6 / Wormwood Day 2, Badger complimented Mirei's performances and aske
 
 Badger seemed very tired from the work. When Mirei asked how long she had been with the crew, Badger said she had known the life for a while for a half-elf and did not remember how long it had been since the ship she was on was sunk.
 
-Badger framed that loss as "just the life."
+Badger framed that loss as `just the life`.
 
 This establishes Badger as someone who responds to music but also treats shipboard hardship and loss as normalized.
 
 ### Erastus 16 Reef Task
 
-On the morning of Erastus 16, Plugg gathered Harvus, Rak, Sho, and Mirei for a reef task, then yelled for Scourge to get "that damn badger."
+On the morning of Erastus 16, Plugg gathered Harvus, Rak, Sho, and Mirei for a reef task, then yelled for Scourge to get `that damn badger`.
 
 Badger became the fifth member of the group ordered to swim to the reef, fill buckets with crabs, and return.
 
@@ -73,7 +71,7 @@ This confirms Badger was involved in the crab reef / Clam AP encounter setup.
 
 ### Man's Promise Socializing
 
-Harvus' light timeline records that after transfer to the new boat, he socialized with Badger and that she "digs me...ish."
+Harvus' light timeline records that after transfer to the new boat, he socialized with Badger and that she `digs me...ish`.
 
 This is not by itself a confirmed friendly/helpful state, but it is evidence that Badger warmed socially to Harvus.
 
@@ -83,15 +81,15 @@ A low-confidence dinner fragment appears to place Badger in conversation with Sa
 
 Sandara says:
 
-> "See, he isn't so bad once you get to know him."
+> `See, he isn't so bad once you get to know him.`
 
 Badger replies:
 
-> "I guess. You actually trust him, he doesn't seem worth the trouble."
+> `I guess. You actually trust him, he doesn't seem worth the trouble.`
 
 Harvus jokingly says Sandara speaks the truth, and Sandara clarifies that she means Harvus:
 
-> "Harvus, of course. Sure, he just acts the pirate part. After the fight yesterday he wouldn't leave my side."
+> `Harvus, of course. Sure, he just acts the pirate part. After the fight yesterday he wouldn't leave my side.`
 
 This shows Badger as skeptical of Harvus, but engaged enough in the conversation to question Sandara rather than simply reject him. Sandara's defense of Harvus may have contributed to Badger warming toward him, but that remains unconfirmed.
 
@@ -101,13 +99,11 @@ Rak's Foundry notes list Badger under Helpful NPCs.
 
 This is stronger than the Harvus note, but it remains player-perspective evidence until reconciled.
 
-### Placement Uncertainty
+### Placement Handling
 
-Badger's current location needs confirmation.
+Current GM correction places Badger aboard the Man's Promise after the Erastus 27 split.
 
-If she transferred to the Man's Promise, she may be part of the crew whose choice matters during the post-island confrontation.
-
-If she remained on the Wormwood, she is a future Harrigan-side or Grok-side social thread.
+Her exact Arodus 5 physical location and loyalty remain unresolved.
 
 ## Relationships
 
@@ -137,7 +133,7 @@ Badger asked Sandara whether she trusted Harvus in the low-confidence dinner fra
 
 This suggests Badger saw Sandara as someone whose judgment about Harvus mattered.
 
-### Rak Wraithraiser / Wraithriser
+### Rak Wraithraiser
 
 Rak's player sheet lists Badger as helpful.
 
@@ -159,42 +155,16 @@ Badger's exact attitude toward each PC needs reconstruction.
 
 Badger is not currently defined as Plugg-loyal, but fear and shipboard pressure may constrain her.
 
-Plugg selected or added Badger to the Erastus 16 reef task by ordering Scourge to fetch her.
-
 ## Current State
 
-- Location: Unresolved
+- Location: Man's Promise
+- Exact physical position: Unresolved
 - Status: Presumed alive
-- Political state: Unknown, but possibly warmed toward Harvus and/or Mirei and listed helpful by Rak
-- Practical role: Sailor / possible social witness
-
-## Campaign Function at Relaunch
-
-Badger should be resolved in the crew transfer audit before the Man's Promise confrontation.
-
-If aboard, she can represent the uncertain lower crew who may not love the PCs but also may not want Plugg's tyranny.
-
-Harvus' rescue may matter to her if she had already warmed to him.
-
-Rak's helpful listing may make her one of the most important attitude confirmations to resolve.
-
-Mirei's performance may matter if Badger is a lower-crew witness to Mirei being more than Plugg's later tool.
-
-The dinner fragment can help explain a shift from skepticism toward Harvus to possible warmth, if confirmed in placement.
+- Political state: Possibly movable / survival-minded; not locked Plugg-loyal
 
 ## Open Questions
 
-- Is Badger aboard the Man's Promise or the Wormwood?
-- Why did Plugg add Badger to the Erastus 16 reef task?
-- What happened to Badger during the reef / Clam encounter?
-- Does the formal influence tracker confirm Rak's helpful note?
-- What is her exact attitude toward Mirei after the Day 2 performance?
-- What is her exact attitude toward Harvus?
-- What is her exact attitude toward Rak?
-- Does the Erastus 29 dinner fragment belong to Erastus 29?
-- What fight was Sandara referring to as "the fight yesterday"?
-- Did Sandara's defense of Harvus affect Badger's trust or attitude?
-- Did she witness Mirei's treatment by Plugg?
-- Does she know Sandara survived?
-- Would she fight, hide, abstain, or shift sides in a mutiny?
-- Does she have any specific tie to Grok, Kroop, or Sandara?
+- Where exactly is Badger at the Arodus 5 cold open?
+- Does the formal influence tracker confirm helpful status?
+- What is Badger's current attitude toward each PC?
+- Does she side with survival, Plugg, Sandara, Kroop, or whoever can keep the ship afloat?
