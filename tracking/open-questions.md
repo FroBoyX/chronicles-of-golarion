@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Cross-cutting question tracker
-- Maturity: Working index, corrected with Erastus 27 ship-split model, storm capture structure, Giffer Tibbs death / burial resolution, Jack Scrimshaw's Tam-exchange placement, Mirei player performance-log checks, recovered Mirei level 3 sheet checks, GM clarification that Mirei's familiar is delayed but owed, early Mirei player-cache duplicate extraction, missing Day 12-16 Mirei cache extraction, and missing Day 16-21 Mirei-private cache extraction
+- Maturity: Working index, corrected with Arodus 5 state tableau, Erastus 27 ship-split model, Rahadoumi-officer example sequence, storm capture structure, Giffer Tibbs death / burial resolution, Tidal Cutlass normalization, Jack Scrimshaw's Tam-exchange placement, and PC/NPC dossier consolidation pass through Plugg / Scourge
 - Scope: unresolved reconstruction questions that affect current relaunch, player packets, or multiple dossiers
 
 ## Use
@@ -12,19 +12,28 @@ This file does not replace local Open Questions sections in individual docs.
 
 Use it for cross-cutting questions that affect current relaunch, player packets, or multiple dossiers.
 
-For the corrected Man's Promise / Wormwood split and crew-viability reference, use `state/mans-promise-crew-viability-reference.md`.
+For current relaunch state, use:
+
+- `state/arodus-5-current-state-tableau.md`
+- `state/current-npc-locations.md`
+- `state/current-ship-state.md`
+- `chronology/book-one-late-wormwood-to-arodus-5-bridge.md`
+
+For corrected Man's Promise / Wormwood split and crew-viability reference, use `state/mans-promise-crew-viability-reference.md`.
 
 ## Current Relaunch Questions
 
 ### Current Cold Open
 
 - Is Sho visibly on deck in the hot-box, or covered/guarded in a way that changes approach options?
-- Where are Dahrehn, Ebony, Merchiel, Nor'gal, and Kahina physically at the cold open? Keep unresolved until storm / island logs are traced.
-- Who else is physically aboard the Man's Promise at the cold open? Keep unresolved until storm / island logs are traced.
-- Who is guarding Sho at the exact moment play resumes?
+- Who is guarding Sho at the exact moment play resumes after Kahina walks away?
+- Where are Dahrehn, Ebony, Merchiel, Nor'gal, and Kahina physically at the cold open?
+- Where are Plugg and Scourge physically at the cold open?
+- Who else is physically aboard the Man's Promise at the cold open?
 - Who among the Man's Promise survivors supports Kahina's life-for-life test?
 - Does the Man's Promise reach Coconut Beach before or after the fork collision resolves?
 - Where is Owlbear physically at the cold open?
+- What do Plugg and Scourge currently know about Sandara, Tilly, Goyle, Harvus, and Mirei surviving / returning?
 
 ### Storm / Island Log Tracing
 
@@ -34,8 +43,9 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Where does the post-storm Plugg / Syl report follow-up occur, and what does it establish?
 - Does the log confirm whether Mirei had any opportunity to eat Plugg's waiting third plate before the storm? GM memory: if it would have happened before the storm, most likely not.
 - Trace the Arodus 1 water-loss / repair-estimate / island-team assignment scene.
-- Trace the later grindylow boarding that leads to Goyle's capture.
-- Confirm whether older references to tidewater cutlass should be normalized to **Tidal Cutlass**.
+- Trace the later grindylow boarding that leads to Goyle's capture for exact raw-log placement; structure is resolved, exact log position is not.
+- What exactly happened during Sho's beach / shore beating before she woke in the hot-box?
+- What happened the morning after Syl told Mirei that she and Scourge would see her?
 
 ### Crew / Ship Viability
 
@@ -43,28 +53,27 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Which riggers remain alive, capable, and willing?
 - Which swabs remain alive, capable, and willing?
 - Can the Man's Promise meet or approximate the PF1 sailing ship **Crew 20** effective-operations reference after casualties, abductions, faction refusal, and possible mutiny?
-- Would the crew accept Sho, Harvus, Rak, Mirei, Goyle, Sandara, or another figure as a command solution?
+- Would the crew accept Sho, Harvus, Rak, Mirei, Goyle, Sandara, Kroop, Kahina, or another figure as a command solution?
 - Which sailors would flee, abstain, or submit to whoever wins?
 
 ### Erastus 27 Ship Split / Skeleton Crew
 
 - Which Wormwood crew were transferred to the Man's Promise skeleton crew beyond the locked evidence set?
 - Which post-Erastus 27 scenes prove each transferred Wormwood sailor's Man's Promise-side status?
-- Maheem: Man's Promise or Wormwood at relaunch?
-- Patch Patchsalt placement and true attitude.
-- Kipper placement and status after battle.
-- Conchobhar Turlach Shortstone placement.
-- Badger Medlar: confirm Man's Promise placement or downgrade to low-confidence social fragment only.
+- Confirm whether Maheem, Kipper, and Patch Patchsalt should be locked Wormwood-side or remain strong GM belief.
+- Conchobhar Turlach Shortstone placement: Man's Promise or Wormwood?
 - What are the names and later Wormwood-side fates of the other eight captured Man's Promise survivors who went with the Wormwood?
-- Who was the Rahadoumi officer visible in the Erastus 27 chat, and was that officer one of the eight who went with the Wormwood?
 
 ### Man's Promise Survivors
 
 - Which exact Man's Promise sailors heard Sho promise safety during the boarding?
 - Which surrendered sailors were killed by Rak or Harvus?
 - Did Ebony Saable witness Sho's attempted mercy or the later slaughter?
-- What is Ebony's exact relationship to Sho beyond the "monk man" identification?
+- What is Ebony's exact relationship to Sho beyond the `monk man` identification?
 - How does Nor'gal's revenge thread interact with Sho's guilt and Kor'al / Cor'Wal's death?
+- What are Dahrehn, Ebony, Merchiel, and Nor'gal's current stances toward Sho, Plugg, Scourge, Kahina, Goyle, and the PCs?
+- Does Kahina have actual authority among the survivor bloc, or is she acting independently?
+- Does Kahina know Goyle survived or that Plugg pushed him overboard?
 
 ### Sho Astor
 
@@ -73,8 +82,10 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - What exact item did Harrigan give Sho: pendant, locket, captain's amulet, or another object?
 - Does Sho still have the Harrigan object at the hot-box point?
 - What did Sho recover from Grok, and what remains on the ship?
-- What was the exact content of Sho's "monk man" reference now identified as Ebony Saable?
-- If log tracing does not resolve Sandara's backup "rough way" idea, ask Sho whether she remembers being approached or used for that.
+- What was the exact content of Sho's `monk man` reference now identified as Ebony Saable?
+- If log tracing does not resolve Sandara's backup `rough way` idea, ask Sho whether she remembers being approached or used for that.
+- Does Sho's distrust of Harvus persist after learning he rescued Sandara, Tilly, and Goyle?
+- Does Sho's distrust of Rak change if Rak helps resolve Bonewrack or the Man's Promise mutiny?
 
 ### Harvus G'ron
 
@@ -92,8 +103,8 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Choose and introduce the delayed familiar owed by the Sea Singer level 3 sheet: monkey or parrot, name, personality, and whether the scene occurs on Bonewrack Isle or afterward. Status is resolved only as: Mirei has not acquired the familiar yet, but was told she would be allowed to get it in play.
 - Confirm whether the level 3 sheet's malformed physical-stat field has any intended player truth or should be ignored as a PCGen export issue.
 - Audit active docs that still preserve legacy 4691 labels; use the recovered logs' day/month mapping but retain the corrected archive year 4712 AR.
-- Was the Day 2 performance the first actual performance after the harp return or only the first recovered performance?
-- Map the player's performance-log labels — Night 2, Night 3, Night 4, Night 7, Night 8, Night 15, Night 16, Day 18, Day 1 new ship, and Day 2 new ship — to the Erastus campaign chronology.
+- Was the Day 2 performance the first actual performance or only the first recovered performance?
+- Map the player's performance-log labels — Night 2, Night 3, Night 4, Night 7, Night 8, Day 18, Day 1 new ship, and Day 2 new ship — to the Erastus campaign chronology. Night 15 is resolved.
 - Is the player-log **Night 4 / roll 34** the same floating 34 performance already tracked elsewhere, and did Plugg and Captain Barnabas Harrigan actually hear it in-scene?
 - Do the player-log **Night 3 / roll 31** and **Night 4 / roll 34** performances relate to the memory of a performance powerful enough to draw extraplanar attention, or are they simply high performance rolls?
 - Do Giffer Tibbs' appearances in the Night 15 and Night 16 listener lists conflict with the Man's Promise capture / Giffer death chronology, or do the night labels remain Wormwood-relative and therefore pre-split?
@@ -102,6 +113,9 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - Did Mirei avoid Sho because Sho was too likely to act before Mirei was ready?
 - How should Mirei's player packet frame confession aftermath without over-explaining other PCs' private knowledge?
 - After providing a narrative version of Syl's knife threat, ask Mirei's player whether the wound mattered physically, emotionally, both, or was mostly swallowed by the storm because the table glossed over it.
+- Exact Plugg whispered loyalty-task wording to Mirei.
+- Exact intent and later consequence of Mirei's private alchemist-fire placement.
+- How much of the Arodus 5 confession Sandara heard, given consciousness state.
 
 ### Rak Wraithraiser
 
@@ -112,6 +126,8 @@ For the corrected Man's Promise / Wormwood split and crew-viability reference, u
 - How does Rak feel about Harvus losing the spear used to kill the Whale?
 - Which player-sheet attitude notes reflect actual influence state versus Rak/player impression?
 - Does any later magic, equivalent supernatural reconstruction, testimony, confession, truth effect, or equivalent evidence expose Rak's intent toward Giffer? No such exposure has happened yet; ship-access-based proof remains possible while the party has access to or possession of the Man's Promise.
+- Does Rak know or suspect Mirei's Plugg task before the Arodus 5 branch collision?
+- Does Shivikah's frog-fight help change Rak's attitude toward her?
 
 ### Items
 
@@ -123,16 +139,46 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Rak's spear used by Harvus to kill the Whale.
 - Sandara's tricorne / rescued belongings.
 - Rosie's fiddle and its status after her death.
-- Tidal Cutlass naming and ability record.
+- Mirei's missing harp and the borrowed Grok/Rak fiddle.
+- Tidal Cutlass ability record is now normalized by name, but item-use evidence should remain cross-referenced.
 
 ### Timeline / Year Cleanup
 
 - Current GM correction says opening year is 4712 AR.
-- Some older current-state docs may still preserve 4691 AR.
-- Audit active chronology docs and correct only where they conflict with the locked 4712 timeline.
+- Some older active docs may still preserve 4691 AR.
+- Audit active chronology/current-state docs and correct only where they conflict with the locked 4712 timeline.
 - Missing Mirei player-cache logs preserve explicit legacy labels for Day 18 = Erastus 23, Day 19 = Erastus 24, and Day 20/21 = Erastus 25. Use the day/month/date mapping while retaining 4712 AR.
 
 ## Resolved Questions
+
+### Man's Promise Capture / Day 1 Terminology
+
+- Resolved by GM correction and AP baseline: the Wormwood captured the Man's Promise on **Erastus 25, 4712 AR**.
+- Resolved by GM correction: Erastus 25 is the capture / boarding day, not `Man's Promise Day 1`.
+- Resolved by GM correction: the revel continues through Erastus 26.
+- Resolved by GM correction: the prisoner example and ship split occur on Erastus 27.
+- Resolved by GM correction: **Man's Promise Day 1** is Erastus 28, the first Plugg-command workday after the split and separation.
+- State impact: do not describe the capture day as Man's Promise Day 1 in active docs or packets.
+
+### Erastus 27 Prisoner Example / Rahadoumi Officer
+
+- Resolved by GM correction: fifteen captured Man's Promise survivors were led out after the revel.
+- Resolved by GM correction: Harrigan threw the **only surviving Rahadoumi officer** overboard as the example.
+- Resolved by GM correction: fourteen captured survivors remained afterward.
+- State impact: older notes that place a Rahadoumi officer visibly alive after Harrigan's example are superseded unless later evidence identifies a separate non-officer witness or another distinct survivor.
+- State impact: the other eight captured Man's Promise survivors who went with the Wormwood do **not** include that officer under current reconstruction.
+
+### Badger Medlar and Jack Scrimshaw Placement
+
+- Resolved by GM correction: Badger Medlar is aboard the Man's Promise after the Erastus 27 split.
+- Resolved by GM correction: Jack Scrimshaw is aboard the Man's Promise after the Erastus 27 split.
+- Still unresolved: exact Arodus 5 physical positions and loyalties.
+
+### Tidal Cutlass Naming
+
+- Resolved by consolidated NPC/state updates: normalize older `tidewater cutlass` references to **Tidal Cutlass** unless preserving raw source text.
+- Resolved by GM clarification: Plugg used the Tidal Cutlass to wash Goyle and a grindylow overboard during the later Bonewrack / Man's Promise attack.
+- State impact: item-use evidence remains relevant, but the name itself is no longer an open question.
 
 ### Wormwood Day 12-21 Cache Chronology Bridge
 
@@ -162,23 +208,23 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 - Resolved by GM clarification: Goyle was captured later, during a subsequent grindylow attack on the Man's Promise while the PCs were away on Bonewrack Isle.
 - Resolved by GM clarification: Goyle was fighting one of the boarders when Plugg washed him overboard with an attack from the **Tidal Cutlass**.
 - State impact: Harvus and Mirei know about the Tidal Cutlass' ability from Goyle's account after his rescue.
-- Still unresolved: exact raw-log placement and whether older references should be normalized from tidewater cutlass to Tidal Cutlass.
+- Still unresolved: exact raw-log placement.
 
 ### Jack Scrimshaw in Tam / Mistress Mirei Exchange
 
-- Resolved by GM clarification: Jack Scrimshaw was the second sailor with Tam "Narwhal" Tate when Mirei approached "you two" during the Erastus 30 below-decks Mistress Mirei exchange.
+- Resolved by GM clarification: Jack Scrimshaw was the second sailor with Tam "Narwhal" Tate when Mirei approached `you two` during the Erastus 30 below-decks Mistress Mirei exchange.
 - State impact: Jack is anchored to that exchange, but his current cold-open position and loyalty remain unresolved pending storm / island log tracing.
 
 ### Ebony Saable Identity
 
-- Resolved: Ebony Saable is Sho's referenced "monk man."
+- Resolved: Ebony Saable is Sho's referenced `monk man`.
 - Resolved: Ebony is one of the six named Man's Promise skeleton-crew survivors.
 - Still unresolved: his exact stance, physical position, and relationship to Sho.
 
 ### Other Eight Captured Man's Promise Survivors — Current Placement
 
 - Resolved: The other eight surviving captured Man's Promise crew went with the Wormwood after the Erastus 27 ship split.
-- Still unresolved: their names, whether the visible Rahadoumi officer is among them, and their later Wormwood-side fates.
+- Still unresolved: their names and later Wormwood-side fates.
 - State impact: They are not part of the Arodus 5 Man's Promise / Bonewrack actor pool unless later evidence brings them back.
 
 ### Giffer Tibbs Death Mechanism / Investigation / Burial
@@ -203,7 +249,7 @@ Track item questions primarily in `state/current-item-questions.md`; this sectio
 
 ### Mirei Night 15 Hurt Performance
 
-- Resolved from missing Mirei player cache: Night 15 / "the night I show them that they hurt me" refers to the post-Bloody-Hour performance after the mast punishment / lashings.
+- Resolved from missing Mirei player cache: Night 15 / `the night I show them that they hurt me` refers to the post-Bloody-Hour performance after the mast punishment / lashings.
 - Resolved from missing Mirei player cache: Mirei privately told Sho she intended to play her harp so others could hear how badly they had hurt her.
 - Resolved from missing Mirei player cache: Ratline Rattsberger noticed the harp and said Mirei sounded much worse for the lashings.
 - State impact: the exact emotional nuance can still be explored with the player, but the event identity is no longer open.
