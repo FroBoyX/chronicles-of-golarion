@@ -10,6 +10,7 @@
 - Canon status: Working visual anchor / GM-approved style baseline
 - Asset ID: `slippery-syl-portrait-v1`
 - Intended asset path: `art/characters/slippery-syl-portrait-v1.png`
+- Asset file ownership: GM-managed import.
 
 ## Source Basis
 
@@ -90,10 +91,9 @@ Use `slippery-syl-portrait-v1` as the identity anchor. Preserve her tall slender
 ## Asset Index Links
 
 - Tracking row: `slippery-syl-portrait-v1` in `tracking/image-output-index.md`
-- Generated asset paths or links: intended path `art/characters/slippery-syl-portrait-v1.png`; actual binary asset must still be committed separately if the final image file is to live in the repo.
+- Generated asset path: `art/characters/slippery-syl-portrait-v1.png`
 
 ## Open Checks
 
-- Commit or attach the approved image file at `art/characters/slippery-syl-portrait-v1.png` when binary asset workflow is available.
-- Confirm whether `slippery-syl-portrait-v1` should be promoted from Working anchor to Approved visual canon after final repo asset placement.
+- Confirm whether `slippery-syl-portrait-v1` should be promoted from Working anchor to Approved visual canon after GM finalizes import.
 - Determine whether a token crop is needed immediately.
