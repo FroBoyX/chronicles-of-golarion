@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Design note / visual style guide
-- Maturity: Working guide, expanded with Syl/Fipps character-plate anchors and Rak non-human PC anchor
+- Maturity: Working guide, expanded with Syl/Fipps character-plate anchors, Rak non-human PC anchor, and Sho no-AI restriction
 - Scope: Chronicles of Golarion visual tone for Skull & Shackles character art, location art, and battle-map styling
 - Owner: GM / canon authority
 
@@ -93,6 +93,7 @@ General rules:
 - Keep weapons and signature items practical and visible only when relevant.
 - Use posture and expression to show arc, not just attractiveness.
 - Show wounds, exhaustion, grime, or captivity when current-state art calls for it.
+- Respect player restrictions on AI image generation. If a player blocks AI generation for a character, keep visual briefs for commission/manual art direction only and do not route that character to image generation.
 
 ### Character Rendering Target
 
@@ -329,7 +330,7 @@ Reject or revise outputs that drift toward:
 
 ### PC Visual Logic
 
-- **Sho Astor:** disciplined restraint, suli/Jalmeray cues, soft lavender skin, silver short hair, piercing solid blue eyes, monk practicality, hidden softness around cloak/Agatha, current hot-box stress when relevant.
+- **Sho Astor:** disciplined restraint, suli/Jalmeray cues, soft lavender skin, silver short hair, piercing solid blue eyes, monk practicality, hidden softness around cloak/Agatha, current hot-box stress when relevant. Sho has a player restriction: **no AI image generation**. Use her visual brief only for human commission, manual art direction, or player-approved non-AI reference work.
 - **Harvus G'ron:** avian/strix-like rigger, damaged wing, rage under restraint, rope/rigging labor, rescue-legend physical exhaustion.
 - **Mirei:** aasimar sea-singer bard, river-to-sea wonder, music as survival, luminous but increasingly pressured by Plugg-era contamination.
 - **Rak Wraithraiser:** approved brown-scaled nagaji pirate-alchemist anchor; dangerous practical humor, galley/booze/alchemy cues, Besmara-adjacent pirate survival, smaller tail, integrated scale pattern, practical alchemist gear.
@@ -434,21 +435,26 @@ Use these asset statuses:
 - **Working anchor** — good enough to guide variants, but still adjustable.
 - **Approved visual canon** — GM-approved anchor for future output.
 - **Variant** — approved as a specific pose, outfit, state, or map version.
+- **No AI generation** — visual brief exists, but AI image generation is not permitted for this character/asset.
 - **Superseded** — replaced but retained in the index for history.
 - **Rejected** — do not use as anchor.
 
 ## Current Character Anchors
 
-- `slippery-syl-portrait-v1` — Working anchor / style baseline pending binary asset placement.
-- `fipps-chumlett-portrait-v1` — Approved visual canon pending binary asset placement.
-- `rak-wraithraiser-portrait-v1` — Approved visual canon pending binary asset placement; first locked non-human PC plate anchor.
+- `slippery-syl-portrait-v1` — Working anchor / style baseline.
+- `fipps-chumlett-portrait-v1` — Approved visual canon.
+- `rak-wraithraiser-portrait-v1` — Approved visual canon; first locked non-human PC plate anchor.
+
+## Restricted Character Art
+
+- `sho-hotbox-portrait-v1` — No AI generation. Sho visual work should remain commission/manual-art-direction/player-approved non-AI only.
 
 ## First Pilot Recommendations
 
 Good next character pilots:
 
-- Sho Astor hot-box portrait.
-- Harvus post-Riptide rescue portrait.
+- Harvus base portrait, then post-Riptide rescue variant.
+- Mirei base portrait if GM wants the River Kingdoms / aasimar performer lane next.
 - Sandara Quinn crew portrait.
 - Kahina Bukekayo survivor portrait.
 
