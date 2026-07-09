@@ -3,8 +3,10 @@
 ## Document Status
 
 - Type: PC dossier
-- Maturity: Draft, expanded with Harvus light timeline notes, Rosie fiddle-return scene, post-Rosie rage confession, and Sho player-memory perspective on Harvus' rage
-- Scope: Book One continuity, current state, and open threads
+- Maturity: Draft, consolidated with Harvus light timeline notes, Rosie fiddle-return scene, post-Rosie rage confession, Sho player-memory perspective on Harvus' rage, late-Wormwood chronology addendum, Man's Promise boarding placement, Sandara vigil, Rak/Giffer suspicion boundary, course-investigation thread, and Arodus 5 Riptide rescue branch
+- Scope: Book One continuity, current state, relationships, and open threads
+- Player-facing status: Not player-facing by default
+- Spoiler status: Contains other-PC private knowledge, Rak/Giffer suspicion boundary, rescue-side testimony, and current branch isolation
 - Note: This document records observed history and GM-known facts. It should not dictate future player choices.
 
 ## Overview
@@ -15,15 +17,18 @@ He begins as a press-ganged victim of Scourge's cruelty and develops into the ce
 
 His hatred of Master Scourge remains active, but the rescue proves that Harvus' anger is not only destructive.
 
+At the current relaunch point, Harvus is returning from Riptide Cove with Mirei, Sandara Quinn, Tilly Brackett, and Goyle Onórach. He now carries rescue-side knowledge that Rak and Sho do not yet share.
+
 ## Identity
 
 - Name: Harvus G'ron
 - Type: PC
-- Ancestry / species: Avian / Strix-like; often treated by others as a "hawk that can talk"
+- Ancestry / species: Avian / Strix-like; often treated by others as a `hawk that can talk`
 - Book One ship role: Rigger
 - Current location: Bonewrack Isle, returning from Riptide Cove
 - Current companions: Mirei, Sandara Quinn, Tilly Brackett, Goyle Onórach
 - Current status: Alive, exhausted or wounded, carrying urgent knowledge
+- Current branch: Riptide rescue return
 
 ## Current State
 
@@ -31,7 +36,9 @@ Harvus is returning from Riptide Cove after rescuing Sandara, Tilly, and Goyle.
 
 He has killed the Whale of Bonewrack with a magical spear from Rak Wraithraiser. The spear was likely lost in the Cauldron pool, pending player confirmation.
 
-He is approaching the fork in the jungle path and has heard voices ahead.
+He is approaching the fork / collision space where Rak's Syl-led supply branch is also moving.
+
+Harvus knows Goyle's testimony against Plugg and Mirei's confession that Plugg tasked her with killing the others.
 
 ## Backstory
 
@@ -79,426 +86,208 @@ Harvus prays to Calistria for a chance at proper revenge.
 
 This matters because Calistrian vengeance is not only rage. It can be personal, deliberate, and patient.
 
-### Gentle Repose Mouth Aura
-
-Harvus' teeth and gums remain strangely healthy despite poor hygiene because of a permanent Gentle Repose effect on his mouth.
-
-Detect magic may reveal a necromantic aura.
-
-The effect originated from a prior event in Quent at the House of Stolen Kisses, connected to a priestess of Calistria and a wizard seeking guidance.
-
 ## Wormwood History
 
-### Press-Ganged
+### Rosie / Fiddle / Rage
 
-Harvus was taken after the Formidably Maid setup.
+Harvus recovered or returned Rosie's fiddle after her loss.
 
-His induction was especially violent because Scourge intentionally damaged his wing.
+Rosie's death and the possibility that her going overboard was not purely accidental intensified Harvus' anger toward the Wormwood's cruelty.
 
-### Rigger
+The exact placement of the floating Harvus / Rosie fiddle scene and the Harvus / Sandara rage scene after Rosie's loss remain open.
 
-Harvus served as a rigger, working ropes and rigging.
+### Erastus 18 — Sho Secret Knowledge
 
-His work notes include line work, crow's nest duty, heavy rain, storm labor, and returning to the rigging after punishments and fatigue.
+Harvus bluntly told Sho he had deduced she was a woman.
 
-### Sandara's Early Aid
+Sho reacted with alarm and asked him to keep it quiet.
 
-Sandara Quinn explained Bloody Hour and returned two items.
+Harvus said it became apparent during one of her whippings and promised to keep the secret.
 
-She told Harvus and the others that Grok was superstitious and liked booze and music.
+This is a knowledge-boundary event. Do not treat it as general crew knowledge.
 
-Harvus quickly identified Sandara as a healer and became attracted to her.
+### Erastus 22 — Sandara Polarization Warning
 
-### Grok Made Helpful
+Harvus asked Sandara why Plugg had pulled him from rigging and assigned him to the bilges.
 
-Harvus influenced Cut-Throat Grok to helpful.
+Sandara warned that people were beginning to avoid association with Harvus and Sho because of the attention they drew.
 
-This matters because Grok controlled gear and the quartermaster's store.
+Sandara said things were getting polarized on the Wormwood.
 
-### Bilge Loot and Gear
+Sandara said she was trying to remain neutral so she could watch all of their backs.
 
-Harvus' notes record recovering or looting from the bilges:
+This is a direct Harvus placement for the social-contamination arc and should be tied to later caution / rage-control themes.
 
-- leather armor,
-- three heavy maces,
-- 12 silver pieces,
-- a buckler,
-- a good-looking handaxe,
-- a vial of some kind of water,
-- a bag,
-- tindertwigs,
-- and 21 gold pieces.
+## Man's Promise History
 
-He traded a mace for a flail.
+### Erastus 25 — Man's Promise Boarding
 
-### Rosie and the Fiddle
+Sho recruited Harvus for the aft boarding party and he agreed immediately.
 
-Harvus recovered Rosie's fiddle, along with his own ring and necklace.
+Harvus joined the boarding action after Sho's release under Riaris' orders.
 
-A direct recovered scene shows Harvus returning the fiddle during leisure time before Rosie's storm loss.
+Harvus took part in the violent capture of the Man's Promise.
 
-Rosie invited him to drink from an unidentified draft she had taken after beating someone in a game. She was tipsy, profane, and lonely beneath the bravado, admitting that it gets lonely being short and cursing all the time.
+Sho later remembers Harvus striking someone in a way that broke or undercut her attempt to secure surrender / safety.
 
-Harvus drank, then told Rosie he had something for her from Grok and handed over the fiddle.
+Keep Sho's memory as Sho's character truth; do not overstate Harvus' intent without Harvus-side evidence.
 
-Rosie was overwhelmed, tackled him in gratitude, played the fiddle, pounced him again, apologized briefly, then told him to get over it and punched his shoulder.
+### Erastus 26 — Sandara Collapse / Vigil and Rak-Giffer Suspicion
 
-Harvus' damaged wing was jostled by the tackle, making the wing an active social-scene vulnerability as well as an injury.
+After the boarding, Sandara healed Harvus and others despite being badly wounded.
 
-By his note sequence, Harvus made friends with Rosie shortly afterward.
+Harvus noticed Sandara's serious wound and carried her back to her bunk.
 
-Rosie's later loss during the storm is therefore personally meaningful for Harvus.
+Harvus watched over Sandara for roughly thirty hours during the revel aftermath.
 
-### After Rosie's Loss and Sandara's Counsel
+Harvus worried about Giffer's absence.
 
-After Rosie's loss at sea, likely around Erastus 14 or 15, Harvus went to Sandara for aid.
+Harvus privately asked Rak whether Rak had anything to do with Giffer no longer being with them.
 
-He confessed that a great swell of anger was growing in his heart.
+Rak gave an ambiguous answer, and Harvus accepted it at the time.
 
-Harvus tied that anger to losing his family when he was young, Scourge rending his wing, Rosie's death the previous night, and the Wormwood reawakening pain that had only dulled rather than vanished.
+This is suspicion, not proof. Do not expose GM truth about Rak/Giffer in Harvus-facing material beyond what Harvus could infer.
 
-He told Sandara that being with her eased his soul and that she restrained his rage.
+### Erastus 29-30 — Course Investigation / Sandara Plan
 
-Sandara placed a hand on his shoulder, asked whether his wing was any better, and told him not to discard the rage. She said he might want that rage and should keep it inside because they might need to use it.
+Sandara told Harvus the Man's Promise had changed course and was no longer headed properly for Port Peril.
 
-Sandara also said things were getting worse aboard the Wormwood. Rosie had been new, but had angered Scourge and Plugg quickly. Sandara had been busy in the rigging during the storm, but said Rosie's going over might have been intentional.
+Sandara asked whether Harvus could sneak into captain's or officers' quarters to find information.
 
-Sandara told Harvus to keep his rage inside and his friends close. She said there may be a time to use the rage, but for now he should rest his heart and his wing.
+Harvus warned he lacked lock skill but would try.
 
-This scene is central to Harvus' rage arc: Sandara is not making him harmless. She is helping him keep the rage contained until it can be put to good use.
+Sandara raised the possibility of using Sho to get information the rough way, but the preserved source does not show this being executed.
 
-### Reef and Sandara's Healing
+This resolves only that the idea existed in discussion with Harvus. It does not confirm Sho involvement.
 
-After Rosie's loss, Harvus sought solace with Sandara.
+## Storm / Bonewrack
 
-He later swam to a reef, was badly attacked, and was healed by Sandara.
+### Erastus 31 / Arodus 1 — Storm Gap
 
-### Samms, Ratline, Conchobhar, and Badger
+Harvus was in rigging during part of the storm / grindylow chaos in the recovered Session 7 source.
 
-Harvus' notes record several influence/social successes:
+Exact Harvus actions before the Tilly/Sandara abduction became clear remain under-traced.
 
-- Barefoot Samms Toppin became friendly.
-- Ratline was influenced.
-- Conchobhar was heavily influenced.
-- Badger warmed to Harvus somewhat aboard the Man's Promise.
+Do not overstate what Harvus saw or failed to prevent until the storm logs are fully traced.
 
-These should be reconciled against any recovered influence tracker.
+### Arodus 5 — Riptide Rescue Return
 
-### Drinking With Sandara
+Harvus and Mirei reached the captives and rescued Tilly and Sandara from Riptide Cove.
 
-Harvus drank heavily with Sandara, taking significant ability damage or drunkenness effects before passing out.
+Tilly said Sandara took the worst of it and gave the attackers hell when they were knocked off.
 
-This is an important relationship beat because it shows intimacy, looseness, and vulnerability rather than only courtly distance.
+Goyle surfaced alive and angry, then cast his lot with Harvus and Mirei.
 
-### Boarding Training and Scourge Punishment
+Goyle said Plugg knocked him overboard with the Tidal Cutlass during a later Man's Promise attack while the PCs were away.
 
-During boarding or defense training under Riaris Krine, Harvus performed poorly.
+Goyle warned that the return to the ship would not receive a warm welcome.
 
-His rage slipped. He insulted Scourge and was lashed until he went down.
+Mirei confessed that the island trip was supposed to be one-way for most of them and that Plugg tasked her with killing the others to prove loyalty.
 
-This is a major escalation in Harvus' inability to keep hatred contained under Scourge's provocations.
+Mirei said she did not do it because it did not feel right.
 
-### Sho Boxed
+Harvus agreed to make haste back while carrying / aiding Sandara.
 
-Harvus later learned from Sho that Scourge had tried to have her killed and that she had been boxed.
-
-Harvus' notes record that the thought of this villainy made his blood boil and that he would see Scourge's blood spilled.
-
-Sho's player-memory perspective clarifies that this reaction alarmed Sho rather than reassuring her. She was not expecting such a reaction from someone who had willingly killed others, especially not in relation to defending her honor.
-
-## Man's Promise and Bonewrack
-
-### Boarding the Man's Promise
-
-Harvus boarded the Man's Promise, was shot repeatedly, killed multiple defenders, and noted that Sho was bothered by the amount or nature of the killing.
-
-From Sho's player-memory perspective, Sho had seen Harvus before the assault as a kindred spirit: someone who could fight back against the cruelty of their situation and might be trusted to help. After the assault, she severely doubted whether he could control his rage when it mattered.
-
-Sho experienced Harvus' violence differently from Rak's. Rak's violence felt like malice to Sho; Harvus' felt like anger lashing out at any perceived threat. Even with that distinction, Sho felt powerless to stop both and hated both in the moment.
-
-Sho thinks Harvus may have understood afterward why surrendered enemies mattered, but was too prideful to admit it. This is Sho's interpretation, not confirmed Harvus interiority.
-
-After the ship was taken, Harvus spent needed time aiding Sandara's recovery.
-
-Sho gave Harvus a potion and 275 gold.
-
-### New Boat
-
-Harvus transferred to the Man's Promise under Plugg.
-
-He observed the main hold as charred, looted, holding large water barrels, and containing stairs and a trap door by the main mast.
-
-### Kiss With Sandara
-
-Harvus' notes record a kiss or smooch with Sandara during the Man's Promise phase.
-
-This confirms the romantic thread had moved beyond implication before Bonewrack.
-
-### Storm and Missing Sandara
-
-During the storm near Bonewrack, monsters attacked and Harvus helped below with water.
-
-When Plugg called roll, Sandara was missing.
-
-Harvus searched the deck with Rak and found nothing.
-
-Rak later gave Harvus Sandara's holy symbol of Besmara before the island search.
-
-This holy symbol handoff is an important emotional beat: Harvus entered Bonewrack carrying or having received tangible proof of Sandara's danger.
-
-### Bonewrack Landing
-
-Harvus' notes record:
-
-- tracks of human and monster leading into marsh,
-- a bog crossing,
-- Rak attacked by frog-like creatures,
-- camp,
-- ghouls on third watch,
-- mosquito and swamp hazards,
-- nearly dying,
-- burning the foul ghoul camp / tree,
-- and reaching the beach.
-
-## The First Riptide Cove Failure
-
-Harvus entered the cave calling for Sandara.
-
-Stirges answered before she did.
-
-The group entered water, saw seaweed with hooks, and was attacked by many grindylows.
-
-Harvus counted roughly eleven.
-
-Sho went down.
-
-One grindylow had Sandara's hat. Harvus' note says that one needed to die.
-
-Inside the cave, Harvus pushed forward, was swarmed, exchanged spear strikes, killed several grindylows, took hits including a critical, drank a potion, entered rage, and killed the grindylow that had crit him by smashing it into a wall.
-
-The hat-wearing grindylow was gone.
-
-Harvus later regrouped, fell unconscious, and woke overlooking the cliff.
-
-## The Return to Riptide Cove
-
-Harvus returned the next day with Mirei.
-
-His rage was burning hard.
-
-At the ocean entrance, he jumped from the cliff, crushed one grindylow, speared another, triggered readied spear attacks, and killed the remaining sentries.
-
-He and Mirei entered without alerting the lair.
-
-## The Rescue of Sandara
-
-This is Harvus' defining Book One event.
-
-Harvus returned to Riptide Cove with Mirei after the earlier attempt nearly killed him.
-
-He entered the Cauldron without understanding that he was entering the effective boss battle of the published opening adventure.
-
-He saw Sandara drowning or dying and treated that as the mission.
-
-In the Cauldron, Harvus:
-
-- saw Sandara, the Whale, a grindylow, and a female grindylow,
-- retreated briefly for cure light wounds,
-- returned after the enemies were alerted,
-- swam down as Sandara and the others sank,
-- saw the devilfish,
-- cut Tilly free and gave her his flail,
-- cut Goyle and Sandara free,
-- saw Sandara unresponsive,
-- swam upward with Sandara on his shoulder,
-- saw Tilly in trouble with an octopus-like creature,
-- harpooned it with Rak's spear,
-- grabbed Tilly and kept swimming,
-- lost Rak's spear while trying to answer Mirei's message,
-- and got Sandara and Tilly above water.
-
-When the Whale charged with its mouth open, Harvus braced with Rak's magical spear and killed it in the opening exchange.
-
-The Brinebrood Queen fled after the death of her son.
-
-Harvus rescued Sandara, and Tilly and Goyle survived as part of the same event.
-
-By table memory, Harvus should have died.
-
-Instead, he created the first real legend of the campaign.
-
-## Known / Probable Items
-
-### Harvus' Ring and Necklace
-
-Harvus recovered a ring and necklace during the Wormwood phase.
-
-Confirm whether the necklace is the same one later given to Sandara.
-
-### Rosie's Fiddle
-
-Harvus recovered Rosie's fiddle and returned it to her before her storm loss.
-
-What happened to the fiddle after Rosie was lost is unresolved.
-
-### Flail
-
-Harvus traded for or recovered a flail, then gave it to Tilly during the Cauldron rescue.
-
-Confirm whether Tilly still has it.
-
-### Sandara's Holy Symbol
-
-Rak gave Harvus Sandara's Besmara holy symbol before the island search.
-
-Confirm whether Harvus returned it to Sandara after the rescue.
-
-### Rak's +1 Returning Spear
-
-Harvus used Rak's +1 returning spear during the rescue and likely lost it in the Cauldron pool while trying to answer Mirei's message.
-
-Because the item is returning, confirm whether it truly remained lost or returned later.
+This is Harvus' current branch knowledge. Rak and Sho do not know it yet unless later communication occurs.
 
 ## Relationships
-
-### Sandara Quinn
-
-Sandara is Harvus' strongest emotional connection in Book One.
-
-Their relationship includes courtly affection, drinking, healing, a kiss during the Man's Promise phase, trust, restraint, and rescue.
-
-Her survival matters to Harvus beyond strategy.
-
-Sandara is one of the people who can help Harvus contain his rage without denying it.
 
 ### Master Scourge
 
 Scourge is Harvus' personal enemy.
 
-He damaged Harvus' wing, humiliated him, punished him, and represents the cruelty of the Wormwood's disciplinary order.
+He caused or contributed directly to Harvus' damaged wing and forced service.
 
-After Rosie's loss, Harvus explicitly named Scourge rending his wing and Rosie's death as part of the rage reawakening inside him.
+This relationship is vengeance-shaped and tied to Calistria.
 
-Harvus' own notes state that after hearing Sho had been boxed and Scourge had tried to have her killed, Harvus wanted Scourge's blood spilled.
+Rosie's loss and Sandara's suspicion of intentionality further fed Harvus' renewed rage against the Wormwood's cruelty.
 
-Sho's player-memory perspective marks that response as alarming to Sho, not purely protective, because she had already seen Harvus willingly kill others during the Man's Promise battle.
+### Sandara Quinn
 
-Harvus' revenge remains unresolved.
+Sandara is one of Harvus' central Book One bonds.
 
-### Rak Wraithraiser
+She warned him about Wormwood polarization, healed him after danger, and became the focus of the Riptide rescue arc.
 
-Rak helped save Harvus during the first failed Riptide Cove assault.
-
-Rak gave Harvus Sandara's holy symbol before the island search.
-
-Harvus later killed the Whale with Rak's spear, and likely lost that spear in the Cauldron.
-
-This creates a practical and symbolic tie between them even if their values and styles differ.
+Harvus' rescue of Sandara proves his rage can be redirected into protection and action.
 
 ### Mirei
 
-Mirei accompanied Harvus back into Riptide Cove.
+Mirei is currently with Harvus in the Riptide rescue return branch.
 
-Her choice to support him during the rescue matters, especially because she had been under pressure from Plugg.
+Harvus heard Mirei confess that Plugg tasked her with killing the others to prove loyalty.
+
+How Harvus processes that confession immediately remains unresolved.
+
+### Rak Wraithraiser
+
+Rak and Harvus share combat history and the current spear thread.
+
+Harvus killed the Whale with Rak's spear; the spear may be lost in the Cauldron pool.
+
+Harvus privately asked Rak about Giffer after the Man's Promise battle and accepted Rak's ambiguous answer at the time.
 
 ### Sho Astor
 
-Sho is a comrade from the Wormwood and Man's Promise, but she is currently separated aboard the Man's Promise.
+Harvus knows Sho's secret and promised to keep it.
 
-Before the Man's Promise assault, Sho saw Harvus as a kindred spirit: someone who could fight back against the cruelty of their situation and might be trusted to help if the situation arose.
+Sho later distrusts Harvus after the Man's Promise boarding because of a remembered moment where Harvus appeared to break or undercut her attempted surrender / safety promise.
 
-After the Man's Promise assault, Sho severely doubted whether Harvus could control his rage when it mattered. She distinguishes his violence from Rak's: Rak's felt like malice to her, while Harvus' felt like anger lashing out at any perceived threat. Both still made her feel powerless, and she hated both in that moment.
-
-Sho hopes Harvus' rage can be directed toward noble goals. From her perspective, Harvus is angry mostly about the right things, but he needs to direct that anger at those who deserve it and avoid collateral damage.
-
-For Sho to fully trust Harvus, she would need him to admit that his anger has hurt or killed people who did not deserve it and vow to try to do better.
-
-Harvus learned earlier that Sho had been boxed by Scourge and reacted with intense rage.
-
-Harvus may not yet know she is locked in the hot-box again at the current relaunch point.
-
-### Rosie Cusswell
-
-Harvus recovered Rosie's fiddle and returned it to her.
-
-The recovered return scene shows Rosie responding with intense, chaotic gratitude and immediately playing the fiddle again.
-
-Her loss at sea is one of Harvus' important early grief beats and part of the recovered explanation for his rage returning.
-
-### Barefoot Samms Toppin
-
-Harvus influenced Samms to friendly.
-
-This may matter if Samms is aboard the Man's Promise at relaunch.
-
-### Ratline Rattsberger
-
-Harvus influenced Ratline.
-
-The exact final attitude should be reconciled with influence records.
-
-### Conchobhar Turlach Shortstone
-
-Harvus heavily influenced Conchobhar.
-
-The exact final attitude should be reconciled with influence records.
-
-### Badger Medlar
-
-Harvus socialized with Badger aboard the Man's Promise, and his notes suggest she warmed to him somewhat.
+Harvus does not currently know Sho's full hot-box / Kahina bargain unless later communication occurs.
 
 ### Goyle Onórach
 
-Goyle survived because of the rescue.
+Harvus helped rescue Goyle from Riptide Cove and said he was not about to leave anyone behind because `we are crew`.
 
-He may owe Harvus a direct life debt or honor debt, depending on how Goyle frames it.
+Goyle may treat this as an honor debt, life debt, or practical alliance.
 
 ### Tilly Brackett
 
-Tilly survived because of the rescue and is a witness to the event.
+Tilly was rescued with Sandara and Goyle.
 
-Harvus gave her his flail while cutting her free in the Cauldron.
+Tilly's testimony about Sandara and Goyle matters to Harvus' current understanding of what happened during captivity.
 
 ## Current Knowledge
 
-Harvus knows or likely knows:
+Harvus knows:
 
-- Sandara, Tilly, and Goyle survived.
+- Sandara, Tilly, and Goyle survived Riptide Cove.
 - The Whale is dead.
-- The Brinebrood Queen fled.
-- Mirei was ordered to betray the PCs but did not.
-- Goyle heard that Plugg and Scourge intended to eliminate the troublesome PCs.
-- The group must return quickly before Plugg and Scourge act.
+- Goyle says Plugg knocked him overboard with the Tidal Cutlass.
+- Goyle says return to the ship may be an ambush.
+- Mirei says Plugg tasked her with killing the others to prove loyalty and she did not do it.
 
 Harvus likely does not know:
 
-- Sho's current status in the hot-box.
-- Rak's exact current situation with Syl, Shivikah, and Jape.
-- Whether Plugg and Scourge know the rescue succeeded.
+- Sho's current Kahina bargain.
+- Rak's exact current position after the Syl supply-party split.
+- Whether Plugg and Scourge know the rescue group survived.
+- Whether Syl knows the rescue group is returning.
 
 ## Campaign Function at Relaunch
 
-Harvus brings a legend back to the fork, but not necessarily political ambition.
+Harvus anchors the rescue branch and the personal revenge pressure against Scourge.
 
-He may not want command.
+He is also a possible bridge between rescued witnesses and shipboard politics. If Harvus can bring Sandara, Tilly, Goyle, and Mirei's confession back to the ship, Plugg's legitimacy can collapse.
 
-His presence can still affect legitimacy because he has done something the crew can understand: he went into the dark and brought people back alive.
+Harvus' risk is that vengeance, mistrust, and the need for fast action may pull against patience and coalition-building.
+
+## Player-Facing Caution
+
+- Do not expose GM truth about Rak/Giffer as Harvus proof.
+- Do not assume Harvus forgives or condemns Mirei immediately after her confession without player input.
+- Do not assume Harvus knows Sho's hot-box bargain.
+- Do not overstate Harvus' storm actions before the logs are traced.
+- Do not frame Sho's distrust of Harvus as confirmed Harvus intent.
 
 ## Open Threads
 
-- What does Harvus want from Scourge: death, humiliation, confession, trial, or something else?
-- Does Harvus know or care that he killed the Brinebrood Queen's son?
-- Does Harvus understand the event as legendary, or only as a rescue?
-- Does Sandara's survival change his willingness to risk himself?
-- Does Harvus acknowledge Rak's role through the spear and holy symbol?
-- Is Rak's +1 returning spear truly lost?
-- Does Tilly still have Harvus' flail?
-- Did Sandara's holy symbol return to her after the rescue?
-- What is the current condition of Harvus' wing?
-- What happened to Rosie's fiddle after her loss at sea?
-- Was Rosie's going overboard accidental, negligent, or intentional?
-- Did Rosie's death affect Harvus' later refusal to abandon Sandara?
-- How does Harvus react if the crew discusses captaincy?
-- Did Ratline, Conchobhar, Badger, and Samms become mechanically friendly/helpful or only socially warmer?
-- Does Harvus acknowledge that his anger hurt or killed people who did not deserve it?
-- Does Harvus vow to direct his rage more carefully, or does Sho's distrust persist?
+- Exact placement for floating Harvus / Rosie fiddle scene.
+- Exact placement for Harvus / Sandara rage scene after Rosie's loss.
+- How much of Harvus' grief and rage should be surfaced in a cold-open packet?
+- Does Harvus know the full scope of Plugg's manipulation of Mirei?
+- How does Harvus process Mirei's confession immediately after the Riptide Cove rescue?
+- How explicitly should the Rak spear debt be handled after Harvus killed the Whale with Rak's spear?
+- What did Harvus do during the storm before Sandara and Tilly's abductions became clear?
+- How much of Harvus' distrust or suspicion of Rak survives after accepting Rak's answer about Giffer?
+- Does Harvus learn more about Sho's current hot-box state before the branch collision?
+- How should Harvus' vengeance against Scourge be resolved if Scourge flees, surrenders, or is captured alive?
