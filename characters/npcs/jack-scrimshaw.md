@@ -3,18 +3,18 @@
 ## Document Status
 
 - Type: NPC dossier
-- Maturity: Draft, expanded with Rak player-sheet evidence and Erastus 30 Mistress Mirei exchange placement
-- Scope: Lower-crew sailor, placement and loyalty unresolved
+- Maturity: Draft, expanded with Rak player-sheet evidence, Erastus 30 Mistress Mirei exchange placement, and GM-corrected Man's Promise placement
+- Scope: Lower-crew sailor, Man's Promise-side placement, loyalty unresolved
 
 ## Overview
 
 Jack Scrimshaw is a young sailor talented at scrimshaw.
 
-He begins as one of the lower-crew NPCs aboard the Wormwood and may currently be aboard the Man's Promise, though placement needs confirmation.
+He begins as one of the lower-crew NPCs aboard the Wormwood and is now GM-corrected as aboard the Man's Promise after the Erastus 27 split, though his exact Arodus 5 physical position remains unresolved.
 
 He matters as part of the lower-crew witness network and as a sailor whose fear, youth, and practical survival concerns may influence his choices.
 
-Rak's player sheet lists Jack under "Friendly?" NPCs, with uncertainty.
+Rak's player sheet lists Jack under `Friendly?` NPCs, with uncertainty.
 
 ## Identity
 
@@ -22,7 +22,7 @@ Rak's player sheet lists Jack under "Friendly?" NPCs, with uncertainty.
 - Type: NPC
 - Baseline role: Wormwood swab
 - Trait: Young, talented at scrimshaw
-- Current location: Likely Man's Promise, pending confirmation
+- Current location: Man's Promise, exact Arodus 5 position unresolved
 - Current status: Presumed alive
 - Rak sheet evidence: Friendly?, uncertain
 
@@ -44,27 +44,27 @@ The Rak sheet's uncertain friendly note makes him worth checking before the rela
 
 ## Known Campaign Context
 
-Jack may have been present during the Wormwood social phase and likely transferred to the Man's Promise, though exact current placement must still be confirmed through storm / island tracing.
+Jack was present during the Wormwood social phase and is GM-corrected aboard the Man's Promise after the split, though exact current placement must still be confirmed through storm / island tracing.
 
-Rak's Foundry notes list Jack as "Friendly?" rather than definitively friendly.
+Rak's Foundry notes list Jack as `Friendly?` rather than definitively friendly.
 
 ## Man's Promise
 
 ### Erastus 30 — Mistress Mirei / Tam Exchange
 
-When Mirei approached Tam "Narwhal" Tate below decks as **Mistress Mirei**, she addressed Tam and another nearby sailor as "you two."
+When Mirei approached Tam `Narwhal` Tate below decks as **Mistress Mirei**, she addressed Tam and another nearby sailor as `you two`.
 
 GM clarification now identifies that second sailor as **Jack Scrimshaw**.
 
 Jack's recovered direct contribution in the raw exchange is minimal or displaced-looking:
 
-> "Yes?"
+> `Yes?`
 
 This anchors Jack near Tam during the below-decks reaction to Plugg's imposed Mistress role for Mirei. It does not by itself resolve Jack's loyalty, attitude toward Mirei, or current cold-open placement.
 
 ## Relationships
 
-### Rak Wraithraiser / Wraithriser
+### Rak Wraithraiser
 
 Rak's sheet marks Jack as friendly with uncertainty.
 
@@ -76,7 +76,7 @@ Jack was present with Tam when Mirei attempted to speak with them as Mistress Mi
 
 His attitude toward her imposed station remains unresolved; Tam did the speaking in the recovered exchange.
 
-### Tam "Narwhal" Tate
+### Tam `Narwhal` Tate
 
 Jack was near Tam during the Mistress Mirei exchange.
 
@@ -100,7 +100,8 @@ Jack's choices may follow the visible majority of the lower crew unless a strong
 
 ## Current State
 
-- Location: Likely Man's Promise, pending storm / island log tracing
+- Location: Man's Promise
+- Exact physical position: Unresolved
 - Status: Presumed alive
 - Political state: Unknown, but Rak sheet suggests possible friendly status
 - Practical value: Sailor and possible witness
@@ -117,7 +118,7 @@ If his friendly status is confirmed, he may be a quiet but meaningful support po
 
 ## Open Questions
 
-- Is Jack definitely aboard the Man's Promise at the current cold open?
+- Where exactly is Jack at the current cold open?
 - Does the formal influence tracker confirm friendly status?
 - What is his current attitude toward each PC?
 - Did he witness Sho's imprisonment?
