@@ -2,12 +2,12 @@
 
 ## Document Status
 
-- Type: Day-by-day narrative reconstruction
-- Maturity: Draft / canon-candidate
-- Scope: Erastus 7 scaffold, Sandara/Harvus dinner, Sho/Grok cloak attempt, Mirei noticing Sho's disguise, and recovered night Rak/Grok trust conversation
-- Source basis: AP weather scaffold, GM note tying next-day bilges to Erastus 8 dire-rat encounter, Sandara/Harvus dinner chat extract, Sho/Grok cloak chat extract, Mirei/Sho disguise whisper evidence, Rak/Grok trust chat extract, existing relationship records
-- Spoiler scope: Player-safe after Sho's disguise truth is no longer secret; otherwise character-limited
-- Canon status: Becomes canon after GM/player sign-off
+- Type: Narrative Write-Up
+- Maturity: GM-signed chat-integrated draft / canon-candidate
+- Scope: Erastus 7 routine pressure, Sandara and Harvus at dinner, Sho and Grok cloak attempt, Mirei noticing something off about Sho, Rak and Grok trust conversation, and night below
+- Source spine: `source-spines/wormwood-erastus-7-day-three.md`
+- Spoiler scope: Player-safe if Sho's disguise truth is allowed to be implied through Mirei's perception
+- Canon status: Signed off by GM for player-facing narrative use
 
 ## Date
 
@@ -16,147 +16,143 @@
 
 Weather: normal.
 
-## Known Scaffold
+## Narrative Log
 
-The Wormwood remained in normal weather.
+By the third morning, the bell no longer startled the new hands in the same way.
 
-The exact daytime assignments and checks for Day 3 are not currently recovered.
+It still ruled them. It still cut through sleep, sweat, and the stale press of bodies below. But now they were starting to recognize the space around them: where the hammocks blocked the walkways, where a misplaced step could snag on someone else's gear, and where the passage tightened near the territory claimed by men best left alone.
 
-The recovered scenes are a high-confidence Sandara/Harvus dinner conversation, a medium-confidence Sho/Grok cloak attempt, the first recovered Mirei/Sho disguise-discovery evidence, and a high-confidence night conversation between **Rak Wraithraiser** and **Cut-Throat Grok**, with **Mirei** performing nearby.
+The Wormwood was not becoming safer. It was becoming legible.
 
-The Rak/Grok date placement is high-confidence because Grok ends the exchange by telling Rak to rest because he is in the bilges tomorrow. The GM note places the dire-rat bilges encounter on Erastus 8.
+The new hands joined the movement upward. The stairs pulled them out of the lower hold again. The middle passage carried them through animal noise, cargo shadows, and the dull warning of Owlbear’s chain. Above, the main deck waited with work already gathering around the mast and officer eyes looking for bodies to use.
 
-## Reconstructed Sequence
+Most of the day disappeared into labor.
 
-Day 3 likely passed through the same brutal rhythm as the days before it: bell, work, officer pressure, Bloody Hour, dinner, rum, and night survival politics.
+Harvus went back to the rigging, where the wind sharpened every order and made every mistake public. Mirei and Sho worked among the swabs, where buckets, ropes, and planks filled the hours until conversation could slip in around them. Rak was pulled again toward the heat and knives of the galley, where Kroop’s moods and the day’s food made their own weather.
 
-Most of the day's labor is lost to time.
+The work itself left little behind except fatigue.
 
-## Sandara and Harvus: Dinner in the Middle Hold
+What lasted was what happened in the spaces after.
 
-At dinner, **Sandara Quinn** was eating in the middle hold when she invited **Harvus G'ron** to sit with her.
+At dinner, Sandara made room for Harvus near her.
 
-> "Hey Harvus. come have a seat."
+The middle hold carried mealtimes differently than work. It was still the ship’s belly, still thick with stores, livestock, and bodies packed too close together, but the day’s grip had loosened a little. People ate where they could. Some watched over their bowls. Some pretended not to.
 
-Harvus accepted with courtly formality.
+Sandara looked up as Harvus came near.
+
+> "Hey Harvus, come have a seat."
+
+Harvus accepted with the same courtly care he brought to most things he meant sincerely.
 
 > "I thank you."
 
-Sandara asked whether he was adjusting to life aboard the Wormwood.
+Sandara asked whether he was adjusting to the Wormwood.
 
-Harvus said he was, though he had not been looking for life at sea.
+Harvus was honest, though not bitter.
 
-> "I am, milady. I wasn't exactly looking for life on the see but it's quite interesting."
+> "I am, milady. I wasn't exactly looking for life on the sea, but it's quite interesting."
 
-Then he asked about Sandara herself: where she was from and how she came to be aboard.
+Then he asked about her. Where she came from. How she came to be aboard.
 
-Sandara smiled lightly but hesitated.
+Sandara smiled, but the answer did not come quickly.
 
 > "You sure you want to know? I don't really like to go into it."
 
 Harvus did not press.
 
-> "Only if you are comfortable, I won't push anything that sensitive."
+> "Only if you are comfortable. I won't push anything that sensitive."
 
-Because he gave her that room, Sandara began.
+Sandara let the silence sit for a moment before giving him part of the answer.
 
-> "I was raised in Hell harbor...."
+> "I was raised in Hell Harbor..."
 
-Harvus knew of Hell Harbor as one of the largest ports in the Shackles.
+Hell Harbor had been home once, if home was the right word for it. Her parents had been too overworked to give much of themselves, and the port had raised her in the gaps. She had grown up around docks, taverns, trouble, and the sea’s constant promise to take people somewhere else.
 
-Sandara explained that her parents were always overworked and had little time, so she grew up mostly on the port's streets. She worked the docks when she could, got into trouble, and then paused with a chuckle as the past came back to her.
+Mirei’s harp moved through the same space nearby, bright enough to reach tables that were not listening for it.
 
-Nearby, Mirei rolled a 31 performance somewhere on her harp.
-
-Harvus listened and answered gently.
+Harvus listened without trying to claim the story for himself.
 
 > "It sounds like a hard life."
 
-Sandara continued. She had found her way into taverns by nine and was on the seas by twelve.
+By nine, Sandara told him, taverns had already become familiar. By twelve, the sea had her.
 
 > "I guess that's really where I belong. Out here."
+
+She did not make the story soft. She did not make it more terrible than it needed to be either. She spoke like someone who had long ago learned which parts could be said aloud.
 
 Harvus answered with open affection.
 
 > "Well, my heart is filled with joy at this chance to meet you."
 
-Then he excused himself to sleep and rest his damaged wing.
+When Harvus rose to leave, it was to rest his wing.
 
-> "I'm off to sleep fair maiden, I must give this wing as much rest as I can."
+> "I'm off to sleep, fair maiden. I must give this wing as much rest as I can."
 
-He kissed her hand before leaving.
+He kissed her hand before he went.
 
-Sandara thanked him, invited him to ask more later, and called after him to check on his wing.
+Sandara let him go, then called after him.
 
-> "Oh, Harv? that helping the wing any?"
+> "Oh, Harv? Is that helping the wing any?"
 
 Harvus answered that it was and thanked her.
 
-The scene matters because Sandara shares guarded personal history after Harvus respects her hesitation. Harvus' affection is already courtly and intense, but he is careful enough here not to push past her boundary.
+The ship took the moment back afterward.
 
-## Sho and Grok: The Cloak
+Dishes shifted. Crew moved. The passage filled again.
 
-Sho's exact timing that day is unclear, but the conversation belongs to Erastus 7 with medium confidence.
+Elsewhere, Sho returned to Grok.
 
-Grok recognized that Sho had made some progress, but she did not let that obscure the practical question.
+The quartermaster’s store had begun to take on a shape of its own in Sho’s mind. It was the place where need was weighed, priced, and usually found wanting. The goods inside had names and owners once, but aboard the Wormwood, ownership meant very little unless Grok agreed to recognize it.
 
-> "A step in the right direction monk.... but what do you want?"
+Grok saw him coming and gave him enough attention to make clear she remembered the last approach.
 
-Sho answered directly.
+> "A step in the right direction, monk... but what do you want?"
 
-> "I only desire my cloak"
+Sho did not circle the answer.
 
-Grok repeated the rule she had already given Sho.
+> "I only desire my cloak."
 
-> "I told you.... bring me something of value."
+Grok’s rule had not changed.
 
-Sho had not come only to demand the item. She also wanted to correct the way she had left things with Grok.
+> "I told you... bring me something of value."
+
+Sho had not come only to ask. He had also come to repair what he thought he had damaged.
 
 > "I shall work on it. But I also did not want to leave an insult on your person."
 
 Grok did not accept apology as payment.
 
-> "Just find something to trade.."
+> "Just find something to trade..."
 
-Sho accepted the terms but left the offer of future service open.
+Sho accepted the terms, but left his offer standing.
 
-> "Will do. If you should require my services in the future, they are still up for trade"
+> "Will do. If you should require my services in the future, they are still up for trade."
 
-The scene matters because Sho's target item is now clear: the cloak. It also shows that Sho understood she had insulted Grok or risked doing so, and that she tried to repair the social damage even while still pressing for her property.
+Sho left without the cloak. He had not been dismissed entirely, but he had not gained what he came for. The Wormwood kept teaching the same lesson in different languages: strength mattered, manners mattered, usefulness mattered, but none of them became currency until the right person chose to count them.
 
-For Grok, the pattern stayed consistent. Services might become useful later, but the store worked on value.
+At some point that day, Mirei noticed something wrong in the shape of Sho’s disguise.
 
-## Mirei and Sho: Something Is Off
+It was not just a stray detail or a clumsy movement. Sho’s voice sat too low and too carefully controlled, as if it were being held in place rather than spoken naturally. The lines of his body did not match the loose clothing he wore. There was a tightness across his chest that suggested something deliberately bound flat beneath the fabric.
 
-Another recovered thread from Day 3 shows **Mirei** noticing that something about **Sho** was not what it appeared to be.
+Taken together, it was enough that Sho no longer sat cleanly in Mirei’s mind as what he appeared to be.
 
-The GM first told Sho's player:
+Her instinct was toward the direct question, toward asking what was going on rather than pretending she had seen nothing. On the Wormwood, that instinct was dangerous. Secrets were not only personal. They could be weapons, leverage, or the thing that kept someone alive one more day.
 
-> "Anji sensed through bluff"
+The ship gave no private place for that kind of knowledge. It only gave crowded holds, watched passages, and the chance to decide what not to say yet.
 
-Then the GM told Mirei:
+Night came down through the hammocks again.
 
-> "You sensed that something isn't quite what it appears with Chas"
+Mirei played again, her harp resting light against her shoulder, its polished wood and fine strings out of place among the Wormwood’s rough timbers.
 
-The GM asked whether Mirei wanted to hide that she had noticed, warning that a Bluff roll would be needed.
+Below, the day’s hard edges softened without disappearing. Crew shifted in their hammocks, passed drink, muttered lies, listened for gossip, or watched the hold from the edges of their hammocks. Jack Scrimshaw had a bit of bone in hand, worrying it into shape with small cuts. Giffer Tibbs lingered where the music could reach her, one-eyed and worn thin by shipboard life, but still quick to notice beauty when it passed close enough.
 
-Mirei did not initially want to hide it.
+The instrument did not belong to the Wormwood, which may have been why it carried. Its sound threaded through the lower hold, around hammocks and shoulders, past people who wanted to hear it and people who only pretended not to. For a little while, the ship had another sound inside it besides orders, chains, and boots.
 
-> "no, I dont want to hide. Already on the path to asking him what the f is up"
+Rak found Grok before bed, at the quartermaster’s store.
 
-The exact conversation that triggered the check is not recovered. The next night's follow-up clarifies the result: Mirei had noticed **yesterday** that Sho was actually a woman.
+The question he brought her was different from the ones about brewing or gear.
 
-That later follow-up also shows Mirei choosing to hide that she had figured out the exact truth, while recognizing that Sho knew Mirei was suspicious.
-
-The Day 3 scene matters because it starts the recovered Mirei/Sho disguise thread. Mirei does not simply learn a fact. She notices a dangerous secret, decides at first not to conceal her suspicion, and later chooses to hide that she knows the exact truth.
-
-## Rak and Grok: Trust
-
-Later that night, Rak came to Grok with a more serious question than alcohol or shop access.
-
-He wanted to know who the bad ones were.
-
-> "Who are some of the bad ones that I should avoid in this crew? Other than the 4 that already jumped me."
+> "Who are some of the bad ones that I should avoid in this crew? Other than the four that already jumped me."
 
 Then he asked the sharper question.
 
@@ -164,176 +160,52 @@ Then he asked the sharper question.
 
 Grok grinned at the first phrasing.
 
-> "Bad one? Aren't we all?"
+> "Bad ones? Aren't we all?"
 
-Then she got serious.
+Then the word trust settled between them, and her expression changed.
 
 > "Why you asking?"
 
-Rak answered plainly. He had enemies now, and survival required friends.
+Rak answered plainly.
 
-> "I want to know who I can trust on this ship, I am going to need friends if I plan to survive since I appear to already have enemies out to get me brah"
+> "I want to know who I can trust on this ship. I am going to need friends if I plan to survive, since I appear to already have enemies out to get me."
 
-The word trust changed the feel of the conversation.
+Grok did not like that word.
 
-Grok thought for a moment and looked nervous.
+Trust was too clean for the Wormwood. Too absolute. It asked more of the ship than the ship was willing to give. Grok did not mock Rak for asking, but the question made her careful.
 
 > "Trust? I wouldn't trust any of the lot... but you have to throw in your axe with somebody. You know?"
 
-She almost answered more directly, then hesitated.
+Rak did not need perfect trust. He needed a way to survive.
 
-Rak softened the question. He was not asking for perfect trust. Friendly would do. Not too bad would do.
+That made more sense to her.
 
-Grok looked more comfortable when the question moved away from trust.
+She warned him away from most of the officers. Scourge, especially, seemed to have fixed his attention on some of the new blood.
 
-She warned him away from most officers.
+> "I'd avoid most of the other officers if I were you... Scourge seems to have it out for some of you new blood."
 
-> "I'd avoid most of the other officers if I were you... Scurge seems to have it out for some of you new blood."
+Grok could deal with officers better than most, but she did not pretend that made her powerful enough to shield him from the ship. She touched the old scar at her neck, a small motion with history behind it.
 
-Rak assumed that anyone who liked Grok might be able to grow to like him.
+> "If the swabs who tried this couldn't off me, I don't know who could."
 
-Grok was not so sure.
+Then she gave him what advice she could.
 
-She had an in with most of the officers, but not much sway. She would not let many push her around. She pointed to her neck, to the old scar and the history behind it.
+> "As for you, I'll try and help if people really try something... I'd try and create some friends with the newer members of the crew just in case something goes down. Or good old Ambrose."
 
-> "If the swabs who tried this couldn't off me. I don't know who could."
+The advice was not sentimental. Newer hands might have reasons to band together. Kroop was a mess, but he was Rak’s mess now, part of the path the ship had given him.
 
-Then she gave Rak what help she could.
+Rak offered help in return, the way he did, loose and easy on the surface.
 
-> "As for you, I'll try and help if people really try something... I'd try and create some friends with the newer members of the crew just incase something goes down. Or good old Ambrose."
+> "Give me a holla if you need me for anything as well."
 
-Rak thanked her and offered to help her in return.
+Grok accepted the offer and ended with a practical warning.
 
-> "Give me a holla if you need me for anything as well"
+> "Absolutely. Will do. Get some rest. I hear you're in the bilges tomorrow."
 
-Grok accepted and ended the conversation with practical information.
+That settled over the night with the smell of damp wood and old rot rising from below.
 
-> "Absolutely. Will do. Get some rest. I hear your in the bilges tomorrow."
+The Wormwood had shown them more of itself by then. Not in one grand reveal. In routes. In thresholds. In who could open a hatch, who could block a stair, who could ask a question, and who could afford to answer.
 
-Nearby, Mirei's harp cut through the same night with a remarkable performance. The recovered note gives it as a 31.
+The ship was becoming familiar.
 
-Rak's player later described Rak having a strong physical attraction or arousal reaction to the music. That detail should be treated carefully as a player-reported table note: it records Rak's strong reaction to Mirei's performance, not a relationship conclusion by itself.
-
-## Character Beats
-
-### Sandara Quinn
-
-Sandara invites Harvus to sit with her at dinner and checks whether he is adjusting.
-
-She is hesitant to speak about her past, but opens up after Harvus makes clear he will not push.
-
-Her Hell Harbor / dock-streets / taverns by nine / sea by twelve history is now directly placed in play.
-
-She also checks on Harvus' wing as he leaves, showing practical care beneath the lightness of the dinner conversation.
-
-### Harvus G'ron
-
-Harvus is courtly and openly affectionate with Sandara, calling her milady and fair maiden and kissing her hand.
-
-More importantly, he respects her boundary when she hesitates to speak about her past.
-
-He leaves to rest his damaged wing, showing that the wing injury remains an active concern.
-
-### Sho Astor
-
-Sho persists in trying to recover her property, specifically her cloak.
-
-She also tries to repair the insult she believes she left with Grok, which matters because Sho is not treating Grok as only an obstacle or shopkeeper.
-
-Her offer of future service remains open, but Grok still requires concrete value.
-
-Separately, Sho's disguise begins to come under pressure from Mirei's perception. Sho knows Mirei is suspicious by the following night.
-
-### Mirei
-
-Mirei notices through deception context that something about Sho is not what it appears to be.
-
-She initially does not want to hide that she noticed and is already inclined to ask Sho directly what is going on.
-
-The next night's follow-up clarifies that the thing Mirei noticed on Day 3 was that Sho was actually a woman. Mirei later chooses to hide that she has figured out the exact truth.
-
-Mirei was also performing nearby strongly enough that the performance entered multiple Day 3 scene records as a 31 on harp.
-
-This reinforces that Mirei's music was already shaping the ship's night atmosphere and drawing reactions from nearby crew, even as she was also noticing dangerous personal secrets.
-
-### Rak Wraithraiser
-
-Rak has already realized he cannot survive the Wormwood alone.
-
-He asks Grok directly who he can trust or befriend, acknowledges he has enemies, and accepts her advice about newer crew and Ambrose.
-
-This shows Rak acting strategically and socially, not only violently or comically.
-
-### Cut-Throat Grok
-
-Grok is consistent with both Sho and Rak.
-
-With Sho, she acknowledges better social behavior but still requires something of value for the cloak.
-
-With Rak, she is willing to advise him, but the word trust makes her nervous.
-
-She is honest enough to warn him away from officers, name Scourge as a threat to some of the new blood, and offer to try to help if people really try something.
-
-She also directs him toward Ambrose and newer crew rather than pretending she can protect him through officer influence.
-
-### Ambrose "Fishguts" Kroop
-
-Ambrose is not directly present in the recovered exchange, but Grok names him as someone Rak should try.
-
-This strengthens Rak's cook's mate path as a survival route.
-
-### Master Scourge
-
-Scourge is not present, but Grok explicitly warns that he seems to have it out for some of the new blood.
-
-## What Is Lost to Time
-
-- Day 3 work assignments.
-- Bloody Hour details, if any were unusual.
-- The exact ordering of the Day 3 dinner and night scenes.
-- Whether Sandara explained how she was press-ganged in the same larger conversation or later.
-- What aid, if any, was Harvus using for his wing at this point.
-- The precise placement of Sho's cloak conversation during the day or night.
-- What Grok meant by "a step in the right direction."
-- What insult Sho believed she had left on Grok.
-- Whether Sho later found something of value to trade for the cloak.
-- The exact conversation that triggered Mirei's first check on Sho's disguise.
-- Whether Mirei asked Sho directly what was going on that same night.
-- What Sho thought Mirei had noticed before the truth was openly resolved.
-- Whether Rak followed Grok's advice immediately.
-- Whether Grok named specific newer crew in lost surrounding text.
-- Whether the Rak/Grok conversation happened before or after rum ration.
-- Whether anyone else overheard the trust conversation.
-- Whether Mirei's 31 performance was part of a larger recovered scene.
-- Whether Rak's player-reported physical reaction to Mirei's music was intended as in-character, table joke, or both.
-
-## Open Checks
-
-- Did Sandara explain the press-ganging part of her story later that same night?
-- Did Harvus' hand-kiss shift Sandara's attitude mechanically?
-- Did Sho's second attempt happen before or after the Rak/Grok trust conversation?
-- Is this the same cloak Sho later recovered and overpaid for due to exchange-rate confusion?
-- Did Mirei ask Sho directly what was going on that night?
-- When did Sho explicitly confide the disguise truth to Mirei?
-- Did Rak speak with Ambrose after Grok's advice?
-- Which newer crew did Rak approach after this conversation?
-- Did Grok's warning change Rak's behavior around officers?
-- Was Mirei's nearby performance witnessed by Grok, Rak, or a wider group?
-- Did the Day 3 performance affect any influence states?
-- Did Grok know about the bilges assignment through officer gossip, quartermaster access, or general shipboard talk?
-
-## Canon Consequences
-
-- Sandara's Hell Harbor / port-streets / taverns by nine / sea by twelve backstory was communicated to Harvus in play.
-- Harvus' courtly affection for Sandara is active by Day 3, but so is his restraint around her boundaries.
-- Harvus' wing injury remains active enough that he is resting it intentionally.
-- Sho's desired item is confirmed as her cloak.
-- Sho attempts to repair an insult with Grok, but Grok still requires concrete value for trade.
-- Mirei notices that something is false about Sho's presentation.
-- The following night confirms that Mirei noticed on Day 3 that Sho was actually a woman.
-- Rak/Grok moves beyond alcohol and barter into guarded survival advice.
-- Grok is established as nervous about trust but willing to help Rak within limits.
-- Grok identifies Scourge as specifically dangerous to the new hands.
-- Grok points Rak toward Ambrose and newer crew as survival contacts.
-- Day 4 is set up by Grok's warning that Rak will be in the bilges tomorrow.
-- Mirei's harp performance continues to act as social atmosphere and attention aboard the Wormwood.
+That did not make it home.
