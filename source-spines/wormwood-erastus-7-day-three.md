@@ -13,6 +13,8 @@
 
 - Narrative baseline:
   - `chronicles/wormwood-day-three.md`
+- Ship's log:
+  - `ship-logs/wormwood-erastus-7-day-three.md`
 - Area / ship identity support:
   - `evidence/ap/wormwood-ship-areas-and-geography.md`
   - `state/wormwood-area-identity.md`
@@ -138,5 +140,5 @@ The Wormwood's spaces are used as recurring transit points rather than repeated 
 | Output | Path | Status | Alignment notes |
 |---|---|---|
 | Narrative Write-Up | `chronicles/wormwood-day-three.md` | Signed off / aligned | GM-signed chat-integrated narrative write-up. |
-| Ship's Log | `ship-logs/wormwood-erastus-7-day-three.md` | Not created | Create officer-side log after narrative lock-in. |
+| Ship's Log | `ship-logs/wormwood-erastus-7-day-three.md` | Created / aligned | Officer-side log matched to signed-off write-up. |
 | Narrative Chat Scene | `chronicles/wormwood-erastus-7-day-three-chat-scene.md` | Not created | Do not create until GM asks for Discord-facing output. |
