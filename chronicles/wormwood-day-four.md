@@ -12,7 +12,7 @@
 
 ## Date
 
-**Erastus 8, 4712 AR**  
+**Erastus 8, 4712 AR**\
 **The Lash and the Harp**
 
 Weather: normal.
@@ -39,7 +39,7 @@ He came for Rak with the satisfaction of a man who had been waiting to make a le
 
 Rak gave him the same loose, careless tone that kept denying Scourge the fear he wanted.
 
-> "Probably brah"
+> "Should I?"
 
 Scourge cracked his knuckles.
 
@@ -57,9 +57,9 @@ Rak came along.
 
 Then, because it was Rak, he added more.
 
-> "Sup brah"
+> "Sup."
 
-> "Hang loose"
+> "Hey, take it easy."
 
 They brought him into view.
 
@@ -83,7 +83,7 @@ He let that sit over the crew.
 
 Rak did not bow his head.
 
-> "Sweet brah"
+> "Yeah, we heard ya already"
 
 That gave Scourge more to work with.
 
@@ -133,7 +133,7 @@ He did not need to do much. His presence changed the air. Scourge gave ground to
 
 Rak added one more piece of disruption from where he stood.
 
-> "Banana boat motha fucka"
+> "They float?!"
 
 It did not help.
 
@@ -151,7 +151,7 @@ Sho glared after him.
 
 Scourge took that permission personally.
 
-> "You hear that... you deceptious motley-minded baggage... I have free reign with you now. Clearly we need to keep you from sharing your little opinions again. Anything else to say?"
+> "You hear that... you insolent motley-minded baggage... I have free reign with you now. Clearly we need to keep you from sharing your little opinions again. Anything else to say?"
 
 The pirates moved to take Sho.
 
@@ -159,7 +159,7 @@ Rak punctuated the silence in the worst possible way.
 
 Sho turned and gave Scourge a harder look.
 
-The punishment changed shape after that. Rak had been the start of the lesson, but Sho became its sharper target. She had questioned punishment in front of the crew. She had made Scourge answer. Plugg had given him permission to make sure she did not do it lightly again.
+The punishment shifted after that. Rak had been the start of the lesson, but Sho became its sharper target. She had questioned punishment in front of the crew. She had made Scourge answer. Plugg had given him permission to make sure she did not do it lightly again.
 
 Scourge walked in front of the mast.
 
@@ -193,7 +193,7 @@ Again.
 
 Again.
 
-> "Four... and four."
+> "Four..."
 
 The last reason was the cruelest because it did not pretend to be anything else.
 
