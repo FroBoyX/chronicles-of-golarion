@@ -5,7 +5,7 @@
 - Type: Source spine
 - Maturity: Chat-integrated / placement-candidate
 - Scope: Erastus 8 candidate / Wormwood Day 4, Rak rum-ration discipline, Sho intervention, lockbox escalation, and Mirei 34 performance fragment
-- Source basis: `chronicles/wormwood-day-four.md`, `ship-logs/wormwood-erastus-8-day-four.md`, `evidence/chat-logs/wormwood-day-4-rum-punishment-rak-sho.md`, `evidence/chat-logs/floating-rak-kipper-rum-mirei-34-performance.md`, AP standard routine, Wormwood area motif support, crew/watch tracking, GM guidance
+- Source basis: `chronicles/wormwood-day-four.md`, `chronicles/wormwood-erastus-8-day-four-chat-scene.md`, `ship-logs/wormwood-erastus-8-day-four.md`, `evidence/chat-logs/wormwood-day-4-rum-punishment-rak-sho.md`, `evidence/chat-logs/floating-rak-kipper-rum-mirei-34-performance.md`, AP standard routine, Wormwood area motif support, crew/watch tracking, GM guidance
 - Spoiler scope: Player-safe
 - Canon status: Date is still a best current candidate, not fully locked
 
@@ -13,6 +13,8 @@
 
 - Narrative baseline:
   - `chronicles/wormwood-day-four.md`
+- Discord / chat-scene formatting source:
+  - `chronicles/wormwood-erastus-8-day-four-chat-scene.md`
 - Ship's log:
   - `ship-logs/wormwood-erastus-8-day-four.md`
 - Direct evidence:
@@ -40,7 +42,15 @@ The current draft uses Rak's Kipper concern as a passing warning to Harvus. Do n
 
 The Mirei 34 performance is staged after the punishment as a broad middle-hold / shipwide effect, reaching lower crew and being noticed from officer space. It should not be conflated with later Man's Promise / Plugg private-performance material unless evidence says so.
 
-The chat-integrated version should inherit the non-chat narrative prose except where dialogue blocks or small quote transitions require an intentional adjustment. In particular, the harp / Mirei performance passage should stay aligned across versions unless the GM separately revises that scene.
+The harp / Mirei performance conclusion in `chronicles/wormwood-day-four.md` is the authoritative prose for that section. Because no chat is inserted into the harp conclusion, downstream chat-scene and Discord-ready versions must preserve it verbatim unless the GM explicitly edits that section again.
+
+## Version Alignment Rule For Day 4
+
+- `chronicles/wormwood-day-four.md` is the authoritative narrative text.
+- `chronicles/wormwood-erastus-8-day-four-chat-scene.md` is a Discord Formatter source, not a rewrite target.
+- Discord formatting may split the text into postable blocks and adjust markdown wrappers only.
+- Discord formatting must not summarize, tighten, reorder, rephrase, or improve the prose.
+- If any downstream version differs from the authoritative prose outside quote insertion or formatting, stop and ask which text is authoritative.
 
 ## Date / Placement
 
@@ -67,6 +77,7 @@ The chat-integrated version should inherit the non-chat narrative prose except w
 - Scourge stated that three days earlier the crew had been warned that anyone caught not drinking would get the lash.
 - Scourge escalated the rule going forward: anyone caught not drinking their allotment would receive a day in the lockbox.
 - Rak responded casually and irreverently rather than submissively.
+- Rak's player-facing dialogue has GM-edited renderings in the current narrative.
 - Scourge declared Rak would receive double punishment.
 - Sho questioned why Rak would receive double punishment.
 - Sho repeated the question and challenged whether asking questions was punishable.
@@ -101,36 +112,29 @@ The GM supplied the likely night-list for this performance:
 - Plugg
 - Barnabas Harrigan
 
+The current authoritative performance conclusion also includes Jack and Giffer as listeners in the lower-hold soundscape.
+
 Current narrative handling:
 
 | Listener | Handling |
 |---|---|
-| Sandara | Hears it as someone who knows what a song can do aboard a hard ship. |
-| Rosie | Stills, attention caught despite herself. |
-| Samms and Ratline | Listen from the edges of the work-worn crowd. |
-| Badger | Lets her cup rest untouched. |
-| Conchobhar | Watches openly. |
-| Crimson | Stays quiet, but does not move away. |
+| Jack | His knife slows over his carving. |
+| Giffer | Stays close enough to hear every note. |
+| Sandara | Stills as if catching a familiar current. |
+| Rosie | Falls quiet without quite realizing it. |
+| Samms and Ratline | The sound carries past them at the edges. |
+| Badger | Her cup is forgotten while she listens. |
+| Conchobhar | Does not bother to hide his interest. |
+| Crimson | Stays and lets the music settle rather than slipping away. |
 | Shivikah | Attentive and measuring, not softened. |
-| Maheem | Scowl remains, but he listens. |
+| Maheem | Scowl remains, but he does not turn away. |
 | Habbly | Pauses and notes the effect. |
-| Kipper | Hears it and watches how the sound changes the crew. |
-| Scourge | Irritated by the crew's response, does not soften. |
 | Plugg | Notices from above with calculation. |
-| Harrigan | Hears enough to know one of the new hands has made the crew listen. |
+| Scourge | Irritated, jaw set, but does not move away. |
+| Harrigan | Hears enough to recognize something rare and potentially dangerous. |
+| Kipper | Present in the wider scene as watcher / authority-adjacent crew. |
 
 Do not state that every listener is impressed. Vary reactions by role and temperament.
-
-## Uncertain / Do Not Overstate
-
-- Do not lock the date as certain.
-- Do not state that Kipper definitely reported Rak unless the narrative frames it through Rak's belief or risk.
-- Do not invent Grok advice before the punishment.
-- Do not lock whether this happened at Bloody Hour, after dinner, or as an ad hoc public punishment unless the GM confirms.
-- Do not resolve the ambiguous "cat" line without GM approval.
-- Do not overstate the exact lash count beyond what the reconstruction supports: Rak is clearly whipped three times in the recovered text; Sho is currently reconstructed as receiving the four numbered lashes.
-- Do not decide whether Sho's punishment contributed to disguise exposure unless evidence later supports it.
-- Treat Mirei's 34 performance as likely nearby / same-period atmosphere, not necessarily simultaneous with the punishment.
 
 ## Scene Order Working Model
 
@@ -143,18 +147,7 @@ Do not state that every listener is impressed. Vary reactions by role and temper
 | Sho intervention | Sho questions the double punishment and becomes Scourge / Plugg's second lesson. |
 | Punishment | Rak is whipped first; Sho is tied and whipped after Plugg gives him to Scourge. |
 | Dismissal | Kipper orders the rest of the crew below. |
-| Mirei 34 performance | Use after the punishment as a broad middle-hold / shipwide effect. |
-
-## Location / Transit Plan
-
-| Motif | Day 4 Use |
-|---|---|
-| Rum ration | Command control disguised as generosity. |
-| Kipper as watcher | Risk vector. A crewman can become a report. |
-| Mainmast / public deck | Discipline stage. Do not repeat full prior mast description. |
-| Upper deck / officer height | Plugg descends into the scene to make authority physical. |
-| Lower hold dismissal | The crowd is ordered below after the lesson. |
-| Night music | Mirei's performance contrasts with punishment without explaining it for the reader. |
+| Mirei 34 performance | Use after the punishment as a broad middle-hold / shipwide effect. Preserve the approved conclusion verbatim in downstream versions. |
 
 ## Player-Facing Quote Ledger
 
@@ -196,23 +189,11 @@ Do not state that every listener is impressed. Vary reactions by role and temper
 | Scourge | "For fun." | Recovered chat | Preserved. |
 | Kipper | "The rest of yous... below deck!" | Recovered chat, punctuation-cleaned | Voice retained. |
 
-## Character Knowledge Boundaries
-
-| Character | Knows | Output implications |
-|---|---|---|
-| Rak | Kipper saw or may have seen him dispose of rum. Scourge punishes him publicly. | Keep his irreverence, but do not turn the whole scene into comedy. |
-| Harvus | Rak has warned him in passing that the rum problem is likely coming. | He knows the warning, but does not drive the punishment scene. |
-| Sho | Rak is being given double punishment. Sho challenges the logic and is punished. | Keep Sho's intervention as defiance under authority pressure. |
-| Scourge | Rak violated rum discipline and Sho challenged him publicly. | Scourge uses both to teach obedience. |
-| Plugg | Sho's challenge threatens ship hierarchy. | He reinforces hierarchy by handing Sho to Scourge. |
-| Kipper | Present at end, may be report vector. | Keep report role uncertain unless GM confirms. |
-| Mirei | Performs strongly nearby / same period if fragment belongs here. | Use performance as a broad crew effect, not as later Plugg-cabin material. |
-
 ## Open Checks
 
 - Confirm whether this is definitely Erastus 8.
 - Confirm whether the "three days ago" warning traces back to Erastus 5 / Day 1.
-- Confirm whether the punishment happened during Bloody Hour, after dinner, or as an ad hoc public discipline scene.
+- Confirm whether the punishment happened during Bloody Hour, after dinner, or as an ad hoc public punishment scene.
 - Confirm whether Kipper explicitly reported Rak.
 - Confirm whether Rak reached Grok before Scourge came for him.
 - Confirm exact lash count for Rak and Sho.
@@ -223,6 +204,6 @@ Do not state that every listener is impressed. Vary reactions by role and temper
 
 | Output | Path | Status | Alignment notes |
 |---|---|---|
-| Narrative Write-Up | `chronicles/wormwood-day-four.md` | Chat-integrated / aligned | Current locked narrative draft. Dialogue has GM-edited Rak renderings. Harp passage should remain aligned with the non-chat prose unless intentionally revised. |
+| Narrative Write-Up | `chronicles/wormwood-day-four.md` | Chat-integrated / authoritative | Current locked narrative draft. Dialogue has GM-edited Rak renderings. Harp passage is restored and authoritative. |
+| Narrative Chat Scene / Discord Formatter Source | `chronicles/wormwood-erastus-8-day-four-chat-scene.md` | Created / aligned | Preserves authoritative prose for downstream Discord formatting. Formatter should split only, not rewrite. |
 | Ship's Log | `ship-logs/wormwood-erastus-8-day-four.md` | Created / aligned | Officer-side log with operational facts and command bias. |
-| Narrative Chat Scene | `chronicles/wormwood-erastus-8-day-four-chat-scene.md` | Not created | Do not create until GM asks for Discord-facing output. |
