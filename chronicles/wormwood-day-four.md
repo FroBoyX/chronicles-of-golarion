@@ -12,7 +12,7 @@
 
 ## Date
 
-**Erastus 8, 4712 AR**\
+**Erastus 8, 4712 AR**  
 **The Lash and the Harp**
 
 Weather: normal.
@@ -217,21 +217,21 @@ Below, the hold filled again with bodies, bowls, rum, and the small evasions of 
 
 Then Mirei played.
 
-Not tucked away in a corner this time. Not small enough to belong only to the nearest hammocks.
+The harp did not erase the lash. It did not make the ship gentler or the officers less cruel. But it gave the hold something else to hold for a while.
 
-The sound rose in the middle hold, where the ship's traffic still had to pass through it. It slipped between pillars and stacked stores, under the scrape of bowls, past the stink of animals and bilge damp. It found sailors who had come below angry, sore, and silent after the lash, and it gave them something else to do with their hands besides clench them.
+The sound moved differently than orders. It found the space between pillars and hammocks. It passed over men and women still sore from work, still tense from what they had seen, still careful about who might be watching them listen. Some let their shoulders drop. Some stared into their cups. Jack’s knife slowed over his carving. Giffer stayed close enough to hear every note. Even the ones who pretended not to care had to pretend in rhythm with the music.
 
-Sandara heard it with the look of someone who knew what a song could do aboard a hard ship. Rosie stilled near her, attention caught despite herself. Samms and Ratline listened from the edges of the work-worn crowd. Badger let her cup rest untouched. Conchobhar watched openly. Crimson stayed quieter, but did not move away.
+Mirei had played before.
 
-Shivikah stood apart from the softer faces, tall and unreadable, measuring the room as much as the music. Maheem listened with his permanent scowl still in place, but he listened. Habbly Quarne paused long enough to take note, the Stitchman's attention clinical even when the music was not.
+This was different.
 
-Kipper heard it too. His face gave little away, but his eyes moved over the crew as the sound changed them.
+The performance rose beyond the rough comfort of a song after dinner. It spread through the middle hold, slipping between stacked crates and hanging hammocks, threading past the slow drip of bilge water and the restless shifting of bodies. Near the pillars, Sandara stilled as if catching a familiar current, and Rosie, who had been muttering under her breath, fell quiet without quite realizing it. The sound carried farther, brushing past Samms and Ratline where they lingered at the edges, drawing their attention without asking for it.
 
-Scourge was an ass about it. He did not soften. If anything, the way the hold quieted around Mirei seemed to irritate him more. It was one thing for the crew to obey pain. It was another for them to gather around something he had not ordered.
+It reached Badger where she sat with her cup, the liquid forgotten as she listened, and drifted toward Conchobhar, who did not bother to hide his interest. Even Crimson, usually withdrawn, remained where he was, letting the music settle around him rather than slipping away from it. Along the far side, Shivikah stood tall and still, not softened but attentive, measuring the shift in the room as much as the melody itself. Maheem’s scowl did not ease, yet he did not turn away, and Habbly Quarne paused in his quiet observations, the sound threading through his thoughts like something worth noting.
 
-Above, officer space noticed. Plugg's attention turned toward the sound, and somewhere beyond him Harrigan heard enough to know that one of the new hands had made the crew listen.
+Above, the notes found their way through the grated openings to the deck. Plugg paused mid-stride, his expression tightening not in anger but in calculation, as if weighing the effect such a sound could have on a crew meant to be kept hard and divided. Scourge leaned near the rail, jaw set, irritation flickering beneath his usual cruelty, yet even he did not move away from the drifting melody. Farther aft, Captain Harrigan stood with the sea wind tugging at his coat, listening as the music thinned into the open air. His reaction was quieter, a faint narrowing of the eyes, as though recognizing something rare and potentially dangerous in equal measure.
 
-The harp did not erase the lash. It did not make the ship gentler or the officers less cruel. But for a little while, the Wormwood had to carry something other than command.
+The Wormwood still creaked. The bilges still stank below. The officers still owned the deck above. But for a little while, the music moved through the hold and out into the night air like a tide, and the crew, whether they welcomed it or not, had to feel it pass.
 
 Rak had been caught.
 
@@ -239,4 +239,6 @@ Sho had been punished for asking why.
 
 The lockbox had become the next threat.
 
-And still, when Mirei played, the crew remembered they were more than bodies waiting for orders.
+And under it all, the new hands learned another part of the Wormwood’s law: the officers could punish refusal, punish speech, and punish the question after the punishment.
+
+They could not fully command what the crew remembered afterward.
