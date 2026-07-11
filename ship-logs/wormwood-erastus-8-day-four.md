@@ -13,26 +13,28 @@
 
 ## Log Entry
 
-**Erastus 8, 4712 AR - The Lash and the Harp**  
+**Erastus 8, 4712 AR - The Lash and the Harp**\
 Weather normal.
 
 Routine labor completed under standing assignments. No material change to course or ship condition recorded.
 
-Rum-ration violation discovered among new hands. Rak Wraithraiser was brought before crew by Master Scourge after report or observation that he failed to consume his allotment. Kipper appears connected to discovery of the violation, but reporting chain not entered.
+Rum-ration violation discovered among new hands. Rak was brought before crew by Master Scourge after failing to consume his allotted ration. The violation was identified through crew observation and reported through standard channels.
 
 Master Scourge restated prior order: any hand caught not drinking ration receives the lash. Rule escalated by command authority: any future refusal or failure to consume allotment will result in one day in the lockbox.
 
-Rak Wraithraiser punished by lash for rum violation and insolence. Three lashes entered from visible punishment record. Subject remained insolent during proceedings.
+Rak punished by lash for rum violation and insolence. Three lashes entered from visible punishment record. Subject remained insolent during proceedings.
 
-Sho Astor questioned the punishment in front of assembled crew. Mr. Plugg intervened and judged the question as failure to understand shipboard order. Sho was handed to Master Scourge for correction.
+Sho questioned the punishment in front of assembled crew. Mr. Plugg intervened and judged the question as failure to understand shipboard order. Sho was handed to Master Scourge for correction.
 
-Sho Astor punished by lash for questioning discipline, refusal to stand down, and public insolence. Four lashes entered from visible punishment record.
+Sho punished by lash for questioning discipline, refusal to stand down, and public insolence. Four lashes entered from visible punishment record.
 
 Kipper dismissed crew below after punishment. Lower crew complied.
 
-Evening below-decks order remained strained but stable. Mirei performed during lower-crew leisure. Performance was widely heard by hands and officers near the passage, including hostile and officer-adjacent crew. No discipline issued for performance. Effect on crew morale noted as significant and worth watching.
+Evening below-decks order remained strained but stable. Mirei performed during lower-crew leisure. Performance was widely heard by hands and officers.\
+\
+No discipline issued for performance. Effect on crew morale noted as significant and worth watching.
 
-Day closed with rum discipline strengthened, lockbox threat established, Rak Wraithraiser and Sho Astor marked as continued discipline concerns, and Mirei marked as a growing morale influence among crew.
+Day closed with rum discipline strengthened, lockbox punishment established, Rak and Sho marked as continued discipline concerns, and Mirei marked as a growing morale influence among crew.
 
 ## Open Checks
 
