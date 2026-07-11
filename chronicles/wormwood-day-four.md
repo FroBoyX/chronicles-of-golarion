@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Non-chat-integrated draft / canon-candidate
+- Maturity: Chat-integrated draft / canon-candidate
 - Scope: Erastus 8 candidate, Rak rum-ration discovery, public punishment, Sho intervention, lockbox escalation, Kipper presence, and Mirei's 34 performance fragment
 - Source spine: `source-spines/wormwood-erastus-8-day-four.md`
 - Spoiler scope: Player-safe
@@ -13,7 +13,7 @@
 ## Date
 
 **Erastus 8, 4712 AR**  
-**Wormwood Day 4 candidate**
+**The Lash and the Harp**
 
 Weather: normal.
 
@@ -33,59 +33,179 @@ Rak knew Kipper had seen him dump it, or close enough that the difference would 
 
 Scourge found him before Grok did.
 
-He came for Rak with the satisfaction of a man who had been waiting to make a lesson out of someone. Two pirates followed close enough to make the invitation unnecessary. Rak answered him with the same loose, careless tone that kept denying Scourge the fear he wanted, and that only sharpened the mood.
+He came for Rak with the satisfaction of a man who had been waiting to make a lesson out of someone. Two pirates followed close enough to make the invitation unnecessary.
+
+> "You know why I'm here?"
+
+Rak gave him the same loose, careless tone that kept denying Scourge the fear he wanted.
+
+> "Probably brah"
+
+Scourge cracked his knuckles.
+
+> "Lizard... I asked you a question."
+
+Rak did not improve his answer.
+
+Scourge motioned the two pirates forward.
+
+> "Then you'll come with me."
+
+Rak came along.
+
+> "I guess so brah"
+
+Then, because it was Rak, he added more.
+
+> "Sup brah"
+
+> "Hang loose"
 
 They brought him into view.
 
 The deck knew how to become a theater. Sailors slowed. Work thinned around the mast. The ship gathered without needing to be called. Above, officer space watched. Below, the lower crew understood what was coming.
 
-Scourge made the matter simple for everyone listening. Rum was not optional. The ration was to be drunk. Three days earlier, the warning had been given: anyone caught refusing it would get the lash. Now the rule hardened in his mouth. Anyone caught not drinking their allotment again would spend a day in the lockbox.
+Scourge made the matter simple for everyone listening.
+
+> "We go through the effort to give you all rum... though some of you don't understand our generosity."
+
+Rum was not optional. The ration was to be drunk.
+
+> "As you recall, three days ago... anyone caught not drinking will get the lash."
+
+Then the rule hardened in his mouth.
+
+> "And if anyone is caught not drinking their allotment, it will be a day in the lockbox."
+
+He let that sit over the crew.
+
+> "Am I clear?"
 
 Rak did not bow his head.
 
+> "Sweet brah"
+
 That gave Scourge more to work with.
 
-The first lash landed as a lesson in rum. The next became a lesson in insubordination. The third turned the whole thing outward, toward the crew gathered around the mast. Scourge was not only punishing Rak for the ration. He was reminding every new hand that refusal could be made visible, and visibility belonged to the officers.
+> "Today... the whip."
+
+Rak answered with a sound that did not belong anywhere near submission.
+
+Scourge began to move down the stairs, slowing near Sho.
+
+> "You will receive double punishment... I'd say the cat should be punishment enough."
 
 Then Sho spoke.
 
-He asked why Rak was being given double punishment.
+> "Why double?"
 
 The question cut across the deck more cleanly than a shout would have. It was not loud enough to be a riot. It was worse, because it was reasonable.
 
 Scourge stopped.
 
+> "What was that?"
+
 Sho asked again.
 
-The pirates moved behind him. The gathered crew watched the space around him tighten. Aboard the Wormwood, a question could become defiance as soon as an officer decided it had.
+> "Why double punishment?"
 
-Scourge moved in close and made authority the answer. This was not a democracy. It was not a place where reasons had to be given downward.
+Scourge snapped his fingers. Two pirates moved behind Sho.
 
-Sho did not back away from the point. He had not expected a simple question to become punishable.
+Sho pressed the point.
+
+> "Punishment for asking questions?"
+
+Scourge moved in close and made authority the answer.
+
+> "Does this seem like a democracy?"
+
+Sho did not back away from the point.
+
+> "No, but I would expect that a simple question wouldn't be a punishable offense."
+
+The whip cracked near Sho's head.
 
 That was when Plugg came down from the upper deck.
 
-He did not need to do much. His presence changed the air. Scourge gave ground to him, and Plugg took the moment for himself. He looked at Sho and judged him as someone who still did not understand the way a ship worked.
+He did not need to do much. His presence changed the air. Scourge gave ground to him, and Plugg took the moment for himself. He looked at Sho and judged her as someone who still did not understand the way a ship worked.
+
+> "Clearly you don't understand the way a ship works!"
 
 Rak added one more piece of disruption from where he stood.
 
+> "Banana boat motha fucka"
+
 It did not help.
 
-Plugg gave Sho to Scourge.
+Plugg looked at Sho a moment longer.
 
-The punishment took a different turn after that. Rak had been the start of the lesson, but Sho became its sharper target. He had questioned punishment in front of the crew. He had made Scourge answer. Plugg had given him permission to make sure he did not do it lightly again.
+> "You clearly need another lesson."
+
+Then he handed her over.
+
+> "Mr. Scourge... the monk is yours. I'll be with the captain."
+
+Plugg walked away.
+
+Sho glared after him.
 
 Scourge took that permission personally.
 
-He had Sho tied to the mast.
+> "You hear that... you deceptious motley-minded baggage... I have free reign with you now. Clearly we need to keep you from sharing your little opinions again. Anything else to say?"
 
-The lashes came with reasons attached. One for his mouth. One for refusing to back down. One for the lesson in their little democracy. The fourth came because Scourge wanted another.
+The pirates moved to take Sho.
+
+Rak punctuated the silence in the worst possible way.
+
+Sho turned and gave Scourge a harder look.
+
+The punishment changed shape after that. Rak had been the start of the lesson, but Sho became its sharper target. She had questioned punishment in front of the crew. She had made Scourge answer. Plugg had given him permission to make sure she did not do it lightly again.
+
+Scourge walked in front of the mast.
+
+> "Let this be a lesson to you all!"
+
+The first lash struck Rak.
+
+> "Insubordination will not be tolerated!"
+
+The second came lighter, but it came.
+
+> "Nor will any talking back..."
+
+The third turned the whole thing outward, toward everyone gathered around the mast.
+
+> "And any further disruption will be met with increasing punishment!"
+
+Scourge had Sho tied to the mast.
+
+The lashes came with reasons attached.
+
+> "One, for your mouth."
+
+The whip fell.
+
+> "Two, for your refusal to back down."
+
+Again.
+
+> "Three, as an explanation of our little democracy."
+
+Again.
+
+> "Four... and four."
+
+The last reason was the cruelest because it did not pretend to be anything else.
+
+> "For fun."
 
 The crew watched because the crew had to watch.
 
 There was no lesson in fairness. There was only the lash, the mast, the officers above, and the knowledge that asking why could be made into its own offense.
 
 When it was done, Kipper ordered the rest below.
+
+> "The rest of yous... below deck!"
 
 The deck emptied in pieces. People moved with the careful silence that follows public pain. Some looked at Rak. Some looked at Sho. Some avoided looking at either of them. The Wormwood rocked underfoot, indifferent to the difference.
 
@@ -97,21 +217,21 @@ Below, the hold filled again with bodies, bowls, rum, and the small evasions of 
 
 Then Mirei played.
 
-The harp did not erase the lash. It did not make the ship gentler or the officers less cruel. But it gave the hold something else to hold for a while.
+Not tucked away in a corner this time. Not small enough to belong only to the nearest hammocks.
 
-The sound moved differently than orders. It found the space between pillars and hammocks. It passed over men and women still sore from work, still tense from what they had seen, still careful about who might be watching them listen. Some let their shoulders drop. Some stared into their cups. Jack's knife slowed over his carving. Giffer stayed close enough to hear every note. Even the ones who pretended not to care had to pretend in rhythm with the music.
+The sound rose in the middle hold, where the ship's traffic still had to pass through it. It slipped between pillars and stacked stores, under the scrape of bowls, past the stink of animals and bilge damp. It found sailors who had come below angry, sore, and silent after the lash, and it gave them something else to do with their hands besides clench them.
 
-Mirei had played before.
+Sandara heard it with the look of someone who knew what a song could do aboard a hard ship. Rosie stilled near her, attention caught despite herself. Samms and Ratline listened from the edges of the work-worn crowd. Badger let her cup rest untouched. Conchobhar watched openly. Crimson stayed quieter, but did not move away.
 
-This was different.
+Shivikah stood apart from the softer faces, tall and unreadable, measuring the room as much as the music. Maheem listened with his permanent scowl still in place, but he listened. Habbly Quarne paused long enough to take note, the Stitchman's attention clinical even when the music was not.
 
-The performance rose beyond the rough comfort of a song after dinner. It spread through the middle hold, slipping between stacked crates and hanging hammocks, threading past the slow drip of bilge water and the restless shifting of bodies. Near the pillars, Sandara stilled as if catching a familiar current, and Rosie, who had been muttering under her breath, fell quiet without quite realizing it. The sound carried farther, brushing past Samms and Ratline where they lingered at the edges, drawing their attention without asking for it.
+Kipper heard it too. His face gave little away, but his eyes moved over the crew as the sound changed them.
 
-It reached Badger where she sat with her cup, the liquid forgotten as she listened, and drifted toward Conchobhar, who did not bother to hide his interest. Even Crimson, usually withdrawn, remained where he was, letting the music settle around him rather than slipping away from it. Along the far side, Shivikah stood tall and still, not softened but attentive, measuring the shift in the room as much as the melody itself. Maheem's scowl did not ease, yet he did not turn away, and Habbly Quarne paused in his quiet observations, the sound threading through his thoughts like something worth noting.
+Scourge was an ass about it. He did not soften. If anything, the way the hold quieted around Mirei seemed to irritate him more. It was one thing for the crew to obey pain. It was another for them to gather around something he had not ordered.
 
-Above, the notes found their way through the grated openings to the deck. Plugg paused mid-stride, his expression tightening not in anger but in calculation, as if weighing the effect such a sound could have on a crew meant to be kept hard and divided. Scourge leaned near the rail, jaw set, irritation flickering beneath his usual cruelty, yet even he did not move away from the drifting melody. Farther aft, Captain Harrigan stood with the sea wind tugging at his coat, listening as the music thinned into the open air. His reaction was quieter, a faint narrowing of the eyes, as though recognizing something rare and potentially dangerous in equal measure.
+Above, officer space noticed. Plugg's attention turned toward the sound, and somewhere beyond him Harrigan heard enough to know that one of the new hands had made the crew listen.
 
-The Wormwood still creaked. The bilges still stank below. The officers still owned the deck above. But for a little while, the music moved through the hold and out into the night air like a tide, and the crew, whether they welcomed it or not, had to feel it pass.
+The harp did not erase the lash. It did not make the ship gentler or the officers less cruel. But for a little while, the Wormwood had to carry something other than command.
 
 Rak had been caught.
 
@@ -119,6 +239,4 @@ Sho had been punished for asking why.
 
 The lockbox had become the next threat.
 
-And under it all, the new hands learned another part of the Wormwood's law: the officers could punish refusal, punish speech, and punish the question after the punishment.
-
-They could not fully command what the crew remembered afterward.
+And still, when Mirei played, the crew remembered they were more than bodies waiting for orders.
