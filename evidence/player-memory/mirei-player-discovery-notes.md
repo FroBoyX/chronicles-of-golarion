@@ -114,6 +114,45 @@ Add new entries below in this format.
 - PF2e identity preservation should continue to emphasize music as social magic, emotional expression, morale influence, and survival language.
 - Visual briefs may eventually reflect a contrast between public crew-facing performances and isolated Plugg-cabin performances, but no new specific visual design facts were provided in this batch.
 
+### 2026-07-11 — Hurt Heard by the Whole Ship
+
+#### Player Answer Summary
+
+- The player confirmed that the approved discovery note for performance, hurt, and survival should be preserved.
+- The player clarified that on Night 15, when Mirei wanted "them" to hear how badly they hurt her, "them" meant the whole ship rather than only Scourge, Plugg, or the officers.
+- The player clarified that the Man's Promise Plugg-only performances were mostly survival, but Mirei still connected to her music.
+
+#### Player-Confirmed Mirei Truth
+
+- Night 15 was aimed at the whole ship. Mirei wanted everyone aboard the Wormwood to hear the damage.
+- The performance was not only an accusation against the officers; it was a wounded public expression directed at the whole shipboard world that had normalized the harm done to her.
+- Performing only for Plugg on the Man's Promise was mostly survival.
+- Even in Plugg-only performances, Mirei still connected to the music.
+
+#### Mirei Knows / Believes
+
+- Mirei knows she used her harp to make the whole ship hear what had been done to her.
+- Mirei knows that Plugg's private performances were survival work.
+- Mirei also knows that the music still belonged to her in some way, even when the audience and situation were controlled by Plugg.
+
+#### Uncertain Memory / Needs GM Check
+
+- How individual listeners interpreted the Night 15 performance remains unknown.
+- Whether any specific NPC changed their view of Mirei because of that performance should be checked through logs or GM review.
+- Whether Plugg understood the music as pain, beauty, defiance, or usefulness remains outside Mirei's confirmed perspective.
+- Exact chronology for Day 14 / Day 15 should remain GM-checked until mapped cleanly to Erastus dates.
+
+#### Narrative Beat Updates
+
+- Update `mirei-performance-hurt-night`: Night 15 was aimed at the whole ship, not only the officers.
+- Update `mirei-manpromise-plugg-solo`: Man's Promise performance was survival, but Mirei still connected to the music.
+- Add possible beat `mirei-music-not-fully-taken`: Even under Plugg's control, Mirei's connection to music was not fully destroyed.
+
+#### Visual / PF2e / Future Packet Cues
+
+- Future narrative packets should contrast public, crew-facing performance with isolated Plugg-only performance.
+- Conversion identity should preserve that music can remain Mirei's inner selfhood even when performance is externally coerced.
+
 ## Open Capture Needs
 
 - Harp meaning from Mirei's own language.
