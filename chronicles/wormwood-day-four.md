@@ -2,250 +2,123 @@
 
 ## Document Status
 
-- Type: Day-by-day narrative reconstruction
-- Maturity: Draft / placement-candidate
-- Scope: Erastus 8 candidate, Rak rum-ration punishment, Sho intervention, Mirei 34 performance fragment, and possible Kipper report
-- Source basis: Rak/Kipper rum fragment, recovered punishment chat, AP standard day routine, AP weather scaffold, Harvus light timeline cross-check
+- Type: Narrative Write-Up
+- Maturity: Non-chat-integrated draft / canon-candidate
+- Scope: Erastus 8 candidate, Rak rum-ration discovery, public punishment, Sho intervention, lockbox escalation, Kipper presence, and Mirei's 34 performance fragment
+- Source spine: `source-spines/wormwood-erastus-8-day-four.md`
 - Spoiler scope: Player-safe
-- Canon status: Date is assumed / best current candidate, not fully locked
+- Canon status: Draft for GM review
+- Date status: Best current candidate, not fully locked
 
-## Date Candidate
+## Date
 
 **Erastus 8, 4712 AR**  
 **Wormwood Day 4 candidate**
 
-Weather: normal if this follows the reconstructed Erastus calendar from Day 1.
+Weather: normal.
 
-## Placement Note
+## Narrative Log
 
-The punishment scene is currently assumed to fall on Erastus 8 because Scourge says the rum warning was given **three days ago**.
+By the fourth day, work no longer needed to be explained.
 
-If the warning was given on Erastus 5 / Wormwood Day 1, then Erastus 8 fits.
+The bell dragged the crew upward. Bodies moved through the lower hold with less confusion and no more freedom. The new hands knew the press of the hammock lanes, the pause before the stairs, the animal stink in the middle hold, and the way the main deck waited above like a place where every mistake would eventually be made public.
 
-This should remain a placement candidate until the surrounding log sequence or the original punishment date is confirmed.
+The day's labor passed into the ship's usual hunger.
 
-## Known Scaffold
+Lines went up. Buckets moved. Deck boards took scrubbing, then took more. The galley burned hot below, and the quartermaster's hatch remained what it had become: a narrow place where need went to be judged.
 
-The standard Wormwood routine still applies: work, Bloody Hour or other public punishment, dinner, rum ration, night actions, and rest.
+The trouble began with rum.
 
-This day or night includes a recovered rum-ration discipline sequence involving **Rak Wraithraiser**, **Sho Astor**, **Master Scourge**, **Mr. Plugg**, and **Kipper**.
+Rak knew Kipper had seen him dump it, or close enough that the difference would not matter. He meant to get to Grok before the problem reached the officers. He said as much to Harvus in passing, low and quick, while the ship was carrying them between one duty and the next. It was not a confession so much as a warning: the rum was going to become trouble.
 
-A separate nearby fragment records **Mirei** performing with a 34, described as becoming more and more epic.
+Scourge found him before Grok did.
 
-## Reconstructed Sequence
+He came for Rak with the satisfaction of a man who had been waiting to make a lesson out of someone. Two pirates followed close enough to make the invitation unnecessary. Rak answered him with the same loose, careless tone that kept denying Scourge the fear he wanted, and that only sharpened the mood.
 
-The earlier fragment has Rak realizing that **Kipper** saw him get rid of rum.
+They brought him into view.
 
-Rak intended to ask **Cut-Throat Grok** for help when he ran into her.
+The deck knew how to become a theater. Sailors slowed. Work thinned around the mast. The ship gathered without needing to be called. Above, officer space watched. Below, the lower crew understood what was coming.
 
-Whether Rak reached Grok before punishment is not recovered.
+Scourge made the matter simple for everyone listening. Rum was not optional. The ration was to be drunk. Three days earlier, the warning had been given: anyone caught refusing it would get the lash. Now the rule hardened in his mouth. Anyone caught not drinking their allotment again would spend a day in the lockbox.
 
-What is recovered is Scourge coming for him.
+Rak did not bow his head.
 
-Scourge asked whether Rak knew why he was there.
+That gave Scourge more to work with.
 
-> "Lizard.... I asked you a question."
+The first lash landed as a lesson in rum. The next became a lesson in insubordination. The third turned the whole thing outward, toward the crew gathered around the mast. Scourge was not only punishing Rak for the ration. He was reminding every new hand that refusal could be made visible, and visibility belonged to the officers.
 
-Rak answered with his usual refusal to give fear the shape Scourge expected.
+Then Sho spoke.
 
-> "Probably brah"
+He asked why Rak was being given double punishment.
 
-Scourge summoned two pirates and ordered Rak to come with him.
-
-Rak came along, still speaking casually.
-
-> "Sup brah"
-
-> "hang loose"
-
-The public lesson was about rum.
-
-Scourge framed rum ration as generosity and disobedience as insult.
-
-> "We go through the effort to give you all rum.... though some of you don't understand our generosity."
-
-He reminded the crew of the rule.
-
-> "As you recall three days ago.... anyone cought not drinking will get the lash."
-
-Then he escalated it.
-
-> "...and if ANYONE is cought not drinking their alotment... it will be a DAY in the lockbox."
-
-Rak did not respond with submission.
-
-> "Sweet brah"
-
-For this offense, Scourge said the punishment was the whip.
-
-He also declared that Rak would receive double punishment.
-
-Sho challenged him.
-
-> "Why double?"
+The question cut across the deck more cleanly than a shout would have. It was not loud enough to be a riot. It was worse, because it was reasonable.
 
 Scourge stopped.
 
 Sho asked again.
 
-> "Why double punishment?"
+The pirates moved behind him. The gathered crew watched the space around him tighten. Aboard the Wormwood, a question could become defiance as soon as an officer decided it had.
 
-Two pirates moved behind the monk.
+Scourge moved in close and made authority the answer. This was not a democracy. It was not a place where reasons had to be given downward.
 
-Sho pressed the point.
+Sho did not back away from the point. He had not expected a simple question to become punishable.
 
-> "Punishment for asking questions?"
+That was when Plugg came down from the upper deck.
 
-Scourge stood in front of her and spat.
+He did not need to do much. His presence changed the air. Scourge gave ground to him, and Plugg took the moment for himself. He looked at Sho and judged him as someone who still did not understand the way a ship worked.
 
-> "Does this seem like a democracy?"
+Rak added one more piece of disruption from where he stood.
 
-Sho answered that she did not expect a simple question to be punishable.
+It did not help.
 
-Plugg came down from the upper deck and took over the authority of the moment.
+Plugg gave Sho to Scourge.
 
-> "...clearly you don't understand the way a ship works!"
+The punishment took a different turn after that. Rak had been the start of the lesson, but Sho became its sharper target. He had questioned punishment in front of the crew. He had made Scourge answer. Plugg had given him permission to make sure he did not do it lightly again.
 
-Rak added his own disruption.
+Scourge took that permission personally.
 
-> "banana boat motha fucka"
+He had Sho tied to the mast.
 
-Plugg judged that Sho needed another lesson and handed her over to Scourge.
+The lashes came with reasons attached. One for his mouth. One for refusing to back down. One for the lesson in their little democracy. The fourth came because Scourge wanted another.
 
-> "Mr. Scourge... the monk is yours. I'll be with the captian."
+The crew watched because the crew had to watch.
 
-Sho glared at Plugg.
+There was no lesson in fairness. There was only the lash, the mast, the officers above, and the knowledge that asking why could be made into its own offense.
 
-Scourge took the license personally.
+When it was done, Kipper ordered the rest below.
 
-> "You hear that... you deceptious MOTLEY-MINDED baggage...... I have free reign with you now. Clearly we need to keep you from \"sharing\" your little opinions again. Anything else to say?!"
+The deck emptied in pieces. People moved with the careful silence that follows public pain. Some looked at Rak. Some looked at Sho. Some avoided looking at either of them. The Wormwood rocked underfoot, indifferent to the difference.
 
-Rak punctuated the scene with a fart.
+Night did not undo what had happened.
 
-Sho met Scourge with a harsher look.
+It only gave the crew somewhere else to carry it.
 
-Scourge turned the punishment back into a lesson for everyone.
+Below, the hold filled again with bodies, bowls, rum, and the small evasions of sailors who had survived another day. The punishment lingered in the way people shifted around one another, in the quieter talk near the hammocks, in the glances toward Sho and Rak that did not last long enough to become open sympathy.
 
-> "Let this be a lesson to you all!"
+Then Mirei played.
 
-He whipped Rak.
+The harp did not erase the lash. It did not make the ship gentler or the officers less cruel. But it gave the hold something else to hold for a while.
 
-> "Insubordination will not be tolerated!"
+The sound moved differently than orders. It found the space between pillars and hammocks. It passed over men and women still sore from work, still tense from what they had seen, still careful about who might be watching them listen. Some let their shoulders drop. Some stared into their cups. Jack's knife slowed over his carving. Giffer stayed close enough to hear every note. Even the ones who pretended not to care had to pretend in rhythm with the music.
 
-He whipped Rak again.
+Mirei had played before.
 
-> "Nor will any talking back...."
+This was different.
 
-Then again.
+The performance rose beyond the rough comfort of a song after dinner. It spread through the middle hold, slipping between stacked crates and hanging hammocks, threading past the slow drip of bilge water and the restless shifting of bodies. Near the pillars, Sandara stilled as if catching a familiar current, and Rosie, who had been muttering under her breath, fell quiet without quite realizing it. The sound carried farther, brushing past Samms and Ratline where they lingered at the edges, drawing their attention without asking for it.
 
-> "...and any further disruption... will be met with increasing punnishment!"
+It reached Badger where she sat with her cup, the liquid forgotten as she listened, and drifted toward Conchobhar, who did not bother to hide his interest. Even Crimson, usually withdrawn, remained where he was, letting the music settle around him rather than slipping away from it. Along the far side, Shivikah stood tall and still, not softened but attentive, measuring the shift in the room as much as the melody itself. Maheem's scowl did not ease, yet he did not turn away, and Habbly Quarne paused in his quiet observations, the sound threading through his thoughts like something worth noting.
 
-After that, the scene shifts to the monk's punishment. The phrasing is somewhat tangled by Rak's preceding fart, but Plugg has explicitly given Sho to Scourge, and Scourge has ordered pirates to grab her.
+Above, the notes found their way through the grated openings to the deck. Plugg paused mid-stride, his expression tightening not in anger but in calculation, as if weighing the effect such a sound could have on a crew meant to be kept hard and divided. Scourge leaned near the rail, jaw set, irritation flickering beneath his usual cruelty, yet even he did not move away from the drifting melody. Farther aft, Captain Harrigan stood with the sea wind tugging at his coat, listening as the music thinned into the open air. His reaction was quieter, a faint narrowing of the eyes, as though recognizing something rare and potentially dangerous in equal measure.
 
-Sho is treated as the current reconstruction target of the four numbered lashes.
+The Wormwood still creaked. The bilges still stank below. The officers still owned the deck above. But for a little while, the music moved through the hold and out into the night air like a tide, and the crew, whether they welcomed it or not, had to feel it pass.
 
-> "1.... for your mouth."
+Rak had been caught.
 
-> "2.... for your refusal to back down...."
+Sho had been punished for asking why.
 
-> "3... as an explonation of our little democracy...."
+The lockbox had become the next threat.
 
-> "4...and four."
+And under it all, the new hands learned another part of the Wormwood's law: the officers could punish refusal, punish speech, and punish the question after the punishment.
 
-Scourge added the last cruelty plainly.
-
-> "...for fun."
-
-Kipper ended the scene by sending the rest of the crew below deck.
-
-> "The rest of yous.... below deck!"
-
-## Mirei's 34 Performance Fragment
-
-A nearby floating fragment records:
-
-> "mirei preforms with a roll of 34. Just keeps getting more and more epic."
-
-This likely follows the Erastus 7 31-performance material if the log order is chronological.
-
-It should be treated as a later escalation in Mirei's growing shipboard performance presence, but the exact placement relative to the punishment scene is not confirmed.
-
-## Character Beats
-
-### Rak Wraithraiser
-
-Rak knows or suspects that Kipper saw him dispose of rum.
-
-When Scourge comes for him, Rak does not submit emotionally. He answers in the same casual voice that repeatedly frustrates officer authority.
-
-Rak is publicly whipped for the rum issue and/or insubordination. The recovered text clearly shows three whip-strikes against "the lizard."
-
-His joking and disruption contribute to the scene's escalation, but Sho's punishment centers on her questioning Scourge and refusing to back down.
-
-### Sho Astor
-
-Sho challenges Scourge's logic when he announces double punishment for Rak.
-
-She asks why, repeats the question, and frames the issue as whether asking questions is itself punishable.
-
-Plugg explicitly gives the monk to Scourge.
-
-The recovered scene likely represents the later whipping Sho's player remembered as being for speaking up for Rak.
-
-Sho's refusal to back down further marks her as a problem for Scourge and Plugg.
-
-### Master Scourge
-
-Scourge uses Rak's rum offense as a public lesson.
-
-He also escalates the rule: future rum refusal will mean a day in the lockbox.
-
-When Sho questions him, he turns authority itself into the point of punishment.
-
-### Mr. Plugg
-
-Plugg intervenes to reinforce Scourge and shipboard hierarchy.
-
-He frames Sho's questioning as evidence that she does not understand how a ship works, then gives Scourge license to punish her.
-
-### Kipper
-
-Kipper may have been the person who reported Rak's rum disposal, though the reporting itself is not directly recovered.
-
-He is present at the end of the punishment and orders the rest of the crew below deck.
-
-### Mirei
-
-Mirei's 34 performance fragment suggests her music continued to escalate as a shipboard presence.
-
-The placement relative to the punishment is unresolved, but the performance likely belongs after the earlier recovered 31 performance.
-
-## What Is Lost to Time
-
-- Whether Kipper explicitly reported Rak.
-- Whether Rak reached Grok before Scourge came for him.
-- Whether the punishment happened during Bloody Hour, after dinner, or as an ad hoc public discipline scene.
-- Whether the Mirei 34 performance happened before, during, or after the punishment sequence.
-- Whether Sho's four-lash punishment contributed directly to the later disguise-exposure memory.
-- Whether Rak's punishment was exactly three lashes or whether the text omits another lash tied to "double punishment."
-- Whether the "cat" line means the cat-o'-nine-tails, another punishment term, or something else.
-
-## Open Checks
-
-- Confirm whether this is definitely Erastus 8.
-- Confirm whether the "three days ago" warning traces back to Erastus 5 / Day 1.
-- Confirm whether the lockbox escalation leads directly to later boxing.
-- Confirm whether Kipper's sighting and this punishment happen the same night or across adjacent scenes.
-- Confirm whether Grok had any chance to advise Rak.
-- Confirm exact lash count for Rak and Sho.
-
-## Canon Consequences
-
-- Rak was caught or reported for not drinking / disposing of rum.
-- Scourge publicly punished Rak for the rum issue.
-- Scourge escalated future rum refusal to one day in the lockbox.
-- Sho intervened by questioning Rak's double punishment.
-- Plugg gave Sho to Scourge for another lesson.
-- Sho was likely whipped for questioning and refusing to back down.
-- Kipper is tied to the rum discipline thread and present as an officer-adjacent enforcer.
-- Mirei's performance presence likely continued to intensify around this same period.
+They could not fully command what the crew remembered afterward.
