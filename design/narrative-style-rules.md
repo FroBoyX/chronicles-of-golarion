@@ -203,6 +203,18 @@ For difficult narrative days, refine in this order:
 
 Do not jump directly to Discord-ready chat integration while the prose shape, tone, or scene order is still unsettled.
 
+### Version alignment rule
+
+The most recent GM-edited narrative prose is the prose authority.
+
+When creating a chat-integrated version, carry over the approved prose verbatim except where recovered dialogue is being inserted or a minimal transition is required to make inserted dialogue read cleanly.
+
+When creating a Discord-ready version, preserve the approved narrative or chat-integrated prose verbatim. Discord formatting may split text into postable blocks, add minimal channel labels, or adjust markdown wrappers, but it must not summarize, tighten, rephrase, reorder, or improve the writing.
+
+If a section contains no inserted chat, such as a concluding harp, weather, aftermath, or scene-setting passage, it should be duplicated exactly between the narrative, chat-integrated, and Discord-ready versions unless the GM explicitly requests a new edit.
+
+If a Discord Formatter or downstream handoff receives prose that differs from the approved source, stop and ask which text is authoritative before formatting.
+
 ## Existing Rules Still Apply
 
 - Recovered quotes are preserved by default except for spell-check / typo-level cleanup.
