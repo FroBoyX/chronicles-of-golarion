@@ -3,9 +3,9 @@
 ## Document Status
 
 - Type: Source spine
-- Maturity: Working / placement-candidate
+- Maturity: Chat-integrated / placement-candidate
 - Scope: Erastus 8 candidate / Wormwood Day 4, Rak rum-ration discipline, Sho intervention, lockbox escalation, and Mirei 34 performance fragment
-- Source basis: `chronicles/wormwood-day-four.md`, `evidence/chat-logs/wormwood-day-4-rum-punishment-rak-sho.md`, `evidence/chat-logs/floating-rak-kipper-rum-mirei-34-performance.md`, AP standard routine, Wormwood area motif support, crew/watch tracking, GM guidance
+- Source basis: `chronicles/wormwood-day-four.md`, `ship-logs/wormwood-erastus-8-day-four.md`, `evidence/chat-logs/wormwood-day-4-rum-punishment-rak-sho.md`, `evidence/chat-logs/floating-rak-kipper-rum-mirei-34-performance.md`, AP standard routine, Wormwood area motif support, crew/watch tracking, GM guidance
 - Spoiler scope: Player-safe
 - Canon status: Date is still a best current candidate, not fully locked
 
@@ -13,6 +13,8 @@
 
 - Narrative baseline:
   - `chronicles/wormwood-day-four.md`
+- Ship's log:
+  - `ship-logs/wormwood-erastus-8-day-four.md`
 - Direct evidence:
   - `evidence/chat-logs/wormwood-day-4-rum-punishment-rak-sho.md`
   - `evidence/chat-logs/floating-rak-kipper-rum-mirei-34-performance.md`
@@ -28,7 +30,7 @@
 
 ## Narrative Handling Locked For Current Draft
 
-The current Day 4 narrative is a non-chat-integrated draft.
+The current Day 4 narrative is a chat-integrated draft.
 
 The foreground is discipline and escalation, not ordinary work. Work remains background pressure. The day should feel like the Wormwood responding to new-hand defiance by turning a private rum problem into a public rule.
 
@@ -36,12 +38,13 @@ The central scene is public punishment involving Rak, Scourge, Plugg, Sho, and K
 
 The current draft uses Rak's Kipper concern as a passing warning to Harvus. Do not use Kroop for this beat unless later evidence requires it.
 
-The Mirei 34 performance is currently staged after the punishment as a broad middle-hold / shipwide effect, reaching lower crew and being noticed from officer space. It should not be conflated with later Man's Promise / Plugg private-performance material unless evidence says so.
+The Mirei 34 performance is staged after the punishment as a broad middle-hold / shipwide effect, reaching lower crew and being noticed from officer space. It should not be conflated with later Man's Promise / Plugg private-performance material unless evidence says so.
 
 ## Date / Placement
 
 - Candidate date: **Erastus 8, 4712 AR**.
 - Candidate day: **Wormwood Day 4**.
+- Encounter title: **The Lash and the Harp**.
 - Weather: normal if the reconstructed Erastus calendar remains in sequence.
 - Placement confidence: medium.
 - Placement clue: Scourge says the no-rum warning was given three days earlier.
@@ -100,19 +103,19 @@ Current narrative handling:
 
 | Listener | Handling |
 |---|---|
-| Sandara | Stills as if catching a familiar current. |
-| Rosie | Falls quiet from muttering. |
-| Samms and Ratline | Attention caught from the edges. |
-| Badger | Cup forgotten while listening. |
-| Conchobhar | Openly interested. |
-| Crimson | Remains quietly instead of slipping away. |
+| Sandara | Hears it as someone who knows what a song can do aboard a hard ship. |
+| Rosie | Stills, attention caught despite herself. |
+| Samms and Ratline | Listen from the edges of the work-worn crowd. |
+| Badger | Lets her cup rest untouched. |
+| Conchobhar | Watches openly. |
+| Crimson | Stays quiet, but does not move away. |
 | Shivikah | Attentive and measuring, not softened. |
 | Maheem | Scowl remains, but he listens. |
 | Habbly | Pauses and notes the effect. |
-| Plugg | Notices from above with calculation. |
+| Kipper | Hears it and watches how the sound changes the crew. |
 | Scourge | Irritated by the crew's response, does not soften. |
-| Harrigan | Hears enough to recognize something rare and potentially dangerous. |
-| Kipper | Remains tied to the scene as post-punishment authority / watcher, but is not foregrounded in the performance passage. |
+| Plugg | Notices from above with calculation. |
+| Harrigan | Hears enough to know one of the new hands has made the crew listen. |
 
 Do not state that every listener is impressed. Vary reactions by role and temperament.
 
@@ -151,50 +154,45 @@ Do not state that every listener is impressed. Vary reactions by role and temper
 | Lower hold dismissal | The crowd is ordered below after the lesson. |
 | Night music | Mirei's performance contrasts with punishment without explaining it for the reader. |
 
-## Quote Ledger For Later Integration
+## Player-Facing Quote Ledger
 
-Do not integrate these in the first non-chat narrative draft unless the GM asks. Use later after the prose shape is approved.
-
-| Speaker | Source quote | Handling |
-|---|---|---|
-| Scourge | "You know why I'm here?" | Preserve if quoted. |
-| Scourge | "Lizard.... I asked you a question." | Action removed if quoted. |
-| Rak | "Probably brah" | Preserve. |
-| Scourge | "Then you'll come with me." | Action removed if quoted. |
-| Rak | "I guess so brah" | Preserve. |
-| Rak | "Sup brah" | Preserve if needed. |
-| Rak | "hang loose" | Preserve if needed. |
-| Scourge | "We go through the effort to give you all rum.... though some of you don't understand our generosity." | Typo / punctuation clean later. |
-| Scourge | "As you recall three days ago.... anyone cought not drinking will get the lash." | Typo-clean caught. |
-| Scourge | "...and if ANYONE is cought not drinking their alotment... it will be a DAY in the lockbox." | Typo-clean caught / allotment. |
-| Scourge | "AM... I... CLEAR." | Preserve capitalization if quoted. |
-| Rak | "Sweet brah" | Preserve. |
-| Scourge | "Today.... The whip." | Action removed if quoted. |
-| Rak | "MMmmmmm" | Consider omitting unless needed. |
-| Scourge | "You will recieve double punishment.... I'd say the cat should be punishment enough." | Typo-clean receive, do not resolve cat without GM approval. |
-| Sho | "Why double?" | Preserve. |
-| Sho | "Why double punishment?" | Preserve. |
-| Sho | "Punishment for asking questions?" | Preserve. |
-| Scourge | "Does this seem like a democracy?" | Preserve. |
-| Sho | "No, but I would expect that a simple question wouldnt be a punishable offence" | Typo-clean wouldn't / offense if quoted. |
-| Plugg | "...clearly you don't understand the way a ship works!" | Preserve / punctuation clean. |
-| Rak | "banana boat motha fucka" | Preserve only if GM wants table voice included; otherwise paraphrase as disruption. |
-| Plugg | "You clearly need ANOTHER lesson." | Preserve emphasis if quoted. |
-| Plugg | "Mr. Scourge... the monk is yours. I'll be with the captian." | Typo-clean captain. |
-| Scourge | "You hear that... you deceptious MOTLEY-MINDED baggage... I have free reign with you now. Clearly we need to keep you from \"sharing\" your little opinions again. Anything else to say?!" | Typo-clean only if quoted; consider shortening by paraphrase. |
-| Scourge | "Let this be a lesson to you all!" | Preserve. |
-| Scourge | "Insubordination will not be tolerated!" | Preserve. |
-| Scourge | "Nor will any talking back...." | Punctuation-clean if quoted. |
-| Scourge | "...and any further disruption... will be met with increasing punnishment!" | Typo-clean punishment. |
-| Scourge | "Now tie the incontinent jakenape to the mast!" | Preserve if quoted; target ambiguous. |
-| Scourge | "1.... for your mouth." | Preserve / punctuation clean. |
-| Scourge | "2.... for your refusal to back down...." | Preserve / punctuation clean. |
-| Scourge | "3... as an explonation of our little democracy...." | Typo-clean explanation. |
-| Scourge | "4...and four." | Preserve if quoted. |
-| Scourge | "...for fun." | Preserve if quoted. |
-| Kipper | "The rest of yous.... below deck!" | Preserve voice with light punctuation if quoted. |
-| Rak player | "Sometime tonight when I run into Grok, I ask her for help. I mention that Kipper saw me get rid of the rum and am not sure what to do." | Evidence note, paraphrase only. |
-| Mirei fragment | "mirei preforms with a roll of 34. Just keeps getting more and more epic." | Evidence note, paraphrase only. |
+| Speaker | Player-facing quote | Source / status | Notes |
+|---|---|---|---|
+| Scourge | "You know why I'm here?" | Recovered chat | Preserved. |
+| Rak | "Probably brah" | Recovered chat | Preserved. |
+| Scourge | "Lizard... I asked you a question." | Recovered chat, action removed | Punctuation-cleaned. |
+| Scourge | "Then you'll come with me." | Recovered chat, action removed | Preserved. |
+| Rak | "I guess so brah" | Recovered chat | Preserved. |
+| Rak | "Sup brah" | Recovered chat | Preserved. |
+| Rak | "Hang loose" | Recovered chat, capitalization cleaned | Preserved. |
+| Scourge | "We go through the effort to give you all rum... though some of you don't understand our generosity." | Recovered chat, punctuation-cleaned | Rum rule. |
+| Scourge | "As you recall, three days ago... anyone caught not drinking will get the lash." | Recovered chat, typo-cleaned | Caught corrected. |
+| Scourge | "And if anyone is caught not drinking their allotment, it will be a day in the lockbox." | Recovered chat, typo-cleaned | Caught / allotment corrected. |
+| Scourge | "Am I clear?" | Recovered chat, cleaned from emphasis | Order. |
+| Rak | "Sweet brah" | Recovered chat | Preserved. |
+| Scourge | "Today... the whip." | Recovered chat, action removed | Preserved. |
+| Scourge | "You will receive double punishment... I'd say the cat should be punishment enough." | Recovered chat, typo-cleaned | Cat meaning left unresolved. |
+| Sho | "Why double?" | Recovered chat | Preserved. |
+| Scourge | "What was that?" | Recovered chat | Preserved. |
+| Sho | "Why double punishment?" | Recovered chat | Preserved. |
+| Sho | "Punishment for asking questions?" | Recovered chat | Preserved. |
+| Scourge | "Does this seem like a democracy?" | Recovered chat | Preserved. |
+| Sho | "No, but I would expect that a simple question wouldn't be a punishable offense." | Recovered chat, typo-cleaned | Wouldn't / offense corrected. |
+| Plugg | "Clearly you don't understand the way a ship works!" | Recovered chat, punctuation-cleaned | Preserved. |
+| Rak | "Banana boat motha fucka" | Recovered chat, capitalization cleaned | GM accepted into integrated draft. |
+| Plugg | "You clearly need another lesson." | Recovered chat, emphasis normalized | Preserved. |
+| Plugg | "Mr. Scourge... the monk is yours. I'll be with the captain." | Recovered chat, typo-cleaned | Captain corrected. |
+| Scourge | "You hear that... you deceptious motley-minded baggage... I have free reign with you now. Clearly we need to keep you from sharing your little opinions again. Anything else to say?" | Recovered chat, typo / emphasis cleaned | Long insult retained. |
+| Scourge | "Let this be a lesson to you all!" | Recovered chat | Preserved. |
+| Scourge | "Insubordination will not be tolerated!" | Recovered chat | Preserved. |
+| Scourge | "Nor will any talking back..." | Recovered chat, punctuation-cleaned | Preserved. |
+| Scourge | "And any further disruption will be met with increasing punishment!" | Recovered chat, typo-cleaned | Punishment corrected. |
+| Scourge | "One, for your mouth." | Recovered chat, player-facing rendering | Number written out. |
+| Scourge | "Two, for your refusal to back down." | Recovered chat, player-facing rendering | Number written out. |
+| Scourge | "Three, as an explanation of our little democracy." | Recovered chat, typo-cleaned | Explanation corrected. |
+| Scourge | "Four... and four." | Recovered chat | Preserved. |
+| Scourge | "For fun." | Recovered chat | Preserved. |
+| Kipper | "The rest of yous... below deck!" | Recovered chat, punctuation-cleaned | Voice retained. |
 
 ## Character Knowledge Boundaries
 
@@ -223,6 +221,6 @@ Do not integrate these in the first non-chat narrative draft unless the GM asks.
 
 | Output | Path | Status | Alignment notes |
 |---|---|---|
-| Narrative Write-Up | `chronicles/wormwood-day-four.md` | Draft / aligned | Current non-chat-integrated narrative draft locked in repo. |
-| Ship's Log | `ship-logs/wormwood-erastus-8-day-four.md` | Not created | Create only after narrative shape is approved. Must be officer-side and omit most character beats. |
-| Narrative Chat Scene | `chronicles/wormwood-erastus-8-day-four-chat-scene.md` | Not created | Do not create until GM asks for quote-integrated / Discord-facing output. |
+| Narrative Write-Up | `chronicles/wormwood-day-four.md` | Chat-integrated / aligned | Current locked narrative draft. |
+| Ship's Log | `ship-logs/wormwood-erastus-8-day-four.md` | Created / aligned | Officer-side log with operational facts and command bias. |
+| Narrative Chat Scene | `chronicles/wormwood-erastus-8-day-four-chat-scene.md` | Not created | Do not create until GM asks for Discord-facing output. |
