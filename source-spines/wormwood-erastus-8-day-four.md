@@ -40,6 +40,8 @@ The current draft uses Rak's Kipper concern as a passing warning to Harvus. Do n
 
 The Mirei 34 performance is staged after the punishment as a broad middle-hold / shipwide effect, reaching lower crew and being noticed from officer space. It should not be conflated with later Man's Promise / Plugg private-performance material unless evidence says so.
 
+The chat-integrated version should inherit the non-chat narrative prose except where dialogue blocks or small quote transitions require an intentional adjustment. In particular, the harp / Mirei performance passage should stay aligned across versions unless the GM separately revises that scene.
+
 ## Date / Placement
 
 - Candidate date: **Erastus 8, 4712 AR**.
@@ -159,17 +161,17 @@ Do not state that every listener is impressed. Vary reactions by role and temper
 | Speaker | Player-facing quote | Source / status | Notes |
 |---|---|---|---|
 | Scourge | "You know why I'm here?" | Recovered chat | Preserved. |
-| Rak | "Probably brah" | Recovered chat | Preserved. |
+| Rak | "Should I?" | GM-edited player-facing rendering | Replaces rougher recovered Rak line for this version. |
 | Scourge | "Lizard... I asked you a question." | Recovered chat, action removed | Punctuation-cleaned. |
 | Scourge | "Then you'll come with me." | Recovered chat, action removed | Preserved. |
 | Rak | "I guess so brah" | Recovered chat | Preserved. |
-| Rak | "Sup brah" | Recovered chat | Preserved. |
-| Rak | "Hang loose" | Recovered chat, capitalization cleaned | Preserved. |
+| Rak | "Sup." | GM-edited player-facing rendering | Replaces rougher recovered Rak line for this version. |
+| Rak | "Hey, take it easy." | GM-edited player-facing rendering | Replaces rougher recovered Rak line for this version. |
 | Scourge | "We go through the effort to give you all rum... though some of you don't understand our generosity." | Recovered chat, punctuation-cleaned | Rum rule. |
 | Scourge | "As you recall, three days ago... anyone caught not drinking will get the lash." | Recovered chat, typo-cleaned | Caught corrected. |
 | Scourge | "And if anyone is caught not drinking their allotment, it will be a day in the lockbox." | Recovered chat, typo-cleaned | Caught / allotment corrected. |
 | Scourge | "Am I clear?" | Recovered chat, cleaned from emphasis | Order. |
-| Rak | "Sweet brah" | Recovered chat | Preserved. |
+| Rak | "Yeah, we heard ya already" | GM-edited player-facing rendering | Replaces rougher recovered Rak line for this version. |
 | Scourge | "Today... the whip." | Recovered chat, action removed | Preserved. |
 | Scourge | "You will receive double punishment... I'd say the cat should be punishment enough." | Recovered chat, typo-cleaned | Cat meaning left unresolved. |
 | Sho | "Why double?" | Recovered chat | Preserved. |
@@ -179,10 +181,10 @@ Do not state that every listener is impressed. Vary reactions by role and temper
 | Scourge | "Does this seem like a democracy?" | Recovered chat | Preserved. |
 | Sho | "No, but I would expect that a simple question wouldn't be a punishable offense." | Recovered chat, typo-cleaned | Wouldn't / offense corrected. |
 | Plugg | "Clearly you don't understand the way a ship works!" | Recovered chat, punctuation-cleaned | Preserved. |
-| Rak | "Banana boat motha fucka" | Recovered chat, capitalization cleaned | GM accepted into integrated draft. |
+| Rak | "They float?!" | GM-edited player-facing rendering | Replaces rougher recovered Rak line for this version. |
 | Plugg | "You clearly need another lesson." | Recovered chat, emphasis normalized | Preserved. |
 | Plugg | "Mr. Scourge... the monk is yours. I'll be with the captain." | Recovered chat, typo-cleaned | Captain corrected. |
-| Scourge | "You hear that... you deceptious motley-minded baggage... I have free reign with you now. Clearly we need to keep you from sharing your little opinions again. Anything else to say?" | Recovered chat, typo / emphasis cleaned | Long insult retained. |
+| Scourge | "You hear that... you insolent motley-minded baggage... I have free reign with you now. Clearly we need to keep you from sharing your little opinions again. Anything else to say?" | GM-edited player-facing rendering from recovered Scourge insult | Long insult retained, wording cleaned. |
 | Scourge | "Let this be a lesson to you all!" | Recovered chat | Preserved. |
 | Scourge | "Insubordination will not be tolerated!" | Recovered chat | Preserved. |
 | Scourge | "Nor will any talking back..." | Recovered chat, punctuation-cleaned | Preserved. |
@@ -190,7 +192,7 @@ Do not state that every listener is impressed. Vary reactions by role and temper
 | Scourge | "One, for your mouth." | Recovered chat, player-facing rendering | Number written out. |
 | Scourge | "Two, for your refusal to back down." | Recovered chat, player-facing rendering | Number written out. |
 | Scourge | "Three, as an explanation of our little democracy." | Recovered chat, typo-cleaned | Explanation corrected. |
-| Scourge | "Four... and four." | Recovered chat | Preserved. |
+| Scourge | "Four..." | GM-edited player-facing rendering | Replaces ambiguous recovered line. |
 | Scourge | "For fun." | Recovered chat | Preserved. |
 | Kipper | "The rest of yous... below deck!" | Recovered chat, punctuation-cleaned | Voice retained. |
 
@@ -221,6 +223,6 @@ Do not state that every listener is impressed. Vary reactions by role and temper
 
 | Output | Path | Status | Alignment notes |
 |---|---|---|
-| Narrative Write-Up | `chronicles/wormwood-day-four.md` | Chat-integrated / aligned | Current locked narrative draft. |
+| Narrative Write-Up | `chronicles/wormwood-day-four.md` | Chat-integrated / aligned | Current locked narrative draft. Dialogue has GM-edited Rak renderings. Harp passage should remain aligned with the non-chat prose unless intentionally revised. |
 | Ship's Log | `ship-logs/wormwood-erastus-8-day-four.md` | Created / aligned | Officer-side log with operational facts and command bias. |
 | Narrative Chat Scene | `chronicles/wormwood-erastus-8-day-four-chat-scene.md` | Not created | Do not create until GM asks for Discord-facing output. |
