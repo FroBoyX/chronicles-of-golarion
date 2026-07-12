@@ -51,8 +51,8 @@ This table records AP structure. The campaign's actual recovered day labels may 
 | Pre-Day 1 / Port Peril night | PCs are drugged / press-ganged after a wild night. | Locked to Erastus 4, 4712 AR by GM correction. |
 | Wormwood Day 1 | PCs wake in the dark hold, are driven on deck by Scourge, meet Harrigan, receive ship jobs, and witness Jakes Magpie's keelhauling. | Locked opening wake-up date is Erastus 5, 4712 AR. |
 | Wormwood Day 2 | Scourge-backed lower-crew bullies block the PCs and try to delay them before dawn duty. | Use as AP scaffold for early lower-crew hostility; recovered table details control individual outcomes. |
-| Wormwood Day 4 | Jack Scrimshaw reports something in the bilges; PCs are sent below to handle the infestation. | Use as AP scaffold for bilges hazard and Jack's early role. |
-| Wormwood Day 5 | Plugg brings out Owlbear for a cruel deck fight / spectacle. | Use as AP scaffold for Owlbear's social meaning and possible friendship path. |
+| Wormwood Day 4 | Jack Scrimshaw reports something in the bilges; PCs are sent below to handle the infestation. | AP scaffold only. Current table handling shifts this set-piece to Erastus 9 / Wormwood Day 5 after Erastus 8 became the rum-punishment / Mirei-performance day. |
+| Wormwood Day 5 | Plugg brings out Owlbear for a cruel deck fight / spectacle. | AP scaffold only. Current GM correction places the Owlbear fight on Erastus 10 / Wormwood Day 6 unless later direct evidence contradicts it. |
 | Wormwood Day 8 | Major storm; all hands work through harsh conditions and a friendly NPC can go overboard. | Use as AP scaffold only. Table evidence determines who went overboard and what was witnessed. |
 | Wormwood Day 11 | Plugg sends PCs to the reef for crabs; reefclaw hazard occurs. | Use as AP scaffold for the reef / crab task. Table evidence controls injuries and NPC selection. |
 | Wormwood Day 14 | Riaris Krine trains PCs in grappling hooks and boarding. Best performer is intended to lead the Man's Promise boarding party. | Recovered table evidence places the boarding drill in the late-Wormwood pressure arc. Sho ultimately leads under Riaris' imposed survival bargain. |
@@ -74,6 +74,18 @@ This table records AP structure. The campaign's actual recovered day labels may 
 | Man's Promise Day 5 | Ship strikes reef / grounds near Bonewrack; damage and empty water barrel force island supply assignment. Plugg outwardly forbids rescue and secretly intends to kill PCs when they return. | Archive date: Arodus 1, 4712 AR. Table evidence controls exact repair estimate, assigned island party, and Plugg/Mirei private tasking. |
 
 ## Current Table-Specific Divergence Notes
+
+### Early Wormwood set-piece drift
+
+The AP's early set-piece order is useful but does not directly control the current archive dates.
+
+Current early-Wormwood handling:
+
+- Erastus 8 / Wormwood Day 4 is locked as **The Lash and the Harp**, not the bilges infestation.
+- The bilges infestation from the AP Day 4 scaffold is shifted to Erastus 9 / Wormwood Day 5 under the title **Something in the Bilges**.
+- The retcon model is that Jack Scrimshaw's bite and fear happened the day before the PCs were formally sent below; the officers did not make a public fuss until Plugg turned the hazard into a task for troublemakers.
+- Plugg uses the bilges assignment for Rak and Sho after the Erastus 8 discipline scene; Scourge adds Harvus.
+- The Owlbear fight is shifted to Erastus 10 / Wormwood Day 6.
 
 ### Late Wormwood day-label drift
 
@@ -124,4 +136,4 @@ When updating chronology or dossiers:
 2. Place recovered table scenes against the baseline.
 3. Preserve table divergences explicitly.
 4. Do not silently smooth AP scaffolding over recovered player action.
-5. Keep GM-side knowledge boundaries intact, especially Rak/Giffer, Mirei's private Plugg task, Plugg's betrayal plan, and Arodus 5 split-branch knowledge.
+5. Keep GM-side knowledge boundaries intact, especially Rak/Giffer, Mirei's private Plugg task, Plugg's betrayal plan, Plugg's course change, and Arodus 5 split-branch knowledge.
