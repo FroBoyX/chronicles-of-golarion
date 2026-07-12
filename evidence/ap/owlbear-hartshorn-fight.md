@@ -2,15 +2,22 @@
 
 ## Document Status
 
-- Type: Evidence / AP scaffold extraction
+- Type: Evidence / AP scaffold extraction with table-specific chronology correction
 - Maturity: Structured extract
 - Source: GM-provided AP encounter text during archive reconstruction
-- Scope: Fifth evening Owlbear Hartshorn fight aboard the Wormwood
-- Canon status: Published/AP baseline scaffold, modified by table-specific outcome that Sho showed mercy and Owlbear understood it
+- Scope: Owlbear Hartshorn fight aboard the Wormwood
+- Canon status: Published/AP baseline scaffold, modified by table-specific chronology and outcome that Sho showed mercy and Owlbear understood it
 
 ## Timing
 
-This encounter occurs on the **fifth evening** of the Wormwood voyage.
+AP baseline places this encounter on the **fifth evening** of the Wormwood voyage.
+
+Current table-specific handling shifts the encounter to:
+
+- **Erastus 10, 4712 AR**
+- **Wormwood Day 6**
+
+Reason: Erastus 8 / Wormwood Day 4 is now locked as **The Lash and the Harp**, and the AP Day 4 bilges set-piece is table-shifted to Erastus 9 / Wormwood Day 5 as **Something in the Bilges**.
 
 ## Encounter Frame
 
@@ -58,7 +65,7 @@ Therefore, Sho's Owlbear beat should not be framed as simply winning a fight. It
 
 ## Reconstruction Implications
 
-- Place this on Wormwood Day 5 evening.
+- Place this on Erastus 10 / Wormwood Day 6 unless direct evidence later contradicts it.
 - Treat the fight as Plugg's spectacle, not a fair contest.
 - Sho's tactical success can use the one-eye / feinting / positioning mechanic.
 - Sho backs away or otherwise refuses to brutalize Owlbear when he is no longer a true threat.
