@@ -3,17 +3,17 @@
 ## Document Status
 
 - Type: Source spine
-- Maturity: Working / table-shifted AP set-piece
+- Maturity: Aligned / table-shifted AP set-piece
 - Scope: Erastus 10 / Wormwood Day 6, Plugg's staged Owlbear fight, Sho's tactical victory, mercy, and first bond with Owlbear
 - Source basis: `evidence/ap/owlbear-hartshorn-fight.md`, `evidence/player-memory/sho-player-answers-owlbear-mercy.md`, `characters/pcs/sho-astor.md`, `characters/npcs/owlbear-hartshorn.md`, AP / GM baseline timeline, GM chronology correction
 - Spoiler scope: Player-safe after narrative rendering
-- Canon status: Working chronology and drafting spine
+- Canon status: Locked chronology and completed Day 6 output spine
 
 ## Date / Encounter Identity
 
 - Date: **Erastus 10, 4712 AR**
 - Wormwood count: **Day 6**
-- Working encounter title: **The Beast Plugg Made**
+- Encounter title: **The Beast Plugg Made**
 - Location: **The Wormwood**, main deck after the evening meal
 - Placement status: Table-shifted AP Day 5 set-piece
 
@@ -41,6 +41,7 @@ The AP baseline places the Owlbear encounter on the fifth evening of the Wormwoo
 - Owlbear understands that Sho chose not to continue hurting him.
 - Owlbear also sees Plugg's reaction to Sho's refusal.
 - The encounter begins the positive bond between Sho and Owlbear.
+- No separate night activity is securely recorded after the fight.
 
 ## Do Not Overstate
 
@@ -86,17 +87,16 @@ The AP baseline places the Owlbear encounter on the fifth evening of the Wormwoo
 | Scourge | Supports the atmosphere of ridicule and coercion; do not foreground without evidence. |
 | Crew | Audience trained to laugh, bet, and watch humiliation. Their reaction should shift when Sho refuses the expected ending. |
 
-## Output Plan
+## Output Status
 
-1. Draft non-chat narrative first.
-2. GM edits non-chat prose.
-3. Create ship log only after narrative shape is approved.
-4. Do not create a chat-integrated version unless recovered chat exists.
-5. Discord formatting must preserve approved prose verbatim and only split it into postable chunks.
+1. Non-chat narrative locked at `chronicles/wormwood-day-six.md`.
+2. No chat-integrated version created because no recovered dialogue exists for the encounter.
+3. Officer-side ship log created at `ship-logs/wormwood-erastus-10-day-six.md`.
+4. Verbatim Discord narrative source created at `chronicles/wormwood-erastus-10-day-six-discord.md`.
+5. Discord posting may split the approved source into chunks only. It may not rewrite the prose.
 
 ## Open Checks
 
-- Confirm final encounter title.
 - Confirm whether Plugg openly wagered coin at the table.
 - Confirm whether Owlbear cried, backed away, or otherwise signaled surrender.
 - Confirm Plugg's exact reaction to Sho's mercy.
