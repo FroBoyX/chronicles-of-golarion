@@ -27,7 +27,7 @@ Plugg gave them one.
 
 He had Owlbear Hartshorn brought up from the middle hold.
 
-The man was enormous. His fists looked made for breaking doors, and his shoulders crowded the space around him before he had moved a step. Tar still marked his skin in dark patches. Feathers clung where the crew had made sport of him before, remnants of a joke that had lasted longer on his body than in anyone else's memory.
+Owlbear had to turn his shoulders to clear the hatch. Once upright, he stood above most of the gathered crew, broad through the chest and heavy enough that the deck seemed built on a smaller scale around him. His arms hung thick at his sides, ending in fists that looked made for breaking doors. Tar still marked his skin in dark patches. Feathers clung where the crew had made sport of him before, remnants of a joke that had lasted longer on his body than in anyone else's memory.
 
 The laughter began before he reached the center of the deck.
 
@@ -49,9 +49,9 @@ The rules were simple enough. Fists and wrestling. No weapons. No magic. Last on
 
 Sho entered the circle.
 
-The crew tightened around them.
+The crew tightened around them. Owlbear's shadow reached her before his hands did, and the difference between them became part of the spectacle. He had the mass to crush through a guard or carry someone bodily across the deck. Sho had space, speed, and whatever she could read before he closed it.
 
-Owlbear came forward with force enough to make the deck feel smaller. His first swing carried all of his weight and little control. Sho slipped away before it landed. The next blow followed more slowly, wide and heavy, striking empty air where she had been.
+Owlbear came forward with force enough to make the deck feel smaller. The boards answered under his first step. His opening swing moved all of that weight at once, shoulder, chest, and fist driving through the place where Sho had been. She slipped away before it landed. The next blow followed more slowly, wide and heavy, striking empty air.
 
 He was strong enough to end the fight quickly if he caught her.
 
@@ -67,7 +67,7 @@ Owlbear laughed because they laughed.
 
 He charged again.
 
-Sho kept the fight controlled. She gave him movement to follow, then took it away. She attacked from the side he could not see and made him turn until his size became weight he had to drag after her. When he reached for her, she was already elsewhere. When he planted his feet to strike, she broke his balance before the blow could gather power.
+Sho kept the fight controlled. She gave him movement to follow, then took it away. She attacked from the side he could not see and made him turn until his size became weight he had to drag after her. Every change of direction forced his whole body to follow, boots grinding against the boards while his shoulders came around a heartbeat too late. When he reached for her, she was already elsewhere. When he planted his feet to strike, she broke his balance before the blow could gather power.
 
 This was not the bilges. There was room here. Light. Air. A threat she could read.
 
@@ -101,7 +101,7 @@ The crew waited for her to close it.
 
 She did not.
 
-Owlbear remained where he was, breathing hard, bruised and unsteady. Sho lowered her hands enough to make the choice plain. She had beaten him. She was not going to keep hurting him because Plugg had gathered an audience.
+Owlbear remained where he was, breathing hard, bruised and unsteady. His chest rose and fell like a bellows, and his heavy arms hung lower with every breath. Sho lowered her hands enough to make the choice plain. She had beaten him. She was not going to keep hurting him because Plugg had gathered an audience.
 
 The noise around the ring faltered.
 
