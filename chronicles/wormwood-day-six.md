@@ -3,11 +3,11 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Non-chat-integrated draft / canon-candidate
+- Maturity: GM-approved narrative / canon-candidate
 - Scope: Erastus 10, Plugg's staged Owlbear fight, Sho's tactical victory, mercy, and first bond with Owlbear
 - Source spine: `source-spines/wormwood-erastus-10-day-six.md`
 - Spoiler scope: Player-safe
-- Canon status: Draft for GM review
+- Canon status: Locked current narrative
 - Date status: Table-shifted AP set-piece, working placement
 
 ## Date
