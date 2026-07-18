@@ -3,11 +3,11 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Non-chat-integrated draft / canon-candidate
+- Maturity: GM-approved narrative / canon-candidate
 - Scope: Erastus 9, shifted bilges dire-rat encounter, Jack Scrimshaw's prior-day bite, and the Rak / Sho / Harvus assignment
 - Source spine: `source-spines/wormwood-erastus-9-day-five.md`
 - Spoiler scope: Player-safe
-- Canon status: Draft for GM review
+- Canon status: Locked current narrative
 - Date status: Table-shifted AP set-piece, working placement
 
 ## Date
