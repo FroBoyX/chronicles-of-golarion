@@ -77,8 +77,6 @@ The struggle was ugly and close. There were no clean charges, no open ground, an
 
 Still, they held together.
 
-One rat died against the boards. Another thrashed itself still in the water. A third was caught as it tried to scramble back into the broken sacks. The last two attacked almost together, desperate now that the nest had become a killing ground instead of a refuge.
-
 When the final rat stopped moving, six bodies lay among the ruined grain.
 
 For a moment, none of the three climbed out.
