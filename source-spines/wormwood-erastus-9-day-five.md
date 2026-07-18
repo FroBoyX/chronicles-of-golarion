@@ -3,11 +3,11 @@
 ## Document Status
 
 - Type: Source spine
-- Maturity: Working / table-shifted AP set-piece
+- Maturity: Narrative-aligned / table-shifted AP set-piece
 - Scope: Erastus 9 / Wormwood Day 5, shifted bilges dire-rat encounter, Jack Scrimshaw bite setup, Rak/Sho/Harvus assignment
-- Source basis: `evidence/ap/something-in-the-bilges.md`, `source-spines/wormwood-erastus-8-day-four.md`, AP / GM baseline timeline, GM direction in reconstruction chat
+- Source basis: `evidence/ap/something-in-the-bilges.md`, `chronicles/wormwood-day-five.md`, `ship-logs/wormwood-erastus-9-day-five.md`, `chronicles/wormwood-erastus-9-day-five-discord.md`, `source-spines/wormwood-erastus-8-day-four.md`, AP / GM baseline timeline, GM direction in reconstruction chat
 - Spoiler scope: Player-safe after narrative rendering
-- Canon status: Working chronology correction and drafting spine
+- Canon status: Current Day 5 narrative and sibling outputs aligned
 
 ## Date / Encounter Identity
 
@@ -25,18 +25,18 @@ Current GM correction:
 
 - The bilges set-piece moves to **Erastus 9 / Wormwood Day 5**.
 - The Owlbear fight moves to **Erastus 10 / Wormwood Day 6** unless later direct evidence contradicts that.
-- Day 5 should not try to undo Day 4. It should use the prior Rak/Grok bilges warning as setup and explain the delay through officer handling.
+- Day 5 uses the prior Rak/Grok bilges warning as setup and explains the delay through officer handling.
 
 ## Retcon / Alignment Model
 
 Use this model for continuity:
 
-- Jack Scrimshaw was bitten / frightened by something in the bilges the day before the PCs are formally sent below.
+- Jack Scrimshaw was bitten and frightened by something in the bilges the day before the PCs are formally sent below.
 - The officers did not make a public fuss at first.
 - The problem became useful once Plugg wanted a way to punish or test troublemakers.
 - Plugg chose Rak and Sho because they were visible discipline problems after Erastus 8.
 - Scourge added Harvus because he wanted another problem new hand in the bilges.
-- Grok's earlier warning to Rak remains useful: she heard enough to know bilges trouble was coming and warned Rak, but she did not cause the assignment.
+- Grok's earlier warning to Rak remains useful. She heard enough to know bilges trouble was coming and warned Rak, but she did not cause the assignment.
 
 ## Strong Facts / Drafting Locks
 
@@ -47,11 +47,12 @@ Use this model for continuity:
 - Sho is included as a recent public discipline problem.
 - Harvus is included because Scourge takes the opportunity to add him.
 - The infestation is six dire rats.
-- The dire rats came from a bad / cheap barley consignment picked up in Port Peril.
+- The dire rats came from a bad or cheap barley consignment picked up in Port Peril.
 - The bilges are very hot, cramped, foul, wet, and claustrophobic.
 - The rats use the brackish water and clutter for concealment.
-- The fight can be summarized rather than reconstructed round by round.
-- The PCs are bitten a few times, but they kill all six dire rats.
+- The fight is summarized rather than reconstructed round by round.
+- The three are bitten and bloodied, but they kill all six dire rats.
+- The final narrative emphasizes that they return together.
 
 ## Do Not Overstate
 
@@ -63,47 +64,48 @@ Use this model for continuity:
 - Do not invent disease, lasting injury, or recovered gear unless GM confirms.
 - Do not write a tactical round-by-round fight without evidence.
 
-## Scene Order Working Model
+## Scene Order Locked For Current Narrative
 
 | Sequence | Handling |
 |---|---|
 | Morning after Day 4 | The ship has not softened after punishment; Rak and Sho are marked; Harvus remains on Scourge's list. |
-| Jack's prior bite surfaces | Jack's fear / injury from the bilges is known or becomes visible enough for Plugg to use. |
-| Plugg reframes the problem | Officers turn the bilges hazard into a task for troublemakers, not a fair volunteer call. |
+| Jack's prior bite | Jack came out frightened and bitten the previous day; officers kept it quiet. |
+| Plugg reframes the problem | Officers turn the bilges hazard into a task for troublemakers. |
 | Assignment | Rak and Sho are selected by Plugg; Harvus is added by Scourge. |
-| Descent | The party goes down through the Wormwood into the hot, foul bilges. |
-| Barley / rats reveal | A bad barley consignment has released six dire rats into the bilge water. |
-| Fight | Claustrophobic, wet, biting, chaotic, but summarized. PCs take bites and kill all six. |
-| Aftermath | They emerge filthy and bloodied, having solved a danger the officers weaponized. |
+| Descent | The party goes through the middle hold into the hot, foul bilges. |
+| Barley and rats | A cheap barley consignment has released six dire rats into the bilge water. |
+| Fight | Claustrophobic, wet, biting, and chaotic, but summarized. The three hold together and kill all six. |
+| Aftermath | They emerge filthy, bloodied, and together. |
 
 ## Location / Sensory Plan
 
 | Area | Use |
 |---|---|
-| Main deck | Plugg / Scourge turn the problem into orders. |
+| Main deck | Plugg and Scourge turn the problem into orders. |
 | Middle hold | Descent through animal stink, heat, stores, and crew traffic. |
-| Bilges | Brackish water, barrel rot, barley stink, vermin movement under the surface, heat, poor footing, low light. |
-| Return upward | Use contrast between bilge filth and the officers' clean distance. |
+| Bilges | Brackish water, barley stink, vermin movement beneath the surface, heat, poor footing, and low light. |
+| Return upward | Contrast bilge filth with the officers' clean distance. |
 
 ## Character Handling
 
 | Character | Day 5 Function |
 |---|---|
-| Rak | Targeted because of rum violation and cook's-mate status; earlier Grok warning pays off. |
+| Rak | Targeted because of the rum violation and cook's-mate status; Grok's warning pays off. |
 | Sho | Targeted because she publicly challenged discipline; forced into danger as correction. |
-| Harvus | Added by Scourge; another chance to hurt or test a new hand. |
-| Jack Scrimshaw | Frightened prior victim / trigger, not central hero. |
+| Harvus | Added by Scourge as another chance to hurt or test a new hand. |
+| Jack Scrimshaw | Frightened prior victim and trigger, not central hero. |
 | Plugg | Weaponizes a real hazard as discipline. |
 | Scourge | Takes pleasure in adding Harvus and sending trouble downward. |
 | Grok | Prior warning source only; not the cause of the assignment. |
 
-## Output Plan
+## Sibling Output Alignment
 
-1. Draft non-chat narrative first.
-2. GM edits non-chat prose.
-3. Create ship log only after narrative shape is approved.
-4. Do not create a chat-integrated version unless recovered chat exists.
-5. Discord formatting must preserve approved prose verbatim and only split into postable chunks.
+| Output | Path | Status | Alignment notes |
+|---|---|---|---|
+| Narrative Write-Up | `chronicles/wormwood-day-five.md` | Locked current narrative | Authoritative prose source. |
+| Ship's Log | `ship-logs/wormwood-erastus-9-day-five.md` | Created / aligned | Officer-side operational record. |
+| Discord Narrative | `chronicles/wormwood-erastus-9-day-five-discord.md` | Created / aligned | Verbatim player-facing copy. Split only for posting. |
+| Chat-Integrated Narrative | Not created | Not needed | No recovered Day 5 dialogue currently supports a separate chat pass. |
 
 ## Open Checks
 
