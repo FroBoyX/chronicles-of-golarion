@@ -186,6 +186,30 @@ Rak separates usefulness from trust:
 
 This supports a slow-bonding crew model. Rak may cooperate long before he trusts, and once he does trust someone, abandonment or betrayal carries more weight than ordinary conflict.
 
+## Orders / Leadership / Control
+
+- Rak does not inherently hate being ordered around. He resents orders from people he believes have not earned authority.
+- Results and charisma are the qualities most likely to make someone worth following.
+- When Rak disagrees with an order, his response falls between obeying badly and ignoring it.
+- Rak prefers whoever has the best idea in the moment over fixed command, voting, or rigid personal freedom.
+- He is comfortable leading from the front or advising from the side.
+- Rak would never accept a leader who relies on death threats and fear because they cannot otherwise persuade people to follow.
+- Rak's response to someone refusing his own order depends on the stakes. He may laugh it off when little is at risk, punish refusal when it causes injury or death, or prove himself right and mention it for the rest of time.
+
+## Leadership Interpretation
+
+Rak accepts authority when it produces results and earns voluntary followership. His working model is:
+
+> charisma and results earn authority
+>
+> unearned orders invite poor compliance or disregard
+>
+> the best immediate idea matters more than rigid hierarchy
+>
+> consequential refusal can justify punishment
+
+This is not democratic idealism. Rak still wants status and may punish costly disobedience. The line he rejects is rule based primarily on terror rather than demonstrated competence and the ability to make people choose to follow.
+
 ## Later Integration Targets
 
 Eventually integrate into:
