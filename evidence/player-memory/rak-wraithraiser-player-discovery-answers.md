@@ -5,7 +5,7 @@
 - Type: Player-memory / GM-correction evidence
 - Maturity: Working notes
 - Source: Rak player answers relayed by GM during player discovery
-- Scope: Rak core identity, pirate legacy, Besmaran faith, Sandara / holy-symbol context, press-ganging, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
+- Scope: Rak core identity, pirate legacy, Besmaran faith, Sandara / holy-symbol context, press-ganging, Wormwood role, lower-crew relationships, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
 
 ## Evidence Handling
 
@@ -77,9 +77,19 @@ Preserve the distinction between:
 - Rak and Grok's connection began strategic, then became casual fun. It is not currently player-confirmed as a deep romance.
 - The closeness with Grok was mostly quiet. Other crew may have known they were friendly, but not exactly how close.
 - Kroop looked sad or pathetic to Rak because of the drinking and avoidance of responsibility, but Kroop was useful in keeping Rak alive.
-- Badger, Tilly, and Sandara being marked helpful likely means they personally helped Rak at some point, not merely that they were broadly group-helpful.
+- Rak's sheet marked Badger, Tilly, and Sandara as helpful, but later player answers refine those impressions rather than confirming strong personal bonds.
 - Jack, Patch, and Tate were mostly background crew from Rak's perspective, with too little direct interaction for strong opinions.
 - Maheem's kill-list note remains unresolved. The player does not remember the exact cause, but frames it as likely something Maheem said or did that Rak took serious offense to. Since ordinary hostile knife-threatening behavior did not put Syl/Patch on that list, Maheem's offense should remain sharper than background hostility.
+
+## Badger / Tilly / Jack / Lower Crew
+
+- The player does not remember a specific event that made Badger helpful. The likely basis was shared work, shared danger, or conversations where Badger was not hostile and seemed willing to help.
+- Rak saw Badger as useful and one of the better people aboard the Wormwood, not yet as a trusted friend or crewmate.
+- Tilly's helpful status was probably a general good impression rather than a remembered personal bond.
+- The player does not remember whether Rak and Tilly had a distinct connection beyond her being a friendly lower-crew presence.
+- Jack's "Friendly?" status likely reflected uncertainty that he might be putting on an act or might not actually help when needed.
+- Jack was largely forgettable to Rak from the player's current memory.
+- At this stage, Badger, Tilly, and Jack were people Rak might drink with. They were not yet people he would protect or count as his crew.
 
 ## Violence / Mercy / Sho
 
