@@ -5,7 +5,7 @@
 - Type: Player-memory / GM-correction evidence
 - Maturity: Working notes
 - Source: Rak player answers relayed by GM during player discovery
-- Scope: Rak core identity, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
+- Scope: Rak core identity, press-ganging, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
 
 ## Evidence Handling
 
@@ -28,6 +28,17 @@ Preserve the distinction between:
 - Kroop began as Rak's boss and became more of a mentor / drinking buddy over time.
 - Early Rak valued usefulness and shared survival first. Loyalty might develop later, but early Wormwood Rak was focused on surviving long enough to make a name for himself.
 - The early galley / alcohol / Grok loop began as fun and entertainment.
+
+## Formidably Maid / Press-Ganged
+
+- Rak went to the Formidably Maid because of pirate ambition.
+- He remembers the flirtatious corsair who helped set up his capture as a funny mistake rather than a revenge target or unresolved romance.
+- Rak is embarrassed that he was taken so easily.
+- When he woke press-ganged, his first instinct was survival, followed by scheming.
+- Rak already wanted to be a pirate, so being forced onto a pirate ship was not itself an insult to the life he wanted.
+- What stung was the station: he had hoped to be recruited and begin as a more trusted or higher-ranking member rather than at the bottom.
+- Being taken did not make Rak notably more cautious or reckless. He was basically unchanged.
+- Rak mostly accepts press-ganging as pirate business. Only press-gangers who remain hostile or continue causing him problems become personal enemies or candidates for his kill list.
 
 ## Grok / Kroop / Crew Ties
 
