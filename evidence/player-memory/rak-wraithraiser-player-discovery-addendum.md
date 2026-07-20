@@ -109,6 +109,24 @@ Rak's refusal of some rum rations should not be framed as dislike of alcohol or 
 
 Rak is willing to break rules, but his preferred method is covert and practical. Humor is the fallback once concealment fails, not his only strategy.
 
+## Becoming Wormwood Crew
+
+- After the initial shock of press-ganging, Rak felt trapped.
+- He saw the Wormwood as a proving ground, but not as the kind of pirate life he actually wanted.
+- Becoming useful in the galley made Rak feel safer rather than important, watched, or truly in control.
+- Rak adapted by becoming more sneaky and more social.
+- His goal aboard the Wormwood was to survive and escape it, not master it or make it his permanent home.
+- The Wormwood shaped him somewhat by teaching him how to survive aboard pirate ships in the future.
+- Leaving the Wormwood for the Man's Promise felt like moving to the next opportunity rather than a major emotional loss or triumph.
+
+## Wormwood Adaptation Interpretation
+
+Rak did not become loyal Wormwood crew in an emotional sense. His progression was:
+
+> trapped captive -> useful survivor -> sneakier and more socially capable pirate -> ready for the next opening
+
+The Wormwood mattered as training under coercion. It taught him shipboard survival, social leverage, and the value of a useful niche, but it never became the pirate life he wanted to claim as his own.
+
 ## Later Integration Targets
 
 Eventually integrate into:
