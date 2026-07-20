@@ -5,7 +5,7 @@
 - Type: Player-memory / GM-correction evidence
 - Maturity: Working notes
 - Source: Rak player answers relayed by GM during player discovery
-- Scope: Rak core identity, pirate legacy, Besmaran faith, press-ganging, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
+- Scope: Rak core identity, pirate legacy, Besmaran faith, Sandara / holy-symbol context, press-ganging, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
 
 ## Evidence Handling
 
@@ -49,6 +49,16 @@ Preserve the distinction between:
 - Rak treats bad luck as the sea being the sea. The sea is a fickle mistress, not a moral judge handing out punishment or warnings.
 - Rak might take a risk if he believed Besmara promised a worthwhile reward, but he is not otherwise guided by presumed divine commands to spare or kill.
 - Rak treats Sandara's faith as separate from his own. Different people worship differently, and Sandara's devotion was not especially meaningful or useful to him personally.
+
+## Sandara / Holy Symbols / Pirate Faith
+
+- The player does not clearly remember whether Sandara was helpful to Rak personally. The current best player-memory answer is that she was helpful to the group.
+- Rak did not think much about Sandara's faith in Besmara.
+- Rak treated Sandara's holy symbol as sentimental when he handled it.
+- Giving Sandara's holy symbol to Harvus was nevertheless a practical choice rather than a deeper emotional or religious gesture from Rak.
+- Rak would not automatically trust Sandara more because she served Besmara. From his perspective, Besmaran faith can promote loyalty to captain and crew, while Rak and the others were not happy with their captain or much of the Wormwood crew.
+- Rak believed Besmara's favor protected those bold and capable enough to survive on their own, not people merely because they possessed faith or holy objects.
+- Rak did not yet see Sandara as part of his own crew. He saw her as someone connected to the wider mess of everyone being forced onto the Wormwood.
 
 ## Formidably Maid / Press-Ganged
 
