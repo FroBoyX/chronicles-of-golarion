@@ -144,6 +144,24 @@ Rak's humor should not be reduced to a surfer affect or random comic relief. Its
 
 Preserve "PARKOUR," "halp!", and occasional prolonged hissing as table-developed Rak texture. Drop "brah," "sup," and California beach-stereotype language. Rak's apparent foolishness can be useful camouflage for a competent and dangerous pirate-alchemist who currently benefits from being underestimated.
 
+## Fear / Injury / Vulnerability
+
+- When badly hurt, Rak becomes funnier so other people cannot tell how serious the injury is.
+- Rak does not think there is a fear he would openly admit.
+- Losing gear and being helpless bother Rak more than most other dangers.
+- When forced to rely on someone else to survive, Rak feels embarrassed.
+- If someone saves Rak's life, he treats it as a debt that must be repaid.
+- The player's answer was that only death would make Rak stop joking. Treat this as a strong statement that humor persists even under severe pressure, not as a literal rule that he can never become serious.
+- When cornered, Rak prefers to wait for an opening rather than bargain, threaten, or attack immediately.
+
+## Vulnerability Interpretation
+
+Rak's humor is protective concealment, not proof that he is unhurt or unafraid:
+
+> injury worsens -> jokes increase -> weakness stays hidden
+
+His deepest practical vulnerabilities are loss of agency and loss of equipment. Rescue embarrasses him, but also creates a real obligation. When trapped, Rak remains patient enough to watch for the moment when the balance changes.
+
 ## Later Integration Targets
 
 Eventually integrate into:
