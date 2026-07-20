@@ -127,6 +127,23 @@ Rak did not become loyal Wormwood crew in an emotional sense. His progression wa
 
 The Wormwood mattered as training under coercion. It taught him shipboard survival, social leverage, and the value of a useful niche, but it never became the pirate life he wanted to claim as his own.
 
+## Humor / Performance / Rak Voice
+
+- "Brah" was table humor, not Rak's in-character speech. Do not preserve it as part of his voice.
+- "PARKOUR" began as a player joke, but became strong enough table characterization that Rak can genuinely make reckless, improvised movement choices in that spirit.
+- Rak uses humor to make friends, annoy people, hide danger, avoid fear, and because he thinks he is funny.
+- When Rak acts ridiculous, he is often entertaining himself while also lowering other people's guard.
+- The player does not clearly remember the exaggerated alchemy behavior, but currently reads it as comedy flavor rather than evidence that Rak lacked serious competence.
+- At this stage, Rak prefers people to underestimate him.
+
+## Humor Interpretation
+
+Rak's humor should not be reduced to a surfer affect or random comic relief. Its functions are layered:
+
+> entertain himself -> lower others' guard -> hide fear or danger -> create social access -> provoke when he thinks he can survive the result
+
+Preserve "PARKOUR," "halp!", and occasional prolonged hissing as table-developed Rak texture. Drop "brah," "sup," and California beach-stereotype language. Rak's apparent foolishness can be useful camouflage for a competent and dangerous pirate-alchemist who currently benefits from being underestimated.
+
 ## Later Integration Targets
 
 Eventually integrate into:
