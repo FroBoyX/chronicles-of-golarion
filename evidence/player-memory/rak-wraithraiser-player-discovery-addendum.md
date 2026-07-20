@@ -70,6 +70,25 @@ Harrigan's reward should not be framed as the beginning of Rak's loyalty to the 
 
 Rak's response was practical rather than grateful. Harrigan remained a feared authority figure on a ship Rak expected to leave once a better path to wealth, glory, and his own crew appeared.
 
+## Plugg / Scourge / Obedience
+
+- Rak saw Plugg as both dangerous and petty.
+- Rak did not meaningfully distinguish Scourge from Plugg as a type of threat. Both were dangerous coercive authorities to survive rather than people worth serving.
+- Rak obeyed orders for survival while waiting for an opening to change the balance of power.
+- Rak did not seek respect from Plugg or Scourge. He wanted them to leave him alone.
+- Loss of gear was the most effective immediate threat against Rak because equipment was central to his usefulness and survival.
+- Threats against allies could also control Rak once he had developed a crew to whom he felt genuine loyalty. This is a future or developing vulnerability, not necessarily one fully active during the earliest Wormwood days.
+- Rak could find open defiance funny when it was unlikely to be fatal, but considered it best attempted when victory was realistically possible.
+- If Rak gained the upper hand over Plugg or Scourge, he would prefer a clean kill. He has no interest in public humiliation, extended revenge theater, or explaining their crimes before acting.
+
+## Obedience Interpretation
+
+Rak's obedience should not be framed as loyalty, submission, or respect. His working pattern is:
+
+> survive -> preserve gear and usefulness -> watch for an opening -> act when victory is possible
+
+His humor can still provoke authority, but he does not confuse reckless defiance with effective resistance. Once the power balance changes, Rak's preferred resolution for Plugg or Scourge is direct and final.
+
 ## Later Integration Targets
 
 Eventually integrate into:
@@ -78,5 +97,7 @@ Eventually integrate into:
 - any Rak/Grok relationship file created during dossier integration
 - `characters/npcs/ambrose-fishguts-kroop.md`
 - `characters/npcs/barnabas-harrigan.md`
+- `characters/npcs/mr-plugg.md`
+- `characters/npcs/master-scourge.md`
 - `questions/rak-player-narrative-beats.md`
 - `questions/rak-player-truth-questions.md`
