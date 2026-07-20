@@ -162,6 +162,30 @@ Rak's humor is protective concealment, not proof that he is unhurt or unafraid:
 
 His deepest practical vulnerabilities are loss of agency and loss of equipment. Rescue embarrasses him, but also creates a real obligation. When trapped, Rak remains patient enough to watch for the moment when the balance changes.
 
+## Trust / Betrayal / Debts
+
+- Rak trusts through honesty, loyalty, and repeated proof.
+- He trusts slowly. People must earn it over time rather than receiving it until they disappoint him.
+- Betrayal means abandonment or a literal / figurative stab in the back more than ordinary weakness or disagreement.
+- Rak can still work with someone who betrayed him if that person is necessary to a plan, but he will not trust them and will keep them under watch.
+- Debts should be repaid. Whether repayment includes interest depends on the debt and any agreement around it.
+- Owing someone his life matters emotionally. Rak feels a real need to repay that person.
+- Rak would rather be trusted and entertained than loved, feared, owed, or simply left alone.
+
+## Trust Interpretation
+
+Rak separates usefulness from trust:
+
+> necessary ally can be used without trust
+>
+> trust requires honesty, loyalty, and repeated proof
+>
+> life-saving creates emotional debt
+>
+> betrayal does not erase usefulness, but it permanently changes access and scrutiny
+
+This supports a slow-bonding crew model. Rak may cooperate long before he trusts, and once he does trust someone, abandonment or betrayal carries more weight than ordinary conflict.
+
 ## Later Integration Targets
 
 Eventually integrate into:
