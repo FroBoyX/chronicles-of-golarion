@@ -5,7 +5,7 @@
 - Type: Player-memory / GM-correction evidence
 - Maturity: Working notes
 - Source: Rak player answers relayed by GM during player discovery
-- Scope: Rak core identity, press-ganging, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
+- Scope: Rak core identity, pirate legacy, press-ganging, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
 
 ## Evidence Handling
 
@@ -28,6 +28,17 @@ Preserve the distinction between:
 - Kroop began as Rak's boss and became more of a mentor / drinking buddy over time.
 - Early Rak valued usefulness and shared survival first. Loyalty might develop later, but early Wormwood Rak was focused on surviving long enough to make a name for himself.
 - The early galley / alcohol / Grok loop began as fun and entertainment.
+
+## Pirate Legacy / Baas'lisk
+
+- Baas'lisk Wraithraiser was a real pirate legend Rak grew up hearing about, not merely a name Rak invented to build himself up.
+- Rak wants to surpass Baas'lisk rather than merely live up to him.
+- Rak sees piracy as destiny, inheritance, his best option, and the life that sounds most fun.
+- Before the Wormwood, Rak did not yet picture himself as a specific famous pirate archetype. He knew he had not made a name for himself, but still thought of himself as clever until the press-ganging embarrassed him.
+- Rak cares most about becoming famous.
+- Rak was somewhat insulted when his pirate blood did not earn him elevated treatment. He had hoped the family name would carry weight at the start of his journey.
+- Rak will feel that he has become a real pirate when he can enter a random bar or inn and overhear strangers talking about him and his exploits.
+- The player referred once to hoping his "father's name" would carry weight, while the established dossier identifies Baas'lisk as Rak's grandfather. Preserve this as a lineage-memory wording wrinkle unless later clarification changes the established relationship.
 
 ## Formidably Maid / Press-Ganged
 
