@@ -30,11 +30,34 @@ Grok should not be framed as Rak's great romance. The player-confirmed progressi
 
 The goodbye matters because Grok was one of Rak's few safe or pleasant Wormwood connections, not because Rak had already built his identity around her.
 
+## Kroop / Cooking / Galley Survival
+
+- Rak began to genuinely like cooking because it did not feel very different from alchemy.
+- Rak was not already an accomplished cook before the Wormwood. He learned by surviving the galley role under Kroop.
+- Rak initially used Kroop for practical survival and access, then gradually grew to like him as time passed.
+- Rak primarily saw Kroop as a useful drunk rather than shipboard family or a deeply respected mentor.
+- The player thinks Rak probably learned crew politics in the galley, though the specific scenes are not remembered clearly.
+- Rak would deliberately use food, drink, and alchemy to make friends and gain leverage.
+- If someone insulted Kroop or threatened the galley, Rak's concern would be practical before personal because Kroop and the galley helped keep Rak safe and useful.
+
+## Galley Interpretation
+
+The galley should not be framed only as an unwanted assignment. Rak's progression was:
+
+> job he got stuck with -> survival niche -> genuine skill and useful social leverage
+
+Kroop's progression in Rak's eyes was:
+
+> useful boss / resource -> useful drunk -> someone Rak gradually liked
+
+Rak's attachment to Kroop was real but still practical. Threatening Kroop or the galley threatened Rak's food access, work niche, political information, and relative safety.
+
 ## Later Integration Targets
 
 Eventually integrate into:
 
 - `characters/pcs/rak-wraithraiser.md`
 - any Rak/Grok relationship file created during dossier integration
+- `characters/npcs/ambrose-fishguts-kroop.md`
 - `questions/rak-player-narrative-beats.md`
 - `questions/rak-player-truth-questions.md`
