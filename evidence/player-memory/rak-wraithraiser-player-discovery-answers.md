@@ -79,7 +79,7 @@ Preserve the distinction between:
 - Kroop looked sad or pathetic to Rak because of the drinking and avoidance of responsibility, but Kroop was useful in keeping Rak alive.
 - Rak's sheet marked Badger, Tilly, and Sandara as helpful, but later player answers refine those impressions rather than confirming strong personal bonds.
 - Jack, Patch, and Tate were mostly background crew from Rak's perspective, with too little direct interaction for strong opinions.
-- Maheem's kill-list note remains unresolved. The player does not remember the exact cause, but frames it as likely something Maheem said or did that Rak took serious offense to. Since ordinary hostile knife-threatening behavior did not put Syl/Patch on that list, Maheem's offense should remain sharper than background hostility.
+- Maheem's kill-list note remains unresolved. The player does not remember the exact cause, but frames it as likely something Maheem said or did that Rak took serious offense to.
 
 ## Badger / Tilly / Jack / Lower Crew
 
@@ -90,6 +90,18 @@ Preserve the distinction between:
 - Jack's "Friendly?" status likely reflected uncertainty that he might be putting on an act or might not actually help when needed.
 - Jack was largely forgettable to Rak from the player's current memory.
 - At this stage, Badger, Tilly, and Jack were people Rak might drink with. They were not yet people he would protect or count as his crew.
+
+## Patch / Tate / Maheem
+
+- The player does not remember a specific interaction behind Patch Patchsalt's indifferent status.
+- Rak likely saw Patch as neither helpful nor friendly, but also not openly hostile enough to become a personal enemy at that stage.
+- Rak probably assumed Patch was loyal to Plugg and Scourge because her shipboard position gave her some authority and power.
+- Tam "Narwhal" Tate's uncertain / indifferent status likely came from insufficient interaction.
+- Tate was mostly background crew whom Rak did not notice much.
+- The cause of Rak's Maheem grudge remains unknown, but the player believes it must have been something Rak strongly disliked.
+- The player now leans toward the Maheem note representing a real personal grudge rather than a joke or merely tactical notation.
+- If Rak had a clean opportunity to hurt or kill Maheem without consequences, the player believes he would act immediately rather than wait to see whether Maheem remained an active threat.
+- A repository search did not locate a preserved Rak-Maheem confrontation explaining the grudge. The current Maheem dossier only records possible explanations, including Maheem's general hostility, his role in Harvus' press-ganging, or an unpreserved direct conflict with Rak.
 
 ## Violence / Mercy / Sho
 
@@ -192,5 +204,6 @@ Eventually update:
 - `questions/rak-player-truth-questions.md`
 - `characters/npcs/patch-patchsalt.md`
 - `characters/npcs/slippery-syl-lonegan.md`
+- `characters/npcs/maheem.md`
 
 Do not over-resolve remaining relationship questions before play. Let Rak's legacy, crew definition, and future loyalty evolve through the relaunch scenes.
