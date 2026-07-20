@@ -89,6 +89,26 @@ Rak's obedience should not be framed as loyalty, submission, or respect. His wor
 
 His humor can still provoke authority, but he does not confuse reckless defiance with effective resistance. Once the power balance changes, Rak's preferred resolution for Plugg or Scourge is direct and final.
 
+## Rum / Alcohol / Rule-Breaking
+
+- Rak likes alcohol, but he did not always drink the Wormwood rum ration because he did not want to be forced into a weakened state.
+- Alcohol was primarily fun for Rak.
+- Kroop's drinking was mostly not Rak's problem. Rak did not feel responsible for correcting or judging it.
+- Rak could use drink to make friends, gather information, lower someone's guard, and survive the social atmosphere aboard ship.
+- When breaking rules, Rak preferred to hide the violation. If caught, he would try to joke his way through the consequences.
+- Warnings not to get caught made Rak more careful rather than more defiant.
+- The player does not currently know what rule, if any, Rak would categorically refuse to break.
+
+## Rum Interpretation
+
+Rak's refusal of some rum rations should not be framed as dislike of alcohol or moral abstinence. The distinction is control:
+
+> chosen drinking for fun or leverage -> acceptable
+>
+> forced intoxication that weakens him -> unacceptable
+
+Rak is willing to break rules, but his preferred method is covert and practical. Humor is the fallback once concealment fails, not his only strategy.
+
 ## Later Integration Targets
 
 Eventually integrate into:
