@@ -5,7 +5,7 @@
 - Type: Player-memory / GM-correction evidence
 - Maturity: Working notes
 - Source: Rak player answers relayed by GM during player discovery
-- Scope: Rak core identity, pirate legacy, press-ganging, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
+- Scope: Rak core identity, pirate legacy, Besmaran faith, press-ganging, Wormwood role, violence model, early PC relationships, current Bonewrack split posture, gear state, ship-future goals, cleanup accuracy, voice correction, and Syl/Patch conflation correction
 
 ## Evidence Handling
 
@@ -39,6 +39,16 @@ Preserve the distinction between:
 - Rak was somewhat insulted when his pirate blood did not earn him elevated treatment. He had hoped the family name would carry weight at the start of his journey.
 - Rak will feel that he has become a real pirate when he can enter a random bar or inn and overhear strangers talking about him and his exploits.
 - The player referred once to hoping his "father's name" would carry weight, while the established dossier identifies Baas'lisk as Rak's grandfather. Preserve this as a lineage-memory wording wrinkle unless later clarification changes the established relationship.
+
+## Besmara / Omens / Pirate Faith
+
+- Rak mostly treats Besmara as part of pirate culture rather than as a personal devotional relationship.
+- Rak does not think Besmara cares about him personally. He believes she respects bold pirates who make their own luck, glory, and reputation.
+- Rak would read survival against impossible odds as a sign of Besmara's favor.
+- The Omen trait was intended to point toward Rak becoming a future pirate legend and growing into that reputation.
+- Rak treats bad luck as the sea being the sea. The sea is a fickle mistress, not a moral judge handing out punishment or warnings.
+- Rak might take a risk if he believed Besmara promised a worthwhile reward, but he is not otherwise guided by presumed divine commands to spare or kill.
+- Rak treats Sandara's faith as separate from his own. Different people worship differently, and Sandara's devotion was not especially meaningful or useful to him personally.
 
 ## Formidably Maid / Press-Ganged
 
