@@ -210,6 +210,26 @@ Rak accepts authority when it produces results and earns voluntary followership.
 
 This is not democratic idealism. Rak still wants status and may punish costly disobedience. The line he rejects is rule based primarily on terror rather than demonstrated competence and the ability to make people choose to follow.
 
+## Fear / Reputation / Being Dangerous
+
+- Rak does not mind people thinking he is strong or dangerous.
+- Among people he respects, Rak most wants to be respected and useful.
+- When someone fears him, Rak will use that fear when it is useful rather than seeking fear for its own sake.
+- Rak cares deeply about his reputation among the wider public because becoming a pirate legend requires stories and recognition. He cares much less about managing his reputation among people already close to him.
+- Rak would hate being known as a coward, fool, tool, weakling, butcher, or pet. Each reputation would undermine either his independence, competence, or future legend.
+- Rak will deliberately make himself seem stranger or more dangerous than he really is when intimidation can help him.
+- Whether Rak wants witnesses to brutality depends on the consequences. He may want witnesses when an act strengthens his legend, but prefer privacy or plausible deniability when attention would create dangerous consequences.
+
+## Reputation Interpretation
+
+Rak maintains two different reputational audiences:
+
+> the wider world should know a strong, dangerous, memorable future pirate legend
+>
+> trusted companions should experience him as respected, useful, and entertaining rather than merely frightening
+
+Fear is a tool, not the identity Rak most wants from his own people. Public brutality can become legend-building when the circumstances favor him, but covert action remains preferable when witnesses would threaten his freedom, gear, or survival.
+
 ## Later Integration Targets
 
 Eventually integrate into:
