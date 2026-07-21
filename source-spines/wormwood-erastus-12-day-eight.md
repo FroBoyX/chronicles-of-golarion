@@ -37,14 +37,16 @@ Rosie's loss is locked to this day.
 Current GM truth:
 
 - Harvus spots Rosie in the sea.
-- Rak throws a line toward her.
-- Rosie catches the line at least once but repeatedly loses her grip as the storm and ship movement pull it away.
+- Rak begins throwing a line toward her.
+- At the same time, Sho ties herself to a second line and goes overboard to swim toward Rosie.
+- Rosie catches the thrown line at least once but repeatedly loses her grip as the storm and ship movement pull it away.
+- Sho fights toward Rosie while the Wormwood's speed drags against her tether.
 - Mirei instinctively uses message magic to reach for Rosie across the storm.
 - Mirei tells Rosie to hold on, says they are trying to reach her, and urges her to tie the rope around herself when it reaches her.
 - Rosie gives no recovered response.
-- Sho ties herself to a line and goes overboard to swim toward Rosie.
-- The Wormwood is still moving fast, and Sho is dragged behind the ship while trying to reach Rosie.
 - Sho does not reach Rosie.
+- The Wormwood's movement and necessary course change pull Sho away from Rosie.
+- The rescue effort shifts from reaching Rosie to recovering Sho before the ship drags or drowns her.
 - Rak, Mirei, and several others fight to haul Sho back aboard.
 - Rosie disappears from view and is lost at sea.
 - Rosie is not confirmed dead. She leaves the story here. A later return would require rescue by another vessel or equivalent off-screen survival.
@@ -64,12 +66,13 @@ Current GM truth:
 - Officers and disliked crew may perform real acts of seamanship or save one another during the crisis.
 - Temporary cooperation does not erase later cruelty, rivalry, or political division.
 - Harvus spots Rosie overboard.
-- Rak controls the first rescue line.
+- Rak controls the thrown rescue line.
 - Rosie repeatedly fails to keep hold of the line.
+- Sho enters the water while the rope attempts are still underway.
 - Mirei's message magic is instinctive rather than presented as a learned formula or consciously selected spell.
 - Mirei receives no answer from Rosie.
-- Sho acts on instinct, secures herself to a line, and enters the sea.
-- The moving Wormwood turns Sho's rescue attempt into a second emergency.
+- Sho acts on instinct, secures herself to a second line, and enters the sea.
+- The moving Wormwood prevents Sho from reaching Rosie and turns her rescue attempt into the immediate emergency.
 - Rak, Mirei, and other crew recover Sho.
 - Rosie disappears from view and remains lost at sea.
 - The crew returns immediately to storm labor.
@@ -116,9 +119,10 @@ Keep these moments brief. They show that the Wormwood survives through collectiv
 | Twenty-hour exhaustion | Time loses meaning; food, warmth, and sleep become brief interruptions. |
 | Only the storm remains | Ordinary social life and performance vanish under emergency labor. |
 | Rosie spotted | Harvus sees Rosie in the sea. |
-| First line attempt | Rak throws the line; Rosie catches and loses it as the ship races onward. |
+| Parallel rescue attempts | Rak throws repeatedly while Sho enters the water tied to a second line and fights toward Rosie. |
 | Mirei reaches through magic | She wills instructions and reassurance toward Rosie but receives no answer. |
-| Sho enters the sea | Sho ties to a line and swims, but the Wormwood drags her astern. |
+| Rosie slips away | Rosie repeatedly loses the thrown line while the racing ship prevents Sho from closing the distance. |
+| Rescue shifts to Sho | A necessary turn pulls Sho away and the crew must recover her before she is lost as well. |
 | Recover Sho | Rak, Mirei, and others haul Sho back aboard while Rosie disappears. |
 | Return to work | Grief and frustration are interrupted by immediate storm duties. |
 | Close | The storm has not broken, both watches remain engaged, and no one receives rest. |
@@ -129,7 +133,7 @@ Keep these moments brief. They show that the Wormwood survives through collectiv
 |---|---|
 | Harvus | Works aloft despite his injured wing and later spots Rosie in the sea. |
 | Rak | Keeps practical ship functions moving, throws the rescue line, and anchors the effort to recover Sho. |
-| Sho | Works through the storm, then instinctively enters the water tied to a line to reach Rosie. |
+| Sho | Works through the storm, then instinctively enters the water tied to a second line while Rak continues throwing toward Rosie. |
 | Mirei | Performs emergency labor, instinctively reaches Rosie with message magic, then helps haul Sho back aboard. |
 | Rosie | Works through the storm, goes overboard, repeatedly loses the rescue line, and disappears from view. |
 | Peppery | Demonstrates competent ship handling and command presence, with restrained arcane support if used. |
