@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Non-chat-integrated draft / canon-candidate
+- Maturity: GM-approved non-chat narrative / canon-candidate
 - Scope: Erastus 12, full storm labor across both watches, temporary cooperation under crisis, Rosie's failed rescue, and continued storm work
 - Source spine: `source-spines/wormwood-erastus-12-day-eight.md`
 - Spoiler scope: Player-safe
-- Canon status: Draft for GM review
-- Date status: GM-directed working placement
+- Canon status: Locked current non-chat narrative
+- Date status: GM-approved placement
 
 ## Date
 
@@ -137,17 +137,33 @@ His warning reached the deck in fragments, but her name survived the wind.
 
 Rak seized a line.
 
-Sho was already knotting another around herself while he made the throwing coil. There was no long argument. Someone was in the water. A rope should have been enough, but the distance was opening too quickly to trust the rope alone.
+Mirei fixed her attention on the small figure beyond the wake even as Rak began to coil the rope.
 
-Sho secured the second line around her waist and put its other end into Rak's hands. He looped it around a belaying point and shoved it toward the sailors gathering behind him. Then Sho went over the rail as Rak made the first throw.
+The magic came as reach and urgency. She forced her voice outward through the storm.
+
+Hold on. We are trying to get you.
+
+Tie the rope around yourself.
+
+When it reaches you, tie it fast.
+
+Rak cast the line.
+
+It struck the water short of Rosie, vanished in foam, and dragged uselessly behind the Wormwood as the ship surged forward.
+
+Rak hauled it back in, fighting the pull of the sea.
+
+Sho moved then.
+
+While Rak dragged the soaked line back toward him, she seized another rope, knotted it around her waist, and thrust the free end into his hands. He looped it around a belaying point and shoved it toward the sailors gathering behind him.
+
+Then Sho went over the rail.
 
 The sea took her immediately.
 
 Cold water closed over Sho's head. The Wormwood surged forward before she could settle into a stroke. Her tether snapped taut, dragged her through the wake, then slackened just enough for her to fight toward the place Rosie had risen.
 
-At the same time, Rak's first cast struck the water short of Rosie, vanished in foam, and drew past as the Wormwood continued forward.
-
-They hauled it in and threw again.
+Rak finished hauling in the first line and threw again.
 
 Sho swam for her life while the line passed overhead and across the water beyond her. She gained a few strokes whenever the ship slowed against a wave, then lost them when the hull drove down the other side. Water filled her mouth. The rain struck the sea so hard that the surface seemed to boil around her.
 
@@ -168,22 +184,6 @@ The Wormwood was moving too fast to wait gently for either woman. Every wave cha
 Once Rosie caught the line and lost it almost immediately. Another time her hand seemed to close before the sea rolled her away. Sho saw her on the crest of a wave, fought toward her, and watched the distance open again when the Wormwood surged forward.
 
 Frustration became desperation.
-
-Mirei fixed her attention on the small figure beyond the wake.
-
-The magic did not come to her as a formula chosen from a list. It came as reach. As need. As the refusal to accept that the wind should decide whether Rosie heard her.
-
-Mirei willed her voice across the storm.
-
-Hold on. We are trying to get you.
-
-Tie the rope around yourself.
-
-When it reaches you again, tie it fast.
-
-There was no answer.
-
-Mirei could not know whether Rosie heard her, only that the words left her and crossed a distance no ordinary voice could survive.
 
 Rak threw again.
 
@@ -221,13 +221,11 @@ Everyone looked astern.
 
 Rosie was gone from view.
 
-They watched one wave. Then another. Harvus searched from above until rain and darkness gave him nothing more to find. Rak held the first rescue line as it trailed empty behind the ship. Mirei reached again with instinct and will, sending words toward a place where Rosie might still have been.
-
-No answer came back.
+They watched one wave. Then another. Harvus searched from above until rain and darkness gave him nothing more to find. Rak held the first rescue line as it trailed empty behind the ship.
 
 Rosie Cusswell was lost at sea.
 
-There was no body. No proof of death. Only the storm, the distance opening behind the Wormwood, and the knowledge that another ship would have to find her if she had survived.
+There was no body. No proof of death. Only the storm and the distance opening behind the Wormwood.
 
 The crew had no time to decide what that meant.
 
@@ -249,4 +247,6 @@ The day did not end when Rosie disappeared.
 
 The storm did not leave with the light.
 
-There was still no dry place, and the crew kept working.
+There was still no dry place.
+
+And somewhere behind them, in the black churn of the sea, the storm kept what it had taken.
