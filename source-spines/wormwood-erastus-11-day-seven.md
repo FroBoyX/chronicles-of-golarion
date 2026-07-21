@@ -3,17 +3,17 @@
 ## Document Status
 
 - Type: Source spine
-- Maturity: Working chronology and scene placement
+- Maturity: GM-approved current placement / locked output spine
 - Scope: Erastus 11 / Wormwood Day 7, heavy rain, Harvus item recovery, Rosie's fiddle return, Mirei's pre-storm performance order, and Harvus' peridot gift to Sandara
 - Source basis: `evidence/player-notes/harvus-wormwood-mutiny-log-raw.md`, `chronology/harvus-light-timeline.md`, `evidence/chat-logs/floating-before-erastus-13-harvus-rosie-fiddle-drink.md`, `evidence/chat-logs/floating-erastus-9-13-harvus-sandara-peridot-necklace.md`, `evidence/chat-logs/floating-erastus-8-13-mirei-invites-plugg-to-performance.md`, `evidence/ap/wormwood-weather-days-1-21.md`
 - Spoiler scope: Player-safe after narrative rendering
-- Canon status: Working placement for GM review
+- Canon status: Locked Day 7 placement and output alignment
 
 ## Date / Encounter Identity
 
 - Date: **Erastus 11, 4712 AR**
 - Wormwood count: **Day 7**
-- Working encounter title: **Things Returned in the Rain**
+- Encounter title: **Things Returned in the Rain**
 - Location: **The Wormwood**, deck, quartermaster access, and middle hold during evening leisure
 
 ## Weather Alignment
@@ -27,15 +27,15 @@ Two recovered chat scenes originally carried date ranges rather than exact dates
 - Harvus returns Rosie's fiddle before Erastus 13 and after recovering it from Grok.
 - Harvus gives Sandara a peridot necklace somewhere from Erastus 9 through Erastus 13.
 
-Harvus' notes state that on Day 7 he recovered his ring, necklace, and Rosie's fiddle. The strongest current alignment is therefore:
+Harvus' notes state that on Day 7 he recovered his ring, necklace, and Rosie's fiddle. The approved alignment is therefore:
 
 1. Harvus recovers the three items on Erastus 11.
 2. He returns Rosie's fiddle during evening leisure.
 3. He gives the recovered peridot necklace to Sandara later that night.
 
-This placement is working canon and remains open to direct GM correction.
+This placement is locked as the current campaign chronology unless later direct evidence requires an explicit correction.
 
-The Mirei performance-order scene references an approaching storm and best fits the same Day 7 storm window. Place it before the evening performance.
+The Mirei performance-order scene references an approaching storm and fits the same Day 7 storm window. It occurs before the evening performance.
 
 ## Strong Facts / Drafting Locks
 
@@ -67,7 +67,7 @@ The Mirei performance-order scene references an approaching storm and best fits 
 - Do not imply Harvus and Sandara kissed on this night.
 - Do not invent how Harvus secured the ring and necklace beyond their recovery and the fiddle's connection to Grok.
 
-## Scene Order Working Model
+## Scene Order
 
 | Sequence | Handling |
 |---|---|
@@ -79,19 +79,13 @@ The Mirei performance-order scene references an approaching storm and best fits 
 | Harvus and Sandara | Harvus offers the peridot necklace and asks for a kiss; Sandara sets a survival-first boundary; he accepts. |
 | Close | End on several press-ganged sailors briefly reclaiming personal objects, music, and choices under the Wormwood's control. |
 
-## Chat Integration Locks
+## Output Alignment
 
-The non-chat narrative is the prose authority. After GM approval:
-
-- Insert the recovered Mirei / Plugg exchange with typo-level cleanup only.
-- Insert the recovered Rosie / Harvus exchange and preserve Rosie's volatile humor.
-- Insert the recovered Harvus / Sandara exchange and preserve Sandara's boundary and Harvus' acceptance.
-- Do not rewrite unaffected prose during integration.
+- `chronicles/wormwood-day-seven.md` is the locked non-chat prose authority.
+- `chronicles/wormwood-erastus-11-day-seven-chat-scene.md` is the locked chat-integrated narrative and Discord formatter source.
+- `ship-logs/wormwood-erastus-11-day-seven.md` is the aligned officer-side log.
 - Discord formatting may only split the approved chat-integrated narrative into postable chunks.
 
-## Open Checks
+## Placement Caveats
 
-- Confirm that the peridot necklace is the same necklace Harvus recovered that day.
-- Confirm that both recovered night scenes belong on Erastus 11 rather than Erastus 12 or 13.
-- Confirm whether Mirei's performance-order scene and the fiddle-return scene occurred during the same evening.
-- Confirm whether the working title should remain **Things Returned in the Rain**.
+The original chat extracts carried wider date ranges. The current Erastus 11 placement is GM-approved and should not be moved casually. Any future change requires direct contradictory evidence and an explicit chronology correction.
