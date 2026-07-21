@@ -3,11 +3,11 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Non-chat-integrated draft / canon-candidate
+- Maturity: GM-approved non-chat narrative / canon-candidate
 - Scope: Erastus 11, heavy rain, Harvus item recovery, Rosie's fiddle return, Mirei's pre-storm performance order, and Harvus' peridot gift to Sandara
 - Source spine: `source-spines/wormwood-erastus-11-day-seven.md`
 - Spoiler scope: Player-safe
-- Canon status: Draft for GM review
+- Canon status: Locked current non-chat narrative
 - Date status: Working placement from direct notes and ranged chat evidence
 
 ## Date
@@ -39,7 +39,7 @@ Harvus kept the ring and necklace close. The fiddle was never his to keep.
 
 As the light began to fail, Mirei climbed toward the officers' quarters with rain running from her hair and clothing. Her performances had become familiar enough that she wanted to invite Captain Harrigan to hear one rather than wait for the music to reach him through the deck.
 
-She knocked at the command-space door.
+She climbed the quarterdeck steps and knocked at the captain’s cabin door.
 
 Plugg answered from the other side.
 
