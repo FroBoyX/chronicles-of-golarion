@@ -137,21 +137,35 @@ His warning reached the deck in fragments, but her name survived the wind.
 
 Rak seized a line.
 
-He made the coil as quickly as cold hands allowed and threw toward the next place Rosie rose. The rope struck water short of her, vanished in foam, then drew past as the Wormwood continued forward.
+Sho was already knotting another around herself while he made the throwing coil. There was no long argument. Someone was in the water. A rope should have been enough, but the distance was opening too quickly to trust the rope alone.
+
+Sho secured the second line around her waist and put its other end into Rak's hands. He looped it around a belaying point and shoved it toward the sailors gathering behind him. Then Sho went over the rail as Rak made the first throw.
+
+The sea took her immediately.
+
+Cold water closed over Sho's head. The Wormwood surged forward before she could settle into a stroke. Her tether snapped taut, dragged her through the wake, then slackened just enough for her to fight toward the place Rosie had risen.
+
+At the same time, Rak's first cast struck the water short of Rosie, vanished in foam, and drew past as the Wormwood continued forward.
 
 They hauled it in and threw again.
 
-The next cast reached her.
+Sho swam for her life while the line passed overhead and across the water beyond her. She gained a few strokes whenever the ship slowed against a wave, then lost them when the hull drove down the other side. Water filled her mouth. The rain struck the sea so hard that the surface seemed to boil around her.
 
-Rosie caught it.
+The next cast reached Rosie.
 
-For one breath, the line came taut between the ship and the sea. Sailors shouted. Rak braced. Rosie disappeared behind the next swell.
+She caught it.
+
+For one breath, the line came taut between the ship and the sea. Sailors shouted. Rak braced. Sho fought toward the place where Rosie clung.
+
+Then Rosie disappeared behind the next swell.
 
 When the line rose again, her hands were no longer on it.
 
 They tried again.
 
-The Wormwood was moving too fast to wait gently for anyone. Every wave changed the distance. Every moment the line spent in the water pulled it farther from where Rosie had been. Once she caught it and lost it almost immediately. Another time her hand seemed to close before the sea rolled her away.
+The Wormwood was moving too fast to wait gently for either woman. Every wave changed the distance. Every moment the throwing line spent in the water pulled it farther from where Rosie had been. Sho's tether did the opposite, dragging her wherever the ship went no matter how hard she swam against it.
+
+Once Rosie caught the line and lost it almost immediately. Another time her hand seemed to close before the sea rolled her away. Sho saw her on the crest of a wave, fought toward her, and watched the distance open again when the Wormwood surged forward.
 
 Frustration became desperation.
 
@@ -171,29 +185,25 @@ There was no answer.
 
 Mirei could not know whether Rosie heard her, only that the words left her and crossed a distance no ordinary voice could survive.
 
-The line went out again.
+Rak threw again.
 
-Rosie rose once more, farther back now.
+Sho kept swimming.
 
-Sho tied another line around herself.
+Rosie rose once more, farther back now. The line touched the water near her. Sho drove herself toward the same place while her tether pulled hard against her waist.
 
-There was no long argument. Someone was in the water. A rope should have been enough. It was not. Sho secured the line, put its other end into Rak's hands, and went over the rail.
+Then the Wormwood changed direction under Peppery's command, answering a wave that would have taken the deck broadside.
 
-The sea took her immediately.
+The turn saved the ship.
 
-Cold water closed over her head. The Wormwood surged forward before she could find a stroke. The line snapped taut and dragged her through the wake, pulling her sideways whenever the ship climbed and wrenching her backward whenever it fell.
+It swept the throwing line away from Rosie and pulled Sho sideways through the wake. Her next stroke found nothing where Rosie had been. The tether came taut with the full weight of the racing Wormwood behind it and dragged Sho away before she could correct herself.
 
-Sho fought toward Rosie anyway.
+The chance to reach Rosie broke apart.
 
-She gained a few strokes when the ship slowed against a wave, then lost them when the hull drove down the other side. Water filled her mouth. The rain struck the sea so hard that the surface seemed to boil around her.
+The rescue changed.
 
-Rosie appeared ahead of her once.
+If they did not recover Sho now, the ship would take her too.
 
-Then the Wormwood changed direction under Peppery's command, answering a wave that would have taken the deck broadside. The turn saved the ship and pulled Sho away from Rosie at the same time.
-
-The rescue had become two rescues.
-
-Rak wrapped the line around a belaying point and hauled.
+Rak wrapped her tether around the belaying point and hauled.
 
 Mirei seized it beside him. Sandara and Maheem joined. Then more hands closed behind them, sailors from both watches pulling on the same wet rope while the Wormwood dragged Sho through the dark.
 
