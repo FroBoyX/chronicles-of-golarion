@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: Narrative Chat Scene
-- Maturity: Chat-integrated draft / Discord-formatter source
+- Maturity: GM-approved chat-integrated narrative / Discord-formatter source
 - Source spine: `source-spines/wormwood-erastus-11-day-seven.md`
 - Source basis: `chronicles/wormwood-day-seven.md`, `evidence/chat-logs/floating-erastus-8-13-mirei-invites-plugg-to-performance.md`, `evidence/chat-logs/floating-before-erastus-13-harvus-rosie-fiddle-drink.md`, `evidence/chat-logs/floating-erastus-9-13-harvus-sandara-peridot-necklace.md`
 - Spoiler scope: Player-safe
-- Canon status: Draft for GM review
-- Date status: Working placement from direct notes and ranged chat evidence
+- Canon status: Locked current chat-integrated narrative
+- Date status: GM-approved current placement
 
 ## Formatter Note
 
