@@ -3,16 +3,16 @@
 ## Document Status
 
 - Type: Narrative Chat Scene
-- Maturity: Chat-integrated draft / Discord-formatter source
+- Maturity: GM-approved / Discord-formatter source
 - Source spine: `source-spines/wormwood-erastus-13-day-nine.md`
 - Source basis: `chronicles/wormwood-day-nine.md`, `evidence/chat-logs/floating-erastus-14-15-harvus-sandara-rage-after-rosie.md`
 - Spoiler scope: Player-safe
-- Canon status: Draft for GM review
-- Date status: Working placement from weather scaffold, direct dialogue timing, and GM chronology
+- Canon status: Locked current chat-integrated narrative
+- Date status: GM-approved placement
 
 ## Formatter Note
 
-This file preserves the approved Day 9 prose and integrates the recovered Harvus / Sandara dialogue. Discord formatting should split this text into postable blocks only. Do not summarize, tighten, rephrase, reorder, or improve the prose.
+This file preserves the approved Day 9 prose and integrates the recovered Harvus / Sandara dialogue. Discord formatting may split this text into postable blocks only. Do not summarize, tighten, rephrase, reorder, or add prose.
 
 ## Narrative Chat Scene
 
@@ -150,15 +150,7 @@ Then she gave him advice that offered no promise of peace.
 
 > "I fear you'll want that fear, Harvus. Keep it... we may have to use it. Things are getting worse on the Wormwood. Rosie was new here, but she angered Scourge and Plugg pretty quick. I was busy in the rigging during the storm... but her going over, it might have been intentional."
 
-Keep the anger, but keep it contained. Things aboard the Wormwood were getting worse. There might come a time when they needed what Harvus was holding inside him.
-
-Sandara had been occupied in the rigging when Rosie went overboard. She had not seen how the fall began. Even so, she remembered how quickly Rosie had angered Scourge and Plugg.
-
-She wondered aloud whether the loss had been entirely accidental.
-
-It was suspicion, nothing more. The storm had been strong enough to take anyone. There was no witness to a hand at Rosie's back and no proof that either officer had arranged what happened.
-
-The thought remained between them anyway.
+It was suspicion, nothing more. The storm had been strong enough to take anyone. There was no witness to a hand at Rosie's back and no proof that either officer had arranged what happened. The thought remained between them anyway.
 
 Sandara told Harvus to keep his rage inside and his friends close. She would pray for Besmara to watch over them.
 
@@ -171,8 +163,6 @@ Harvus told her she was the vessel restraining what had begun to rise in him.
 Sandara accepted the burden in the practical way she accepted most things. If the rage had to remain, she would help him put it to use when the time came.
 
 > "Then I shall attempt to see it put to good use when the time comes. Just call me Sandara, though. Queen is just a little too formal for this gal, okay?"
-
-She asked him to call her Sandara instead of queen.
 
 Then another call came from the deck, and she went back to work.
 
@@ -189,5 +179,3 @@ Below, Rosie's fiddle waited in the dark.
 The rain weakened. The watches returned. The Wormwood repaired what the sea had loosened and continued on its course.
 
 By night, the ship had begun to settle back into its old rhythms.
-
-Rosie's hammock stayed empty.
