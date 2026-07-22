@@ -167,6 +167,6 @@ Below, Rosie's fiddle waited in the dark.
 
 The rain weakened. The watches returned. The Wormwood repaired what the sea had loosened and continued on its course.
 
-The storm had passed its worst.
+By night, the ship had begun to settle back into its old rhythms.
 
-It had not given anything back.
+Rosie's hammock stayed empty.
