@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Non-chat-integrated draft / canon-candidate
+- Maturity: GM-approved non-chat narrative / canon-candidate
 - Scope: Erastus 13, weakening storm, shipboard recovery, Rosie's absence, and Harvus seeking Sandara after the loss
 - Source spine: `source-spines/wormwood-erastus-13-day-nine.md`
 - Spoiler scope: Player-safe
-- Canon status: Draft for GM review
-- Date status: Working placement from weather scaffold, direct dialogue timing, and GM chronology
+- Canon status: Locked current non-chat narrative
+- Date status: GM-approved placement
 
 ## Date
 
@@ -168,5 +168,3 @@ Below, Rosie's fiddle waited in the dark.
 The rain weakened. The watches returned. The Wormwood repaired what the sea had loosened and continued on its course.
 
 By night, the ship had begun to settle back into its old rhythms.
-
-Rosie's hammock stayed empty.
