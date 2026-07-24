@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Draft, corrected with Erastus 27 ship-split model, locked Rahadoumi-officer example sequence, Badger / Jack aboard Man's Promise, Maheem / Kipper / Patch believed Wormwood-side, and Arodus 5 Man's Promise / Bonewrack actor pool
+- Maturity: Draft, corrected with Erastus 27 ship-split model, locked Rahadoumi-officer example sequence, Badger / Jack / Conchobhar aboard Man's Promise, Maheem / Kipper / Patch believed Wormwood-side, and Arodus 5 Man's Promise / Bonewrack actor pool
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 - Current control source: `state/arodus-5-current-state-tableau.md`
 
@@ -38,9 +38,8 @@ Of those fourteen:
 
 Current Wormwood-origin split corrections:
 
-- Badger Medlar and Jack Scrimshaw are aboard the Man's Promise.
+- Badger Medlar, Jack Scrimshaw, and Conchobhar Turlach Shortstone are aboard the Man's Promise.
 - Maheem, Kipper, and Patch Patchsalt are believed Wormwood-side.
-- Conchobhar Turlach Shortstone remains unresolved.
 
 ## Bonewrack Isle — Returning From Riptide Cove
 
@@ -106,7 +105,7 @@ The six named skeleton-crew survivors are fixed as:
 | Tam "Narwhal" Tate | NPC, presumed alive | Post-Erastus 27 Man's Promise-side evidence locked; challenged Mirei's authority. Exact Arodus 5 position unresolved. |
 | Badger Medlar | NPC, presumed alive | GM-corrected aboard Man's Promise; exact Arodus 5 position unresolved. |
 | Jack Scrimshaw | NPC, presumed alive | GM-corrected aboard Man's Promise; exact Arodus 5 position unresolved. |
-| Conchobhar Turlach Shortstone | NPC, unresolved | Prize crew status needs precise confirmation; Harvus strongly influenced him. |
+| Conchobhar Turlach Shortstone | NPC, presumed alive | GM-decided aboard Man's Promise; rigger; Harvus strongly influenced him. Exact Arodus 5 position unresolved. |
 
 ## Wormwood — Not Currently Present
 
@@ -150,9 +149,8 @@ The six named skeleton-crew survivors are fixed as:
 - Who is guarding Sho at the exact moment play resumes?
 - Which of Dahrehn, Ebony, Merchiel, and Nor'gal are physically aboard the Man's Promise at the cold open, and where?
 - Where is Owlbear physically at the cold open?
-- Confirm Conchobhar placement: Man's Promise or Wormwood?
 - Confirm whether Maheem, Kipper, and Patch should be locked Wormwood-side or remain strong GM belief.
-- Confirm exact Arodus 5 positions for Badger and Jack aboard the Man's Promise.
+- Confirm exact Arodus 5 positions for Badger, Jack, and Conchobhar aboard the Man's Promise.
 - What are the names and later Wormwood-side fates of the other eight Man's Promise survivors who went with the Wormwood?
 - What is each named skeleton-crew survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle?
 - Does the ship actually reach Coconut Beach before or after the fork collision resolves?
