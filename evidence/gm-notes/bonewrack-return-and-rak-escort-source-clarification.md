@@ -10,10 +10,13 @@
 ## GM Clarification
 
 - Rak and Sho's return from the island expedition is preserved in live chat evidence.
-- Retrospective player-narrative entries also exist for that return.
+- In this context, **return** means their return to the abandoned village / landing area.
+- Retrospective player-narrative entries also exist for that return to the village.
+- Travel from the village to the Man's Promise was without incident.
+- No additional encounter, rest, dispute, or hidden delay should be inserted between the village return and reaching the ship.
 - A retrospective player-narrative entry exists for Rak's later escorted movement with the hostile supply party.
 - These sources were independently uploaded or ingested during earlier reconstruction work.
-- The chronology audit should not describe Rak and Sho's return as supported only by endpoint inference or later reconstruction.
+- The chronology audit should not describe Rak and Sho's return to the village as supported only by endpoint inference or later reconstruction.
 - The chronology audit should not state that no independent Sho or Rak island narrative has been identified.
 
 ## Evidence-Handling Consequence
@@ -21,12 +24,12 @@
 The date audit must distinguish three evidence layers:
 
 1. **Live table chat**
-   - establishes the played return and later branch activity;
+   - establishes the played return to the village and later branch activity;
    - preserves direct dialogue, actions, and GM scene transitions;
    - may preserve the historical day label even where that label is one day off.
 
-2. **Retrospective player narrative of the return**
-   - independently preserves how Rak and Sho experienced or remembered the return;
+2. **Retrospective player narrative of the village return**
+   - independently preserves how Rak and Sho experienced or remembered reaching the village;
    - may clarify route, motive, injury state, escort behavior, separation, and arrival;
    - should remain character-perspective evidence where details differ.
 
@@ -40,13 +43,16 @@ The date audit must distinguish three evidence layers:
 These sources may materially constrain:
 
 - when Rak and Sho left the post-assault camp;
-- whether they traveled together for the full return;
-- when they reached the landing area or Man's Promise;
-- what occurred to Sho on arrival;
+- whether they traveled together for the full return to the village;
+- when they reached the village / landing area;
+- their condition on arrival;
+- what they believed Harvus and Mirei intended;
 - how long Rak remained aboard before being reassigned;
 - whether the final split-session branches fit more naturally on Arodus 4 or Arodus 5.
 
-Do not finalize the one-day retcon without reading these sources together with Harvus' relative Day 28-31 sequence.
+The uneventful village-to-ship leg does **not** support an additional day boundary. It should be treated as ordinary travel after the recorded village return.
+
+Do not finalize the one-day retcon without reading the village-return sources together with Harvus' relative Day 28-31 sequence. Do not search for a separate dramatic ship-return event that the GM has now confirmed did not occur.
 
 ## Retrieval Rule
 
