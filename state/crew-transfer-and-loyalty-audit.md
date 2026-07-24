@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state audit
-- Maturity: Draft, corrected with Erastus 27 ship-split model, locked Rahadoumi-officer example sequence, post-Erastus 27 Man's Promise evidence, Badger / Jack aboard Man's Promise, Maheem / Kipper / Patch believed Wormwood-side, Rak spelling normalization, and Crew 20 ship-viability reference
+- Maturity: Draft, corrected with Erastus 27 ship-split model, locked Rahadoumi-officer example sequence, post-Erastus 27 Man's Promise evidence, Badger / Jack / Conchobhar aboard Man's Promise, Maheem / Kipper / Patch believed Wormwood-side, Rak spelling normalization, and Crew 20 ship-viability reference
 - Scope: Wormwood-to-Man's Promise transfer, current faction uncertainty, relaunch prep
 
 ## Purpose
@@ -59,8 +59,8 @@ Older notes that left a Rahadoumi officer visibly alive after Harrigan's example
 
 - Badger Medlar is aboard the Man's Promise.
 - Jack Scrimshaw is aboard the Man's Promise. Treat the GM shorthand `Jake` as Jack Scrimshaw, not Jakes Magpie, because Jakes Magpie is dead.
+- Conchobhar Turlach Shortstone is aboard the Man's Promise.
 - Maheem, Kipper, and Patch Patchsalt are believed still aboard the Wormwood.
-- Conchobhar Turlach Shortstone remains unresolved.
 - Correct PC spelling is Rak Wraithraiser; older `Wraithriser` variants are raw/source artifacts.
 
 ## Evidence Layers
@@ -169,6 +169,7 @@ Known math:
 | Owlbear Hartshorn | Man's Promise likely | Presumed alive | Post-split evidence places him as Plugg's door / cabin guard; Plugg-controlled unless prior friendship changes him. |
 | Badger Medlar | Man's Promise likely | Presumed alive | GM-corrected aboard; exact Arodus 5 position unresolved. |
 | Jack Scrimshaw | Man's Promise likely | Presumed alive | GM-corrected aboard; exact Arodus 5 position unresolved. |
+| Conchobhar Turlach Shortstone | Man's Promise likely | Presumed alive | GM-decided aboard; rigger; Harvus strongly influenced him; exact Arodus 5 position unresolved. |
 
 ## Named Man's Promise Survivor Bloc
 
@@ -209,7 +210,7 @@ Corrected handling:
 | Barefoot Samms Toppin | Strong Man's Promise course-change evidence | Likely Man's Promise | Harvus-friendly; trusted Harvus and Sandara enough to discuss Plugg's course change and solid allies. |
 | Badger Medlar | GM-corrected aboard | Exact position unresolved | Rak sheet lists helpful. |
 | Jack Scrimshaw | GM-corrected aboard | Exact position unresolved | Rak sheet lists friendly? |
-| Conchobhar Turlach Shortstone | Harvus influence evidence, placement unresolved | Unresolved | Harvus strongly influenced him; exact transfer status needs confirmation. |
+| Conchobhar Turlach Shortstone | GM-decided aboard | Exact position unresolved | Rigger; Harvus strongly influenced him. |
 
 ## Known / Believed Wormwood-Side NPCs
 
@@ -268,7 +269,7 @@ Likely or player-evidenced:
 - Badger Medlar
 - Jack Scrimshaw, pending stance confirmation
 - Ratline Rattsberger, pending stance confirmation
-- Conchobhar, pending placement confirmation
+- Conchobhar, aboard and potentially PC-leaning through Harvus influence
 - Goyle Onórach, conditionally and potentially with quartermaster weight
 - possibly Owlbear if befriended
 
@@ -313,13 +314,12 @@ Before running the return to the Man's Promise, determine or confirm:
 
 | Step | Count |
 |---|---:|
-| Locked / strong Wormwood-origin Man's Promise transfers | 20 |
+| Locked / strong Wormwood-origin Man's Promise transfers | 21 |
 | Six named captured Man's Promise survivors assigned to Plugg | +6 |
-| Man's Promise storm-onset count, current working count | **26** |
-| Add Conchobhar if confirmed Man's Promise-side | +1 |
-| Man's Promise storm-onset count with Conchobhar | **27** |
-| Wormwood after split, current working count | **18** |
-| Wormwood after split if Conchobhar is Man's Promise-side | **17** |
+| Man's Promise storm-onset count, current working count | **27** |
+| Wormwood-origin people left aboard the Wormwood | 9 |
+| Other captured Man's Promise survivors sent Wormwood-side | +8 |
+| Wormwood after split, current working count | **17** |
 
 ## Open Questions
 
@@ -327,9 +327,8 @@ Before running the return to the Man's Promise, determine or confirm:
 - Determine whether the captain is represented among the 15 map-visible Man's Promise-side deaths or is an additional off-map cabin death.
 - Identify the eight Man's Promise survivors who went Wormwood-side and resolve their later fate.
 - Use the recovered Man's Promise map to identify every surrendered token and every injured Wormwood crew token by name.
-- Confirm Conchobhar placement after the Erastus 27 split.
 - Confirm whether Maheem, Kipper, and Patch being Wormwood-side should be locked as canon or left as strong GM belief.
-- Confirm exact Arodus 5 positions for Badger and Jack aboard the Man's Promise.
+- Confirm exact Arodus 5 positions for Badger, Jack, and Conchobhar aboard the Man's Promise.
 - Resolve what Sho needs to discuss with Ratline.
 - Resolve Nor'Gal / Nor'gal and Cor'Wal / Kor'al spellings.
 - Confirm whether Owlbear is befriended by Sho or another PC.
