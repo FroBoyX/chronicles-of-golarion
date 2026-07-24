@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: Direct table-evidence extract
-- Maturity: Preserved and extracted
+- Maturity: Preserved and extracted, amended by GM clarification
 - Source: Previously uploaded raw final-session chat file, player-cache / GM archive
-- Scope: Repeated `Aeodus 5th` date labels, Rak supply-party timestamps, Sho hot-box timestamps, rescue-branch transition, and internal timestamp inconsistencies
+- Scope: Repeated `Aeodus 5th` date labels, Rak supply-party timestamps, Sho hot-box timestamps, rescue-branch transition, and date-confidence limits
 - Player-facing status: Not player-facing by default
-- Canon status: Direct evidence that the final-session GM labeled the active branches `Aeodus 5th`; individual hour/minute stamps are lower-confidence because they are entered out of order and contain AM/PM errors
-- Normalized spelling: Use **Arodus 5** in archive prose. Preserve `Aeodus 5th` only when quoting the raw log.
+- Canon status: Direct evidence that the final-session GM labeled the active branches `Aeodus 5th`; current GM clarification says the parallel minute ordering was intentional but the day label itself is susceptible to the GM's known plus-or-minus-one-day dating errors
+- Normalized spelling: Use **Arodus** in archive prose. Preserve `Aeodus` only when quoting the raw log.
 
 ## Direct Date Evidence
 
@@ -51,21 +51,15 @@ FroBoyX: Aeodus 5th, 2:28pm - Continues on the path.
 
 The file opens with Harvus and Mirei already having brought Sandara and Tilly out of the Cauldron. Goyle surfaces, reports his later capture, and the rescued group prepares to return.
 
-The rescue aftermath itself is not given a visible date stamp before the scene shifts. The next explicit date label is:
-
-```text
-FroBoyX: Aeodus 5th,11:45am.
-```
-
-This begins the Rak / Scourge supply-party branch.
+The rescue aftermath itself is not given a visible date stamp before the scene shifts. The next explicit date label begins the Rak / Scourge branch.
 
 ### Rak / Syl branch
 
-The log labels the branch as Arodus 5 and records:
+The log records:
 
 - Scourge's order at 11:45 AM;
 - the broken-bridge frog fight;
-- a combined `8:28am & 9:20am` line entered after that fight;
+- route bookkeeping involving 8:28 AM and 9:20 AM;
 - arrival at the burned tree at 12:28 PM;
 - the cornfield argument at 1:30 PM;
 - passage of Coconut Beach around 2:15 to 2:25 PM;
@@ -73,46 +67,54 @@ The log labels the branch as Arodus 5 and records:
 
 ### Sho branch
 
-The log labels Sho's parallel state as Arodus 5 and records several bookkeeping points:
+The log records:
 
-- Sho wakes at 10:36 AM;
-- begins or completes unspecified effects between 10:42 and 10:55 AM;
-- hears a guard handoff at `12:16am`;
-- calls out at 12:21 PM;
-- completes the Kahina conversation before 12:47 PM.
+- Sho waking at 10:36 AM;
+- activity between 10:42 and 10:55 AM;
+- a guard handoff entered as `12:16am`;
+- Sho calling out at 12:21 PM;
+- the Kahina conversation ending before 12:47 PM.
 
-The `12:16am` entry is almost certainly an AM/PM typo because it is inserted among late-morning and midday entries and immediately precedes a 12:21 PM action.
+The `12:16am` entry remains an AM/PM typo or formatting error because the surrounding Sho sequence is late morning through midday.
 
-## Timestamp Reliability Audit
+## GM Clarification on Minute Ordering
 
-The exact clock sequence is not clean enough to treat every stamp as a canonical continuous timeline.
+The out-of-order appearance of minute stamps in the pasted transcript is **intentional scene editing**, not evidence that the recorded branch times were casually invented.
 
-Problems visible in the raw log:
+The GM moved between branches for dramatic reasons so that Sho's and the ship's prior actions remained unknown to the players while other scenes advanced. Therefore:
 
-- `8:28am & 9:20am` is entered after the 11:45 AM order and frog combat in the pasted sequence.
-- Survivor-branch bookkeeping lines for 10:15 AM, 11:35 AM, 12:14 PM, 12:22 PM, 1:34 PM, 2:21 PM, and 2:15 PM are entered out of chronological order while the GM alternates branches.
-- Sho's `12:16am` entry conflicts with the surrounding 10:36 AM to 12:47 PM sequence and is almost certainly meant as PM.
-- Coconut Beach is labeled at 2:15 PM, 2:21 PM, and 2:25 PM in a non-sequential pasted order.
+- do not sort the pasted line order into a single table-facing chronology;
+- do preserve the recorded times within their intended branch timelines;
+- do not use the dramatic reveal order as evidence that the underlying minutes are unreliable;
+- continue treating isolated AM/PM errors, such as `12:16am`, as transcription mistakes.
 
-These issues show that the hour/minute notes were parallel-scene tracking aids rather than a reliably sorted master clock.
+## Date Reliability Audit
 
-## Evidence Weight
+The repeated `Aeodus 5th` wording is genuine contemporaneous table evidence that the GM labeled the session that way.
 
-- **Arodus 5 date label:** High. It is repeated across Rak and Sho branch bookkeeping in the live session log.
-- **General late-morning to mid-afternoon progression:** Medium-high.
-- **Individual minute stamps:** Medium to low unless confirmed by scene order.
-- **Exact synchronization between rescue, Rak, and Sho branches:** Low to medium.
+However, the current GM has separately clarified:
+
+- historical day/date labels were often entered one day early or late;
+- the exact day is more likely to be the error than the branch minute tracking;
+- the three-rest island sequence and Harvus' independent relative day sequence point naturally toward **Arodus 4** for the final branches.
+
+Evidence weight should therefore be separated:
+
+- **Branch minute progression:** Medium-high to high within each branch, except identified AM/PM or transcription errors.
+- **Repeated Arodus 5 label:** Direct evidence of the historical GM label, but medium confidence as objective calendar truth because of the GM's known one-day dating drift.
+- **Cross-branch dramatic reveal order:** Not chronological evidence.
 
 ## Chronology Impact
 
-- Do not downgrade Arodus 5 merely because a derived rest/day mapping can place the branch on Arodus 4.
-- Treat Arodus 5 as the current direct-source date unless the GM explicitly retcons it after the full player-note audit.
-- Use the timestamps to preserve broad sequence within each branch, not to calculate exact travel speed across all branches.
-- Normalize `Aeodus` to `Arodus` outside direct quotations.
+- Preserve `Aeodus 5th` as the raw session label.
+- Do not treat the repeated label as automatically controlling over current GM correction and the independent Harvus day sequence.
+- Treat **Arodus 4** as the leading chronology candidate pending completion of the character-narrative audit.
+- Use the recorded clock times to stage the final branches if the day is retconned from Arodus 5 to Arodus 4.
+- A one-day correction does not require changing the within-day scene timing.
 
 ## Remaining Checks
 
-- Determine whether an earlier line in the complete final-session source explicitly advances the calendar from Arodus 4 to Arodus 5.
-- Compare the Harvus, Sho, and Rak retrospective island narratives against the live date label.
-- Determine whether the successful rescue ended late on Arodus 4 or during the morning of Arodus 5.
-- Do not alter the relaunch date until the date audit is recorded in a chronology control file.
+- Compare all available Harvus, Sho, and Rak retrospective island narratives against the three-rest sequence.
+- Determine whether any source independently records a calendar transition after the failed Riptide rest.
+- Determine whether the rescue and Rak's return-to-ship branch can both occur on Arodus 4 without an unrecorded additional rest or full-day delay.
+- Record the final date ruling in `chronology/bonewrack-final-session-date-audit.md` before patching all Arodus 5 current-state references.
