@@ -3,9 +3,9 @@
 ## Document Status
 
 - Type: Current-state accounting ledger
-- Maturity: Working draft, corrected with GM note that Fipps was missed, Harmak was dead before start, Badger and Jack are aboard the Man's Promise, and Maheem / Kipper / Patch are believed Wormwood-side
+- Maturity: Working draft, corrected with GM decisions that Fipps was missed, Harmak was dead before start, Badger / Jack / Conchobhar are aboard the Man's Promise, and Maheem / Kipper / Patch are believed Wormwood-side
 - Scope: Original named Wormwood complement, known deaths, Erastus 27 split disposition, and Man's Promise / Wormwood count reconciliation
-- Canon status: Current GM-provided roster plus existing post-Erastus 27 evidence; unresolved names remain marked unresolved
+- Canon status: Current GM-provided roster plus existing post-Erastus 27 evidence; unresolved physical positions remain marked unresolved
 
 ## Purpose
 
@@ -39,12 +39,12 @@ The earlier remembered **37 living crew** count now looks like an overcount rath
 
 ## Current GM Split Correction
 
-Current GM belief / correction:
+Current GM decisions / beliefs:
 
 - **Badger Medlar** is aboard the Man's Promise.
 - **Jack Scrimshaw** is aboard the Man's Promise. This ledger treats "Jake" in the GM note as Jack Scrimshaw, not Jakes Magpie, because Jakes Magpie is already dead.
+- **Conchobhar Turlach Shortstone** is aboard the Man's Promise.
 - **Maheem**, **Kipper**, and **Patch Patchsalt** are believed still aboard the Wormwood.
-- **Conchobhar Turlach Shortstone** remains unresolved.
 
 ## Living Original Wormwood Roster
 
@@ -61,7 +61,7 @@ Current GM belief / correction:
 | 9 | Patch Patchsalt | Deck-officer Nightwatch | Believed Wormwood-side. |
 | 10 | Tam "Narwhal" Tate | Rigger | Man's Promise-side locked by post-split evidence; exact Arodus 5 position unresolved. |
 | 11 | Maheem | Rigger | Believed Wormwood-side. |
-| 12 | Conchobhar Turlach Shortstone | Rigger | Placement unresolved. |
+| 12 | Conchobhar Turlach Shortstone | Rigger | Man's Promise-side by GM decision; exact Arodus 5 position unresolved. |
 | 13 | "Barefoot" Samms Toppin | Rigger | Strong Man's Promise-side evidence; likely Man's Promise / survival bloc. |
 | 14 | "Slippery" Syl Lonegan | Rigger | Man's Promise transfer; Bonewrack Rak group. |
 | 15 | "Ratline" Rattsberger | Rigger | Man's Promise-side locked by post-split evidence; exact Arodus 5 position unresolved. |
@@ -122,21 +122,21 @@ Starting from the corrected living roster of 34, the four known deaths/removals 
 | Crimson Cogward | Locked post-split evidence. |
 | Badger Medlar | GM-corrected aboard Man's Promise. |
 | Jack Scrimshaw | GM-corrected aboard Man's Promise. |
+| Conchobhar Turlach Shortstone | GM-decided aboard Man's Promise. |
 | Harvus G'ron | Locked. |
 | Sho Astor | Locked. |
 | Mirei | Locked. |
 | Rak Wraithraiser | Locked. |
 
-Working locked / strong Wormwood-origin transfer count: **20**.
+Working locked / strong Wormwood-origin transfer count: **21**.
 
-## Believed Wormwood-Side / Unresolved Swing Slots
+## Believed Wormwood-Side Crew
 
 | Character | Current Handling |
 |---|---|
 | Maheem | Believed Wormwood-side. |
 | Kipper | Believed Wormwood-side. |
 | Patch Patchsalt | Believed Wormwood-side. |
-| Conchobhar Turlach Shortstone | Placement unresolved; only major current swing slot. |
 
 ## Count Reconciliation
 
@@ -147,22 +147,38 @@ Working locked / strong Wormwood-origin transfer count: **20**.
 | Living original Wormwood roster | 34 |
 | Known deaths / removals before or at split | -4 |
 | Living Wormwood-origin pool at split | 30 |
-| Locked / strong Wormwood-origin transfers to Man's Promise | -20 |
-| Wormwood-origin people left on Wormwood | 10 |
+| Locked / strong Wormwood-origin transfers to Man's Promise | -21 |
+| Wormwood-origin people left on Wormwood | 9 |
 | Other captured Man's Promise survivors sent Wormwood-side | +8 |
-| Wormwood after split, corrected working count | **18** |
-
-If Conchobhar is ultimately treated as Man's Promise-side, the Man's Promise gains one and the Wormwood post-split count drops to **17**.
+| Wormwood after split, corrected working count | **17** |
 
 ### Man's Promise storm-onset implication
 
 | Step | Count |
 |---|---:|
-| Locked / strong Wormwood-origin Man's Promise transfers | 20 |
+| Locked / strong Wormwood-origin Man's Promise transfers | 21 |
 | Six named captured Man's Promise survivors assigned to Plugg | +6 |
-| Man's Promise storm-onset count, corrected working count | **26** |
-| Add Conchobhar if confirmed Man's Promise-side | +1 |
-| Man's Promise storm-onset count with Conchobhar | **27** |
+| Man's Promise storm-onset count, corrected working count | **27** |
+
+## Wormwood Post-Split Composition
+
+The current Wormwood-side count is:
+
+- **9 original Wormwood personnel:** Barnabas Harrigan, Riaris Krine, Kipper, Peppery Longfarthing, Habbly Quarne, Cut-throat Grok, Patch Patchsalt, Maheem, and Caulky Tarroon.
+- **8 surrendered Man's Promise survivors** sent Wormwood-side.
+- **17 total people aboard the Wormwood after the split.**
+
+This leaves the Wormwood officer-heavy and slightly below the Crew 20 reference used for a sailing ship like the Man's Promise. That does not make the split impossible, but it makes Harrigan's decision look temporary, calculated, or both.
+
+Possible narrative explanations, currently inference rather than established intent:
+
+- Harrigan retained the most experienced command and specialist core and expected them to make reluctant sailors useful.
+- The Wormwood was heading toward a port or recruitment opportunity where replacement crew could be acquired.
+- Harrigan accepted temporary under-crewing because his immediate priority was separating Plugg, the PCs, and politically troublesome crew from himself.
+- Sending eight surrendered sailors with the Wormwood provided bodies while keeping the six most narratively relevant Man's Promise survivors isolated under Plugg.
+- The unusual split may conceal Harrigan's intent or make the prize-crew assignment appear more routine than it was.
+
+Do not state one of these explanations as Harrigan's confirmed motive without stronger evidence.
 
 ## Current Best Narrative Use
 
@@ -170,15 +186,15 @@ Use this as the working statement:
 
 - Original living Wormwood roster: **34**.
 - Harmak Gruft: named dead pre-start state, not living crew.
-- Man's Promise at storm onset: about **26**, or **27** if Conchobhar is included.
-- Wormwood after split: about **18**, or **17** if Conchobhar is ultimately confirmed Man's Promise-side.
+- Man's Promise at storm onset: **27**.
+- Wormwood after split: **17**.
 - Maheem, Kipper, and Patch are believed Wormwood-side.
 - There should be no generic unnamed Wormwood background sailors in the accounting.
 - The only unnamed group currently allowed in the split math is the eight surviving captured Man's Promise sailors sent Wormwood-side.
 
 ## Open Checks
 
-- Confirm Conchobhar placement after the Erastus 27 split.
 - Confirm whether Maheem, Kipper, and Patch being Wormwood-side should be locked as canon or left as strong GM belief.
-- Confirm exact Arodus 5 positions for Badger and Jack aboard the Man's Promise.
+- Confirm exact Arodus 5 positions for Badger, Jack, and Conchobhar aboard the Man's Promise.
 - Confirm Fipps' original role if more precise than Unknown.
+- Determine whether later evidence supports a specific Harrigan motive for accepting an officer-heavy, temporarily under-crewed Wormwood.
