@@ -3,12 +3,12 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Active narrative spine / evidence review pending
+- Maturity: GM-approved non-chat narrative / canon-candidate
 - Scope: Erastus 14, return to normal weather and ordinary shipboard routine after the storm
 - Source spine: `source-spines/wormwood-erastus-14-day-ten.md`
 - Spoiler scope: Player-safe
-- Canon status: Current prose spine, not yet locked
-- Date status: Working placement from weather scaffold and current chronology
+- Canon status: Locked current non-chat narrative
+- Date status: GM-approved placement
 
 ## Date
 
@@ -51,7 +51,7 @@ The sounds of the ship settled back into their usual rhythm. Boots crossed the d
 
 The storm receded into memory with unsettling speed.
 
-By midday, it already felt distant—not because it had been small, but because the ship demanded that it be treated as finished. Sailors who had hauled the same lines and braced the same loads returned to old divisions and quiet resentments. Cooperation gave way to habit.
+By midday, it already felt distant, not because it had been small, but because the ship demanded that it be treated as finished. Sailors who had hauled the same lines and braced the same loads returned to old divisions and quiet resentments. Cooperation gave way to habit.
 
 The Wormwood had survived through unity.
 
@@ -63,7 +63,7 @@ No bell marked her loss. No officer declared her dead. No search was ordered. He
 
 She was simply not present when work resumed.
 
-That absence settled into the routine alongside everything else. It was noticed, but not addressed. It lingered in glances, in the space left around her belongings, in the way her name surfaced only indirectly—through fragments of memory, half-told stories, or passing remarks that never lingered long enough to become grief.
+That absence settled into the routine alongside everything else. It was noticed, but not addressed. It lingered in glances, in the space left around her belongings, in the way her name surfaced only indirectly, through fragments of memory, half-told stories, or passing remarks that never lingered long enough to become grief.
 
 The crew adapted around the gap without filling it.
 
