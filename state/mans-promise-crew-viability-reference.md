@@ -3,7 +3,7 @@
 ## Document Status
 
 - Type: Current-state reference / correction note
-- Maturity: Working control document, corrected with Badger / Jack aboard, Maheem / Kipper / Patch believed Wormwood-side, and locked Rahadoumi-officer example sequence
+- Maturity: Working control document, corrected with Badger / Jack / Conchobhar aboard, Maheem / Kipper / Patch believed Wormwood-side, and locked Rahadoumi-officer example sequence
 - Scope: Erastus 27 ship split, Arodus 5 Man's Promise actor pool, skeleton-crew viability, and ship crew requirement reference
 - Canon status: Current GM truth plus rules-reference note unless superseded by later direct evidence
 
@@ -104,6 +104,7 @@ It does **not** include the other eight captured Man's Promise survivors, becaus
 | Barefoot Samms Toppin | Strong course-change warning evidence; placement still technically pending raw-source reconciliation | Likely Man's Promise / movable survival bloc. |
 | Badger Medlar | GM-corrected aboard Man's Promise | Exact Arodus 5 position unresolved. |
 | Jack Scrimshaw | GM-corrected aboard Man's Promise | Exact Arodus 5 position unresolved. |
+| Conchobhar Turlach Shortstone | GM-decided aboard Man's Promise | Rigger; exact Arodus 5 position unresolved. |
 
 ## Confirmed / Believed Wormwood-Side / Not With Man's Promise
 
@@ -117,8 +118,7 @@ It does **not** include the other eight captured Man's Promise survivors, becaus
 
 ## Still Unresolved for Skeleton-Crew Viability
 
-- Conchobhar Turlach Shortstone placement.
-- Exact Arodus 5 positions for Crimson, Ratline, Tam, Samms, Badger, Jack, Dahrehn, Ebony, Merchiel, and Nor'gal.
+- Exact Arodus 5 positions for Crimson, Ratline, Tam, Samms, Badger, Jack, Conchobhar, Dahrehn, Ebony, Merchiel, and Nor'gal.
 - Whether Owlbear is chained, loose, guarding, or otherwise positioned under Plugg.
 - Who can still rig, repair, cook, pump, steer, stand watch, and accept command after a mutiny.
 
@@ -126,10 +126,23 @@ It does **not** include the other eight captured Man's Promise survivors, becaus
 
 | Count | Value |
 |---|---:|
-| Locked / strong Wormwood-origin Man's Promise transfers | 20 |
+| Locked / strong Wormwood-origin Man's Promise transfers | 21 |
 | Six named captured Man's Promise survivors assigned to Plugg | +6 |
-| Man's Promise storm-onset count, current working count | **26** |
-| Add Conchobhar if confirmed Man's Promise-side | +1 |
-| Man's Promise storm-onset count with Conchobhar | **27** |
-| Wormwood after split, current working count | **18** |
-| Wormwood after split if Conchobhar is Man's Promise-side | **17** |
+| Man's Promise storm-onset count, current working count | **27** |
+| Wormwood-origin people left aboard the Wormwood | 9 |
+| Other captured Man's Promise survivors sent Wormwood-side | +8 |
+| Wormwood after split, current working count | **17** |
+
+## Narrative Interpretation of the Thin Wormwood
+
+The resulting Wormwood roster is officer-heavy and below the Crew 20 reference used for a sailing ship like the Man's Promise. This is unusual but not inherently impossible.
+
+Possible explanations, currently inference rather than established Harrigan intent:
+
+- Harrigan retained an experienced command and specialist core capable of directing the eight surrendered sailors.
+- The Wormwood was heading toward a port or recruitment opportunity and expected to replace missing hands.
+- Harrigan accepted temporary under-crewing to separate Plugg, the PCs, and troublesome social factions from his own command.
+- The eight surrendered Man's Promise survivors supplied labor while the retained officers preserved navigation, gunnery, repair, stores, and discipline.
+- The split may have concealed Harrigan's intent or made the isolation of the prize crew look like ordinary prize-taking procedure.
+
+Do not state one of these explanations as confirmed motive without stronger evidence.
