@@ -4,7 +4,7 @@
 
 - Type: Chronology evidence integration note
 - Maturity: Strong working conclusion
-- Source: `evidence/player-narratives/rak-bonewrack-cave-return-and-scourse-report.md`
+- Source: `evidence/player-narratives/rak-bonewrack-cave-return-and-scourge-report.md`
 - Scope: First Riptide Cove assault, post-assault route, split location, village return, Scourge confrontation, and Arodus 4 / Arodus 5 date question
 - Canon status: Use in the final Bonewrack date lock and memory-spine patch. Preserve the distinction between Rak's remembered events and his deliberately edited report to Scourge.
 
