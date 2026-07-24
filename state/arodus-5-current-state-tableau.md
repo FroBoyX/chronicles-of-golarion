@@ -10,6 +10,7 @@
 - Canon status: Current reconstruction based on `chronology/book-one-late-wormwood-to-arodus-5-bridge.md`, `chronology/late-wormwood-to-arodus-5-bridge.md`, `chronology/ap-gm-baseline-timeline.md`, and preserved Mirei player-cache summaries
 - Date: **Arodus 5, 4712 AR**
 - Use rule: Use this file before updating NPC locations, cold-open packets, encounter staging, or dossier current-state summaries.
+- Runnable fork encounter: `gm-packets/arodus-5-fork-encounter.md`
 
 ## Current Branch Summary
 
