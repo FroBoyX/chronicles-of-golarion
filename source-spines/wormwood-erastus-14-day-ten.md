@@ -3,26 +3,26 @@
 ## Document Status
 
 - Type: Source spine
-- Maturity: Working chronology / active narrative spine pending evidence review
+- Maturity: GM-approved chronology and narrative scaffold
 - Scope: Erastus 14 / Wormwood Day 10, return to normal weather and ordinary shipboard routine after the storm
 - Source basis: `chronicles/wormwood-day-eight.md`, `chronicles/wormwood-day-nine.md`, `evidence/ap/wormwood-weather-days-1-21.md`, `chronology/late-wormwood-to-arodus-5-bridge.md`, `state/wormwood-crew-roles-and-watch-patterns.md`, PC and NPC dossiers
 - Spoiler scope: Player-safe after narrative rendering
-- Canon status: Current narrative spine preserved; unsupported details remain subject to evidence review
+- Canon status: Day function, title, and narrative treatment approved by the GM; controlled reconstruction remains subordinate to later direct evidence
 
 ## Date / Encounter Identity
 
 - Date: **Erastus 14, 4712 AR**
 - Wormwood count: **Day 10**
-- Working title: **Back Under the Bell**
+- Title: **Back Under the Bell**
 - Location: **The Wormwood**, throughout ordinary work stations and the lower hold
 
 ## Active Narrative Spine
 
-The current prose authority for this day is:
+The approved prose authority for this day is:
 
 - `chronicles/wormwood-day-ten.md`
 
-That file preserves the GM-edited narrative as the active spine while evidence review continues. Do not promote its controlled reconstruction details to hard canon without supporting evidence or GM confirmation.
+That file preserves the GM-edited narrative. Its controlled reconstruction establishes the player-facing treatment of a routine day but does not convert unsupported details into independent hard evidence.
 
 ## Chronology Placement
 
@@ -33,7 +33,7 @@ The current early-Wormwood reconstruction places:
 - Erastus 14 / Day 10: normal weather and return to ordinary routine;
 - Erastus 17 / Day 12: beginning of the securely mapped missing-cache sequence involving Sho, Mirei, Owlbear, and the drinking contest.
 
-No major set-piece or securely dated recovered conversation is currently attached to Erastus 14.
+No major set-piece or securely dated recovered conversation is attached to Erastus 14.
 
 ## Weather and Day Function
 
@@ -89,7 +89,7 @@ Do not assign a numerical performance roll, exact song, formal memorial purpose,
 - Do not make the crew emotionally recovered.
 - Do not turn the day into a second storm-recovery chapter. The primary function is return to routine.
 
-## Scene Order Working Model
+## Scene Order
 
 | Sequence | Handling |
 |---|---|
@@ -116,15 +116,12 @@ Do not assign a numerical performance roll, exact song, formal memorial purpose,
 
 ## Output Plan
 
-1. Preserve `chronicles/wormwood-day-ten.md` as the active narrative spine during evidence review.
-2. Revise only when new evidence or GM correction requires it.
-3. Do not create a chat-integrated version unless dialogue is later recovered.
-4. Create the ship's log only after final narrative approval.
-5. Discord formatting may only split approved prose.
+1. Preserve `chronicles/wormwood-day-ten.md` as the approved non-chat narrative.
+2. Do not create a chat-integrated version unless dialogue is later recovered.
+3. Keep the ship's log brief and limited to weather, routine restoration, remaining repairs, and Rosie's continued missing status.
+4. Discord formatting may only split approved prose.
 
-## Open Checks
+## Remaining Evidence Checks
 
-- Confirm the title **Back Under the Bell**.
-- Confirm whether Rosie's fiddle remained beside her hammock or was taken into someone's keeping.
-- Confirm whether any specific Day 10 social scene survives outside the currently indexed evidence.
-- Confirm whether the evening remained this quiet or included a recoverable social beat.
+- Confirm whether Rosie's fiddle was later taken into someone's keeping.
+- Revise only if a specific Erastus 14 scene or direct dialogue is recovered.
