@@ -3,27 +3,23 @@
 ## Document Status
 
 - Type: GM-side chronology audit
-- Maturity: Active evidence audit; date not yet locked
+- Maturity: Working conclusion
 - Scope: Whether the final Bonewrack split-session branches occurred on Arodus 4 or Arodus 5, 4712 AR
 - Player-facing status: Not player-facing by default
-- Canon status: Arodus 4 remains the leading reconstruction, while the raw session repeatedly records `Aeodus 5th`; the final ruling requires the known Rak/Sho return and Rak escort narratives to be read alongside Harvus' timeline
+- Canon status: Arodus 4 is the leading reconstruction; raw session label `Aeodus 5th` remains preserved as historical evidence pending final GM lock
 - Related chronology: `chronology/bonewrack-arodus-1-to-4-memory-spine.md`
 - Direct date extract: `evidence/chat-logs/arodus-5-final-session-date-and-time-extract.md`
-- Source-location correction: `evidence/gm-notes/bonewrack-return-and-rak-escort-source-clarification.md`
 
 ## Question
 
-The final session repeatedly labels its active branches `Aeodus 5th`, but the reconstructed island sequence appears able to reach those branches on Arodus 4 without another recorded rest or full day.
+The final session repeatedly labels its active branches `Aeodus 5th`, but the reconstructed island sequence appears to reach the same branches on Arodus 4 without an additional recorded day.
 
 This audit separates:
 
 - the historical session label;
 - the within-day branch times;
-- the independent event and rest sequence;
-- the live chat covering Rak and Sho's return;
-- the retrospective return narratives;
-- the retrospective Rak escort narrative;
-- and current GM knowledge about historical one-day date errors.
+- the independently preserved event sequence;
+- and current GM correction about historical date-entry reliability.
 
 ## Pathfinder Time Basis
 
@@ -42,7 +38,7 @@ Relevant rules structure:
 
 PF1 does not use the later D&D 5e term `long rest` as its universal recovery mechanic, but the campaign's use of an approximately eight-hour recovery block is compatible with the underlying rules.
 
-A recovery period need not begin at 10 PM or end at 6 AM. Exact clock time should follow table events, injury, interruption, daylight, and travel rather than a fixed modern sleep schedule.
+A rest need not begin at 10 PM or end at 6 AM. Exact clock time should follow table events, injury, interruption, daylight, and travel rather than a fixed modern sleep schedule.
 
 ## Locked Rest and Encounter Sequence
 
@@ -69,7 +65,7 @@ The stockade / spring / spyglass sequence and first Riptide Cove assault occur d
 
 ## Evidence Register
 
-### A. Arodus 1 Grounding and First Camp
+### A. Arodus 1 grounding and first camp
 
 **Strength:** High.
 
@@ -77,7 +73,7 @@ The stockade / spring / spyglass sequence and first Riptide Cove assault occur d
 - Raw chat establishes landing, early encounter, camp, hidden flask, later combat, and subsequent swarm march.
 - The later combat is best identified as the GM-locked ghoul attack.
 
-### B. Harvus' Independent Relative Day Sequence
+### B. Harvus' independent relative day sequence
 
 **Strength:** High for relative sequence; medium-high for date mapping.
 
@@ -97,9 +93,9 @@ If the landing sequence is Arodus 1, the most direct mapping is:
 
 This is the strongest independent reason to suspect the later `Aeodus 5th` label is one day high.
 
-### C. Current GM Memory of the Island Days
+### C. Current GM memory of the island days
 
-**Strength:** Highest under the archive evidence hierarchy, while still subject to source reconciliation before a final retcon.
+**Strength:** Highest under the archive evidence hierarchy, but still expressed as a reconstruction rather than a final retcon.
 
 Current GM clarification establishes:
 
@@ -109,7 +105,7 @@ Current GM clarification establishes:
 - historical date labels were often entered one day early or late;
 - the final-session day label is more suspect than the within-day minute tracking.
 
-### D. Raw Final-Session Date Label
+### D. Raw final-session label
 
 **Strength:** Direct evidence of the historical table label; medium confidence as objective calendar truth.
 
@@ -117,7 +113,7 @@ The final log repeatedly says `Aeodus 5th` across the Rak and Sho branches.
 
 This proves the session was labeled as the fifth during play. It does not prove the label was calendar-correct, because the GM has identified a recurring plus-or-minus-one-day dating problem in historical logs.
 
-### E. Final-Session Branch Times
+### E. Final-session branch times
 
 **Strength:** Medium-high within each branch.
 
@@ -130,7 +126,7 @@ Therefore:
 - isolated AM/PM mistakes remain transcription errors;
 - the minute stamps should not be sorted solely by their appearance order in the pasted chat.
 
-### F. Goyle's Capture Estimate
+### F. Goyle's capture estimate
 
 **Strength:** Character report.
 
@@ -138,41 +134,39 @@ Goyle says he was knocked from the ship about a day after the PCs set out.
 
 This places his capture during the island expedition but does not distinguish Arodus 4 from Arodus 5 for the final rescue.
 
-### G. Rak and Sho Return Chat
+### G. Rak and Sho village-return chat
 
 **Strength:** Direct table evidence.
 
-The return from the post-assault split is preserved in live chat evidence. The chronology must not treat Rak and Sho's arrival at or near the Man's Promise as merely an endpoint inferred from Arodus 5 state.
+The post-assault return evidence covers Rak and Sho reaching the abandoned village / landing area. The chronology must not treat that village return as merely an endpoint inferred from later state.
 
 This source may establish or constrain:
 
 - when the split became operational;
-- whether Rak and Sho remained together for the complete return;
-- where they arrived;
-- the condition in which they arrived;
-- what they reported;
-- Sho's transition into punishment and confinement;
-- Rak's interval aboard before reassignment.
+- whether Rak and Sho remained together for the complete return to the village;
+- their condition on arrival;
+- what they believed Harvus and Mirei intended;
+- what they brought or reported from the island route.
 
-The exact underlying chat passage must be re-read before the date ruling is locked.
+Current GM clarification establishes that travel from the village to the Man's Promise was without incident. Do not invent another encounter, dispute, rest, or hidden delay on that leg.
 
-### H. Retrospective Return Narratives
+### H. Retrospective village-return narratives
 
 **Strength:** Independent player-perspective evidence.
 
-Retrospective narrative entries exist for the return. They should be compared with the live chat rather than treated as a substitute for it.
+Retrospective narrative entries exist for Rak and Sho's return to the village. They should be compared with the live chat rather than treated as a substitute for it.
 
 They may clarify:
 
 - why Rak and Sho returned;
 - what each believed Harvus and Mirei intended;
 - how quickly they moved;
-- whether injury, escort, argument, or punishment created delay;
-- whether either player remembers a night boundary or calendar transition.
+- their injury state;
+- whether either player remembers a night boundary before reaching the village.
 
 Player narrative remains character-perspective evidence where it differs from direct table evidence.
 
-### I. Retrospective Rak Escort Narrative
+### I. Retrospective Rak escort narrative
 
 **Strength:** Independent player-perspective evidence supported by the live final-session escort branch.
 
@@ -188,7 +182,7 @@ It should be compared against:
 - Fipps being left at the beach;
 - the final approach toward the fork.
 
-This source may establish how much time elapsed between Rak's return to the ship and being sent back out, which is directly relevant to the Arodus 4 / Arodus 5 distinction.
+This source may help establish how much time elapsed between Rak reaching the Man's Promise and being sent back out, which is directly relevant to the Arodus 4 / Arodus 5 distinction.
 
 ## Arodus 4 Reconstruction
 
@@ -225,14 +219,15 @@ The recovery can begin whenever the party reaches the beach. It need not be a co
 ### Arodus 4
 
 - Party splits after the post-assault rest.
-- Rak and Sho return toward the Man's Promise.
+- Rak and Sho return to the abandoned village / landing area.
+- Their remaining travel to the Man's Promise is uneventful.
 - Harvus and Mirei return to Riptide Cove.
 - Successful Cauldron rescue occurs.
 - Rak is questioned by Scourge and sent back out with Syl's supply party.
 - Sho's confinement branch proceeds using the recorded late-morning and midday times.
 - Rak's escorted route proceeds through the recorded afternoon times.
 
-This model matches the three-rest sequence and Harvus' Day 28-31 relative chronology. Its remaining test is whether the return chat and the Rak/Sho retrospective narratives permit all of those same-day transitions.
+This model matches the three-rest sequence and Harvus' Day 28-31 relative chronology. The village-to-ship leg supplies no evidence for an extra day.
 
 ## What Arodus 5 Would Require
 
@@ -242,10 +237,12 @@ Retaining Arodus 5 as objective calendar truth requires at least one of the foll
 - an additional delay after the failed assault and before the split;
 - a landing or first camp date later than Arodus 1;
 - Harvus' Day 29-31 labels not representing consecutive active days;
-- Rak and Sho's return, Sho's punishment, or Rak's shipboard reassignment consuming enough time to cross another midnight;
-- or another substantial delay preserved in the return or escort narratives.
+- Sho's punishment or Rak's shipboard reassignment consuming enough time to cross another midnight;
+- or another substantial delay preserved in evidence not yet integrated.
 
-None of these is impossible. The return and escort sources must be read before saying none is supported.
+The uneventful village-to-ship travel cannot supply that missing day.
+
+None of these alternatives is impossible, but none is currently supported strongly enough to displace the Arodus 4 reconstruction.
 
 ## Character-Narrative Audit Status
 
@@ -263,41 +260,47 @@ This material strongly favors the Arodus 4 mapping.
 
 Known evidence includes:
 
-- the live return chat with Sho;
-- retrospective player narrative of the return;
+- the live village-return chat with Sho;
+- retrospective player narrative of the village return;
+- the uneventful continuation to the Man's Promise established by GM clarification;
 - the live Syl-led escort branch;
 - retrospective player narrative of the escort;
 - Rak's current dossier and player-discovery evidence.
 
-The source text must be matched to its exact repository or uploaded-file location and read as part of this audit. Do not state that no independent Rak island narrative exists.
+Do not state that no independent Rak island narrative exists.
 
 ### Sho
 
 Known evidence includes:
 
-- the live return chat with Rak;
-- retrospective player narrative of the return;
+- the live village-return chat with Rak;
+- retrospective player narrative of the village return;
+- the uneventful continuation to the Man's Promise established by GM clarification;
 - the live hot-box branch;
-- Sho's dossier and player-memory answers.
+- Sho's current dossier and player-memory evidence.
 
-The source text must be matched to its exact repository or uploaded-file location and read as part of this audit. Do not state that no independent Sho island narrative exists.
+Do not state that no independent Sho island narrative exists.
 
 ## Working Conclusion
 
 - Preserve `Aeodus 5th` as the historical raw-session label.
 - Preserve the recorded branch times, adjusted only for obvious AM/PM mistakes.
-- Treat **Arodus 4, 4712 AR** as the leading working reconstruction because of the three-rest sequence and Harvus' consecutive day labels.
-- Do not finalize Arodus 4 as the objective date until the known live return chat, retrospective return narratives, and Rak escort narrative have been read together.
-- Treat **Arodus 5** as a plausible historical GM date-entry error, not yet a completed retcon.
-- Do not bulk-patch current-state and cold-open files until the source comparison is complete and the GM locks the date.
+- Treat **Arodus 4, 4712 AR** as the leading objective chronology.
+- Treat **Arodus 5** as the likely historical GM date-entry error.
+- The confirmed uneventful village-to-ship leg strengthens Arodus 4 because it removes one possible location for an unrecorded delay.
+- Do not yet bulk-patch every current-state and cold-open file until the GM explicitly locks the one-day retcon.
 
-## Required Next Audit
+## Required GM Lock
 
-1. Recover and read the live Rak/Sho return passage.
-2. Recover and read the retrospective return narrative entries.
-3. Recover and read Rak's retrospective escort narrative.
-4. Compare them with Harvus' Day 28-31 sequence and the final-session branch times.
-5. Determine whether any source requires a midnight or full-day delay.
-6. Present the narrow final choice to the GM only after that comparison.
+The remaining decision is narrow:
 
-Do not request re-upload until repository, prior uploaded-file, and player-memory searches have been exhausted.
+> Is the final-session / relaunch date officially corrected from Arodus 5 to Arodus 4, 4712 AR, while preserving all within-day branch times?
+
+Once locked, patch:
+
+- `chronology/bonewrack-arodus-1-to-4-memory-spine.md`;
+- `state/arodus-5-current-state-tableau.md` and rename or supersede it as appropriate;
+- `chronology/arodus-5-split-scenes.md`;
+- relevant PC/NPC dossiers;
+- current-state and handoff references;
+- raw evidence summaries only by adding correction notes, never by changing quoted source labels.
