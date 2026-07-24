@@ -3,11 +3,11 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: Non-chat-integrated draft / canon-candidate
+- Maturity: Active narrative spine / evidence review pending
 - Scope: Erastus 14, return to normal weather and ordinary shipboard routine after the storm
 - Source spine: `source-spines/wormwood-erastus-14-day-ten.md`
 - Spoiler scope: Player-safe
-- Canon status: Draft for GM review
+- Canon status: Current prose spine, not yet locked
 - Date status: Working placement from weather scaffold and current chronology
 
 ## Date
@@ -27,130 +27,66 @@ The bell sounded at its usual hour.
 
 After two days ruled by weather, the ship belonged to its officers again.
 
-Assignments were called. Watches changed. Sailors returned to the places the Wormwood had chosen for them before the storm blurred every duty together.
+Assignments were called. Watches changed. The crew was sorted back into its familiar divisions, rigging, deck, galley, hold, each sailor returned to the narrow slice of labor that defined them before the storm had blurred those boundaries.
 
 No one was praised for keeping the ship afloat.
 
-Peppery Longfarthing had stood against the storm until every order mattered. Now she withdrew toward the helm, the charts, and the officer spaces where her work became less visible. Harrigan watched from above. Plugg resumed the measured displeasure that passed for ordinary command. Scourge no longer needed to haul lines beside the lower crew, so he returned to finding fault with how they hauled them.
+Plugg resumed his steady, grinding authority. Scourge returned to enforcing it. Orders were no longer shouted over wind and water but delivered with the same expectation of obedience. The brief necessity that had forced officers and crew into shared effort dissolved as quickly as the storm itself.
 
-The storm had required everyone.
+The Wormwood had required everyone.
 
-The morning restored rank.
+Now it required obedience.
 
-Harvus climbed into the rigging.
+The day became one of repair and restoration.
 
-The ropes had been checked the day before, but checking was not the same as putting the ship fully back in order. Chafed lines had to be replaced. Knots needed testing after drying. Canvas that had survived the wind still needed folding, patching, and setting under ordinary strain.
+Lines were replaced where they had frayed or snapped. Knots were retied and tested after drying. Sails were patched, folded, and reset under ordinary strain. The deck was scrubbed clean of salt, mud, and the residue of two days of chaos. The galley returned to routine cooking rather than emergency sustenance. The lower hold was cleared, reorganized, and made livable again.
 
-His wing remained stiff. Every reach above his shoulder pulled at the damage. The storm had given him no time to heal, and normal weather gave him no excuse to stop working around it.
+Every task carried the weight of what had just passed.
 
-Maheem crossed near him once in the rigging.
+Injuries that had been ignored during the storm made themselves known in calmer weather. Rope burns reopened under strain. Bruises stiffened. Muscles that had worked without pause now protested every movement. There was no allowance made for any of it.
 
-During the storm, Maheem had caught Harvus before a missed foothold became a fall. Harvus had braced a line for him in return. In calm air, neither man mentioned it.
+Work resumed as though nothing had happened.
 
-They passed one another and kept working.
+The sounds of the ship settled back into their usual rhythm. Boots crossed the deck without slipping. The creak of rigging replaced the roar of wind. Voices rose again, not in urgency, but in irritation, complaint, and routine command. Kroop shouted from the galley. Grok argued over stores. Scourge found fault where he could.
 
-Below, Sho scrubbed salt and storm grime from the deck.
+The storm receded into memory with unsettling speed.
 
-The bruises around her waist had darkened. Her shoulders ached where the tether had dragged her behind the Wormwood. The side that had struck the hull protested whenever she bent or put weight through the brush.
+By midday, it already felt distant—not because it had been small, but because the ship demanded that it be treated as finished. Sailors who had hauled the same lines and braced the same loads returned to old divisions and quiet resentments. Cooperation gave way to habit.
 
-Scourge saw the stiffness and assigned no lighter work.
+The Wormwood had survived through unity.
 
-Sho did not ask for it.
+It resumed sailing through separation.
 
-The sea had taken Rosie beyond reach. That remained true no matter how often Sho replayed the swim. She could imagine a better stroke or another moment before the ship turned. She could not make herself regret going into the water.
+Rosie’s absence lingered without answer.
 
-A person had needed help.
+No bell marked her loss. No officer declared her dead. No search was ordered. Her hammock remained among the others. Her fiddle remained aboard. The ship neither acknowledged nor denied her fate.
 
-That was enough.
+She was simply not present when work resumed.
 
-Fipps passed her carrying a bucket.
+That absence settled into the routine alongside everything else. It was noticed, but not addressed. It lingered in glances, in the space left around her belongings, in the way her name surfaced only indirectly—through fragments of memory, half-told stories, or passing remarks that never lingered long enough to become grief.
 
-The day before the storm, he would have found something to say. During the storm, they had braced the same crate while it tried to break loose. Now he looked at the bruising around her waist, looked away, and kept moving.
+The crew adapted around the gap without filling it.
 
-It was not kindness.
+Rum ration returned at its proper time.
 
-It was only one insult left unspoken.
+Food was served. Cups were filled. The lower hold gathered as it always did, sore, tired, and relieved to be out of immediate danger. Conversation returned in uneven waves. Complaints about repairs mixed with exaggerated accounts of the storm. Stories grew larger with each telling, reshaping the experience into something easier to carry.
 
-Rak returned to the galley under Kroop.
+Night came without ceremony.
 
-Emergency broth gave way to ordinary ship food. The pots no longer had to be tied down as though they might climb the walls. Knives stayed where they were placed. The fire burned without needing to be rescued from seawater.
+The last of the light drained from the horizon, leaving the sea a dark, steady presence instead of a threat. Lanterns were lit along the deck and below, their glow soft and contained, no longer fighting wind or spray.
 
-The work should have felt easier.
+The crew settled.
 
-Rak's palms disagreed. Rope burns opened whenever he gripped a handle too tightly. The line that had held Sho to the ship had marked him almost as clearly as it had marked her.
+Some spoke in low voices, their words drifting and fading without urgency. Others ate in silence, too tired to fill the space with anything more than the scrape of bowls and the occasional muttered complaint. A few laughed, but the sound was brief, as if it had to remember how to exist.
 
-Kroop noticed the hands and gave him more stirring than chopping without making a point of it.
+Hammocks were claimed one by one.
 
-That was as close to mercy as the galley usually came.
+Bodies eased into them with care, sore muscles protesting even the smallest movements. The ship creaked beneath them, a familiar rhythm returning after days of strain. The water against the hull sounded almost gentle.
 
-Mirei returned to the lower crew.
+Above, the watch took their places.
 
-She hauled water that no longer came faster than the buckets could carry it. She scrubbed the last traces of mud and salt from the passageways. She helped reset hammocks and clear the paths between them.
+Below, the rest of the Wormwood drifted toward sleep.
 
-Ordinary sounds filled the ship again.
+No one marked the passing of the day.
 
-Boots crossed the deck without slipping. Animals complained from the middle hold. Kroop shouted from the galley. Grok argued over stores. Scourge found reasons to raise his voice even when the wind no longer required it.
-
-Mirei listened for something else beneath all of it.
-
-During the storm, she had reached for Rosie with instinct and need. She had willed her voice across the distance and told Rosie to hold on.
-
-No answer had returned then.
-
-None returned now.
-
-Rosie's hammock remained among the others.
-
-Her fiddle remained aboard.
-
-The ship made room around both without deciding what either meant.
-
-No officer ordered a search through the belongings of the missing sailor. No bell marked a death. No formal word declared Rosie dead or alive.
-
-She was simply absent when work began.
-
-That was enough for the lower hold to notice.
-
-Conchobhar glanced toward her place whenever he passed. Badger shifted a crate so it would not strike the fiddle if the ship rolled. Sandara stopped once, touched the instrument's case, and moved on before anyone could ask what she intended.
-
-By midday, the storm already felt farther away than it was.
-
-The deck dried in patches. The sky brightened. Sailors who had pulled on the same ropes during the crisis returned to old arguments, old suspicions, and old alliances.
-
-Syl no longer steadied Mirei when the deck tilted because the deck no longer tilted far enough to require it. Fipps recovered his voice. Maheem kept his distance from Harvus. Plugg and Scourge again stood apart from the labor they commanded.
-
-The Wormwood had survived through cooperation.
-
-It resumed sailing through division.
-
-Rum ration returned at the proper time.
-
-Bowls were passed. Cups were filled. The lower hold gathered around food, drink, sore muscles, and the relief of not hearing the hull struck by another wall of water.
-
-The conversation came back slowly.
-
-Someone complained about the repairs. Someone else exaggerated what they had done during the storm. A third sailor claimed the waves had been larger than the masts. The story grew with every telling because growing stories were easier to carry than the memory of Rosie disappearing behind the wake.
-
-Her name entered the talk only in fragments.
-
-A curse she used too often. A game she had cheated at. The way she had tackled Harvus when he returned her fiddle. The line slipping from her hands.
-
-Nobody agreed on whether she was dead.
-
-Nobody could say she lived.
-
-Mirei took up her harp after the meal.
-
-No one had ordered her to play.
-
-The first notes came carefully, as though the hold needed to remember how to listen after two nights shaped by wind, labor, and grief. Conversation lowered around the music. Sailors settled against crates and supports. Some closed their eyes.
-
-The harp filled the spaces ordinary work had reopened.
-
-Rosie's fiddle did not answer.
-
-The Wormwood sailed on beneath clear enough skies, its repairs holding and its watches restored.
-
-The bell had returned everyone to their place.
-
-One place remained empty.
+The ship carried them forward all the same, steady and unremarkable, as the night closed in around it.
