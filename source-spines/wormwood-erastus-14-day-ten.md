@@ -3,11 +3,11 @@
 ## Document Status
 
 - Type: Source spine
-- Maturity: Working chronology and narrative scaffold
+- Maturity: Working chronology / active narrative spine pending evidence review
 - Scope: Erastus 14 / Wormwood Day 10, return to normal weather and ordinary shipboard routine after the storm
 - Source basis: `chronicles/wormwood-day-eight.md`, `chronicles/wormwood-day-nine.md`, `evidence/ap/wormwood-weather-days-1-21.md`, `chronology/late-wormwood-to-arodus-5-bridge.md`, `state/wormwood-crew-roles-and-watch-patterns.md`, PC and NPC dossiers
 - Spoiler scope: Player-safe after narrative rendering
-- Canon status: Routine-day reconstruction for GM review
+- Canon status: Current narrative spine preserved; unsupported details remain subject to evidence review
 
 ## Date / Encounter Identity
 
@@ -15,6 +15,14 @@
 - Wormwood count: **Day 10**
 - Working title: **Back Under the Bell**
 - Location: **The Wormwood**, throughout ordinary work stations and the lower hold
+
+## Active Narrative Spine
+
+The current prose authority for this day is:
+
+- `chronicles/wormwood-day-ten.md`
+
+That file preserves the GM-edited narrative as the active spine while evidence review continues. Do not promote its controlled reconstruction details to hard canon without supporting evidence or GM confirmation.
 
 ## Chronology Placement
 
@@ -66,9 +74,9 @@ The narrative may use ordinary role-consistent labor to show routine returning:
 - galley service returning from emergency broth to normal meals;
 - stores being reorganized after the storm inventory;
 - crew members quietly noticing Rosie's absence;
-- Mirei resuming music during evening leisure, framed as a reasonable continuation of her established recurring performances rather than a recovered exact event.
+- ordinary evening settling and low conversation after the storm.
 
-If Mirei performs, do not assign a numerical roll, exact song, or formal memorial purpose.
+Do not assign a numerical performance roll, exact song, formal memorial purpose, or other unsupported event.
 
 ## Do Not Overstate
 
@@ -87,20 +95,20 @@ If Mirei performs, do not assign a numerical roll, exact song, or formal memoria
 |---|---|
 | Clearer morning | The horizon and normal weather return. |
 | Bell and assignments | Ordinary ship hierarchy reasserts itself. |
-| Work stations | PCs return to rigging, galley, and lower-deck labor while carrying storm injuries. |
+| Work stations | The crew returns to rigging, deck, galley, hold, and routine repair. |
 | Cooperation dissolves | Storm alliances become unspoken incidents rather than lasting bonds. |
 | Rosie's absence | Her place and fiddle remain, but the ship does not stop. |
-| Evening leisure | Ordinary crew noise begins returning; Mirei may play again without making the night a formal memorial. |
-| Close | The Wormwood has resumed its rhythm with Rosie absent from it. |
+| Evening settling | Ordinary crew noise returns without celebration or resolution. |
+| Close | The ship carries everyone forward as routine overtakes the storm. |
 
 ## Character Handling
 
 | Character | Day 10 Function |
 |---|---|
-| Harvus | Returns to rigging, works around the wing, and notices Rosie's absence. |
+| Harvus | Returns to rigging, works around the wing, and carries the aftermath of Rosie's loss. |
 | Rak | Returns to ordinary galley labor with damaged palms. |
 | Sho | Works through bruising and remains certain she would attempt the rescue again. |
-| Mirei | Returns to swab labor and may resume evening music while carrying Rosie's silence. |
+| Mirei | Returns to swab labor while carrying Rosie's silence. |
 | Peppery | Recedes from crisis-command prominence into specialist authority. |
 | Plugg and Scourge | Restore routine hierarchy and treat survival as duty. |
 | Crew | Resume old affiliations and hostilities despite the prior day's cooperation. |
@@ -108,15 +116,15 @@ If Mirei performs, do not assign a numerical roll, exact song, or formal memoria
 
 ## Output Plan
 
-1. Draft the non-chat narrative first.
-2. GM edits establish prose authority.
+1. Preserve `chronicles/wormwood-day-ten.md` as the active narrative spine during evidence review.
+2. Revise only when new evidence or GM correction requires it.
 3. Do not create a chat-integrated version unless dialogue is later recovered.
-4. Create the ship's log only after narrative approval.
+4. Create the ship's log only after final narrative approval.
 5. Discord formatting may only split approved prose.
 
 ## Open Checks
 
 - Confirm the title **Back Under the Bell**.
-- Confirm whether Mirei performed on Erastus 14 or whether the first post-storm performance should remain unstated.
 - Confirm whether Rosie's fiddle remained beside her hammock or was taken into someone's keeping.
 - Confirm whether any specific Day 10 social scene survives outside the currently indexed evidence.
+- Confirm whether the evening remained this quiet or included a recoverable social beat.
