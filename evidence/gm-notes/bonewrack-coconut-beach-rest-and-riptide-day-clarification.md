@@ -3,8 +3,8 @@
 ## Document Status
 
 - Type: GM truth / chronology clarification
-- Maturity: Canon-setting correction, amended after final-session raw-log date audit
-- Scope: Post-swarm rest, Coconut Beach placement, stockade and first Riptide Cove assault sequencing, post-assault rest, flexible long-rest timing, and Arodus 5 date handling
+- Maturity: Canon-setting correction, amended after final-session date audit
+- Scope: Post-swarm rest, Coconut Beach placement, stockade and first Riptide Cove assault sequencing, post-assault rest, flexible long-rest timing, and final-session date handling
 - Canon status: Use to revise the Arodus 1-4 memory spine unless later direct logs supersede a detail
 
 ## GM Clarification
@@ -29,7 +29,7 @@ The stockade / spring and first Riptide Cove assault should be kept in the same 
 
 ## Pathfinder Time and Rest Handling
 
-Pathfinder First Edition uses ordinary seconds, minutes, hours, and 24-hour days for rules purposes.
+Pathfinder First Edition uses ordinary seconds, minutes, hours, and days for rules purposes.
 
 Relevant Core Rulebook assumptions:
 
@@ -37,75 +37,61 @@ Relevant Core Rulebook assumptions:
 - ten combat rounds equal one minute;
 - local movement is measured per minute;
 - overland movement is measured per hour or per day;
-- a sailing ship's travel day represents 24 hours;
+- a normal overland travel day represents 8 hours of actual walking;
+- a sailing ship's travel day can represent 24 hours of movement;
 - natural healing normally follows 8 hours of sleep or rest;
-- bards and other arcane casters refresh daily spell allotments after 8 hours of rest and a preparation / concentration period.
+- bards regain daily spell allotments after 8 hours of rest and a concentration period.
 
-The rules often describe recovery as a night's rest, but the campaign table treated long rests as recovery blocks that could begin when the party became too injured to continue. Preserve the table's actual rest handling rather than forcing every long rest into a modern `10 PM to 6 AM` schedule.
+PF1 does not use `long rest` as a universal rules term in the later D&D 5e sense. The campaign's approximately eight-hour recovery blocks are nevertheless compatible with PF1 rest, healing, and spell-refresh assumptions.
 
-A long rest establishes roughly eight hours of low activity or sleep. It does not establish the exact clock time unless the log records one.
+The rules often describe natural healing as a night's rest, but the campaign table treated recovery as an eight-hour block that could begin when injury forced the party to stop. Preserve the table's actual handling rather than forcing every rest into a modern `10 PM to 6 AM` schedule.
 
-## Date Mapping Before Raw Final-Session Audit
+A recovery block establishes roughly eight hours of low activity or sleep. It does not establish exact clock time unless the log records one.
 
-The rest sequence permits a derived mapping in which:
+## Final-Session Minute Clarification
 
-- **Arodus 1:** grounding, late landing, early frog / mire encounter, first camp, hidden flask, ghoul attack.
-- **Arodus 2:** renewed travel, swarm damage, foul tree / rotting camp, arrival at Coconut Beach, injury-forced long rest.
-- **Arodus 3:** departure after the Coconut Beach rest, stockade / spring / spyglass sequence, first Riptide Cove assault, retreat, and post-assault long rest.
-- **Arodus 4:** party split after the rest; Rak and Sho return toward the Man's Promise while Harvus and Mirei return to Riptide Cove.
+The final-session raw log moves between parallel branches out of chronological reveal order.
 
-This remains a logically possible **derived** reconstruction, not direct date evidence.
+Current GM clarification:
 
-## Final-Session Raw-Log Correction
-
-A later audit recovered the underlying final-session chat rather than only the sanitized summary.
-
-That raw log repeatedly labels the active Rak and Sho branches:
-
-```text
-Aeodus 5th
-```
-
-The date label appears repeatedly across the live GM bookkeeping, including the 11:45 AM Rak / Scourge scene and Sho's late-morning / midday branch.
-
-The exact minute stamps are internally inconsistent and entered out of order across parallel branches. Examples include:
-
-- an `8:28am & 9:20am` line entered after the 11:45 AM scene in the pasted sequence;
-- Sho's `12:16am` guard-handoff entry placed between late-morning and 12:21 PM actions;
-- Coconut Beach timestamps entered as 2:15 PM, 2:21 PM, and 2:25 PM out of order.
-
-Therefore:
-
-- the **Arodus 5 date label is direct table evidence and currently controls**;
-- the exact hour/minute order is rough branch bookkeeping, not a fully reliable synchronized clock;
-- the Arodus 4 mapping is a derived alternative and should not replace the direct Arodus 5 label without an explicit GM retcon.
+- the GM deliberately jumped among Sho, Rak, and rescue-side times for dramatic reasons;
+- Sho's and the ship's earlier actions were allowed to remain unknown to the players until revealed;
+- out-of-order transcript placement does not make the minute stamps unreliable within their intended branch timelines;
+- isolated AM/PM errors, such as `12:16am` inside a midday Sho sequence, remain transcription errors.
 
 See:
 
 - `evidence/chat-logs/arodus-5-final-session-date-and-time-extract.md`
 
-## Working Continuity With Arodus 5 Preserved
+## Date Reliability Clarification
 
-Arodus 5 can be retained without inventing another encounter or mandatory fourth long rest.
+The raw final-session chat repeatedly labels the day `Aeodus 5th`.
 
-A plausible continuity window is:
+That wording is direct evidence of the historical GM label. It is not automatically controlling calendar truth because the current GM reports a recurring tendency to enter historical dates one day early or late.
 
-- the first camp is interrupted by the third-watch ghoul attack and recovery continues afterward;
-- swamp, swarm, and route travel consume the following active period;
-- the Coconut Beach long rest begins when damage forces the stop, not at a conventional bedtime;
-- the party may finish eight hours of recovery but wait for usable light, finish treatment, organize supplies, or delay movement without taking another mechanical long rest;
-- the stockade / spring and first Riptide assault then occur on Arodus 4;
-- the post-assault long rest carries the party into Arodus 5;
-- Rak and Sho return toward the ship while Harvus and Mirei make the successful return on Arodus 5.
+The GM currently considers:
 
-Do not assign exact pre-Arodus-5 clock times from this model. It exists to show that the direct date label is playable and not inherently contradictory.
+- the branch minute tracking more trustworthy than the day label;
+- the final-session day label the more likely error;
+- Arodus 4 the stronger reconstruction from rests and Harvus' independent relative day notes.
 
-## Current Ruling
+## Leading Date Mapping
 
-- Keep the relaunch and final-session date as **Arodus 5, 4712 AR**.
+The three-rest sequence and Harvus' Day 28-31 notes support:
+
+- **Arodus 1:** grounding, late landing, early frog / mire encounter, first camp, hidden flask, ghoul attack.
+- **Arodus 2:** renewed travel, swarm damage, foul tree / rotting camp, arrival at Coconut Beach, injury-forced long rest.
+- **Arodus 3:** departure after the Coconut Beach rest, stockade / spring / spyglass sequence, first Riptide Cove assault, retreat, and post-assault long rest.
+- **Arodus 4:** party split after the rest; Rak and Sho return toward the Man's Promise while Harvus and Mirei return to Riptide Cove; successful rescue and final split-session branches.
+
+Exact clock times before the final split session remain unresolved. The final-session branch times can be retained unchanged if the day is corrected from Arodus 5 to Arodus 4.
+
+## Current Handling
+
 - Keep the three-rest sequence locked.
-- Keep the stockade and first failed Riptide assault in the same active day.
+- Keep the stockade and first failed Riptide Cove assault in the same active day.
 - Do not create a separate stockade rest.
-- Treat exact clock times before the final session as unresolved.
-- Treat final-session minute stamps as approximate within their individual branches.
-- Reopen the date only if independent Harvus, Sho, or Rak narrative evidence creates an unavoidable contradiction rather than merely a different inferred schedule.
+- Preserve `Aeodus 5th` in raw evidence as the historical session label.
+- Treat **Arodus 4** as the leading objective chronology.
+- Treat **Arodus 5** as the likely historical one-day date-entry error.
+- Do not bulk-patch all current-state files until the GM explicitly locks the one-day retcon after reviewing `chronology/bonewrack-final-session-date-audit.md`.
