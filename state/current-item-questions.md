@@ -3,10 +3,11 @@
 ## Document Status
 
 - Type: Current-state ledger
-- Maturity: Working, reconciled through Riptide Cove map / AP pass
+- Maturity: Working, reconciled through Riptide Cove GM clarification
 - Scope: Items with continuity relevance at relaunch
 - Parent issue: GitHub issue #2
 - Cave reconstruction: `chronology/bonewrack-riptide-cove-map-and-item-reconstruction.md`
+- GM clarification: `evidence/gm-notes/riptide-cove-cauldron-and-item-clarifications.md`
 
 ## Purpose
 
@@ -21,54 +22,57 @@ It is not a treasure list. It is a continuity ledger.
 - Last confirmed holder: Harvus.
 - Evidence: Rak gave it to Harvus before the island search.
 - Cave handling: It did not enter Riptide Cove as part of Sandara's captive equipment.
-- Current state: **Harvus retains last confirmed possession.**
-- Open question: Did Harvus return it to Sandara after the preserved rescue endpoint or during later play?
-- Meaning: Tangible proof of Sandara's danger and a major emotional motivator for Harvus.
+- Current GM recollection: It may be back on Sandara by the cold open.
+- Current state: **Unresolved between Harvus and Sandara.**
+- Handling rule: Do not visually or mechanically assign it until direct evidence, inventory, or an explicit GM lock resolves the transfer.
+- Meaning: Tangible link between Rak's practical handoff, Harvus's rescue drive, and Sandara's survival.
 
 ### Besmara's Tricorne
 
-- AP scaffold placement: Sandara's tricorne begins among grindylow-held equipment in D3.
+- AP scaffold placement: initially held by grindylows in D3.
 - Campaign evidence:
   - a grindylow wears it during the first assault;
-  - the hat carrier escapes deeper;
-  - Harvus sees a hat-wearing grindylow in D8 during the successful return.
-- No surviving account records recovery.
-- Current state: **Unaccounted for after the D8 rescue; not confirmed in Sandara's possession.**
-- Open question: Did the carrier die, flee, or drop the tricorne during unrecorded combat?
-- Do not import the AP post-rescue tricorne gift scene without campaign evidence.
+  - the carrier escapes deeper;
+  - the hat appears again in D8;
+  - current GM belief is that the carrier escapes with the Queen.
+- Nobody returns to Riptide Cove after the rescue.
+- Current state: **Gone with the fleeing hat carrier; not in Sandara's possession.**
+- Future hook: The hat carrier may return with the Queen.
+- Do not import the AP post-rescue tricorne gift scene.
 
 ### Rak's +1 Returning Spear
 
-- Last confirmed use: Harvus kills the Whale with it during the captive ascent.
-- Last confirmed event: Harvus loses it while answering Mirei's message and fails to catch it with his feet.
-- Current state: **Presumed lost in the D8 Cauldron.**
-- Rules-continuity note: Harvus dropped the weapon rather than throwing it as an attack, so the returning property does not by itself establish that it returned.
-- Distinction: Do not conflate Rak's spear with the Brinebrood Queen's separate AP returning harpoon.
-- Open question: Was the spear recovered later from D8 or restored by later inventory correction?
+- Last confirmed use: Harvus braces it against the Whale's upward charge and kills the Whale with an actual critical hit and triple damage.
+- Later event: The spear falls to the bottom of D8 among unrecovered objects.
+- Nobody returns to the cave.
+- Current state: **Lost at the bottom of the Cauldron.**
+- Rules-continuity note: The weapon was dropped rather than thrown as a returning attack, so its returning property does not recover it.
+- Distinction: Do not conflate Rak's spear with the Brinebrood Queen's separate returning harpoon.
 
-### Harvus' Flail
+### Harvus's Flail
 
-- Last confirmed holder during rescue: Tilly, after Harvus cut her free.
-- Harvus later explicitly believed Tilly had lost his weapon during the ascent.
-- Current state: **Presumed lost in D8.**
-- Tilly should not appear at the fork carrying it unless later inventory or direct evidence overrides Harvus' account.
-- Open question: Was it recovered from the Cauldron later?
+- Last confirmed transfer: Harvus gives the flail to Tilly after freeing her.
+- Current GM ruling: The flail is Tilly's weapon entering the cold open.
+- Current state: **Held by Tilly.**
+- Relaunch use: Tilly carrying Harvus's flail is visible proof of the rescue and the improvised underwater escape.
 
 ### Captive Equipment in D8
 
 - AP scaffold places captive equipment on the Cauldron floor.
 - Campaign evidence does not preserve a post-fight search or equipment recovery.
-- Current state: Sandara and Tilly may remain missing some or most equipment.
+- Most of the island and cave complex was not looted.
+- Nobody returned to Riptide Cove after the rescue.
+- Current state: Sandara and Tilly may remain missing some or most other equipment.
 - Do not grant AP-listed gear, silver ingots, or treasure without table evidence.
 
 ### Brinebrood Queen's Returning Harpoon
 
 - AP scaffold: the Queen carries a separate returning harpoon.
 - Current campaign outcome: the Queen survives and flees after the Whale dies.
-- Current state: **Presumed retained by the Queen.**
+- Current state: **Retained by the Queen.**
 - Do not add it to PC treasure without disarm, drop, or recovery evidence.
 
-### Harvus' Ring and Necklace
+### Harvus's Ring and Necklace
 
 - Last known: Harvus recovered them during the Wormwood phase.
 - Open question: Is the necklace the same one later given to Sandara, or a separate item?
@@ -114,21 +118,18 @@ Also listed above because of Harvus continuity.
 
 Items should surface continuity rather than distract from it.
 
-Examples:
-
-- Sandara's holy symbol can reconnect Harvus' rescue to Rak's earlier handoff.
-- The lost returning spear ties Rak materially to Harvus' Whale kill and creates a debt without contradicting its magic.
-- Harvus' missing flail reinforces the cost and disorder of the underwater rescue.
-- The missing tricorne remains a concrete unresolved remnant of the grindylow fight.
+- Tilly carries Harvus's flail.
+- Rak's spear remains lost in the Cauldron and creates a material debt between Rak and Harvus.
+- Sandara lacks the tricorne because its carrier escaped with the Queen.
+- The holy symbol remains visually unresolved between Harvus and Sandara.
+- The Queen retains her returning harpoon.
 - The Tidal Cutlass can expose Plugg's role in Goyle's capture.
 
 ## Open Questions Summary
 
-- Did Harvus later return Sandara's holy symbol?
-- What became of the hat-wearing grindylow and tricorne?
-- Was Rak's spear recovered after the preserved endpoint?
-- Was Harvus' flail recovered after the preserved endpoint?
-- What other captive equipment, if any, was recovered from D8?
+- Is Sandara's holy symbol currently with Harvus or Sandara?
+- What happened to the hat carrier after escaping with the Queen?
+- What other captive equipment, if any, was recovered outside the preserved rescue sequence?
 - Confirm Rosie's fiddle fate.
 - Confirm whether Grok gave Rak a material parting gift.
 - Confirm who controls the Tidal Cutlass if Plugg falls.
