@@ -18,6 +18,7 @@ Historical live-session labels used Arodus 5. The objective date is corrected by
 
 - `chronology/bonewrack-arodus-1-to-4-memory-spine.md`
 - `chronology/bonewrack-arodus-4-date-lock.md`
+- `chronology/bonewrack-riptide-cove-map-and-item-reconstruction.md`
 - `state/arodus-5-current-state-tableau.md` (legacy filename, Arodus 4 content)
 - `chronology/arodus-5-split-scenes.md` (legacy filename, Arodus 4 content)
 
@@ -37,7 +38,14 @@ Historical live-session labels used Arodus 5. The objective date is corrected by
 
 This group is returning from the rescue and approaching the fork in the jungle path.
 
-Harvus carries Sandara. Goyle supports Tilly. Sandara's exact consciousness remains limited. Harvus used Rak's magical spear to kill the Whale; the spear's final state remains unresolved.
+Harvus carries Sandara. Goyle supports Tilly. Sandara's exact consciousness remains limited.
+
+Riptide item state:
+
+- Rak's +1 returning spear is presumed lost in the D8 Cauldron after Harvus dropped it while answering Mirei's message.
+- Harvus' flail is presumed lost in D8 after Tilly lost it during the ascent.
+- Sandara's tricorne is not confirmed recovered; the hat-wearing grindylow survived the first assault into D8, and no account records recovery.
+- Sandara's holy symbol remains last confirmed with Harvus.
 
 Goyle warns that Plugg and Scourge planned to eliminate troublesome PCs. Mirei has confessed that Plugg tasked her with killing or betraying the others, but she did not act on it.
 
@@ -106,6 +114,7 @@ The relaunch begins with simultaneous split scenes:
 - Sho does not know the rescue outcome or Rak's inland state.
 - Plugg and Scourge's knowledge of the rescue group's survival remains unresolved.
 - Rak/Giffer culpability remains GM-only without in-game proof.
+- Queen survival is GM truth; direct witness of her escape is not automatically shared.
 
 ## Relaunch Constraint
 
