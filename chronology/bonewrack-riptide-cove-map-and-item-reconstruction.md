@@ -9,7 +9,7 @@
 - Player-facing status: Not player-facing by default
 - Controlling chronology: `chronology/bonewrack-arodus-1-to-4-memory-spine.md`
 - AP scaffold: `evidence/ap/riptide-cove-map-and-encounter-scaffold.md`
-- Canon status: Route findings below are locked where map connectivity and multiple player accounts agree. Exact squares, casualties, current direction, and some item recovery remain qualified.
+- Canon status: Route findings below are locked where map connectivity and multiple player accounts agree. Exact squares, casualties, current direction, and some later item recovery remain qualified.
 
 ## Evidence Order for This Pass
 
@@ -42,13 +42,7 @@ The first assault therefore did not begin by entering through D2 from the sea.
 
 Rak remembers taking the cave where water flowed outward. Sho remembers the selected cave as having water flowing inward.
 
-This does not indicate different physical entrances. Both accounts describe the D1-to-D3 choice, but they may describe current relative to:
-
-- D1;
-- the tunnel interior;
-- the open sea;
-- the direction the swimmers faced;
-- or the tide at that moment.
+This does not indicate different physical entrances. Both accounts describe the D1-to-D3 choice, but they may describe current relative to D1, the tunnel interior, the open sea, the direction faced, or the tide at that moment.
 
 The AP map and text do not preserve the tide phase or instantaneous current direction during the played scene. Lock **D3 entry**, but leave `inflow` / `outflow` terminology unresolved.
 
@@ -70,12 +64,7 @@ This is a strong map-to-play match.
 - Rak kills the remaining two and recovers Sho.
 - Harvus fights deeper in the chamber and estimates roughly eleven grindylows overall.
 
-The exact eleven-count cannot be derived from the AP's D3 population alone. Possibilities include:
-
-- reinforcements from another chamber, most plausibly D7;
-- campaign-adjusted creature counts;
-- Harvus counting opponents seen across more than one exchange;
-- or retrospective overcount under poor visibility.
+The exact eleven-count cannot be derived from the AP's D3 population alone. Possibilities include reinforcements from another chamber, campaign-adjusted creature counts, Harvus counting opponents across more than one exchange, or retrospective overcount under poor visibility.
 
 Do not reduce Harvus's memory to eight merely because the AP baseline says eight.
 
@@ -94,11 +83,7 @@ This links D3 to D8 without proving the creature's exact route or final fate.
 
 Harvus advances beyond Sho and Rak's rear fight, withdraws into a side tunnel, drinks a potion, kills pursuing grindylows, and returns toward the entrance.
 
-The accounts place his collapse:
-
-- after he returns toward Rak;
-- during the withdrawal;
-- before the party completes the D2 swim to the open sea.
+The accounts place his collapse after he returns toward Rak, during the withdrawal, and before the party completes the D2 swim to the open sea.
 
 The best current placement is near the D3 / D1-side retreat transition, not at the Cauldron and not after the party had already reached the cliff. Exact square remains unresolved.
 
@@ -112,12 +97,7 @@ The best current placement is near the D3 / D1-side retreat transition, not at t
 4. Exit to the open sea.
 5. Regain the cliff / shore and recover the rope.
 
-This matches:
-
-- Rak's statement that he carried Harvus through the other cave into the open ocean;
-- Sho's account of braving the current through the other tunnel;
-- the map's only direct D1-to-open-sea connection;
-- and the AP description of D2 as a long, always-flooded, churning neck.
+This matches Rak's statement that he carried Harvus through the other cave into the open ocean, Sho's account of braving the current through the other tunnel, the map's only direct D1-to-open-sea connection, and the AP description of D2 as a long, always-flooded, churning neck.
 
 ## Second Assault Route
 
@@ -135,12 +115,7 @@ The four sentries are an exact match between Harvus's account, the AP D2 populat
 
 Harvus describes reaching a chamber with three possible exits and hearing creatures through only one route.
 
-D3 is the strongest candidate because:
-
-- it lies directly after D1 on the return route;
-- the first assault had already broken its defenders;
-- it functions as a major junction into the inner cave system;
-- and the previously occupied tunnels now seem eerily empty.
+D3 is the strongest candidate because it lies directly after D1 on the return route, the first assault had already broken its defenders, it functions as a major junction into the inner cave system, and the previously occupied tunnels now seem eerily empty.
 
 This remains a strong inference rather than an exact recovered room label.
 
@@ -220,13 +195,7 @@ The strongest sequence is Harvus's detailed mechanical account:
 
 ### AP compatibility
 
-The AP gives the Whale:
-
-- bite;
-- grab;
-- swallow whole;
-- confinement to D8;
-- and death-fight morale.
+The AP gives the Whale bite, grab, swallow whole, confinement to D8, and death-fight morale.
 
 Those mechanics closely match Harvus's remembered ascent fight. The AP does **not** require the Whale to die before the captives are freed.
 
@@ -254,10 +223,9 @@ The orange VTT movement ruler cannot identify her escape path without actor / tu
 
 ### Strongly supported
 
-- Four D2 sentries killed by Harvus during the second assault.
+- Four D2 ocean-watch sentries killed by Harvus during the second assault.
 - Four rear attackers in the first D3 fight: two killed by Sho and two by Rak.
 - Several additional grindylows killed by Harvus during the first assault.
-- Four sea-entry sentries killed during the second assault.
 - Hat carrier survives the first assault long enough to appear in D8.
 
 ### Still unresolved
@@ -297,11 +265,7 @@ Current reconstruction:
 
 AP baseline places the tricorne in D3.
 
-Campaign sequence moves it onto a grindylow:
-
-- worn in D3 during the first assault;
-- carrier flees;
-- hat seen again in D8 during the second assault.
+Campaign sequence moves it onto a grindylow: worn in D3 during the first assault, carrier flees, and the hat is seen again in D8 during the second assault.
 
 No surviving account records recovery.
 
@@ -328,24 +292,13 @@ Current reconstruction:
 
 The AP Queen carries a separate returning harpoon.
 
-Because the Queen survives and flees under current canon:
-
-- presume the harpoon leaves with her unless disarm, drop, or recovery evidence appears;
-- do not add it to PC treasure.
+Because the Queen survives and flees under current canon, presume the harpoon leaves with her unless disarm, drop, or recovery evidence appears. Do not add it to PC treasure.
 
 ### Other AP treasure and captive gear
 
 No surviving account records a deliberate post-fight search or treasure collection.
 
-Do not grant:
-
-- D4, D5, D7, or D8 treasure;
-- silver ingots;
-- captive equipment scattered on the D8 floor;
-- Queen gear;
-- or AP story-reward items
-
-without table evidence.
+Do not grant D4, D5, D7, or D8 treasure, silver ingots, captive equipment scattered on the D8 floor, Queen gear, or AP story-reward items without table evidence.
 
 Sandara and Tilly may therefore remain missing some or most equipment after rescue.
 
