@@ -3,9 +3,10 @@
 ## Document Status
 
 - Type: Current-state ledger
-- Maturity: Working, reconciled through Riptide Cove GM clarification
+- Maturity: Working, reconciled through island route and Riptide Cove clarification
 - Scope: Items with continuity relevance at relaunch
 - Parent issue: GitHub issue #2
+- Island route reconstruction: `chronology/bonewrack-c3-c8-route-and-location-reconstruction.md`
 - Cave reconstruction: `chronology/bonewrack-riptide-cove-map-and-item-reconstruction.md`
 - GM clarification: `evidence/gm-notes/riptide-cove-cauldron-and-item-clarifications.md`
 
@@ -30,11 +31,12 @@ It is not a treasure list. It is a continuity ledger.
 ### Besmara's Tricorne
 
 - AP scaffold placement: initially held by grindylows in D3.
-- Campaign evidence:
-  - a grindylow wears it during the first assault;
-  - the carrier escapes deeper;
-  - the hat appears again in D8;
-  - current GM belief is that the carrier escapes with the Queen.
+- Campaign sequence:
+  - first seen through the fixed C8 spyglass;
+  - worn by a grindylow during the first assault;
+  - carrier escapes deeper;
+  - hat appears again in D8;
+  - carrier escapes with the Queen.
 - Nobody returns to Riptide Cove after the rescue.
 - Current state: **Gone with the fleeing hat carrier; not in Sandara's possession.**
 - Future hook: The hat carrier may return with the Queen.
@@ -54,7 +56,15 @@ It is not a treasure list. It is a continuity ledger.
 - Last confirmed transfer: Harvus gives the flail to Tilly after freeing her.
 - Current GM ruling: The flail is Tilly's weapon entering the cold open.
 - Current state: **Held by Tilly.**
-- Relaunch use: Tilly carrying Harvus's flail is visible proof of the rescue and the improvised underwater escape.
+- Relaunch use: Tilly carrying Harvus's flail is visible proof of the rescue and improvised underwater escape.
+
+### Rak's Spyglass
+
+- AP scaffold: a weathered spyglass is fixed to the C8 stockade wall and aimed at Riptide Cove.
+- Campaign evidence: Rak later calls it his `spiffy new spyglass` and uses it at the route fork to inspect the cornfield.
+- Strongest reconstruction: Rak removed the C8 spyglass and retained it.
+- Current state: **Presumed held by Rak unless later confiscation or inventory evidence says otherwise.**
+- Meaning: One of the few specifically supported island acquisitions and the tool used for both route reconnaissance and the first tricorne sighting.
 
 ### Captive Equipment in D8
 
@@ -122,12 +132,14 @@ Items should surface continuity rather than distract from it.
 - Rak's spear remains lost in the Cauldron and creates a material debt between Rak and Harvus.
 - Sandara lacks the tricorne because its carrier escaped with the Queen.
 - The holy symbol remains visually unresolved between Harvus and Sandara.
+- Rak likely carries the stockade spyglass.
 - The Queen retains her returning harpoon.
 - The Tidal Cutlass can expose Plugg's role in Goyle's capture.
 
 ## Open Questions Summary
 
 - Is Sandara's holy symbol currently with Harvus or Sandara?
+- Does Rak still have the C8 spyglass at the cold open?
 - What happened to the hat carrier after escaping with the Queen?
 - What other captive equipment, if any, was recovered outside the preserved rescue sequence?
 - Confirm Rosie's fiddle fate.
