@@ -1,23 +1,25 @@
-# Arodus 5 Current-State Tableau
+# Arodus 4 Current-State Tableau
 
 ## Document Status
 
 - Type: GM-side current-state / branch tableau
-- Maturity: Working staging reference
-- Scope: Arodus 5 cold-open actor locations, branch knowledge, active pressures, and merge blockers
+- Maturity: Working staging reference, date-corrected
+- Parent issue: GitHub issue #2
+- Scope: Arodus 4 cold-open actor locations, branch knowledge, active pressures, and merge blockers
 - Player-facing status: Not player-facing by default
 - Spoiler status: Contains split-branch information, hidden betrayal structure, and GM-only knowledge boundaries
-- Canon status: Current reconstruction based on `chronology/book-one-late-wormwood-to-arodus-5-bridge.md`, `chronology/late-wormwood-to-arodus-5-bridge.md`, `chronology/ap-gm-baseline-timeline.md`, and preserved Mirei player-cache summaries
-- Date: **Arodus 5, 4712 AR**
+- Canon status: Current reconstruction governed by `chronology/bonewrack-arodus-1-to-4-memory-spine.md` and `chronology/bonewrack-arodus-4-date-lock.md`
+- Date: **Arodus 4, 4712 AR**
+- Legacy filename note: The path retains `arodus-5` temporarily to avoid uncontrolled reference breakage. The filename is not the objective date.
 - Use rule: Use this file before updating NPC locations, cold-open packets, encounter staging, or dossier current-state summaries.
-- Runnable fork encounter: `gm-packets/arodus-5-fork-encounter.md`
+- Runnable fork encounter: `gm-packets/arodus-5-fork-encounter.md` retains the historical filename and requires date-label review before use.
 
 ## Current Branch Summary
 
 | Branch | Current state | Confirmed / working actors | Confidence | Knowledge boundary |
 |---|---|---|---|---|
-| Riptide rescue return | Harvus and Mirei have rescued Tilly and Sandara from Riptide Cove; Goyle has surfaced alive and joined them; the group is returning toward the boat / ship crisis. | Harvus G'ron, Mirei, Sandara Quinn, Tilly Brackett, Goyle Onórach | High | This group knows Goyle's accusation against Plugg and Mirei's confession that Plugg tasked her with killing the others. Rak and Sho do not know this yet unless later communication occurs. |
-| Rak / Syl supply party | Scourge sent Syl to lead a recovery party for food/water. The party passed Coconut Beach, left Fipps there, and pushed inland. Rak hears something ahead at the current endpoint. | Rak Wraithraiser, Slippery Syl Lonegan, Shivikah, Jaundiced Jape; Fipps Chumlett at Coconut Beach | High | This branch does not know the full Riptide rescue testimony or Sho/Kahina bargain. Rak knows the route, Syl's threats, and the immediate island hazards. |
+| Riptide rescue return | Harvus and Mirei have rescued Tilly and Sandara from Riptide Cove; Goyle has surfaced alive and joined them; the group is returning toward the fork / ship crisis. | Harvus G'ron, Mirei, Sandara Quinn, Tilly Brackett, Goyle Onórach | High | This group knows Goyle's accusation against Plugg and Mirei's confession that Plugg tasked her with killing the others. Rak and Sho do not know this yet unless later communication occurs. |
+| Rak / Syl supply party | Scourge sent Syl to lead a recovery party for food and water. The party passed Coconut Beach, left Fipps there, and pushed inland. Rak hears something ahead at the current endpoint. | Rak Wraithraiser, Slippery Syl Lonegan, Shivikah, Jaundiced Jape; Fipps Chumlett at Coconut Beach | High | This branch does not know the full Riptide rescue testimony or Sho/Kahina bargain. Rak knows the route, Syl's threats, and the immediate island hazards. |
 | Sho / Man's Promise hot-box | Sho is confined in or around the hot-box. Kahina has identified herself as Sho's guard and tested Sho with a life-for-life repentance bargain. | Sho Astor, Kahina Bukekayo during the conversation | High for scene; medium for exact post-scene guard state | Sho knows Kahina's accusation, the ship's far-shore supply movement as told by Kahina, and the life-for-life bargain. She does not know the Riptide rescue outcome or Rak branch position unless later told. |
 | Man's Promise command / ship | Plugg and Scourge retain formal control but have not secured supplies or the returning island situation. The ship is damaged and politically unstable. | Mr. Plugg, Master Scourge, remaining shipboard crew and survivors | Medium | Exact shipboard positions and who supports whom remain unresolved pending NPC/current-location audit. |
 | Coconut Beach rendezvous | The Man's Promise is expected to meet the supply effort at Coconut Beach; Fipps was left there by Syl. | Fipps Chumlett; Man's Promise expected later | Medium | Timing relative to the fork collision is unresolved. |
@@ -26,26 +28,26 @@
 
 | Actor | Current placement | Status | Confidence | Notes / blockers |
 |---|---|---|---|---|
-| Harvus G'ron | Riptide rescue return branch | Active, returning with rescued captives | High | Carries / aids Sandara depending exact staging; knows Goyle testimony and Mirei confession. |
+| Harvus G'ron | Riptide rescue return branch | Active, returning with rescued captives | High | Carries Sandara; knows Goyle testimony and Mirei confession. |
 | Mirei | Riptide rescue return branch | Active, returning after confession | High | Confessed Plugg's kill-task to the rescue-side group; exact emotional fallout remains packet/dossier work. |
-| Sandara Quinn | Riptide rescue return branch | Rescued; unconscious or barely conscious in source opening | High | Initial storm abductee. Exact current consciousness at cold-open moment may need staging call. |
-| Tilly Brackett | Riptide rescue return branch | Rescued, shocked by Mirei confession | High | Initial storm abductee. Knows rescue-side confession. |
+| Sandara Quinn | Riptide rescue return branch | Rescued; unconscious or barely conscious in the preserved scene | High | Initial storm abductee. Exact current consciousness at the cold-open moment may need staging call. |
+| Tilly Brackett | Riptide rescue return branch | Rescued and injured | High | Initial storm abductee. Knows rescue-side confession. |
 | Goyle Onórach | Riptide rescue return branch | Rescued / self-recovered from Riptide; casts lot with Harvus and Mirei | High | Captured later than Sandara/Tilly; testifies Plugg knocked him overboard with the Tidal Cutlass. |
 | Rak Wraithraiser | Rak / Syl supply party | Active inland, hearing something ahead | High | Does not know Mirei confession or Sho/Kahina bargain yet. |
 | Slippery Syl Lonegan | Rak / Syl supply party | Commands supply party inland | High | Needs exact knowledge of Plugg's betrayal plan checked before dossier merge. |
-| Shivikah | Rak / Syl supply party | Active inland | High | Helped Rak during frog fight; exact loyalty at cold-open remains state-audit work. |
-| Jaundiced Jape | Rak / Syl supply party | Active inland | High | Landed final hit in frog fight; exact loyalty at cold-open remains state-audit work. |
+| Shivikah | Rak / Syl supply party | Active inland | High | Helped Rak during frog fight; exact loyalty at cold open remains state-audit work. |
+| Jaundiced Jape | Rak / Syl supply party | Active inland | High | Landed final hit in frog fight; exact loyalty at cold open remains state-audit work. |
 | Fipps Chumlett | Coconut Beach | Left behind by Syl to wait for ship | High | Do not place him in the inland branch unless later evidence moves him. |
 | Sho Astor | Man's Promise hot-box branch | Confined; has accepted Kahina's life-for-life bargain | High for confinement / bargain; medium for exact visible position | Need exact hot-box location, guard state, and restraints before encounter staging. |
 | Kahina Bukekayo | Man's Promise hot-box branch during conversation | Sho's guard / tester in source scene | Medium-high | Whether she remains guard after leaving is unresolved. |
 | Mr. Plugg | Man's Promise / command branch | In command, but politically exposed | Medium | Exact location at cold open unresolved; likely aboard or commanding ship operations unless later staging says otherwise. |
 | Master Scourge | Man's Promise / command branch | Enforcer / first mate | Medium | Issued supply-party order through Rak/Syl scene; exact location at cold open unresolved. |
-| Owlbear Hartshorn | Man's Promise / command branch or captain-space guard | Placement unresolved | Low-medium | Prior evidence places him near captain's space in Plugg's regime; exact Arodus 5 position unresolved. |
+| Owlbear Hartshorn | Man's Promise / command branch or captain-space guard | Placement unresolved | Low-medium | Prior evidence places him near captain's space in Plugg's regime; exact Arodus 4 position unresolved. |
 | Ebony Saable | Man's Promise survivor / shipboard unknown | Placement unresolved | Low | Known as Sho's referenced `monk man`; exact cold-open stance and location unresolved. |
 | Nor'gal | Man's Promise survivor / shipboard unknown | Placement unresolved | Low | Survivor anger thread tied to brother / Man's Promise deaths; exact cold-open stance unresolved. |
 | Dahrehn | Unknown | Placement unresolved | Low | Requires NPC/current-location audit. |
-| Merchiel V'giatore | Unknown / likely survivor bloc | Placement unresolved | Low | Earlier restrained Nor'gal from attacking Rak; exact Arodus 5 position unresolved. |
-| Ambrose Kroop | Man's Promise / practical survival axis | Placement unresolved | Medium-low | Likely important for food/water/survival politics; exact cold-open position unresolved. |
+| Merchiel V'giatore | Unknown / likely survivor bloc | Placement unresolved | Low | Earlier restrained Nor'gal from attacking Rak; exact Arodus 4 position unresolved. |
+| Ambrose Kroop | Man's Promise / practical survival axis | Placement unresolved | Medium-low | Important for food/water/survival politics; exact cold-open position unresolved. |
 
 ## Branch Knowledge Boundaries
 
@@ -96,7 +98,7 @@
 
 ## Current Safety / Secrecy Rules
 
-- Do not cross-contaminate Arodus 5 branch knowledge before in-game contact.
+- Do not cross-contaminate Arodus 4 branch knowledge before in-game contact.
 - Keep Rak/Giffer culpability GM-only unless proof emerges.
 - Keep Mirei's exact Plugg whispered command and alchemist-fire intent GM-only unless the GM exposes them.
 - Do not assume the Man's Promise survivor bloc supports Kahina unanimously.
@@ -118,27 +120,15 @@ Before updating individual NPC current-location files:
 
 | Blocker | Needed for | Next action |
 |---|---|---|
-| Exact Sho hot-box physical placement and guard state after Kahina leaves | Sho cold-open staging, Kahina dossier, encounter options | Trace final-session map/log or make GM ruling |
-| Current location of Plugg and Scourge | Shipboard encounter staging | Trace final-session shipboard scene or GM stage command positions |
+| Exact Sho hot-box physical placement and guard state after Kahina leaves | Sho cold-open staging, Kahina dossier, encounter options | Trace final-session map/log or make GM ruling only if required for play |
+| Current location of Plugg and Scourge | Shipboard encounter staging | Trace final-session shipboard scene or stage command positions later |
 | Current location of Owlbear | Shipboard threat / possible ally state | NPC & Crew State Audit |
 | Current location and stance of Ebony, Nor'gal, Merchiel, Dahrehn | Survivor bloc and mutiny politics | NPC & Crew State Audit |
-| Timing of Man's Promise arrival at Coconut Beach | Branch collision timing | Trace ship movement / final-session timing; GM ruling if absent |
-| Exact repair state of Man's Promise | Whether ship can sail / pressure clock | Check ship-state docs and AP/table repair evidence |
-| Whether Plugg/Scourge know Goyle survived | Ambush and confrontation staging | Trace Arodus 5 source; keep unknown until confirmed |
-| Which survivors support Kahina's bargain | Survivor bloc | NPC & Crew State Audit / GM ruling |
+| Timing of Man's Promise arrival at Coconut Beach | Branch collision timing | Trace ship movement / final-session timing; GM ruling only if required |
+| Exact repair state of Man's Promise | Whether ship can sail / pressure clock | Check ship-state docs and table repair evidence |
+| Whether Plugg/Scourge know Goyle survived | Ambush and confrontation staging | Keep unknown until confirmed |
+| Which survivors support Kahina's bargain | Survivor bloc | NPC & Crew State Audit / later GM staging |
 
 ## Recommended Next Step
 
-After this tableau, merge PC addenda in this order:
-
-1. Sho Astor
-2. Mirei
-3. Harvus G'ron
-4. Rak Wraithraiser
-
-Then merge supporting NPC/state addenda:
-
-1. Goyle Onórach
-2. Slippery Syl Lonegan
-3. Plugg / Scourge command state
-4. Kahina Bukekayo / Man's Promise survivor bloc
+Use `chronology/arodus-5-split-scenes.md` as the legacy-named within-day branch sequence after its Arodus 4 correction. Then route remaining NPC placement and ship viability work to the NPC & Crew State Audit.
