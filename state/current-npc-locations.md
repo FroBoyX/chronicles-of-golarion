@@ -3,10 +3,11 @@
 ## Document Status
 
 - Type: Current-state matrix
-- Maturity: Active working state, corrected to Arodus 4
+- Maturity: Active working state, corrected through Riptide Cove GM clarification
 - Scope: Relaunch positions around Bonewrack Isle and the Man's Promise
 - Current control source: `state/arodus-5-current-state-tableau.md` (legacy filename, Arodus 4 content)
 - Date authority: `chronology/bonewrack-arodus-4-date-lock.md`
+- Cave and item control: `chronology/bonewrack-riptide-cove-map-and-item-reconstruction.md`
 
 ## Purpose
 
@@ -41,19 +42,27 @@ Current Wormwood-origin split corrections:
 
 | Character | Status | Notes |
 |---|---|---|
-| Harvus G'ron | PC, alive | Returning from rescue; killed the Whale with Rak's spear; carrying Sandara. |
-| Mirei | PC, alive | Accompanied Harvus; confessed Plugg's task and noncompliance. |
-| Sandara Quinn | NPC, alive | Rescued; badly injured and of limited consciousness. Tricorne state remains open. |
-| Tilly Brackett | NPC, alive | Rescued; wounded; supported by Goyle. |
+| Harvus G'ron | PC, alive | Returning from rescue; killed the Whale with Rak's spear; carrying Sandara. Holy-symbol possession unresolved between Harvus and Sandara. |
+| Mirei | PC, alive | Accompanied Harvus; confessed Plugg's task and noncompliance; witnessed the Queen and hat-wearing grindylow flee. |
+| Sandara Quinn | NPC, alive | Rescued; badly injured and of limited consciousness. Does not have the tricorne, which escaped with the hat carrier. Holy-symbol possession remains unresolved. |
+| Tilly Brackett | NPC, alive | Rescued; wounded; supported by Goyle; carries Harvus's flail as her current weapon. |
 | Goyle Onorach | NPC, alive | Rescued; former quartermaster; can testify against Plugg. |
 
 This branch approaches the fork and knows Goyle's accusation and Mirei's confession.
+
+Riptide item state:
+
+- Rak's returning spear remains at the bottom of D8.
+- The tricorne escaped with the hat-wearing grindylow and the Queen.
+- Tilly retains Harvus's flail.
+- The Queen retains her returning harpoon.
+- Nobody returned to Riptide Cove after the rescue.
 
 ## Bonewrack Isle — Moving Supply Party
 
 | Character | Status | Notes |
 |---|---|---|
-| Rak Wraithraiser | PC, alive | Guiding hostile / semi-hostile party; hears something ahead. |
+| Rak Wraithraiser | PC, alive | Guiding hostile / semi-hostile party; hears something ahead; does not yet know the rescue outcome or spear loss. |
 | Shivikah | NPC, alive | Helped Rak during the frog fight; loyalty remains open. |
 | Slippery Syl Lonegan | NPC, alive | Assigned leader; needs Rak alive; left Fipps at Coconut Beach. |
 | Jaundiced Jape | NPC, alive | Silent hostile pressure; remains with Syl and Rak. |
@@ -137,9 +146,12 @@ This branch does not know the rescue-side testimony or Sho/Kahina bargain.
 
 | Entity | Status | Notes |
 |---|---|---|
-| The Whale | Dead | Killed by Harvus with Rak's spear. |
-| Brinebrood Queen | Alive, fled | Future revenge thread; direct visibility remains open. |
-| Remaining Grindylows | Scattered / unknown | Organized defense broken. |
+| The Whale | Dead | Killed by Harvus's actual critical hit during his descent into D8, before the captives were freed. |
+| Brinebrood Queen | Alive, fled | Mirei witnessed the flight; Queen retains her returning harpoon. |
+| Hat-wearing grindylow | Alive, fled | Believed to have escaped with the Queen while carrying Sandara's tricorne. |
+| Devilfish | Alive unless later evidence says otherwise | Moved into D8 by the GM; fed on the Whale's corpse. |
+| Summoned octopus | Dead | Killed during the Cauldron rescue. |
+| Remaining grindylows | Fled / scattered | Organized defense broken after the Whale died. |
 
 ## Open Reconstruction Questions
 
@@ -151,5 +163,6 @@ This branch does not know the rescue-side testimony or Sho/Kahina bargain.
 - Each named survivor's stance toward Sho, Plugg, Scourge, Kahina, and Goyle.
 - Man's Promise arrival relative to the fork collision.
 - Whether the ship can operate after mutiny under the Crew 20 reference.
+- Final holder of Sandara's holy symbol.
 
-These questions belong to NPC & Crew State Audit and cold-open staging. They do not affect the Arodus 4 chronology.
+These questions belong to NPC & Crew State Audit, item-state review, and cold-open staging. They do not affect the Arodus 4 chronology.
