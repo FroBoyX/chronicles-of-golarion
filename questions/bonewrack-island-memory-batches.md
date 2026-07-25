@@ -3,12 +3,11 @@
 ## Document Status
 
 - Type: Player-memory routing document
-- Maturity: Reconciled after player narratives and cave / item pass
+- Maturity: Reconciled after player narratives, map pass, and GM Cauldron clarification
 - Parent issue: GitHub issue #2
 - Scope: Only unresolved Bonewrack questions that may still benefit from character-specific discovery
 - Controlling chronology: `chronology/bonewrack-arodus-1-to-4-memory-spine.md`
 - Cave / item sub-control: `chronology/bonewrack-riptide-cove-map-and-item-reconstruction.md`
-- Control index: `chronology/bonewrack-control-and-impact-index.md`
 - Player-facing status: Each character's own questions are player-safe; do not send the full file to a player
 - Canon status: Questions only. Answers remain player memory unless corroborated or accepted by the GM
 
@@ -20,26 +19,32 @@
 - Preserve `I do not remember` as a valid answer.
 - Do not ask one player to determine another PC's actions, knowledge, or motives.
 - Do not reveal successful-rescue testimony or hidden branch knowledge to a character who did not receive it in play.
-- Do not reopen the Arodus 1-4 calendar.
+- Do not reopen the Arodus 1-4 calendar or the Riptide route / encounter order.
 
 ## Closed Questions
 
 Do not re-ask:
 
-- whether the frog encounter preceded the first camp;
-- whether all four PCs joined the first Riptide assault;
-- whether Sho killed two rear attackers and Rak rescued her;
-- whether Mirei revived Sho and lit Rak's trousers;
-- whether Rak physically recovered Harvus;
-- where the party camped and split;
-- whether Rak and Sho returned together;
-- whether Harvus and Mirei returned together;
-- the final Arodus 4 date;
-- which cave was used for first entry and escape;
-- whether the Whale died during the ascent after the captives were freed;
-- whether the small squid-like creature was the Queen's summoned octopus;
-- whether Tilly still carried Harvus's flail at the fork;
-- whether Rak's spear automatically returned after Harvus dropped it.
+- frog encounter placement;
+- four-PC participation in the first Riptide assault;
+- Sho's rear fight and Rak's rescue of her;
+- Mirei reviving Sho and lighting Rak's trousers;
+- Rak carrying Harvus;
+- burned-tree camp and morning split location;
+- Rak and Sho's return together;
+- Harvus and Mirei's second assault together;
+- the Arodus 4 date;
+- first cave entry and escape route;
+- first-entry current as a player-memory problem;
+- Whale timing or damage sequence;
+- squid versus octopus identification;
+- Queen survival and flight;
+- whether Mirei witnessed the flight;
+- whether the hat carrier escaped with the Queen;
+- whether the flail was lost;
+- whether Rak's spear returned or was later recovered;
+- whether the tricorne was recovered;
+- whether anyone returned to Riptide Cove.
 
 ## Harvus Character Discovery
 
@@ -47,20 +52,11 @@ Do not re-ask:
 
 `questions/harvus-player-narrative-beats.md`
 
-### Remaining questions
+### Remaining question, low priority
 
-1. Did Harvus directly see the Brinebrood Queen flee, or only see the angry female grindylow before entering the water?
-2. Where exactly does he remember losing consciousness relative to D3, D1, and the D2 sea neck?
-3. Did he later recover either the flail or Rak's spear after the preserved endpoint?
+1. Does Harvus remember losing consciousness in D3 or D7, or only waking later near the cliff?
 
-### Do not re-ask
-
-- whether Rak carried him;
-- where the party camped;
-- when the group split;
-- whether Mirei returned with him;
-- whether the Whale attacked during the ascent;
-- whether he believed Tilly lost the flail.
+Do not ask Harvus to reconstruct the Whale initiative order, Queen flight, flail state, or spear recovery. Those are now controlled by GM clarification and encounter state.
 
 ## Mirei Character Discovery
 
@@ -76,13 +72,12 @@ This remains the highest-value player-memory route.
 2. Which spell or effect did she use against the frogs at the broken bridge?
 3. During the first Riptide assault, what did she do after receiving unconscious Sho and before calling the retreat?
 4. During the successful return, what support did she provide at the sea entrance, junction, and Cauldron surface beyond the preserved invisibility potion, healing, light, and message effects?
-5. Did she directly see the Brinebrood Queen flee?
-6. What did she understand about Sandara's consciousness when she confessed Plugg's order?
+5. What did Mirei understand about Sandara's consciousness when she confessed Plugg's order?
 
 ### Safety handling
 
 - Hidden-flask intent remains Mirei/GM knowledge unless exposed in play.
-- Do not ask Mirei to decide Harvus's initiative order.
+- Do not ask Mirei to decide Harvus's combat order.
 - Do not reveal Rak/Sho branch events she had not learned.
 
 ## Rak Character Discovery
@@ -91,20 +86,11 @@ This remains the highest-value player-memory route.
 
 `questions/rak-player-narrative-beats.md`
 
-### Remaining questions
+### Remaining question, low priority
 
 1. Beyond the deliberately edited retrospective report, does Rak remember specific live replies or interruptions from Scourge during the village debrief?
-2. Did Rak later learn that Harvus dropped the spear in D8, and was it ever recovered after the preserved endpoint?
 
-### Do not re-ask
-
-- whether he participated in the first assault;
-- whether he rescued Sho;
-- whether he carried Harvus;
-- where the split occurred;
-- whether he returned with Sho;
-- which physical cave route the party used;
-- why the dropped spear did not immediately return.
+Do not ask Rak to resolve cave geometry, returning-weapon mechanics, or later cave recovery. Nobody returned to the cave and the spear remains in D8.
 
 ## Sho Character Discovery
 
@@ -118,39 +104,27 @@ This remains the highest-value player-memory route.
 2. What is Sho's final clear memory after Ebony's warning, her decision to kneel, and the last blow that rendered her unconscious?
 3. Does she remember reaching the Man's Promise conscious at any point, or is her next memory already in or around the hot-box?
 
-### Do not re-ask
+Do not ask Sho to resolve cave currents, route geometry, or encounter order.
 
-- whether she joined the first assault;
-- whether she went down;
-- whether Rak rescued her;
-- whether she returned with Rak;
-- why Harvus and Mirei separated from them;
-- which physical cave route the party used;
-- what happened during the village beating before she lost consciousness.
+## Evidence-First Check Still Required
 
-## Evidence-First Checks Still Required
+### Holy-symbol state
 
-### Inventory / later-log pass
+Before asking Harvus or Sandara-related discovery questions, check any surviving inventory or later direct scene for a transfer of Sandara's holy symbol.
 
-Check before asking about later recovery of:
+Current handling:
 
-- Rak's spear;
-- Harvus's flail;
-- Sandara's tricorne;
-- Sandara's holy symbol;
-- other captive gear.
-
-### Direct-chat pass
-
-Check the village confrontation and final-session chat before asking Rak or Sho to reconstruct exact Scourge dialogue or transition timing.
+- last confirmed holder: Harvus;
+- current GM recollection: possibly Sandara;
+- final cold-open holder: unresolved.
 
 ## Routing Status Summary
 
 | Character | Discovery ledger | Priority | Highest-value remaining subject |
 |---|---|---|---|
-| Harvus | `questions/harvus-player-narrative-beats.md` | Low | Queen visibility and exact collapse location |
+| Harvus | `questions/harvus-player-narrative-beats.md` | Very low | D3 versus D7 collapse memory |
 | Mirei | `questions/mirei-active-narrative-beats.md` | Highest | Hidden flask intent and exact cave support |
-| Rak | `questions/rak-player-narrative-beats.md` | Low | Scourge debrief details and later spear knowledge |
+| Rak | `questions/rak-player-narrative-beats.md` | Low | Scourge debrief details |
 | Sho | `questions/sho-player-narrative-beats-iterated.md` | Low | Last conscious memory after the village beating |
 
-Routine uncertainty may remain unresolved. None of these questions blocks the Arodus 4 chronology or issue #2 completion.
+Routine uncertainty may remain unresolved. None of these questions blocks the chronology or current cold open.
