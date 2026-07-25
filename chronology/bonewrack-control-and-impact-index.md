@@ -23,6 +23,18 @@ This is the single controlling Bonewrack chronology from the Erastus 31 storm th
 
 This controls the objective date. Historical source labels using `Aeodus 5th`, `Arodus 5`, or `Arodus 5th, 4701` remain preserved only as source metadata or quoted errors.
 
+### Current branch state
+
+`state/arodus-5-current-state-tableau.md`
+
+The filename is retained as a legacy path, but the document title, date, authority links, and active content now use **Arodus 4, 4712 AR**.
+
+### Within-day split sequence
+
+`chronology/arodus-5-split-scenes.md`
+
+The filename is retained as a legacy path, but the document title, date handling, and active chronology now use **Arodus 4, 4712 AR**.
+
 ## Supporting Documents
 
 These remain useful but do not independently control the current sequence:
@@ -51,12 +63,12 @@ These remain useful but do not independently control the current sequence:
 
 The following filenames contain `arodus-5` but may remain in place temporarily to avoid uncontrolled reference breakage:
 
-- `state/arodus-5-current-state-tableau.md`
-- `chronology/arodus-5-split-scenes.md`
-- `gm-packets/arodus-5-fork-encounter.md`
-- both late-Wormwood bridge filenames
+- `state/arodus-5-current-state-tableau.md` — content corrected.
+- `chronology/arodus-5-split-scenes.md` — content corrected.
+- `gm-packets/arodus-5-fork-encounter.md` — content review still required.
+- both late-Wormwood bridge filenames — endpoint correction still required.
 
-Their active content must use **Arodus 4, 4712 AR** for the objective chronology and must state that the filename preserves a historical label.
+A legacy filename does not control the objective date.
 
 ## Arodus 4 Propagation Inventory
 
@@ -64,12 +76,13 @@ Their active content must use **Arodus 4, 4712 AR** for the objective chronology
 
 - `chronology/bonewrack-arodus-1-to-4-memory-spine.md`
 - `chronology/bonewrack-arodus-4-date-lock.md`
-- preserved player-narrative evidence and chronology-impact notes
-
-### Active derived controls requiring correction or explicit legacy-label notes
-
 - `state/arodus-5-current-state-tableau.md`
 - `chronology/arodus-5-split-scenes.md`
+- `questions/bonewrack-island-memory-batches.md`
+- preserved player-narrative evidence and chronology-impact notes
+
+### Active derived controls still requiring correction or explicit legacy-label notes
+
 - `chronology/book-one-late-wormwood-to-arodus-5-bridge.md`
 - `chronology/late-wormwood-to-arodus-5-bridge.md`
 - `handoffs/chronicle-master-handoff.md`
@@ -111,9 +124,7 @@ Add correction notes only in derived controls and evidence extracts designed for
 
 ## Player-Memory Routing Status
 
-The prior broad batches are partly superseded by preserved Harvus, Rak, and Sho narratives.
-
-Remaining high-value routing is limited to:
+`questions/bonewrack-island-memory-batches.md` now routes only remaining high-value questions to the existing character-discovery ledgers:
 
 - **Mirei:** hidden-flask intent; exact first-retreat and Cauldron support actions; Queen visibility; frog spell identification.
 - **Rak:** cave-current terminology; actual Scourge report details beyond the edited narrative; current spear knowledge or item state.
@@ -126,9 +137,10 @@ Routine uncertainty may remain unresolved. Item possession, cave geometry, and Q
 
 Issue #2 is ready for completion handoff when:
 
-1. the active state tableau and split-scene chronology use Arodus 4;
-2. the active bridge and handoff documents no longer present Arodus 5 as objective chronology;
-3. the stale player-question routing is replaced with the narrowed routing above;
-4. remaining lower-level dossier and staging references are either corrected or inventoried for the next owner;
-5. branch knowledge boundaries remain unchanged;
-6. a final issue comment lists the controlling outputs, commits, preserved evidence, unresolved items, and next owner.
+1. the active bridge and handoff documents no longer present Arodus 5 as objective chronology;
+2. `tracking/open-questions.md` and the Bonewrack source-spine metadata defer to the Arodus 4 controls;
+3. remaining lower-level dossier and staging references are either corrected or inventoried for the next owner;
+4. branch knowledge boundaries remain unchanged;
+5. a final issue comment lists the controlling outputs, commits, preserved evidence, unresolved items, and next owner.
+
+The issue is not yet ready for `HANDOFF COMPLETE` while the active bridge and handoff documents remain stale.
