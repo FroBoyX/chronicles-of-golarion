@@ -30,13 +30,21 @@ Chronicle Master / GM canon authority, unless another approver is named here.
 
 The repository remains the source of truth. This issue coordinates ownership, scope, blockers, progress, commit references, and handoff status. Canonical facts must be written to the correct repository documents.
 
+Identify one controlling output per scope. Merge useful content from obsolete derived files, then delete or clearly supersede them rather than preserving duplicate active controls.
+
 ## Required sources
+
+- `path`
+
+## Controlling documents
 
 - `path`
 
 ## Expected outputs
 
-- `path`
+- Updated controlling path:
+- New path only if genuinely required:
+- Obsolete path expected to be deleted or superseded:
 
 ## Scope
 
@@ -48,7 +56,8 @@ The repository remains the source of truth. This issue coordinates ownership, sc
 
 ## Evidence / spoiler boundaries
 
-- Preserve raw evidence exactly.
+- Preserve retained raw evidence exactly.
+- Do not keep confirmed duplicate or valueless source noise when no unique text, metadata, or provenance would be lost.
 - Do not expose player-private or split-branch knowledge outside its permitted scope.
 - Do not promote player or GM memory to objective canon without the required review.
 
@@ -60,12 +69,17 @@ The repository remains the source of truth. This issue coordinates ownership, sc
 - Read long files completely before full-file replacement.
 - Update authoritative controls instead of creating unnecessary duplicates.
 - Inventory downstream references before canon/date/name/file corrections.
+- Remove stale derived controls from active routing after their useful content is merged.
 - Record commits and blockers in issue comments.
 - Follow `AGENTS.md` and `design/repository-agent-workflow.md`.
 
 ## Acceptance criteria
 
-- [ ] 
+- [ ] One controlling output is identified for each affected scope.
+- [ ] Useful source evidence and narrative nuance are preserved.
+- [ ] Known errors and stale derived references are corrected.
+- [ ] Duplicate or obsolete controls are deleted or explicitly superseded.
+- [ ] Active handoffs and indexes point only to current authorities.
 
 ## Claim protocol
 
@@ -76,7 +90,9 @@ The working agent should comment:
 
 - Agent/chat role:
 - Current task:
+- Controlling files:
 - Files expected to change:
+- Files expected to be deleted or superseded:
 - Immediate blockers:
 ```
 
@@ -111,9 +127,11 @@ The working agent should comment:
 - Controlling output:
 - Created paths:
 - Updated paths:
+- Deleted or superseded paths:
 - Commits:
 - Canon/date decisions applied:
 - Raw evidence preserved:
+- Noise or obsolete scaffolding removed:
 - Remaining unresolved questions:
 - Recommended next owner/task:
 ```
