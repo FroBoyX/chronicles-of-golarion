@@ -12,7 +12,7 @@
 - Date: **Arodus 4, 4712 AR**
 - Legacy filename note: The path retains `arodus-5` temporarily to avoid uncontrolled reference breakage. The filename is not the objective date.
 - Use rule: Use this file before updating NPC locations, cold-open packets, encounter staging, or dossier current-state summaries.
-- Runnable fork encounter: `gm-packets/arodus-5-fork-encounter.md` retains the historical filename and requires date-label review before use.
+- Runnable fork encounter: `gm-packets/arodus-5-fork-encounter.md` retains the historical filename but its active content is corrected to Arodus 4 and ready for table use.
 
 ## Current Branch Summary
 
@@ -127,4 +127,4 @@
 
 ## Recommended Next Step
 
-Use `chronology/arodus-5-split-scenes.md` for the within-day sequence and `chronology/bonewrack-riptide-cove-map-and-item-reconstruction.md` for cave and item truth. Route remaining shipboard placement and crew viability to the NPC & Crew State Audit.
+Use `chronology/arodus-5-split-scenes.md` for the within-day sequence, `chronology/bonewrack-riptide-cove-map-and-item-reconstruction.md` for cave and item truth, and `gm-packets/arodus-5-fork-encounter.md` for the runnable Arodus 4 collision. Route remaining shipboard placement and crew viability to the NPC & Crew State Audit.
