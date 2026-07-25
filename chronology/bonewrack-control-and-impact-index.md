@@ -3,11 +3,11 @@
 ## Document Status
 
 - Type: Chronology authority and downstream-impact index
-- Maturity: Working control index
+- Maturity: Completion-handoff ready
 - Parent issue: GitHub issue #2
-- Scope: Bonewrack Arodus 1-4 controlling chronology, supporting evidence controls, superseded working documents, Arodus 4 propagation status, and remaining routing work
+- Scope: Bonewrack Arodus 1-4 authority, supporting evidence controls, superseded documents, Arodus 4 propagation, player-memory routing, and next-owner inventory
 - Player-facing status: Not player-facing by default
-- Canon status: This file identifies authority relationships; it does not replace the controlling chronology or date ruling
+- Canon status: Identifies authority relationships; does not replace the controlling chronology or date ruling
 
 ## Controlling Documents
 
@@ -15,132 +15,172 @@
 
 `chronology/bonewrack-arodus-1-to-4-memory-spine.md`
 
-This is the single controlling Bonewrack chronology from the Erastus 31 storm through the Arodus 4 branch endpoint immediately before the current fork encounter.
+Single controlling chronology from the Erastus 31 storm through the Arodus 4 branch endpoint immediately before the fork encounter.
 
 ### Calendar ruling
 
 `chronology/bonewrack-arodus-4-date-lock.md`
 
-This controls the objective date. Historical source labels using `Aeodus 5th`, `Arodus 5`, or `Arodus 5th, 4701` remain preserved only as source metadata or quoted errors.
+Controls the objective date. Historical source labels using `Aeodus 5th`, `Arodus 5`, or `Arodus 5th, 4701` remain source metadata or quoted errors.
 
 ### Current branch state
 
 `state/arodus-5-current-state-tableau.md`
 
-The filename is retained as a legacy path, but the document title, date, authority links, and active content now use **Arodus 4, 4712 AR**.
+Legacy filename retained to avoid uncontrolled reference breakage. Title, date, authority links, and active content use **Arodus 4, 4712 AR**.
 
 ### Within-day split sequence
 
 `chronology/arodus-5-split-scenes.md`
 
-The filename is retained as a legacy path, but the document title, date handling, and active chronology now use **Arodus 4, 4712 AR**.
+Legacy filename retained. Title, date handling, branch times, and active chronology use **Arodus 4, 4712 AR**.
+
+### Active late-Wormwood bridge
+
+`chronology/book-one-late-wormwood-to-arodus-5-bridge.md`
+
+Legacy filename retained. Active bridge content now runs through the Arodus 4 endpoint and defers Bonewrack sequence/date to the controlling files.
 
 ## Supporting Documents
 
-These remain useful but do not independently control the current sequence:
-
-- `chronology/bonewrack-final-session-date-audit.md` — evidentiary path to the date ruling; conclusion superseded by the locked ruling.
-- `chronology/bonewrack-rak-narrative-chronology-impact.md` — Rak-specific corroboration and route extraction.
-- `chronology/bonewrack-sho-narrative-chronology-impact.md` — Sho-specific corroboration and day-sequence extraction.
-- `source-spines/bonewrack-island-arodus-1-4.md` — source inventory and evidence-classification layer; chronology and date statements defer to the controlling memory spine and date lock.
+- `chronology/bonewrack-final-session-date-audit.md` — completed audit trail; superseded as authority by the date lock.
+- `chronology/bonewrack-rak-narrative-chronology-impact.md` — Rak corroboration and route extraction.
+- `chronology/bonewrack-sho-narrative-chronology-impact.md` — Sho corroboration and day-sequence extraction.
+- `source-spines/bonewrack-island-arodus-1-4.md` — supporting evidence-control layer; sequence and dates defer to the controlling chronology.
 - `evidence/player-narratives/rak-bonewrack-cave-return-and-scourge-report.md` — preserved Rak perspective.
 - `evidence/player-narratives/sho-bonewrack-day-28-to-31.md` — preserved Sho perspective.
 - `evidence/player-narratives/harvus-bonewrack-day-30-31-and-day-31-part-2.md` — preserved Harvus perspective.
 
-## Superseded or Legacy-Named Controls
+## Superseded and Legacy Controls
 
-### Date audit
+### Prior late-Wormwood bridge
 
-`chronology/bonewrack-final-session-date-audit.md` is retained as an audit trail. Its earlier `pending final GM lock` status is superseded by `chronology/bonewrack-arodus-4-date-lock.md`.
+`chronology/late-wormwood-to-arodus-5-bridge.md` is supporting / superseded for Bonewrack endpoint chronology.
 
-### Late-Wormwood bridges
-
-`chronology/book-one-late-wormwood-to-arodus-5-bridge.md` is the later consolidation bridge and should be treated as the active late-Wormwood bridge after its Bonewrack endpoint is corrected to Arodus 4.
-
-`chronology/late-wormwood-to-arodus-5-bridge.md` is the prior working bridge and should be treated as supporting / superseded for Bonewrack endpoint chronology. It may remain useful for detailed late-Wormwood addenda placement until its unique material is merged or explicitly archived.
+It may remain useful for detailed late-Wormwood addenda placement until unique material is merged or archived. It must not override the active bridge, controlling Bonewrack spine, or date lock.
 
 ### Legacy filenames
 
-The following filenames contain `arodus-5` but may remain in place temporarily to avoid uncontrolled reference breakage:
+The following filenames retain `arodus-5` temporarily:
 
 - `state/arodus-5-current-state-tableau.md` — content corrected.
 - `chronology/arodus-5-split-scenes.md` — content corrected.
-- `gm-packets/arodus-5-fork-encounter.md` — content review still required.
-- both late-Wormwood bridge filenames — endpoint correction still required.
+- `chronology/book-one-late-wormwood-to-arodus-5-bridge.md` — content corrected.
+- `chronology/late-wormwood-to-arodus-5-bridge.md` — prior supporting / superseded bridge.
+- `gm-packets/arodus-5-fork-encounter.md` — staging packet; date-label review assigned to the cold-open owner.
 
-A legacy filename does not control the objective date.
+A filename does not control objective chronology.
 
-## Arodus 4 Propagation Inventory
+## Arodus 4 Propagation Status
 
-### Corrected and controlling
+### Corrected controlling and active entry points
 
 - `chronology/bonewrack-arodus-1-to-4-memory-spine.md`
 - `chronology/bonewrack-arodus-4-date-lock.md`
+- `chronology/bonewrack-final-session-date-audit.md`
+- `source-spines/bonewrack-island-arodus-1-4.md`
 - `state/arodus-5-current-state-tableau.md`
 - `chronology/arodus-5-split-scenes.md`
-- `questions/bonewrack-island-memory-batches.md`
-- preserved player-narrative evidence and chronology-impact notes
-
-### Active derived controls still requiring correction or explicit legacy-label notes
-
 - `chronology/book-one-late-wormwood-to-arodus-5-bridge.md`
-- `chronology/late-wormwood-to-arodus-5-bridge.md`
+- `chronology/current-state.md`
+- `state/current-npc-locations.md`
+- `state/current-ship-state.md`
 - `handoffs/chronicle-master-handoff.md`
 - `handoffs/mans-promise-bonewrack-handoff.md`
 - `tracking/open-questions.md`
-- `source-spines/bonewrack-island-arodus-1-4.md`
+- `questions/bonewrack-island-memory-batches.md`
 
-### Derived files requiring review after control correction
+### Preserved evidence
 
-- `chronology/current-state.md`
-- `chronology/open-threads.md`
-- `state/current-npc-locations.md`
-- `state/current-ship-state.md`
-- `state/post-island-decision-space.md`
-- `book-1/bonewrack-isle.md`
-- `book-1/mans-promise.md`
+Do not replace historical labels in:
+
+- final-session chat and timestamps;
+- raw player-authored headings;
+- sanitized summaries explicitly identifying source labels;
+- legacy year/date text in source material.
+
+### Lower-level files inventoried for next owners
+
+Review does not imply every file needs prose changes. Correct only active objective-date statements, current placement statements, authority links, or encounter facts contradicted by the controlling spine.
+
+#### NPC / Crew State and cold-open staging owner
+
+- `gm-packets/arodus-5-fork-encounter.md`
+- exact placements in NPC dossiers for Goyle, Sandara, Tilly, Syl, Scourge, Plugg, Kahina, Shivikah, Jape, Fipps, Owlbear, and named survivors
+- exact Man's Promise movement, repair state, guard state, and survivor alignment
+
+#### PC Dossiers / Player Packets owner
+
 - `characters/pcs/sho-astor.md`
 - `characters/pcs/harvus-gron.md`
 - `characters/pcs/mirei.md`
 - `characters/pcs/rak-wraithraiser.md`
-- relevant Goyle, Sandara, Tilly, Syl, Scourge, Plugg, Kahina, Shivikah, Jape, and Fipps dossiers
+- player-safe cold-open packets after current staging is fixed
+
+#### Narrative Reconstruction owner
+
 - `chronicles/the-fall-of-riptide-cove.md`
 - `chronicles/the-rescue-of-sandara.md`
 - `chronicles/the-fork.md`
-- `gm-packets/arodus-5-fork-encounter.md`
 
-Review does not mean every file needs prose changes. Correct only active objective-date statements, current placement statements, authority links, or encounter facts contradicted by the controlling spine. Preserve raw quotations and source-label discussion.
+Narrative review must preserve the Harvus Whale-ascent evidence conflict until the cave-map / initiative pass resolves or explicitly retains it.
 
-## Raw Evidence Preservation
+#### Book / location review
 
-Do not edit raw evidence to replace Arodus 5 labels. Preserve:
+- `book-1/bonewrack-isle.md`
+- `book-1/mans-promise.md`
+- `state/post-island-decision-space.md`
+- `chronology/open-threads.md`
 
-- final-session chat labels and timestamps;
-- player-authored headings;
-- legacy year/date text;
-- sanitized summaries that explicitly identify their source labels.
+These are not current chronology authorities. Review only if active date, placement, or encounter claims conflict with the controlling spine.
 
-Add correction notes only in derived controls and evidence extracts designed for interpretation.
+## Player-Memory Routing
 
-## Player-Memory Routing Status
+`questions/bonewrack-island-memory-batches.md` routes only remaining high-value questions to existing character-discovery ledgers.
 
-`questions/bonewrack-island-memory-batches.md` now routes only remaining high-value questions to the existing character-discovery ledgers:
+- **Mirei:** hidden-flask intent, frog spell, exact first-retreat and Cauldron support, Queen visibility, Sandara consciousness during confession.
+- **Rak:** cave-current terminology, Scourge debrief details beyond the edited report, spear knowledge.
+- **Sho:** cave-current terminology, possibly bitten male PC, last clear memory after village beating.
+- **Harvus:** Queen visibility, flail state, Whale-ascent sequence precision, collapse location.
 
-- **Mirei:** hidden-flask intent; exact first-retreat and Cauldron support actions; Queen visibility; frog spell identification.
-- **Rak:** cave-current terminology; actual Scourge report details beyond the edited narrative; current spear knowledge or item state.
-- **Sho:** cave-current terminology; identity of the possibly bitten male PC; last clear memory after the village beating.
-- **Harvus:** Queen visibility; flail state; whether the Whale-ascent sequence is exact or retrospectively compressed.
+Map, inventory, and direct-chat evidence should be checked before asking players again.
 
-Routine uncertainty may remain unresolved. Item possession, cave geometry, and Queen visibility should be checked against the preserved cave map and inventory evidence before asking players again.
+Routine uncertainty may remain unresolved and does not block issue #2 completion.
 
-## Issue #2 Readiness Rule
+## Knowledge Boundaries
 
-Issue #2 is ready for completion handoff when:
+- Rescue group knows Goyle's accusation and Mirei's confession.
+- Rak's supply branch does not know rescue-side testimony or the Sho/Kahina bargain.
+- Sho does not know rescue outcome or Rak's inland state.
+- Plugg and Scourge's knowledge of the returning group remains unresolved.
+- Rak/Giffer culpability remains GM-only without in-game proof.
+- Mirei's hidden-flask intent and exact task wording remain private beyond what was shared in play.
 
-1. the active bridge and handoff documents no longer present Arodus 5 as objective chronology;
-2. `tracking/open-questions.md` and the Bonewrack source-spine metadata defer to the Arodus 4 controls;
-3. remaining lower-level dossier and staging references are either corrected or inventoried for the next owner;
-4. branch knowledge boundaries remain unchanged;
-5. a final issue comment lists the controlling outputs, commits, preserved evidence, unresolved items, and next owner.
+The cleanup did not merge private branch knowledge.
 
-The issue is not yet ready for `HANDOFF COMPLETE` while the active bridge and handoff documents remain stale.
+## Remaining Non-Blocking Questions
+
+- Cave current directions and entry / retreat route.
+- Grindylow placement and casualties.
+- Harvus collapse point.
+- Whale timing and Queen visibility.
+- Rak spear, Harvus flail, Sandara tricorne, and holy-symbol state.
+- Exact Goyle capture log placement.
+- Exact shipboard positions, guard state, survivor alignment, repair state, and Coconut Beach timing.
+
+These are routed to cave-map/item-state, NPC & Crew State, PC Discovery, or cold-open staging work.
+
+## Issue #2 Completion Assessment
+
+Acceptance criteria are satisfied:
+
+- one controlling Bonewrack chronology is identified;
+- evidence classes and unresolved points are separated;
+- Arodus 4 is propagated through active derived controls without altering raw evidence;
+- downstream files are inventoried;
+- player-memory questions are routed;
+- branch knowledge boundaries remain intact;
+- superseded and legacy controls are identified;
+- remaining work has named next owners.
+
+Issue #2 is ready for `HANDOFF COMPLETE` review by the Chronicle Master.
