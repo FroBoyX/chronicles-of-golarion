@@ -1,126 +1,166 @@
-# Bonewrack Island Memory — Targeted Player Question Batches
+# Bonewrack Island Memory — Remaining Player Question Routing
 
 ## Document Status
 
 - Type: Player-memory routing document
-- Maturity: Working
-- Scope: Targeted Arodus 1-4 sequence and location checks for the existing Harvus, Mirei, Rak, and Sho Character Discovery chats
-- Source spine: `source-spines/bonewrack-island-arodus-1-4.md`
-- Player-facing status: Each character's own batch is player-safe; do not send the full file to a player by default
-- Canon status: Questions only; answers remain player memory until corroborated or accepted by the GM
+- Maturity: Reconciled after Harvus, Rak, and Sho narrative intake
+- Parent issue: GitHub issue #2
+- Scope: Only unresolved Bonewrack questions that may still benefit from character-specific discovery
+- Controlling chronology: `chronology/bonewrack-arodus-1-to-4-memory-spine.md`
+- Control index: `chronology/bonewrack-control-and-impact-index.md`
+- Player-facing status: Each character's own questions are player-safe; do not send the full file to a player
+- Canon status: Questions only. Answers remain player memory unless corroborated or accepted by the GM
 
-## Use Rules
+## Routing Rules
 
-- Send only the relevant character batch through that character's existing Discovery chat.
-- Ask one small batch at a time. Short answers and uncertain fragments are useful.
-- Do not ask a player to decide what another PC did, knew, or intended.
+- Use the character's existing discovery ledger rather than starting a new general Bonewrack questionnaire.
+- Ask only after map, inventory, chat, or existing narrative evidence fails to resolve the point.
+- Send one small batch at a time.
 - Preserve `I do not remember` as a valid answer.
-- Do not convert one player's remembered sequence into global chronology without corroboration.
-- Skip a question when the existing Discovery chat has already answered it clearly.
-- Keep the Arodus 5 fork, hot-box bargain, and current combat staging outside these batches.
+- Do not ask one player to determine another PC's actions, knowledge, or motives.
+- Do not reveal successful-rescue testimony, hidden betrayal details, or other branch knowledge to a character who did not receive it in play.
+- Do not reopen the Arodus 1-4 calendar. The endpoint is locked to Arodus 4, 4712 AR.
+- Keep the fork encounter, Sho/Kahina bargain, and post-endpoint staging outside this routing file except where a character's own last memory is needed.
 
-## Harvus Character Discovery — Bonewrack Sequence Check
+## Resolved By Preserved Narratives
 
-### Player-safe framing
+The following broad questions from the prior draft are closed and should not be re-asked:
 
-Your old light timeline preserves most of the island route, but several note labels and location transitions are ambiguous. These questions are only to clarify Harvus' own memory of the sequence.
+- frog encounter occurred before the first camp;
+- all four PCs participated in the first Riptide Cove assault;
+- Sho killed two rear attackers, went down, and was rescued by Rak;
+- Mirei revived Sho and cast light on Rak's trousers;
+- Rak physically recovered Harvus during the retreat;
+- the party returned to the burned-tree landmark and camped there;
+- the morning split occurred at the burned-tree camp;
+- Rak and Sho returned together to the original village;
+- Harvus and Mirei returned together to Riptide Cove;
+- Scourge ordered the village beating;
+- Sho was beaten unconscious;
+- the final objective date is Arodus 4, 4712 AR.
 
-1. During the Erastus 31 storm, do you remember Harvus working in the rigging first and then going below to bail water, or does the note compress those into the wrong order?
-2. On the first island push, did Rak's frog attack happen before the first camp and ghoul attack, or during the next travel period after that camp?
-3. After the foul tree / rotting camp was burned, what beach did Harvus think the group reached, and what do you remember about the lone humanoid mentioned in the note?
-4. Did Harvus first see Sandara's tricorne through a spyglass at the stockade, on a grindylow inside Riptide Cove, or both at different times?
-5. After the first Riptide assault failed, where did the group regroup or camp, and when did Harvus understand that Rak and Sho were returning toward the ship while Mirei would go back with him?
+## Harvus Character Discovery
 
-### Archive handling
+### Route to
 
-- Treat answers as `PLAYER-MEMORY-HARVUS`.
-- Harvus can clarify his own location, perception, and remembered sequence.
-- His answer should not by itself establish Mirei's, Rak's, or Sho's private intent.
+`questions/harvus-player-narrative-beats.md`
 
-## Mirei Character Discovery — First Expedition and Return
+### Ask only if map / item evidence does not resolve
 
-### Player-safe framing
+1. Did Harvus directly see the Brinebrood Queen flee, or did he only see the angry female grindylow before the underwater rescue?
+2. Does Harvus remember whether Tilly retained or lost his flail during the ascent?
+3. Is his remembered Whale sequence exact, with the Whale attacking during the ascent after the captives were freed, or might the retrospective entry compress initiative order?
+4. During the first cave retreat, where does Harvus remember losing consciousness relative to the tunnel junction and ocean exit?
 
-The surviving session summary confirms Mirei's first landing, hidden tree placement, and later return with Harvus, but it does not preserve her view of the route or the failed first assault.
+### Do not re-ask
 
-1. Was Mirei with the group for the full first Riptide Cove assault, including the water, hooked seaweed, Sho going down, and the retreat? What part does she remember most clearly?
-2. After that failed assault, where did the group rest or regroup, and what did Mirei understand Rak and Sho were going to do?
-3. Before entering Riptide Cove, does Mirei remember finding the stockade, fresh-water spring, fixed spyglass, fields, or any beach with coconuts or giant crabs? Which of those discoveries definitely happened before the first assault?
-4. When Mirei returned with Harvus, what did she actually do at the sea entrance and in the Cauldron: healing, message magic, distraction, fighting, receiving captives, or something else?
-5. Without sharing it beyond Mirei's own discovery record, what was the alchemist's fire in the tree meant to accomplish: obey Plugg, trap the others, warn someone, protect the camp, create a route marker, or something different?
+- whether Rak carried him;
+- where the party camped after the failed assault;
+- when the group split;
+- whether Mirei returned with him;
+- whether the final rescue was Day 31 in his relative sequence.
 
-### Archive handling
+## Mirei Character Discovery
 
-- Treat answers as `PLAYER-MEMORY-MIREI` and character-limited unless the player confirms Mirei shared them.
-- The hidden flask intent and Plugg task remain Mirei/GM knowledge until exposed in play or accepted into GM-side canon.
-- Do not use Mirei's answers to decide what Harvus understood about her motives at the time.
+### Route to
 
-## Rak Character Discovery — Route, Retreat, and Handoff
+`questions/mirei-active-narrative-beats.md`
 
-### Player-safe framing
+This is the highest-value remaining player-memory route.
 
-Rak clearly knew enough of Bonewrack to guide the later supply party, but the archive does not preserve exactly when he discovered each route feature or how he and Sho returned from the failed rescue attempt.
+### Open questions
 
-1. On the first expedition, which locations does Rak remember personally finding: the broken bridge, spring or stockade, cornfields, coconut beach, foul tree, spyglass, or written island notes?
-2. Was Rak present for the first Riptide Cove assault, and does he remember physically carrying or helping carry Harvus out after Harvus collapsed?
-3. After the failed assault, did Rak and Sho leave together for the Man's Promise? Where did they separate from Harvus and Mirei, and did Rak know Harvus planned to go back into the caves?
-4. When did Rak give Harvus Sandara's holy symbol and the magical spear: before landing, before the first assault, after the retreat, or at different times?
-5. What food, water, route information, or other supplies did Rak actually bring back or report to the Man's Promise before Arodus 5?
+1. What was Mirei trying to accomplish by hiding the alchemist's fire in the tree after the first camp?
+2. Which spell or effect did she use to entrance or disable the frogs at the broken bridge?
+3. During the first Riptide assault, what does she remember doing after receiving unconscious Sho from Rak and before calling the retreat?
+4. During the successful return, what exact support did she provide at the sea entrance, tunnel junction, and Cauldron surface beyond the preserved invisibility potion, healing, light, and message effects?
+5. Did Mirei directly see the Brinebrood Queen flee?
+6. What did Mirei understand about Sandara's consciousness when she confessed Plugg's betrayal order?
 
-### Archive handling
+### Safety handling
 
-- Treat answers as `PLAYER-MEMORY-RAK`.
-- Rak may establish what he carried, saw, reported, or intended.
-- Rak's memory should not establish Sho's private reasons for returning or Harvus and Mirei's unobserved rescue actions.
+- Hidden-flask intent remains Mirei/GM knowledge unless exposed in play.
+- Do not ask Mirei to decide Harvus's underwater initiative order.
+- Do not reveal Rak/Sho branch events she had not learned.
 
-## Sho Character Discovery — Failed Assault to Hot-Box Transition
+## Rak Character Discovery
 
-### Player-safe framing
+### Route to
 
-The archive preserves Sho fighting in the first Riptide assault and later being aboard the Man's Promise in confinement, but the transition between those states is the largest surviving Sho-side island gap.
+`questions/rak-player-narrative-beats.md`
 
-1. Does Sho remember being with the group through the full first Riptide assault, going down in the cave, and retreating with the others? What is the last clear moment she remembers inside Riptide Cove?
-2. Did Sho first see Sandara's tricorne through the stockade spyglass, on a grindylow in the cave, or not clearly enough to remember?
-3. After the retreat, did Sho return toward the Man's Promise with Rak? What did she believe Harvus and Mirei were going to do?
-4. What happened between leaving the island group and waking in or around the hot-box, including any beach or shore beating, who was present, and whether Sho reached the ship conscious?
-5. Before being confined, did Sho report the spring, food, Riptide Cove, or the failed rescue attempt to anyone aboard the Man's Promise?
+### Ask only if map / chat / inventory evidence does not resolve
 
-### Archive handling
+1. When Rak described entering through the cave where water flowed outward, was he describing current relative to the cove, the tunnel, or the open sea?
+2. Beyond the deliberately edited retrospective report, does Rak remember any specific live replies, interruptions, or demands from Scourge during the village debrief?
+3. What does Rak currently believe happened to the magical returning spear after lending it to Harvus?
+4. Did Rak know the item's returning property should have brought it back, or was its later loss unexpected even to him?
 
-- Treat answers as `PLAYER-MEMORY-SHO`.
-- Keep Sho's own injuries, route, perceptions, and report distinct from Rak's account.
-- Do not reveal the successful Harvus/Mirei rescue or Goyle's later testimony unless Sho learned it in play.
+### Do not re-ask
 
-## Suggested Capture Format for Each Discovery Chat
+- whether he participated in the first assault;
+- whether he rescued Sho;
+- whether he carried Harvus;
+- where the split occurred;
+- whether he returned with Sho;
+- what broad food, water, and route information he reported.
 
-```md
-## Bonewrack Memory Answer — <Character>
+## Sho Character Discovery
 
-### Player-Remembered Sequence
+### Route to
 
-- 
+`questions/sho-player-narrative-beats-iterated.md`
 
-### Character Knowledge
+### Ask only if direct evidence does not resolve
 
-- <Character> knew:
-- <Character> did not know / does not remember:
+1. When Sho wrote that the first cave had water flowing into it, was she describing flow into the cave from the tidal pool, flow deeper into the tunnel, or another perspective?
+2. Which male PC did Sho believe may have been bitten during the first-night undead attack?
+3. What is Sho's final clear memory after Ebony's warning, her decision to kneel, and the last blow that rendered her unconscious?
+4. Does she remember reaching the Man's Promise conscious at any point, or is her next memory already in or around the hot-box?
 
-### Uncertain or Conflicting Memory
+### Do not re-ask
 
-- 
+- whether she joined the first Riptide assault;
+- whether she went down;
+- whether Rak rescued her;
+- whether she returned with Rak;
+- why Harvus and Mirei separated from them;
+- what happened during the village beating before she lost consciousness.
 
-### GM Check Needed
+## Evidence-First Checks Before Player Follow-Up
 
-- 
+### Cave map pass
 
-### Suggested Spine Update
+Use the preserved Riptide Cove map to attempt resolution of:
 
-- 
-```
+- inflow / outflow terminology;
+- entry and retreat routes;
+- Sho's ambush position;
+- Rak's guard position;
+- Harvus's collapse point;
+- Whale approach path;
+- Queen escape route.
 
-## Highest-Value Questions If Only One Batch Is Run
+### Item-state pass
 
-- Harvus: location of the first tricorne sighting and post-failure split.
-- Mirei: her role in the successful return and intent of the hidden flask.
-- Rak: whether he carried Harvus out and how he and Sho returned to the ship.
-- Sho: the sequence from failed Riptide retreat through shore beating and hot-box confinement.
+Check sheets, inventory records, and later logs before asking about:
+
+- Rak's magical returning spear;
+- Harvus's flail;
+- Sandara's tricorne;
+- Sandara's holy symbol.
+
+### Direct-chat pass
+
+Check the village confrontation and final-session chat before asking Rak or Sho to reconstruct exact Scourge dialogue or transition timing.
+
+## Routing Status Summary
+
+| Character | Discovery ledger | Status | Highest-value remaining subject |
+|---|---|---|---|
+| Harvus | `questions/harvus-player-narrative-beats.md` | Routed; low priority after map/item review | Queen visibility and flail / Whale sequence precision |
+| Mirei | `questions/mirei-active-narrative-beats.md` | Routed; highest priority | Hidden flask intent and her exact cave support actions |
+| Rak | `questions/rak-player-narrative-beats.md` | Routed; low priority after map/chat/item review | Current-direction language and spear knowledge |
+| Sho | `questions/sho-player-narrative-beats-iterated.md` | Routed; low priority after chat review | Last conscious memory and current-direction language |
+
+Routine uncertainty may remain explicitly unresolved. None of these questions blocks the Arodus 4 chronology or issue #2 completion handoff.
