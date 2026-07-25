@@ -38,14 +38,15 @@ Historical live-session labels used Arodus 5. The objective date is corrected by
 
 This group is returning from the rescue and approaching the fork in the jungle path.
 
-Harvus carries Sandara. Goyle supports Tilly. Sandara's exact consciousness remains limited.
+Harvus carries Sandara. Goyle supports Tilly. Tilly carries Harvus's flail as her current weapon.
 
 Riptide item state:
 
-- Rak's +1 returning spear is presumed lost in the D8 Cauldron after Harvus dropped it while answering Mirei's message.
-- Harvus' flail is presumed lost in D8 after Tilly lost it during the ascent.
-- Sandara's tricorne is not confirmed recovered; the hat-wearing grindylow survived the first assault into D8, and no account records recovery.
-- Sandara's holy symbol remains last confirmed with Harvus.
+- Rak's returning spear remains at the bottom of the Cauldron.
+- Sandara's tricorne escaped with the hat-wearing grindylow and the Queen.
+- The Queen retains her returning harpoon.
+- Sandara's holy symbol remains unresolved between last-confirmed Harvus and current GM recollection favoring Sandara.
+- Nobody has returned to Riptide Cove to recover equipment or treasure.
 
 Goyle warns that Plugg and Scourge planned to eliminate troublesome PCs. Mirei has confessed that Plugg tasked her with killing or betraying the others, but she did not act on it.
 
@@ -59,6 +60,8 @@ Goyle warns that Plugg and Scourge planned to eliminate troublesome PCs. Mirei h
 Rak is guiding the recovery party sent by Master Scourge to retrieve food and water. Syl is the assigned leader and keeps Rak alive because she needs his route knowledge.
 
 The group survived the broken-bridge frog fight, passed Coconut Beach, and is approaching the same fork area. Scourge explicitly forbade them from stopping at the caverns.
+
+Rak does not yet know the outcome of the successful rescue or that his spear remains in D8.
 
 ### Bonewrack Isle — Coconut Beach
 
@@ -105,16 +108,18 @@ The relaunch begins with simultaneous split scenes:
 - Goyle says Plugg washed him and a grindylow overboard with the Tidal Cutlass.
 - Goyle warns that the PCs were expected to be killed or eliminated.
 - Sho has learned that some survivors may act against Plugg and Scourge, but Kahina's test is severe.
-- The Brinebrood Queen survived and has reason to want Harvus dead.
+- The Brinebrood Queen survived and fled with the hat-wearing grindylow after Harvus killed the Whale.
+- Mirei witnessed the grindylow flight from the Cauldron entrance.
 
 ## Knowledge Boundaries
 
 - The rescue group knows Goyle's accusation and Mirei's confession.
-- Rak's group does not know the rescue outcome or Sho/Kahina bargain.
+- Mirei witnessed the Queen and hat carrier flee.
+- Harvus does not automatically share Mirei's exact visual knowledge of the flight.
+- Rak's group does not know the rescue outcome, cave-item losses, or Sho/Kahina bargain.
 - Sho does not know the rescue outcome or Rak's inland state.
 - Plugg and Scourge's knowledge of the rescue group's survival remains unresolved.
 - Rak/Giffer culpability remains GM-only without in-game proof.
-- Queen survival is GM truth; direct witness of her escape is not automatically shared.
 
 ## Relaunch Constraint
 
