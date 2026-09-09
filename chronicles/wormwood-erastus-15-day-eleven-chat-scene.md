@@ -1,4 +1,4 @@
-# Erastus 15: The Night Shift
+# Erastus 15: The Untouched Cup
 
 ## Document Status
 
@@ -56,7 +56,7 @@ Sho took the food.
 
 The rum was another matter.
 
-She had never accepted the Wormwood's ration willingly. On other nights, she had found ways around it. A cup could be abandoned, hidden, poured away, traded into someone else's appetite, or simply forgotten when nobody with authority was watching closely enough.
+She had never willingly accepted the Wormwood's ration. On other nights, she had found ways around it. A cup could be abandoned, hidden, poured away, traded into someone else's appetite, or forgotten when nobody with authority was watching closely enough.
 
 That evening, Scourge was watching.
 
@@ -164,7 +164,7 @@ Sho's breathing broke first.
 
 Then her posture.
 
-Another stroke landed and a cry escaped before she could catch it.
+Another stroke landed, and a cry escaped before she could catch it.
 
 The sound rose beyond the voice she usually gave the ship.
 
@@ -172,9 +172,9 @@ Only for a moment.
 
 Sho heard it too.
 
-She tried to pull herself upright, tried to force her shoulders back into the familiar line and regain the careful control of her body.
+She tried to pull herself upright, tried to force her shoulders back into the familiar line, and regain the careful control of her body.
 
-The movement betrayed her in another way. Her clothing drew differently across her frame before she twisted and corrected it.
+The movement betrayed her in another way. Her clothing draped differently across her frame before she twisted and corrected it.
 
 Nothing had been exposed.
 
@@ -248,7 +248,7 @@ Rak assured her that the cooking was finished.
 
 He also assured her that the crew would like the meal.
 
-> "We have already finished cooking, brah. No worries, you will love this tonight for sure."
+> "We have already finished cooking. No worries, you will love this tonight for sure."
 
 Patch regarded that claim with open suspicion.
 
@@ -257,12 +257,6 @@ She threatened to repeat his confidence to Scourge.
 > "You want me to tell that to Scourge? I know we've not been properly introduced..."
 
 Then, as though they had reached the part of the conversation that required formality, she introduced herself.
-
-Patch.
-
-Patches.
-
-Boatswain's mate.
 
 > "I'm Patches... the Boatswain's mate."
 
@@ -276,7 +270,7 @@ He taught well with it, in her estimation.
 
 > "He teaches good with that whip, doesn't he?"
 
-> "I guess. I love dat feel, brah."
+> "I guess. I love dat feel."
 
 The remark needed no explanation that night.
 
@@ -290,13 +284,13 @@ Rak said he had.
 
 He said he always did.
 
-> "Sure did. Always do, bruh."
+> "Sure did. Always do."
 
 Whether Patch believed him was difficult to tell.
 
 She had started the exchange by threatening him with Scourge. She had praised the whip. She had tested him on the ration. None of it prevented Rak from deciding that the conversation had possibilities.
 
-> "Did you... want something? I need to sleep."
+> "Did you... want something?"
 
 He asked whether she wanted company.
 
@@ -316,11 +310,11 @@ Patch cracked her knuckles and winked.
 
 She told him he could meet her on the night shift if he wanted to test that claim.
 
-> "I'll test that then. Meet me on the night shift. Now get lost!"
+> "I'll test that then. Meet me after night shift. Now get lost!"
 
 Then she dismissed him.
 
-> "Can't wait, brah."
+> "Can't wait."
 
 Rak left with an invitation that sounded enough like a threat to suit both of them.
 
@@ -330,7 +324,7 @@ Day hands found their hammocks. Conversation below dwindled into tired voices an
 
 Sho remained against the mast.
 
-At first she kept herself upright.
+At first, she kept herself upright.
 
 Anger helped.
 
