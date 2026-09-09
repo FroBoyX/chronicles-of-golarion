@@ -3,14 +3,16 @@
 ## Document Status
 
 - Type: Relationship / perception record
-- Maturity: Draft, seeded from Sho player answers and recovered Peppery warning context
+- Maturity: Draft, seeded from Sho player answers, recovered Peppery warning context, and contemporaneous private character-page evidence
 - Scope: Sho's attraction to Peppery, Peppery's authority model, and Sho's developing restraint
-- Source basis: Sho player answers relayed by GM; current archive notes on Peppery's warning and Harrigan-side command role
+- Source basis: Sho player answers relayed by GM; `evidence/obsidian-portal/sho-astor-private-character-notes.md`; current archive notes on Peppery's warning and Harrigan-side command role
 - Spoiler scope: Character-private / GM-facing until revealed in play
 
 ## Summary
 
 Sho is somewhat smitten with Peppery Longfarthing, but the attraction is tied to more than appearance.
+
+A recovered contemporaneous private character note states that Sho **"Thought Peppery Longfarthing was attractive in a commanding kind of way."** This confirms that the attraction and its connection to authority were present during original play.
 
 Sho reads Peppery as confident, competent, mysterious, beautiful, dangerous, and not obviously malicious. Peppery becomes one of the figures who helps Sho understand that authority aboard the Wormwood is not one flat category.
 
@@ -20,11 +22,15 @@ Plugg and Scourge are cruel because they enjoy malice. Peppery is cold, but Sho 
 
 Sho is drawn to Peppery's confidence and competence.
 
+The contemporaneous note ties the attraction specifically to Peppery's **command presence** rather than merely her appearance.
+
 Peppery commands respect and seems capable of acting on anything she sets in motion. Sho sees her as mysterious and beautiful, and the player notes that Sho seems to like confident, capable women.
 
 Sho is very embarrassed by the attraction.
 
 She would likely never bring it up to anyone and would deny it strongly unless Peppery herself challenged her on it.
+
+The later player comparison to Agatha should remain proportional: Peppery lightly echoes the confident/capable-woman qualities that attract Sho, but Sho's connection to Agatha is far deeper and stronger.
 
 ## Authority Distinction
 
@@ -49,7 +55,11 @@ Sho did not sense condescension, though her inexperience may have shaped that in
 
 Sho tried to take the warning to heart by choosing when to act and trying not to be as rash.
 
+The player's later recollection frames the advice as choosing battles: do not pick up every cause, pick battles that can be won, and sometimes decline a fight so another can be fought later.
+
 This restraint later appears on the island when Scourge accuses them of betrayal and Sho has an opportunity to strike, but doing so would come at great cost.
+
+The exact survivor whose look also helped Sho hold back may still need reconstruction; do not hard-lock that part to Kahina until the Ebony/Kahina sequence is resolved from logs.
 
 ## Campaign Function
 
