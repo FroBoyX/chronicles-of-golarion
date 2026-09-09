@@ -13,7 +13,7 @@
 ## Date
 
 **Erastus 15, 4712 AR**  
-**The Night Shift**
+**The Untouched Cup**
 
 Weather: normal.
 
