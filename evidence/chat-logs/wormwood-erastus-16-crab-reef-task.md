@@ -97,6 +97,20 @@ The scene is important because it puts multiple early threads together:
 - Badger is explicitly included in this AP encounter setup.
 - Tam is used as the messenger who sends Mirei to deck.
 
+## Prior-Night Punishment Resolution
+
+The exact table-play scene that produced Sho's opening condition is absent from surviving chat. The GM has now locked the missing event in `source-spines/wormwood-erastus-15-day-eleven.md`:
+
+- Sho is caught refusing rum at dinner on Erastus 15.
+- Scourge defers punishment to Bloody Hour.
+- Bloody Hour occurs before the night-watch changeover.
+- Sho is whipped at the mast for rum refusal and defiance.
+- The intensity of the whipping briefly compromises her practiced male presentation; Harvus notices without exposing her.
+- Scourge leaves Sho shackled to the mast overnight.
+- Rak's Patch scene follows during the night-watch changeover.
+
+This is a **GM reconstruction used to close a table-play gap**, not recovered dialogue. In player-facing narrative, treat the event as canon rather than reopening the cause.
+
 ## Placement Notes
 
 The user identifies this as the morning of Erastus 16 and says it leads into the Clam AP encounter.
@@ -105,8 +119,6 @@ If Wormwood Day 1 is Erastus 5, then Erastus 16 maps approximately to Wormwood D
 
 ## Open Checks
 
-- Which exact prior punishment left Sho tied to the mast overnight?
-- Was this the same punishment as the Erastus 8 candidate rum / Sho intervention scene, or a later second whipping?
 - Was Badger selected because of a failed work check, Plugg's whim, or AP default party composition?
 - Did Harrigan truly request crabs, or did Plugg use the captain's desire as cover for dangerous work?
 - What happened during the reef / Clam encounter itself?
