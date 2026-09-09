@@ -3,10 +3,10 @@
 ## Document Status
 
 - Type: Relationship record
-- Maturity: Draft, seeded from Sho player-memory answer
+- Maturity: Draft, seeded from Sho player-memory answer and corroborated by contemporaneous private character-page notes
 - Scope: Sho's pre-Wormwood emotional anchor, future objective, and survival promise
-- Source basis: `evidence/player-memory/sho-astor-agatha-dreamriver-player-answer.md` plus existing Sho dossier backstory notes
-- Canon status: Sho-character truth / player memory. Agatha's actual response remains unplayed and unresolved unless GM truth or future play establishes it.
+- Source basis: `evidence/player-memory/sho-astor-agatha-dreamriver-player-answer.md`, `evidence/obsidian-portal/sho-astor-private-character-notes.md`, plus existing Sho dossier backstory notes
+- Canon status: Sho-character truth / player memory with strong contemporaneous corroboration. Agatha's actual response remains unplayed and unresolved unless GM truth or future play establishes it.
 
 ## Summary
 
@@ -17,6 +17,10 @@ To Sho, Agatha represents kindness, freedom, beauty, strength, and the proof tha
 Before Agatha, Sho expected to remain at the monastery forever. She did not have real goals and had not truly internalized that she was allowed to have goals.
 
 Meeting Agatha changed that.
+
+A recovered contemporaneous private character note records that Sho was **"probably in all likelihood in love with Agatha Dreamriver."** This independently supports the later player reconstruction and confirms that the romantic dimension was present during original play rather than being invented retrospectively.
+
+Because the original wording is itself hedged, preserve it as strong love / romantic evidence rather than forcing a sharper label than Sho used at the time.
 
 ## What Agatha Represented
 
@@ -84,6 +88,8 @@ Do not reduce Agatha to romance only.
 Do not treat Sho's fear of disgust as fact.
 
 Do not treat Sho's desire to see Agatha again as abandoned after the Man's Promise. The opposite is true: the promise remains active.
+
+Do not rewrite the contemporaneous "probably in love" note into certainty about how Sho consciously labeled the feeling at that exact time.
 
 ## Open Questions
 
