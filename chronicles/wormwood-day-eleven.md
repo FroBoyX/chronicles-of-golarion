@@ -3,11 +3,11 @@
 ## Document Status
 
 - Type: Narrative Write-Up
-- Maturity: **GM-locked narrative skeleton / handoff-ready**
+- Maturity: GM-approved / locked
 - Scope: Erastus 15, ordinary post-storm labor, Sho's dinner rum refusal and Bloody Hour punishment, and Rak's Patch scene during the night-watch changeover
 - Source spine: `source-spines/wormwood-erastus-15-day-eleven.md`
 - Spoiler scope: Player-safe
-- Canon status: **Event sequence and reconstructed table-play scene approved by GM. Prose may be deepened by the narrative thread without changing the locked events.**
+- Canon status: Locked current non-chat narrative
 - Date status: Locked
 
 ## Date
@@ -19,201 +19,223 @@ Weather: normal.
 
 ## Narrative Log
 
-The second clear day after the storm settled into the ordinary misery of a working ship.
+The second clear day after the storm felt less like recovery than proof that the Wormwood had moved on.
 
-The storm was behind them now. Not forgotten, but no longer allowed to excuse anything. Bruises still pulled when sailors climbed. Rope burns still opened beneath callused palms. Rosie's absence remained an empty place in the crew that nobody spoke about for long.
+The sky was open again. The wind held steady. Water rolled beneath the hull instead of breaking across the deck. After days of storm and repair, the ship had returned to the kind of weather in which every failure belonged to the sailor who made it.
 
-Work continued anyway.
+The morning bell sounded on time.
 
-Harvus worked aloft with his injured wing held close whenever the rigging allowed it. Sho hauled, scrubbed, and carried through the bruising left by the storm. Mirei returned to the labor expected of the lower crew.
+Work followed.
 
-Rak spent most of the day in the galley beside Kroop.
+Harvus went back into the rigging with his injured wing held close whenever the ropes allowed it. The damage Scourge had left him was becoming familiar now, less a fresh wound than another condition of life aboard the ship. He climbed around it because the Wormwood had no interest in whether climbing hurt.
 
-The fire behaved. Pots stayed where they were put. Knives remained on the table instead of crossing the room whenever the hull rolled. Ordinary food replaced emergency broth, and the crew once again found enough strength to complain about what they were served.
+Sho worked through a different collection of injuries. The bruising around her waist from the rescue line had darkened before beginning to fade. Her shoulders still carried the strain of being dragged through the sea, and one side remained tender from striking the hull on the way back aboard.
 
-For once, nothing tried to kill them.
+None of it earned lighter duty.
 
-By evening, the day's work had run its course.
+Mirei returned to the ordinary labor of the lower crew. The storm had left little room for music, conversation, or the small attempts at influence that had begun shaping life below decks.
 
-Dinner brought the crew together around the familiar issue of food and rum.
+Rak spent most of the day in the galley with Kroop.
+
+The work had become almost peaceful by comparison with the storm. Pots stayed where they were placed. Knives remained on the table. The fire needed feeding rather than rescuing. Food could be prepared with the expectation that it would reach a bowl instead of the deck.
+
+The crew had also recovered enough strength to complain about it.
+
+Kroop answered the complaints with the indifference of a man who had heard every possible opinion about shipboard cooking and valued none of them. Rak worked beside him, the fading rope burns across his palms still catching whenever he gripped a heavy handle.
+
+The day passed that way.
+
+Not happily.
+
+Normally.
+
+By evening, that had almost become a relief.
+
+Dinner gathered the lower crew around food and the nightly rum ration.
 
 Sho took the food.
 
-She did not take the rum.
+The rum was another matter.
 
-She had managed the same refusal before. Sometimes the ration disappeared. Sometimes no one important was looking closely enough to care.
+She had never accepted the Wormwood's ration willingly. On other nights, she had found ways around it. A cup could be abandoned, hidden, poured away, traded into someone else's appetite, or simply forgotten when nobody with authority was watching closely enough.
 
-That night Scourge was looking.
+That evening, Scourge was watching.
 
-He caught her before she could be rid of it.
+Sho had barely begun to deal with the ration when his attention settled on her.
 
-"Drink."
+He told her to drink it.
 
-Sho looked at the cup.
+Sho refused.
 
-Then at him.
+The refusal was not loud. It did not need to be.
 
-"No."
+Scourge repeated the order.
 
-There was enough noise around them that the refusal might have disappeared into the mess if Scourge had allowed it.
+Sho looked from him to the cup and challenged the sense of forcing sailors to drink something that left them dulled, sick, and easier to control.
 
-He did not.
+The noise around them began to thin.
 
-"I said drink."
+People nearby found reasons to become interested in their bowls.
 
-Sho's jaw tightened.
+Scourge did not reach for his whip.
 
-"What kind of order makes a sailor poison herself every night?"
+That made the moment worse.
 
-Conversation around them began to die.
+He could have punished her there. Instead, he let the refusal stand in front of everyone and told her the matter would be settled at Bloody Hour.
 
-Scourge smiled.
+Then he walked away.
 
-Sho knew that smile by then.
+The rum remained untouched.
 
-It meant she had given him something.
+Sho knew what was coming.
 
-He stepped closer, but he did not reach for the whip.
+Everyone close enough to hear knew what was coming.
 
-Not yet.
+She still did not drink it.
 
-"You'll have your chance to explain yourself."
+Bloody Hour came before the night watch changed over.
 
-His eyes moved toward the mast.
+The fading daylight stretched across the main deck while the crew gathered to watch the officers settle the day's offenses. There were always failures aboard the Wormwood. Someone had worked too slowly. Someone had answered badly. Someone had been caught stealing, sleeping, shirking, fighting, or simply standing where an officer had decided they should not stand.
 
-"Bloody Hour."
+That evening, the crew already knew who would matter most.
 
-Then he left her with the rum sitting untouched in front of her.
+Sho was brought to the mast.
 
-The rest of dinner tasted different after that.
+The storm bruises had not finished fading before the ship prepared to give her new ones.
 
-Everyone knew what was coming.
+Scourge made the offense plain. She had been given an order and refused it. Worse, she had questioned his right to give it.
 
-Sho knew too.
+Sho was given another opportunity to answer.
 
-She still did not drink.
+She did not apologize.
 
-Bloody Hour came before the change of watch.
+There was something almost inevitable about the decision. Sho knew what Scourge wanted from her, but knowing had never made her particularly good at giving it to him.
 
-The crew was called up while the light was fading, the officers settling the day's failures and offenses before the night hands took their stations.
+She was secured against the mast.
 
-Sho was already waiting when Scourge reached the mast.
+Scourge took up the lash.
 
-He made no effort to disguise what this was.
+The first stroke hit hard enough to drive the breath from her.
 
-She had been given an order.
+Sho pulled against the bindings, found her footing again, and lifted her head.
 
-She had refused it.
+The next came harder.
 
-Worse, she had questioned why the order existed at all.
+She held herself through that one too.
 
-For Scourge, that mattered more than the rum.
+Scourge did not hurry.
 
-He asked whether she had anything else to say.
+He understood that waiting could be part of punishment. The silence between blows gave the pain time to arrive fully before he replaced it with more. Around them, the crew watched with the practiced stillness of people who had learned that drawing attention during someone else's punishment was rarely rewarded.
 
-Sho should have known better.
+Sho endured the beginning through discipline.
 
-She probably did.
+She had spent years learning control.
 
-"I think I already said it."
+Some of that control belonged to the monastery. Breath. Posture. The separation of pain from reaction. The refusal to let an opponent decide what happened inside her simply because they could hurt the body carrying it.
 
-A few sailors looked away.
+Some of it belonged only to Sho.
 
-Scourge did not.
+The Wormwood knew her as a man because Sho worked constantly to let it.
 
-He ordered her tied to the mast.
+Loose clothing helped. So did the way she held her shoulders, how she walked, where she placed her weight, how freely she allowed herself to move. Her voice lived inside a narrow range chosen carefully enough that most people never thought to question it.
 
-The first lash landed across her back.
+The disguise was not one trick.
 
-Sho jerked against the bindings, but she stayed upright.
+It was hundreds of small decisions made without appearing to make any of them.
 
-The second came harder.
+Scourge kept striking her.
 
-She sucked in a breath through her teeth.
+Pain began taking those decisions away.
 
-Scourge paced behind her slowly enough to let the waiting become part of the punishment.
+Sho's breathing broke first.
 
-"You're going to learn something aboard this ship."
+Then her posture.
 
-The next strike snapped across her shoulders.
+Another stroke landed and a cry escaped before she could catch it.
 
-Sho's head dropped.
+The sound rose beyond the voice she usually gave the ship.
 
-She pulled herself upright again.
+Only for a moment.
 
-For most of the crew, the monk was difficult to read even at the best of times. Sho had built that deliberately. The loose clothes. The square posture. The restrained movements. The voice kept in a range that asked people not to look twice.
+Sho heard it too.
 
-Pain made that harder.
+She tried to pull herself upright, tried to force her shoulders back into the familiar line and regain the careful control of her body.
 
-Another lash landed.
+The movement betrayed her in another way. Her clothing drew differently across her frame before she twisted and corrected it.
 
-This time the sound that escaped her came before she could stop it.
+Nothing had been exposed.
 
-Higher.
+There was no sudden revelation for the deck.
 
-Sharper.
+Most of the crew were watching Scourge, the lash, or the boards beneath their feet.
 
-Not the voice the crew normally heard from her.
+Those who were watching Sho closely recognized the things she did deliberately.
 
-Sho stiffened as soon as she realized it.
+The lowered voice.
 
-She tried to recover her posture, but the movement only pulled her shirt tighter across her body for a moment before she could twist away again.
+The posture.
 
-Most of the crew were watching Scourge.
+The clothes.
 
-A few were not.
+The way they all failed together for a few seconds when the pain became too much to manage.
 
-Harvus was one of them.
+Several things that had seemed unimportant before suddenly belonged to the same answer.
 
-He said nothing.
+No one said anything.
 
-Sho did not see him looking.
+Scourge either missed it or understood it differently. What interested him was not who Sho might be beneath the presentation she had built. What interested him was that he had finally forced something uncontrolled out of her.
 
-Scourge may not have understood what had slipped. If he noticed anything at all, he seemed to take it only as proof that he had finally gotten through her defenses.
+So he continued.
 
-He struck her again.
+After that, Sho's composure returned only in pieces.
 
-After that, Sho's control became less reliable.
+She could still keep her feet most of the time.
 
-She still refused to beg.
+She could still raise her head after it fell.
 
-That was about all she had left.
+She could still refuse to beg.
 
-By the time Scourge finished, her knees were barely holding her.
+Eventually, that was almost all she could control.
 
-He stepped around the mast until she could see him.
+When Scourge finally stopped, Sho hung against the bindings with her legs shaking beneath her. Sweat and pain had stripped away most of the defiance from her face, but not enough to give him the surrender he wanted.
 
-"Still think the rum is the problem?"
+He came around the mast to look at her.
 
-Sho raised her head enough to meet his eyes.
+Sho met his eyes.
 
-Whatever answer she might have given stayed behind her teeth.
+She said nothing.
 
-Scourge looked almost disappointed.
+That seemed to irritate him more than another insult might have.
 
-Then he smiled again.
+Scourge ordered her left where she was.
 
-"Leave her."
+The punishment ended.
 
-The bindings stayed.
+The bindings did not.
 
-Bloody Hour ended around her.
+Bloody Hour dissolved around her as the day watch gave way to the night.
 
-The crew began to separate as the night watch came on.
+The change was mundane enough to make the cruelty worse.
 
-Lanterns were checked. Orders passed more quietly. Sailors disappeared below while others climbed into the rigging and took their stations beneath a darkening sky.
+Lanterns were checked and lit. Orders moved through the ship in quieter voices. Day hands disappeared below while the sailors responsible for carrying the Wormwood through darkness took their places. Riggers climbed. Deckhands checked lines. The helm changed over.
 
-Rak found Patch Patchsalt during the changeover.
+Sho remained tied to the mast while the ship rearranged itself around her.
 
-Patch greeted him with a growl.
+Rak crossed paths with Patch Patchsalt during the changeover.
 
-She recognized the cook's mate easily enough and wondered aloud whether the evening meal had been another attempt to poison the crew. Rak assured her the cooking was finished and that, for once, they might even like what they were served.
+Patch met his approach with a growl.
 
-Patch looked doubtful.
+She knew who he was. The cook's mate was difficult to mistake, especially after several days of eating what came out of Kroop's galley. She suggested that the food Rak had helped serve might have been poisoned and wondered why he was wandering around instead of working.
 
-She asked whether she should tell Scourge he had said so.
+Rak assured her that the cooking was finished.
 
-Then she introduced herself properly.
+He also assured her that the crew would like the meal.
+
+Patch regarded that claim with open suspicion.
+
+She threatened to repeat his confidence to Scourge.
+
+Then, as though they had reached the part of the conversation that required formality, she introduced herself.
 
 Patch.
 
@@ -221,81 +243,84 @@ Patches.
 
 Boatswain's mate.
 
-The title carried more weight than the name.
+The title mattered.
 
-She spoke of Scourge's whip with the casual approval of someone who believed pain was simply another part of keeping a crew in line.
+Patch belonged to the layer of the crew that lived close to authority without fully possessing it. She did not need to carry Scourge's whip to benefit from what it represented.
 
-Then she asked Rak whether he had drunk his rum.
+She spoke approvingly of his methods.
+
+He taught well with it, in her estimation.
+
+The remark needed no explanation that night.
+
+Sho was still visible at the mast.
+
+Patch then asked Rak whether he had drunk his own rum.
 
 Rak said he had.
 
 He said he always did.
 
-Patch studied him for a moment.
+Whether Patch believed him was difficult to tell.
 
-Behind them, Sho was still tied to the mast.
+She had started the exchange by threatening him with Scourge. She had praised the whip. She had tested him on the ration. None of it prevented Rak from deciding that the conversation had possibilities.
 
-Whatever Patch thought of Rak's answer, she kept it to herself.
+He asked whether she wanted company.
 
-Rak asked whether she wanted company.
+Patch's hostility shifted into something more amused without becoming safer.
 
-That changed her expression.
+She told him he could try his luck, though she warned that she had a habit of becoming stabby in her sleep.
 
-Patch warned him that she became stabby in her sleep.
+Rak suggested that his scales were hard enough to survive her.
 
-Rak suggested his scales were hard enough to survive the experience.
+Patch cracked her knuckles and winked.
 
-Patch cracked her knuckles.
+She told him he could meet her on the night shift if he wanted to test that claim.
 
-Then she winked.
+Then she dismissed him.
 
-She told him to meet her on the night shift if he wanted to test that claim.
+Rak left with an invitation that sounded enough like a threat to suit both of them.
 
-Then the watch carried her away.
+The Wormwood settled into darkness.
 
-Rak watched her go.
+Day hands found their hammocks. Conversation below dwindled into tired voices and then into sleep. Above, the night crew moved through familiar stations beneath steady canvas and a clear enough sky.
 
-The *Wormwood* quieted by degrees.
+Sho remained against the mast.
 
-The noise of the day faded into rigging creaks, muted footsteps, and the endless movement of water along the hull.
+At first she kept herself upright.
 
-Sho remained where Scourge had left her.
+Anger helped.
 
-At first she stayed upright.
+So did the stubborn certainty that if Scourge wanted to see her collapse, she could deny him that much.
 
-Then she leaned against the mast.
+The hours weakened the argument.
 
-Eventually exhaustion overcame anger.
+Her wrists hurt where the restraints carried her weight. Her back burned each time the ship shifted beneath her. Every position became painful after she held it long enough.
 
-Her head sagged forward.
+Night sailors passed her while they worked.
 
-The night crew passed her as they worked.
+Some glanced toward her.
 
-Some looked.
+Most had learned better than to stare at someone an officer had chosen as an example.
 
-Most learned not to.
+The ship continued around her.
 
-Above them, the sails carried the ship onward through the dark.
+Lines creaked.
 
-Hours passed.
+Water moved softly along the hull.
 
-The watch changed again.
+Lantern light shifted across the deck as the Wormwood rolled beneath a sky that had finally stopped trying to kill them.
 
-Sho was still there.
+As the night watch passed, Sho's head lowered.
 
-And when the first grey light began to touch the horizon, she had not yet been released.
+She forced it up once.
 
-## Narrative Thread Handoff
+Later, it fell again.
 
-This is the approved skeleton, not the final prose pass.
+Eventually, exhaustion did what Scourge's lash had not.
 
-The narrative-output thread may add narrative weight, connective tissue, sensory detail, and character interiority. It should preserve the following without alteration:
+She slumped against the mast and slept when her body allowed it, bound upright beneath the night watch.
 
-- Sho is caught refusing rum **at dinner**.
-- Scourge defers punishment to Bloody Hour.
-- Bloody Hour occurs **before** the night-watch changeover.
-- The whipping causes a subtle but notable failure in Sho's practiced gender masking.
-- Harvus notices and keeps the realization to himself.
-- Sho is left shackled to the mast overnight.
-- Rak's Patch scene occurs during the night-watch changeover after Bloody Hour.
-- The day ends with the ship settling into night around Sho, leading directly into the recovered Erastus 16 morning scene.
+The Wormwood carried her south through the dark.
+
+When the horizon began to gray, Sho was still there.
