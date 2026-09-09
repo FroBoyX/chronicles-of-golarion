@@ -230,6 +230,26 @@ Rak maintains two different reputational audiences:
 
 Fear is a tool, not the identity Rak most wants from his own people. Public brutality can become legend-building when the circumstances favor him, but covert action remains preferable when witnesses would threaten his freedom, gear, or survival.
 
+## Recovered GM / Rak-Player Kroop Notes
+
+Source provenance: screenshot supplied by the GM from historical GM / Player notes shared specifically with Rak's player. The two note boxes are labeled `GM + marshallthornton` and therefore establish player-visible information. They do not, by themselves, establish that Rak the character knew the same facts in-world.
+
+Confirmed Rak-player-visible facts from those notes:
+
+- Kroop's drinking had previously led him to bet his own life against Captain Harrigan in a card game roughly two years before the campaign.
+- Kroop lost that wager, leaving his life effectively Harrigan's to dispose of.
+- Harrigan thought very little of Kroop, but kept him alive because Kroop was still a better cook than anyone else aboard the Wormwood and Harrigan valued his cooking.
+- Kroop's favorite bird was a large black cockerel named Black-Hearted Bezebel.
+- Kroop sometimes drunkenly claimed Black-Hearted Bezebel talked to him.
+
+Evidence classification:
+
+- These facts corroborate material already present in `characters/npcs/ambrose-fishguts-kroop.md`.
+- They also establish that Rak's player had been given more context about Kroop than the recent player-memory answers alone reveal.
+- Do not reinterpret the player's recent "useful drunk" answer as ignorance of Kroop's trapped condition or competence. The player may have known those facts while Rak's own relationship to Kroop remained primarily practical.
+- Preserve **player knowledge / character knowledge unresolved** unless later evidence shows that these shared notes were intended as direct in-character knowledge.
+- Do not count the separate Adventure Path prose visible above the note boxes as Rak-player knowledge solely because it appears in the same screenshot. It is visually a different source layer and contains future-facing material.
+
 ## Later Integration Targets
 
 Eventually integrate into:
