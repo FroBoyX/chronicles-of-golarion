@@ -13,7 +13,7 @@
 
 - Date: **Erastus 15, 4712 AR**
 - Wormwood count: **Day 11**
-- Working title: **The Night Shift**
+- Working title: **The Untouched Cup**
 - Weather: normal
 - Location: **The Wormwood**, ordinary work stations, dinner, the main-deck mast during Bloody Hour, and the night-watch transition
 
@@ -163,12 +163,12 @@ This must lead cleanly into the recovered Erastus 16 opening without repeating t
 
 ## Narrative Handoff
 
-`chronicles/wormwood-day-eleven.md` now contains the GM-approved narrative skeleton for this day.
+`chronicles/wormwood-day-eleven.md` contains the GM-approved narrative for this day.
 
 The Narrative Output / Reconstruction thread may:
 
-- deepen prose, sensory detail, pacing, and transitions;
+- preserve the locked prose;
 - integrate recovered dialogue where appropriate;
-- improve narrative weight and character interiority consistent with established knowledge boundaries.
+- improve only formatting or connective metadata without altering the controlling narrative.
 
 It may **not** change the controlling event sequence, the dinner trigger, the pre-watch Bloody Hour placement, Sho's subtle gender-mask failure, Harvus noticing, Sho's overnight mast state, or the Patch scene's placement without GM approval.
