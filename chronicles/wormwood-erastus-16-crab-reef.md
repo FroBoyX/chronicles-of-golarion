@@ -2,20 +2,15 @@
 
 ## Document Status
 
-- Type: Narrative reconstruction
-- Maturity: Draft / canon-candidate
-- Scope: Morning of Erastus 16, land sighting, Plugg's crab task, reef encounter outcome, galley handoff, Rak's Harrigan reward, and night-after recovery scenes
-- Source basis: Direct chat logs for Erastus 16 crab reef task, return, and night aftermath; AP scaffold paraphrase; current character dossiers
+- Type: Narrative chat-integrated reconstruction
+- Maturity: GM-approved / locked
+- Scope: Erastus 16, land sighting, Plugg's crab task, reef encounter outcome, Harrigan's reward, night recovery, and Rak/Grok close
+- Source basis: Direct chat logs for Erastus 16 crab reef task, return, reward, and night aftermath; AP scaffold where table combat detail is missing; current character dossiers
 - Spoiler scope: Player-safe
-- Canon status: Becomes canon after GM/player sign-off
-
-## Date
+- Canon status: Locked current narrative
+- Date status: Locked
 
 **Erastus 16, 4712 AR**
-
-Approximate voyage mapping: Wormwood Day 12 if Day 1 is Erastus 5.
-
-## Setup — Land Ho
 
 Sho woke slumped and tied to the mast.
 
@@ -43,13 +38,13 @@ Sho asked to be let down if Scourge would allow it. Scourge said Plugg wanted to
 
 Then the summons widened.
 
-Scourge ordered the bloody lizard brought on deck.
+Scourge ordered the lizard brought on deck.
 
 Plugg called Harvus out of the rigging.
 
 Rak arrived in his usual voice.
 
-> "Sup brah"
+> "Sup?"
 
 Scourge unlocked Sho and told Rak he was due up there too.
 
@@ -65,7 +60,7 @@ Elsewhere, Tam "Narwhal" Tate delivered Mirei's summons.
 
 Mirei headed up.
 
-A few moments later, Plugg stood with buckets at his feet.
+A few moments later, Plugg stood with five buckets at his feet.
 
 Four had been gathered: Harvus, Rak, Sho, and Mirei.
 
@@ -87,17 +82,13 @@ Plugg gave the task plainly. They were to swim to the reef, fill each bucket wit
 
 Then came the order to drop anchor and get to work.
 
-The five jumped from the Wormwood and began swimming toward the reef, leading into the reefclaw encounter.
+The five jumped from the Wormwood and began swimming toward the reef.
 
-## AP Scaffold Context
+The reef was dangerous.
 
-The AP scaffold for this scene sends the PCs and one friendly NPC to a reef to fill crab pots for Harrigan's supper. The reef is dangerous because reefclaws live there and attack after the group reaches the coral.
+Reefclaws lived among the coral, and what had been presented as a simple errand for the captain's supper became a fight in the water.
 
-Reefclaw meat counts as enough to fill a crab pot. Bringing reefclaw meat back for Harrigan can trigger the AP reward: Harrigan returns one PC's confiscated equipment, or gives a potion if the character's gear has already been recovered.
-
-The table version follows that reward shape with Rak.
-
-## Return to the Ship
+By the time the group returned to the Wormwood, they carried both crabs and the larger creatures they had killed.
 
 The crew returned with their catches one at a time.
 
@@ -145,15 +136,13 @@ Plugg turned the delay back into discipline.
 
 > "Guess you'll have to mind that pretty mouth... to the gally."
 
-## Rak Before Harrigan
-
 After the cooking, Caulky Tarroon came to the galley. The captain wanted to know who had caught the big one.
 
 Rak identified himself.
 
 Kroop confirmed it.
 
-> "Afraid it's true lass, it's my assistance."
+> "Afraid it's true lass, it's my assistant."
 
 Caulky was not pleased that it had to be Rak, but she took him and the dinner to Harrigan.
 
@@ -161,7 +150,7 @@ She introduced him as the source of dinner.
 
 Rak greeted the cabin with his usual lack of ceremony.
 
-> "Sup bros"
+> "Sup?"
 
 Harrigan accepted the result.
 
@@ -173,11 +162,25 @@ Scourge sneered.
 
 Riaris Krine wanted the food brought on and asked whether the reefclaw had been feisty.
 
-Rak described the fight in his own way, and Caulky nearly choked at the phrasing while serving.
+> "Bring on the grub~! Was she feisty?"
+
+Caulky shook her head at Rak.
+
+> "He doesn't really say much that makes sense."
+
+Rak described the fight in his own way.
+
+> "Nah, I gave her the ol' one two like wham-bam and she went down like sploosh"
+
+Caulky cut and tasted the food, swallowed slowly, and nearly choked at the phrasing.
+
+> "...jakenape...."
 
 Riaris did not care about the strange delivery.
 
 > "Good enough for me! Dig in."
+
+Harrigan checked on Caulky, who insisted she was fine and excused herself.
 
 Harrigan reinforced the lesson for Rak.
 
@@ -201,8 +204,6 @@ Riaris reduced the matter to the practical outcome.
 
 > "Caught good food, good enough for me."
 
-## Night — Sandara Gathers the Hurt
-
 That night, Sandara found Harvus and asked how the reef had gone.
 
 She had asked Scourge if she could come with them, but he refused.
@@ -213,7 +214,7 @@ Harvus slouched before her in pain.
 
 Sandara immediately shifted from conversation to care and asked whether anyone else had been hurt.
 
-Harvus named Scourge as the blame and said Mirei had also been hurt.
+Harvus named Scourge as the culprit and said Mirei had also been hurt.
 
 > "Scourge.... that apish geck."
 
@@ -229,9 +230,9 @@ Sho had not realized Mirei had been fighting the reef creatures.
 
 > "I think I saw part of one at the bottom of the reef. Didnt know you did battle with them. Sorry I wasnt there"
 
-Sandara told them to stand still, concentrated, touched Sho and Harvus, and invoked healing or divine aid.
+Sandara told them to stand still, concentrated, touched Sho and Harvus, and invoked divine aid.
 
-Sho felt the fog in her head lessen.
+Sho felt an energy pulse through her.
 
 > "yeah, thanks, the fog in my head is lessened by quite a bit"
 
@@ -253,11 +254,9 @@ Harvus then said he suddenly felt the urge to sneak around the ship.
 
 Sandara told him good luck and not to get caught. Then she looked out to sea, touching her ebony idol.
 
-## Night — Rak and Grok at the Store
-
 At the quartermaster's store, Grok grinned at Rak.
 
-Harrigan had instructed Grok to return anything taken from Rak from ship stores, and Grok led him into the store to find what was his.
+Harrigan had instructed Grok to return anything taken from Rak from the ship stores, and Grok led him into the store to find what was his.
 
 > "So you finally decided to stop fighting it huh? Well, I always liked you."
 
@@ -273,7 +272,7 @@ The conversation quickly became flirtation. Rak asked whether she was busy tonig
 
 Grok had not heard of it, but asked whether he would teach her.
 
-Rak asked whether "he" would wake up, likely referring to Kroop, though this remains open.
+Rak asked whether "he" would wake up.
 
 Grok asked how intensive the game was.
 
@@ -283,33 +282,24 @@ Grok cracked her knuckles.
 
 > "Let's see what you got!"
 
-## What This Establishes
+Rak took her up on the challenge.
 
-- Sandara wanted to go on the reef task but Scourge blocked her.
-- Harvus, Sho, and Mirei were still suffering after the reef encounter and/or prior punishment.
-- Mirei's leg was injured by the reef creature.
-- Sho had not been in the fight with the creature Mirei fought, or at least did not realize it at the time.
-- Sandara healed or restored Sho and Harvus, and possibly assessed Mirei.
-- Sho's head-fog lessened after Sandara's aid.
-- Sandara repeated the survival rule: keep friends close.
-- Sandara was wearing the necklace Harvus gave her.
-- Sandara linked wearing/keeping the necklace to Rosie's death and said she was keeping it safe.
-- Harvus planned to sneak around after the healing scene.
-- Grok began returning Rak's confiscated gear from the store after Harrigan's order.
-- Grok already liked Rak and found him increasingly strange but cute.
-- The Rak/Grok relationship escalated into an explicitly sexual or flirtatious night setup.
+Whatever possessions Harrigan had ordered returned could wait until morning. Grok led him away from the quartermaster's store and, before long, Rak retired with her to her bed.
 
-## Open Checks
+The Wormwood settled around them.
 
-- Which exact prior punishment left Sho tied to the mast overnight?
-- Was that punishment the Erastus 8 candidate rum / Sho intervention scene, or a later second whipping?
-- Why did Plugg choose Badger as the fifth?
-- Did Harrigan truly request crabs, or did Plugg use the captain's desire as cover?
-- Did Grok immediately return all of Rak's confiscated equipment?
-- Which items did Rak actually receive back?
-- Was the "big one" one reefclaw or both reefclaws?
-- What happened to Badger during the reef fight?
-- Which spell or healing effect did Sandara use that night?
-- Did Sandara heal Mirei directly?
-- What did Harvus do while sneaking around afterward?
-- Who was Rak worried might wake up during the Grok scene?
+The night watch moved across the deck overhead. Sailors climbed through the rigging. Hammocks shifted below. Timber creaked with the slow movement of the sea.
+
+For a while, another rhythm joined it.
+
+A muffled thump sounded through the deck.
+
+Then another.
+
+The boards creaked beneath Grok's quarters with considerably less regard for the ship's usual rhythm.
+
+Anyone awake nearby was left to make of it what they would.
+
+Rak and Grok's game of slap and tickle continued well into the night.
+
+Around them, the Wormwood sailed on.
