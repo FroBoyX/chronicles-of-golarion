@@ -52,8 +52,10 @@ This is not missing evidence and should not be "repaired."
 - Preserve Riaris as aggressively profane in cadence and delivery.
 - When direct dialogue is reconstructed or recovered with profanity omitted, use visible redaction as part of the voice.
 - If an original recovered line contains the table's actual redaction pattern, preserve that exact pattern.
-- If no exact line survives and a new line must be reconstructed, use `[REDACTED]` or an equivalent clear censor mark where the profanity would have been rather than inventing specific swear words.
+- If no exact line survives and a new line must be reconstructed, use `[expletive deleted]` where the profanity would have been rather than inventing specific swear words.
 - Some lines may legitimately become comically over-redacted. That is faithful to the table rather than a formatting error.
+- For Discord output, render the censor phrase as a spoiler where practical: `||[expletive deleted]||`. This preserves the table joke while making the redaction visually interactive.
+- Do not hide whole Riaris sentences behind spoilers. Only the censored profanity phrase should be spoilered, so the sentence remains readable and the density of censorship is visible.
 - Do not sanitize Riaris into merely "gruff" or "stern." The joke only works because everyone understands that a torrent of profanity is present beneath the censorship.
 - Do not fill the redactions back in from AP wording, modern phrasing, or model invention.
 - Do not turn the redactions into narrator commentary every time. Let the visual absence itself carry the joke when possible.
@@ -62,7 +64,7 @@ This is not missing evidence and should not be "repaired."
 
 A reconstructed Riaris line may look like:
 
-> "Get that [REDACTED] hook over the [REDACTED] rail before I [REDACTED] throw you after it."
+> "Get that [expletive deleted] hook over the [expletive deleted] rail before I [expletive deleted] throw you after it."
 
 The specific wording above is only an illustration of treatment, not recovered canon dialogue.
 
