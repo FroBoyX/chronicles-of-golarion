@@ -5,9 +5,9 @@
 - Type: Source spine
 - Maturity: Working reconstruction / evidence assembly
 - Scope: Erastus 19 / Wormwood Day 14, Riaris Krine's boarding and defensive drills, the rum-confession escalation, broad mast punishment, and the night aftermath
-- Source basis: `evidence/raw-session-logs/mirei-player-cache/session-12-to-16-missing-summary.md`, `chronology/late-wormwood-to-arodus-5-bridge.md`, PC Day 12-16 addenda, the GM-supplied AP `Day 14: Boarding School` encounter text, and GM table-memory clarification regarding Riaris Krine's censored profanity
+- Source basis: original Session 3 MapTool chat log (`Chat for session 3.html`, recovered by GM), the GM-supplied AP `Day 14: Boarding School` encounter text, `chronology/late-wormwood-to-arodus-5-bridge.md`, PC Day 12-16 addenda, and GM table-memory clarification regarding Riaris Krine's censored profanity
 - Spoiler scope: Player-safe only after narrative rendering and knowledge filtering
-- Canon status: Date placement and major event sequence are supported. Exact dialogue remains partly unrecovered. Riaris profanity-redaction behavior is GM-confirmed table history and must be preserved as such.
+- Canon status: Date placement, encounter sequence, and substantial direct dialogue are now controlled by the recovered Session 3 table log. Riaris' actual profanity remains intentionally unavailable because the GM deleted it at the table; the visible deletion pattern is itself primary evidence.
 
 ## Date / Encounter Identity
 
@@ -18,24 +18,36 @@
 
 ## Controlling Day Facts
 
-1. Riaris Krine runs boarding training involving Mirei, Sho, Rak, Harvus, and other crew including Shivikah and Tam Tate.
-2. Mirei participates as the bard / performer and struggles with grappling or boarding tasks before achieving at least one successful throw or hit.
-3. Rak performs well as a thrower but poorly enough in other portions of the drill that he is not exempt from the later failure finding.
-4. Harvus struggles, with his damaged wing materially affecting his boarding performance.
-5. Sho performs best overall and is the only participant Riaris later identifies as not having failed.
-6. Riaris follows the boarding work with a defensive / blocking drill about surviving while outnumbered rather than trying to beat everyone alone.
-7. Scourge arrives and asks how they did.
-8. Riaris reports that everyone but the monk failed.
-9. Scourge broadens the moment into discipline over both training failure and rum refusal.
-10. Mirei confesses that she avoided her rum ration and receives a reduced but still severe punishment.
-11. The punishment expands into a broad mast scene involving multiple PCs.
-12. Mirei is badly lashed and reaches dying / near-death condition in the macro record.
-13. Harvus' rage slips under provocation; he insults Scourge, is punished by Plugg, and later receives additional lashes when Scourge notices the punishment was incomplete.
-14. Sho is also punished and later wakes to find others still down around the mast.
-15. Peppery Longfarthing prevents Sho from openly checking the punished crew but does not report every act of defiance.
-16. Sho briefly checks Mirei while Peppery turns away.
-17. Slippery Syl appears with a dagger and threatens to report Sho.
-18. Patch Patchsalt arrives, limiting further escalation.
+1. At the duty bell, Riaris Krine calls **four trainees** from the new hands: Sho, Rak, Mirei, and Harvus.
+2. Riaris takes Harvus ("Birdman") and Mirei ("bard") out for direct instruction; Tam "Narwhal" Tate instructs Sho and Rak from the ship side.
+3. Shivikah and Narwhal are not additional trainees in this table implementation. They are part of the ship-side throwing/instruction field and turn the exercise into a one-gold-per-knockoff betting game. Sho initially refuses to join the game.
+4. The AP supplies the physical scaffold: grappling hooks, a skiff/jolly boat roughly forty feet out, rope crossing, and shipboard throwers using junk, rotten food, bottles, buckets, and bilgewater to knock boarders into the sea.
+5. Harvus comes close but is knocked off; his damaged wing becomes a direct target of Riaris' criticism. He later tells her to take the broken wing up with Scourge.
+6. Mirei struggles badly enough to apologize and eventually flops onto the deck exhausted. Riaris tells her to keep to songs. Mirei nevertheless later lands at least one successful throw and calls out, "Got him!"
+7. Rak struggles with climbing but proves exceptionally effective as a thrower. He nearly knocks Riaris off during her own demonstration; she praises his arm and promises an extra portion if he throws that well in combat.
+8. Sho initially resists throwing at people she regards as friends. Narwhal and Shivikah argue that real boarding will not spare them and that helping friends means not babying them. Sho accepts the logic, participates, and is ultimately the only trainee Riaris later says did not fail.
+9. Riaris demonstrates the boarding herself after becoming frustrated with the trainees and survives Rak's throws, though he nearly knocks her loose.
+10. After boarding, Riaris asks who actually has combat experience and explains that in a real boarding action the goal is to stay alive, not rush ahead and defeat everyone alone.
+11. Riaris begins setting up an active-defense / blocking exercise, explaining defense, blocking, and looking for a counter-opening. **The table log shows Scourge arriving almost immediately after the setup; do not invent a completed blocking-drill sequence unless another source establishes one.**
+12. Scourge asks how the trainees did. Riaris answers: "Everyone but the monk...." and leaves.
+13. Scourge assigns three lashes apiece for the training failures, then immediately raises the separate issue of two crew seen avoiding rum.
+14. Mirei confesses that she did not want to drink the prior night. Scourge promises to halve her punishments because she confessed.
+15. Rak initially denies it, then later accepts confession if it will end the scene. Scourge responds by making Kroop responsible for Rak's future rum, threatening Kroop if Rak fails, and ordering Rak two rum rations for the rest of the trip.
+16. Sho tries to remain silent. Scourge defines silence after a direct question as insubordination. Sho breaks silence to protest punishment for "doing nothing at all."
+17. Harvus draws Scourge away from Sho by insulting him, first in Common and then in Strix while falsely claiming the Strix word meant "master." Syl quietly urges him to slip up.
+18. Six crew are at the mast in the punishment sequence: **Sho, Rak, Harvus, Mirei, Barefoot Samms Toppin, and Crimson Cogward.**
+19. Fipps takes Sho, Shivikah takes Rak, Narwhal takes Harvus, and Slippery Syl takes Mirei to the mast.
+20. Plugg uses the cat on Sho and Harvus. Sho collapses while Plugg mocks the missing "tough girl." Plugg gives Harvus a prolonged lesson in Shackles customs, language, and the meaning of the cat.
+21. Crimson says he only spilled his rum and takes three lashes.
+22. Scourge handles Mirei, calling her "puppet," warning that they would hate to lose her voice, and explicitly reminding her that her confession halved the punishment. The macro record later shows her dropping below zero HP.
+23. Scourge punishes Samms for not drinking and then talking back.
+24. Scourge punishes Rak, shifts leverage onto Kroop, doubles Rak's future rum ration, and adds the boarding-failure lashes.
+25. Scourge later notices Harvus did not receive the training-failure lashes and adds them after Plugg's punishment. Harvus collapses when the crew are unchained.
+26. Scourge orders the punished crew unchained and forbids anyone from approaching the mast on pain of whipping.
+27. Sho later wakes. Peppery orders her below, says she does not care what Sho did, and explicitly refuses to feed Plugg's "thuggish attitude," while warning Sho not to force Peppery to protect her.
+28. Sho asks whether the people at the mast live and repeatedly asks to check at least one. Peppery refuses open permission but says she will not report Sho's repeated insubordination, then turns away and leaves aft for a moment.
+29. Sho uses the opening to check Mirei.
+30. Syl drops to the deck with a dagger and says she will tell Plugg in the morning. Patch Patchsalt arrives with "We got a problem?" Sho and Syl both de-escalate, and Sho goes below.
 
 ## Riaris Krine Voice / Redaction Lock
 
@@ -90,30 +102,32 @@ Use these details as encounter texture, not as a requirement to narrate every di
 
 ## Boarding Drill
 
-Recovered cache establishes:
+Recovered Session 3 table log establishes:
 
-- Riaris calls several PCs and crew forward for boarding training.
-- Mirei jokes about learning about "hooking."
-- Mirei struggles and apologizes after a poor showing.
-- Mirei later succeeds at least once and calls out that she got her target.
-- Riaris ultimately tells Mirei to keep to songs.
-- Rak has a strong throwing arm and later receives praise for it.
-- Harvus' broken wing hurts his performance.
-- Sho adapts best to the drill's harsh practical logic.
-- Shivikah and Tam Tate also participate.
+- The four trainees are Sho, Rak, Mirei, and Harvus.
+- Riaris takes Harvus and Mirei out herself; Narwhal handles Sho and Rak from the ship side.
+- Mirei's "*learns about 'hooking'*" is a player/table aside. It can be rendered lightly but should not be expanded into an invented full dialogue exchange unless the GM wants one.
+- Shivikah starts the one-gold knockoff wager with Rak. Narwhal participates in the banter and scoring.
+- Sho initially refuses to join the throwing game, then accepts Narwhal's argument that real boarding will not baby friends.
+- Harvus is knocked off after coming close; the table explicitly identifies Rak's bucket as what did it.
+- Riaris becomes frustrated enough to demonstrate the crossing herself. Rak nearly knocks her loose, earning direct praise for his throwing arm.
+- Mirei struggles, apologizes, is told Riaris expected more promise, later flops onto the deck, and is told to keep to songs.
+- Harvus' broken wing is explicitly mocked by Riaris; Harvus tells her to take it up with Scourge.
+- Sho ultimately proves the only trainee Riaris does not count as a failure.
+- Mirei later lands a throw and says "Got him!" after Riaris has already despaired of the group's performance.
 
-The drill should feel practical, physical, humiliating, and darkly funny before the later punishment changes the emotional register.
+The drill should feel practical, physical, humiliating, and genuinely funny before Scourge turns the day hard. Preserve the betting argument, Sho's reluctance, Rak's throwing success, and Riaris' increasingly censored frustration as table texture.
 
 ## Defensive / Blocking Drill
 
 After the boarding work:
 
-- Riaris asks who has combat experience.
-- Mirei admits she has little.
-- Riaris explains that boarding combat is about staying alive, especially when outnumbered.
-- She emphasizes active defense, blocking, and waiting for an opening rather than trying to defeat everyone alone.
-- Scourge interrupts or arrives after the exercise and asks for results.
-- Riaris says everyone but Sho / the monk failed.
+- Riaris asks who has combat experience. Sho, Rak, Shivikah, Syl, Harvus, and others answer in varying degrees; Mirei says "Not much..."
+- Riaris explains that if they take a ship she needs them alive, and that they should not simply rush forward trying to beat everyone themselves.
+- She orders them to line up, then begins explaining an active-defense / blocking exercise: defend when overwhelmed, block, and look for an opening to counter.
+- The log reaches "Now, aft line... you're going to defend yourself," after which Scourge immediately appears and asks how the ingrates did.
+- **Do not narrate a completed blocking drill.** The surviving table record supports its setup and lesson, not a full exercise.
+- Riaris answers Scourge: "Everyone but the monk...." and walks away.
 
 ## Discipline Escalation
 
@@ -166,13 +180,12 @@ Once Scourge turns training failure into punishment, the comedy should fall away
 
 ## Open Reconstruction Questions
 
-- Exact work assignments before Riaris calls the training group.
-- Exact order of individual boarding attempts.
-- Exact original Riaris dialogue and exact redaction patterns, if the raw chat can be recovered.
-- Exact participant count beyond the confirmed named group.
-- Exact number of lashes assigned to each person and whether all were fully delivered before Scourge's later correction.
-- Exact physical arrangement of the punished crew at the mast overnight.
-- Exact timing of Peppery's intervention relative to watch change.
+- The AP provides the encounter mechanics, but the table log does not preserve every die roll or every exact climb/throw attempt in an easily readable order. Narrate only the sequence that is supported by the visible exchanges rather than reconstructing every mechanical round.
+- The first Riaris duty-bell line is partially corrupted by failed MapTool macro expansion. Its surviving intent and selected trainees are clear, but its exact surface wording is not.
+- The actual profanity behind every Riaris deletion is intentionally unrecoverable. Preserve one deletion marker per deleted word/token where the log makes the count visible.
+- Exact damage/lash arithmetic should not be reverse-engineered from HP macros into prose unless needed. The dialogue/action record gives the punishment sequence more reliably than the macro damage rolls.
+- Exact physical arrangement of all six punished crew around the mast is not explicit.
+- Exact watch-change minute is not explicit; Peppery is clearly acting as night-watch authority when Sho wakes.
 
 ## Do Not Reintroduce Superseded Handling
 
