@@ -5,7 +5,7 @@
 - Type: Source spine
 - Maturity: Working reconstruction / evidence assembly
 - Scope: Erastus 19 / Wormwood Day 14, Riaris Krine's boarding and defensive drills, the rum-confession escalation, broad mast punishment, and the night aftermath
-- Source basis: `evidence/raw-session-logs/mirei-player-cache/session-12-to-16-missing-summary.md`, `chronology/late-wormwood-to-arodus-5-bridge.md`, PC Day 12-16 addenda, and GM table-memory clarification regarding Riaris Krine's censored profanity
+- Source basis: `evidence/raw-session-logs/mirei-player-cache/session-12-to-16-missing-summary.md`, `chronology/late-wormwood-to-arodus-5-bridge.md`, PC Day 12-16 addenda, the GM-supplied AP `Day 14: Boarding School` encounter text, and GM table-memory clarification regarding Riaris Krine's censored profanity
 - Spoiler scope: Player-safe only after narrative rendering and knowledge filtering
 - Canon status: Date placement and major event sequence are supported. Exact dialogue remains partly unrecovered. Riaris profanity-redaction behavior is GM-confirmed table history and must be preserved as such.
 
@@ -53,6 +53,8 @@ This is not missing evidence and should not be "repaired."
 - When direct dialogue is reconstructed or recovered with profanity omitted, use visible redaction as part of the voice.
 - If an original recovered line contains the table's actual redaction pattern, preserve that exact pattern.
 - If no exact line survives and a new line must be reconstructed, use `[expletive deleted]` where the profanity would have been rather than inventing specific swear words.
+- Each omitted profanity word gets its own marker. If the missing profanity is two or more words, render multiple consecutive markers, e.g. `[expletive deleted] [expletive deleted]`, rather than treating the whole phrase as one deletion.
+- The GM explicitly authorizes embellishing reconstructed Riaris dialogue around the deletions. Her syntax, threats, insults, and cadence may be expanded to make the scene read naturally and preserve her vile-tongued personality, but the actual censored words must remain unrecovered.
 - Some lines may legitimately become comically over-redacted. That is faithful to the table rather than a formatting error.
 - For Discord output, render the censor phrase as a spoiler where practical: `||[expletive deleted]||`. This preserves the table joke while making the redaction visually interactive.
 - Do not hide whole Riaris sentences behind spoilers. Only the censored profanity phrase should be spoilered, so the sentence remains readable and the density of censorship is visible.
@@ -67,6 +69,24 @@ A reconstructed Riaris line may look like:
 > "Get that [expletive deleted] hook over the [expletive deleted] rail before I [expletive deleted] throw you after it."
 
 The specific wording above is only an illustration of treatment, not recovered canon dialogue.
+
+
+## AP Boarding School Scaffold
+
+The GM-supplied AP encounter provides the physical structure for the daytime scene and may be used directly as narrative scaffolding where the recovered table cache is silent:
+
+- The selected hands are excused from normal work for the day.
+- Riaris has the jolly boat launched at dawn.
+- She trains two people at a time from roughly forty feet off the Wormwood.
+- Each trainee must throw a grappling hook onto the rail, secure the line, and cross back to the ship along the rope.
+- Four sailors aboard the Wormwood throw harmless but disruptive junk at the boarders: rotting food, garbage, empty bottles, and buckets of bilgewater.
+- A struck climber can lose grip and fall into the sea.
+- Anyone who fails to make it back repeats the attempt alone while all four throwers concentrate on that person.
+- Riaris allows up to three attempts before declaring that the lesson has been delivered whether or not the trainee has mastered it.
+- Anyone knocked off all three times may receive six rope bashes after the exercise.
+- The best performer is marked as the future boarding-party lead. In the reconstructed table state, this role belongs to Sho.
+
+Use these details as encounter texture, not as a requirement to narrate every die roll or reproduce the AP's rules text.
 
 ## Boarding Drill
 
