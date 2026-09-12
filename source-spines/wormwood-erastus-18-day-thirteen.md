@@ -13,7 +13,7 @@
 
 - Date: **Erastus 18, 4712 AR**
 - Wormwood count: **Day 13**
-- Working title: **TBD**
+- Working title: **Things Kept Quiet**
 - Weather: **heat wave, second day**
 - AP mechanical note: save DCs against fatigue are increased by +2 during Wormwood Days 12-13
 - Primary locations: ordinary work stations, rigging / rigger traffic with Samms, middle hold around Owlbear, a private-enough shipboard space for Harvus and Sho to speak, the officer-quarter threshold during Harvus' later exploration, and lower-hold evening leisure
@@ -117,6 +117,30 @@ Narrative function:
 - continue the Erastus 17 theme of sideways crew relationships;
 - give Harvus a positive social success before his tactless private exchange with Sho;
 - seed Samms as a familiar, competent rigger who will matter later.
+
+### GM-approved reconstructed Samms exchange
+
+The exact Day 13 conversation is not recovered. The following short exchange is the approved narrative reconstruction, informed by Samms' later direct dialogue with Harvus, where she is practical, worried, and plainspoken rather than aphoristic:
+
+> "You lot draw his eye too much."
+
+Harvus:
+
+> "You lot?"
+
+Samms:
+
+> "You know exactly what I mean."
+
+After returning to the line, Samms adds:
+
+> "Just saying. You should be more careful."
+
+Harvus nods:
+
+> "Noted."
+
+This replaces the earlier reconstructed line `Doesn't mean I think he should have it.` Do not reintroduce that wording.
 
 ## Sho / Owlbear Thread
 
