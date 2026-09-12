@@ -58,19 +58,20 @@ This bridge consolidates the Mirei player-cache summaries, the current handoff /
 - Sho invites Mirei to dinner and privately checks on how she is doing.
 - Sho tells Mirei she has spoken with Owlbear and thinks he may be sad and lonely rather than simply bad.
 - Mirei and Sho discuss the value of making friends aboard the Wormwood.
-- Rak joins Tilly for drinking; Mirei joins the contest with Harvus contributing coin for her buy-in.
-- Mirei later passes out during the drinking contest.
+- The already-published narrative retains its first Rak / Tilly drinking contest as canon.
+- The fuller Session 3 Tilly / Rak contest dialogue originally logged under Day 12 is **not** duplicated here. By GM canon decision, that portable dialogue is resequenced to a later post-boarding drinking rematch.
 
-**Merge impact:** Safe placement for Sho/Mirei confidante material, Rak/Tilly drinking setup, and Harvus small-support beat. Do not use this as proof of stable party unity; it is still press-ganged-crew survival behavior.
+**Merge impact:** Safe placement for Sho/Mirei confidante material and the first published Rak/Tilly social drinking beat. Do not backfill the recovered Session 3 contest dialogue into this day; preserve it for the later rematch.
 
 ### Erastus 18, 4712 AR — Wormwood Day 13
 
 **Placement:** Sho secrecy / Owlbear thread.
 
-- Sho continues speaking with Owlbear and frames him as more than a side show.
+- Sho continues speaking with Owlbear in the already-published narrative.
 - Harvus tells Sho he has deduced that she is a woman and agrees to keep the secret quiet.
+- The recovered Session 3 `side show / wishes / bring food next time` Owlbear exchange is **not** forced back into this published day. By GM canon decision, that dialogue is resequenced to a later post-boarding Owlbear progression scene.
 
-**Merge impact:** Use for Sho/Harvus knowledge boundary. Mirei had already noticed related evidence earlier, but this scene specifically establishes Harvus' direct knowledge and promise.
+**Merge impact:** Use for Sho/Harvus knowledge boundary. Mirei had already noticed related evidence earlier, but this scene specifically establishes Harvus' direct knowledge and promise. Preserve the recovered Owlbear dialogue for its later progression placement rather than duplicating it here.
 
 ### Erastus 19, 4712 AR — Wormwood Day 14
 
@@ -116,8 +117,9 @@ This bridge consolidates the Mirei player-cache summaries, the current handoff /
 - Mirei and Sho privately check in about recovery and friend-making.
 - Mirei performs with a strong roll.
 - Sho tries to speak to Peppery while Peppery is on duty. Peppery warns her that some officers lack Peppery's patience and that discipline will be taught by the whip if Sho does not learn it first.
+- **GM canon resequencing:** Sho has a further conversation with Owlbear using the recovered Session 3 `side show / wishes` dialogue. It should read as progress from the earlier published conversations, not as a first meeting. Owlbear ends by asking Sho to bring food next time, providing a direct bridge into the following day's food visit.
 
-**Merge impact:** Day 16 is a bridge / overlap day, not two separate chronology days. Use it to connect the mast-punishment aftermath to the later social-contamination arc.
+**Merge impact:** Day 16 is a bridge / overlap day, not two separate chronology days. Use it to connect the mast-punishment aftermath to the later social-contamination arc. The resequenced Owlbear scene is a deliberate GM chronology adjustment from the Session 3 day label.
 
 ### Erastus 22, 4712 AR — Wormwood Day 17
 
@@ -131,10 +133,12 @@ This bridge consolidates the Mirei player-cache summaries, the current handoff /
 - Mirei approaches Conchobhar after a performance; he says he likes her but that she hangs around the monk and he does not want association with the PCs.
 - Sandara tells Harvus that people are beginning to avoid association with Harvus and Sho because of the attention they drew.
 - Mirei makes friendly contact with Ratline.
-- Sho brings food to Owlbear; Owlbear warns her to be careful with her words and explains biding time.
+- Sho brings food to Owlbear; this now pays off his resequenced prior-day request that she bring food next time. Owlbear warns her to be careful with her words and explains biding time.
 - Rak and Tilly continue a gambling / arm-wrestling thread with Crimson Cogward.
+- **Second drinking competition / rematch:** later in the social span, Rak and Tilly organize another drinking contest. Use the recovered Session 3 contest dialogue directly where portable: Tilly challenges Rak to drink, hints at acquiring coin from crew lockers, Rak admits he is not stealthy, Grok backs Rak and supplies the rum, Mirei asks to join, Harvus pays into the pot `For the Aasimar`, Tilly states the buy-in and last-one-standing rules, Mirei passes out, and Tilly drunkenly tells Rak that he owes her but she likes him and he is a good lizard. This is a GM-authorized resequencing of dialogue originally logged under Day 12, not a claim that the raw day label was Day 17.
+- The rematch may flow naturally into or alongside the existing gambling / arm-wrestling thread rather than becoming a separate social faction.
 
-**Merge impact:** This is the correct placement for the social-contamination arc: visible closeness to Sho / the PCs begins to cost Mirei access to otherwise receptive crew.
+**Merge impact:** This is the correct placement for the social-contamination arc: visible closeness to Sho / the PCs begins to cost Mirei access to otherwise receptive crew. The drinking rematch also restores recovered Tilly/Rak table voice without rewriting the already-published Erastus 17 entry.
 
 ### Erastus 23, 4712 AR — Wormwood Day 18
 
